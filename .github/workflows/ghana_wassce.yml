@@ -1,0 +1,45 @@
+name: Run Ghana WASSCE Generator
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Runs automatically every 6 hours
+  workflow_dispatch: # Allows manual trigger from Actions tab
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write # Needed so the workflow can commit and push generated JSON files
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install aiohttp
+
+      - name: Configure Git Identity
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Run WASSCE Generator Script
+        run: |
+          python Country/ghana/WASSCE.py
+
+      - name: Commit and Push generated JSON files (Fallback)
+        if: always()
+        run: |
+          git add "Country/ghana/WASSCE for School Candidates/*" || echo "No new files to add"
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-generated Ghana WASSCE questions [skip ci]"
+          git push origin main

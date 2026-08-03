@@ -8,7 +8,7 @@ import re
 # ==========================================
 # CONFIGURATION
 # ==========================================
-BASE_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "db", "ghana", "exam", "WASSCE for School Candidates")
+BASE_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "WASSCE for School Candidates")
 TOPICS_DIR = os.path.join(BASE_DIR, "subject_topic")
 
 API_KEYS = [
@@ -259,6 +259,7 @@ async def generate_for_subject_year_type(session, subject, year, exam_type, targ
                 order_idx += 1
 
             # Save instantly to Disk
+            os.makedirs(os.path.dirname(target_file), exist_ok=True)
             with open(target_file, "w", encoding="utf-8") as f:
                 json.dump(final_data, f, indent=4)
                 

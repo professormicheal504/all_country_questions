@@ -34,6 +34,8 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: Run WASSCE Generator Script
+        env:
+          PYTHONUNBUFFERED: "1"
         run: |
           python Country/ghana/WASSCE.py
 

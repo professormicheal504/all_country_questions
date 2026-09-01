@@ -1,0 +1,432 @@
+{
+    "50731": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "ICT Basics",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Which of the following best describes the primary purpose of Information and Communication Technology (ICT)?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The primary purpose of ICT is to facilitate the <b>processing, storage, and exchange</b> of information using electronic systems. This includes technologies like computers, networks, and software that enable communication and data management.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "89141",
+                "tag": "a",
+                "text": "To design hardware components only",
+                "is_correct": false
+            },
+            {
+                "option_id": "73361",
+                "tag": "b",
+                "text": "To process, store, and exchange information electronically",
+                "is_correct": true
+            },
+            {
+                "option_id": "81097",
+                "tag": "c",
+                "text": "To create physical networks only",
+                "is_correct": false
+            },
+            {
+                "option_id": "25335",
+                "tag": "d",
+                "text": "To develop programming languages exclusively",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "50732": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Computer Types",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Which type of computer is designed to perform complex calculations at high speeds and is typically used in scientific research?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Supercomputers</b> are designed for high-speed calculations and are used in fields like weather forecasting, nuclear research, and quantum mechanics. They are the most powerful type of computer in terms of processing capacity.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "89142",
+                "tag": "a",
+                "text": "Microcomputer",
+                "is_correct": false
+            },
+            {
+                "option_id": "73362",
+                "tag": "b",
+                "text": "Supercomputer",
+                "is_correct": true
+            },
+            {
+                "option_id": "81098",
+                "tag": "c",
+                "text": "Minicomputer",
+                "is_correct": false
+            },
+            {
+                "option_id": "25336",
+                "tag": "d",
+                "text": "Mainframe computer",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "50733": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Hardware Components",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Which hardware component is responsible for temporarily storing data and instructions that the CPU needs to access quickly?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>Random Access Memory (RAM)</b> is a volatile memory component that temporarily stores data and instructions for quick access by the CPU. It loses its content when the computer is powered off.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "89143",
+                "tag": "a",
+                "text": "Hard Disk Drive (HDD)",
+                "is_correct": false
+            },
+            {
+                "option_id": "73363",
+                "tag": "b",
+                "text": "Random Access Memory (RAM)",
+                "is_correct": true
+            },
+            {
+                "option_id": "81099",
+                "tag": "c",
+                "text": "Read-Only Memory (ROM)",
+                "is_correct": false
+            },
+            {
+                "option_id": "25337",
+                "tag": "d",
+                "text": "Central Processing Unit (CPU)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "50734": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Number System Conversion",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Convert the binary number $1011_2$ to its decimal equivalent.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The binary number $1011_2$ is converted to decimal as follows:<br>$1 \\times 2^3 + 0 \\times 2^2 + 1 \\times 2^1 + 1 \\times 2^0 = 8 + 0 + 2 + 1 = 11_{10}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "89144",
+                "tag": "a",
+                "text": "$9_{10}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "73364",
+                "tag": "b",
+                "text": "$11_{10}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "81100",
+                "tag": "c",
+                "text": "$13_{10}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "25338",
+                "tag": "d",
+                "text": "$15_{10}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "50735": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Network Types",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Which type of network connects computers within a limited geographical area such as a school or office building?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>Local Area Network (LAN)</b> is designed to connect computers and devices within a limited area, such as a school, office, or building. It enables resource sharing like printers and files.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "89145",
+                "tag": "a",
+                "text": "Wide Area Network (WAN)",
+                "is_correct": false
+            },
+            {
+                "option_id": "73365",
+                "tag": "b",
+                "text": "Local Area Network (LAN)",
+                "is_correct": true
+            },
+            {
+                "option_id": "81101",
+                "tag": "c",
+                "text": "Metropolitan Area Network (MAN)",
+                "is_correct": false
+            },
+            {
+                "option_id": "25339",
+                "tag": "d",
+                "text": "Personal Area Network (PAN)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "50736": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Cybersecurity Threats",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Which of the following is an example of a <i>social engineering</i> attack?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Phishing</b> is a type of social engineering attack where attackers deceive users into revealing sensitive information, such as passwords or credit card numbers, by pretending to be a trustworthy entity.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "89146",
+                "tag": "a",
+                "text": "Denial-of-Service (DoS) attack",
+                "is_correct": false
+            },
+            {
+                "option_id": "73366",
+                "tag": "b",
+                "text": "Phishing",
+                "is_correct": true
+            },
+            {
+                "option_id": "81102",
+                "tag": "c",
+                "text": "Malware infection",
+                "is_correct": false
+            },
+            {
+                "option_id": "25340",
+                "tag": "d",
+                "text": "Brute-force attack",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "50737": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Logic Gates",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Which logic gate produces an output of <b>1</b> only when all its inputs are <b>0</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>NOR gate</b> is a combination of an OR gate followed by a NOT gate. It produces an output of <b>1</b> only when all its inputs are <b>0</b>. Otherwise, the output is <b>0</b>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "89147",
+                "tag": "a",
+                "text": "AND gate",
+                "is_correct": false
+            },
+            {
+                "option_id": "73367",
+                "tag": "b",
+                "text": "NOR gate",
+                "is_correct": true
+            },
+            {
+                "option_id": "81103",
+                "tag": "c",
+                "text": "NAND gate",
+                "is_correct": false
+            },
+            {
+                "option_id": "25341",
+                "tag": "d",
+                "text": "XOR gate",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "50738": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Spreadsheet Tools",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>In a spreadsheet, which function is used to find the <i>average</i> of a range of cells?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>AVERAGE</b> function in spreadsheet software (e.g., Microsoft Excel or Google Sheets) calculates the arithmetic mean of a range of cells by summing the values and dividing by the count of numbers.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "89148",
+                "tag": "a",
+                "text": "SUM",
+                "is_correct": false
+            },
+            {
+                "option_id": "73368",
+                "tag": "b",
+                "text": "AVERAGE",
+                "is_correct": true
+            },
+            {
+                "option_id": "81104",
+                "tag": "c",
+                "text": "COUNT",
+                "is_correct": false
+            },
+            {
+                "option_id": "25342",
+                "tag": "d",
+                "text": "MAX",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "50739": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Internet vs Intranet",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>What is the key difference between the <b>Internet</b> and an <b>Intranet</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>Internet</b> is a global network accessible to the public, while an <b>Intranet</b> is a private network restricted to an organization's members. Intranets are used for internal communication and resource sharing.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "89149",
+                "tag": "a",
+                "text": "The Internet is faster than an Intranet",
+                "is_correct": false
+            },
+            {
+                "option_id": "73369",
+                "tag": "b",
+                "text": "The Internet is public, while an Intranet is private",
+                "is_correct": true
+            },
+            {
+                "option_id": "81105",
+                "tag": "c",
+                "text": "An Intranet uses wired connections only",
+                "is_correct": false
+            },
+            {
+                "option_id": "25343",
+                "tag": "d",
+                "text": "The Internet is used for internal communication only",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "50740": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Emerging Tech",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Which emerging technology uses <i>quantum bits (qubits)</i> to perform computations exponentially faster than classical computers?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Quantum computing</b> leverages qubits, which can exist in multiple states simultaneously (superposition), enabling it to solve complex problems much faster than classical computers for specific tasks like cryptography and optimization.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "89150",
+                "tag": "a",
+                "text": "Artificial Intelligence",
+                "is_correct": false
+            },
+            {
+                "option_id": "73370",
+                "tag": "b",
+                "text": "Quantum Computing",
+                "is_correct": true
+            },
+            {
+                "option_id": "81106",
+                "tag": "c",
+                "text": "Blockchain",
+                "is_correct": false
+            },
+            {
+                "option_id": "25344",
+                "tag": "d",
+                "text": "Virtual Reality",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

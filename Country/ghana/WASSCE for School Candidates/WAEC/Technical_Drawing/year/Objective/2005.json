@@ -1,0 +1,437 @@
+{
+    "94441": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Drawing tools overview",
+        "question_type": "Objective",
+        "exam_year": "2005",
+        "question_text": "<p>Which of the following drawing tools is used to draw horizontal lines?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>T-square</b> is a drawing tool specifically designed to draw horizontal lines. It is used in conjunction with a drawing board to ensure accuracy.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "41357",
+                "tag": "a",
+                "text": "Set square",
+                "is_correct": false
+            },
+            {
+                "option_id": "15709",
+                "tag": "b",
+                "text": "T-square",
+                "is_correct": true
+            },
+            {
+                "option_id": "24498",
+                "tag": "c",
+                "text": "Protractor",
+                "is_correct": false
+            },
+            {
+                "option_id": "52586",
+                "tag": "d",
+                "text": "French curve",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "94442": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Standard sheet sizes",
+        "question_type": "Objective",
+        "exam_year": "2005",
+        "question_text": "<p>What is the size of an A2 drawing sheet in millimeters?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The A2 sheet size is part of the ISO 216 standard and measures <b>420 mm \u00d7 594 mm</b>. Each A-series size is half the area of the previous size when folded parallel to its shorter sides.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "41358",
+                "tag": "a",
+                "text": "210 \u00d7 297",
+                "is_correct": false
+            },
+            {
+                "option_id": "15710",
+                "tag": "b",
+                "text": "297 \u00d7 420",
+                "is_correct": false
+            },
+            {
+                "option_id": "24499",
+                "tag": "c",
+                "text": "420 \u00d7 594",
+                "is_correct": true
+            },
+            {
+                "option_id": "52587",
+                "tag": "d",
+                "text": "594 \u00d7 841",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "94443": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Line types and uses",
+        "question_type": "Objective",
+        "exam_year": "2005",
+        "question_text": "<p>Which line type is used to represent hidden details in an orthographic projection?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>dashed line</b> (also known as a hidden line) is used to represent edges or features that are not visible in the current view but exist in the object.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "41359",
+                "tag": "a",
+                "text": "Continuous thick line",
+                "is_correct": false
+            },
+            {
+                "option_id": "15711",
+                "tag": "b",
+                "text": "Dashed line",
+                "is_correct": true
+            },
+            {
+                "option_id": "24500",
+                "tag": "c",
+                "text": "Chain line",
+                "is_correct": false
+            },
+            {
+                "option_id": "52588",
+                "tag": "d",
+                "text": "Continuous thin line",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "94444": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Basic geometric constructions",
+        "question_type": "Objective",
+        "exam_year": "2005",
+        "question_text": "<p>To bisect a given angle using a compass and straightedge, which of the following steps is <b>not</b> required?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Bisecting an angle requires drawing arcs from the vertex and intersecting points, then joining the vertex to the intersection. <b>Drawing a perpendicular line from the vertex</b> is not part of the standard procedure.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "41360",
+                "tag": "a",
+                "text": "Drawing an arc from the vertex",
+                "is_correct": false
+            },
+            {
+                "option_id": "15712",
+                "tag": "b",
+                "text": "Drawing a perpendicular line from the vertex",
+                "is_correct": true
+            },
+            {
+                "option_id": "24501",
+                "tag": "c",
+                "text": "Drawing intersecting arcs from two points on the angle arms",
+                "is_correct": false
+            },
+            {
+                "option_id": "52589",
+                "tag": "d",
+                "text": "Joining the vertex to the intersection of the arcs",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "94445": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Regular polygon construction",
+        "question_type": "Objective",
+        "exam_year": "2005",
+        "question_text": "<p>What is the central angle of a regular hexagon?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A regular hexagon has 6 sides, and the central angle is calculated as $360\u00b0 / 6 = 60\u00b0$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "41361",
+                "tag": "a",
+                "text": "$45\u00b0$",
+                "is_correct": false
+            },
+            {
+                "option_id": "15713",
+                "tag": "b",
+                "text": "$60\u00b0$",
+                "is_correct": true
+            },
+            {
+                "option_id": "24502",
+                "tag": "c",
+                "text": "$90\u00b0$",
+                "is_correct": false
+            },
+            {
+                "option_id": "52590",
+                "tag": "d",
+                "text": "$120\u00b0$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "94446": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Orthographic projection methods",
+        "question_type": "Objective",
+        "exam_year": "2005",
+        "question_text": "<p>In first-angle orthographic projection, the right-side view is placed to the <u>left</u> of which view?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In first-angle projection, the right-side view is placed to the <b>left</b> of the <b>front view</b>. This is a key distinction from third-angle projection.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "41362",
+                "tag": "a",
+                "text": "Top view",
+                "is_correct": false
+            },
+            {
+                "option_id": "15714",
+                "tag": "b",
+                "text": "Front view",
+                "is_correct": true
+            },
+            {
+                "option_id": "24503",
+                "tag": "c",
+                "text": "Bottom view",
+                "is_correct": false
+            },
+            {
+                "option_id": "52591",
+                "tag": "d",
+                "text": "Rear view",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "94447": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Sectional view types",
+        "question_type": "Objective",
+        "exam_year": "2005",
+        "question_text": "<p>Which type of sectional view is used to show the interior details of a symmetrical object by removing one-quarter of it?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>half section</b> is used to show the interior details of a symmetrical object by removing one-quarter of it, exposing both the exterior and interior in a single view.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "41363",
+                "tag": "a",
+                "text": "Full section",
+                "is_correct": false
+            },
+            {
+                "option_id": "15715",
+                "tag": "b",
+                "text": "Half section",
+                "is_correct": true
+            },
+            {
+                "option_id": "24504",
+                "tag": "c",
+                "text": "Offset section",
+                "is_correct": false
+            },
+            {
+                "option_id": "52592",
+                "tag": "d",
+                "text": "Revolved section",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "94448": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Isometric drawing basics",
+        "question_type": "Objective",
+        "exam_year": "2005",
+        "question_text": "<p>In an isometric drawing, the three principal axes are inclined at what angle to each other?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In isometric projection, the three principal axes (length, width, and height) are equally inclined at <b>$120\u00b0$</b> to each other.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "41364",
+                "tag": "a",
+                "text": "$90\u00b0$",
+                "is_correct": false
+            },
+            {
+                "option_id": "15716",
+                "tag": "b",
+                "text": "$120\u00b0$",
+                "is_correct": true
+            },
+            {
+                "option_id": "24505",
+                "tag": "c",
+                "text": "$60\u00b0$",
+                "is_correct": false
+            },
+            {
+                "option_id": "52593",
+                "tag": "d",
+                "text": "$45\u00b0$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "94449": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Dimensioning principles",
+        "question_type": "Objective",
+        "exam_year": "2005",
+        "question_text": "<p>Which of the following is <b>not</b> a principle of dimensioning in technical drawing?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Dimensioning principles require clarity and non-redundancy. <b>Dimensioning to hidden lines</b> is avoided because hidden lines represent features not visible in the current view.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "41365",
+                "tag": "a",
+                "text": "Avoid dimensioning to hidden lines",
+                "is_correct": false
+            },
+            {
+                "option_id": "15717",
+                "tag": "b",
+                "text": "Place dimensions outside the view where possible",
+                "is_correct": false
+            },
+            {
+                "option_id": "24506",
+                "tag": "c",
+                "text": "Dimensioning to hidden lines is acceptable",
+                "is_correct": true
+            },
+            {
+                "option_id": "52594",
+                "tag": "d",
+                "text": "Use extension lines to indicate the extent of dimensions",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "94450": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Working drawings basics",
+        "question_type": "Objective",
+        "exam_year": "2005",
+        "question_text": "<p>Which of the following is <b>not</b> typically included in a working drawing?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A working drawing provides all necessary information for manufacturing or construction. <b>Artistic sketches</b> are not part of working drawings, as they focus on technical accuracy rather than aesthetics.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "41366",
+                "tag": "a",
+                "text": "Orthographic views",
+                "is_correct": false
+            },
+            {
+                "option_id": "15718",
+                "tag": "b",
+                "text": "Dimensions and tolerances",
+                "is_correct": false
+            },
+            {
+                "option_id": "24507",
+                "tag": "c",
+                "Artistic sketches of the object's appearance</b> <i>(not required)</i>.</p></li></ul></div></div>": false
+            },
+            {
+                "option_id": "52595",
+                "tag": "d",
+                "text": "Bill of materials",
+                "is_correct": false
+            },
+            {
+                "option_id": "15719",
+                "tag": "c",
+                "text": "Artistic sketches",
+                "is_correct": true
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

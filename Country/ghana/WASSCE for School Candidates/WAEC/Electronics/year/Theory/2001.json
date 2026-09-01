@@ -1,0 +1,257 @@
+{
+    "33670": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Electronics Basics",
+        "question_type": "Theory",
+        "exam_year": "2001",
+        "question_text": "<p>Explain the term <b>electronics</b> and describe the role of electrons in electronic devices. State <u>two</u> examples of electronic devices and their applications.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Electronics</b> is the branch of physics and technology concerned with the design of circuits using <i>active components</i> like transistors, diodes, and integrated circuits to control the flow of electrons for processing information or converting energy.<br><br>The role of electrons in electronic devices includes:<br>- Carrying electrical charge ($Q = ne$) to enable current flow ($I = \frac{dQ}{dt}$).<br>- Facilitating signal amplification, switching, and modulation in circuits.<br><br><b>Examples:</b><br>1. <b>Transistor (BJT/FET):</b> Used in amplifiers and digital logic gates.<br>2. <b>Diode:</b> Used in rectification (converting AC to DC) and voltage regulation.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "33671": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Atomic Structure and Energy Bands",
+        "question_type": "Theory",
+        "exam_year": "2001",
+        "question_text": "<p>Describe the <b>energy band structure</b> of a semiconductor. Explain the difference between the <i>valence band</i>, <i>conduction band</i>, and <i>forbidden gap</i> ($E_g$). How does temperature affect the conductivity of a semiconductor?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>energy band structure</b> of a semiconductor consists of:<br>- <b>Valence Band:</b> The highest energy band filled with electrons at absolute zero ($T = 0K$).<br>- <b>Conduction Band:</b> The next higher energy band, empty at $T = 0K$, where electrons can move freely to conduct current.<br>- <b>Forbidden Gap ($E_g$):</b> The energy gap between the valence and conduction bands where no electron states exist.<br><br>Effect of temperature:<br>- As temperature increases, thermal energy excites electrons from the valence band to the conduction band, increasing conductivity ($\u03c3 \u221d e^{-E_g/2kT}$).<br>- This creates electron-hole pairs, enhancing intrinsic conduction.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "33672": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Semiconductor Doping",
+        "question_type": "Objective",
+        "exam_year": "2001",
+        "question_text": "<p>Which of the following elements is used as a <b>donor impurity</b> in <i>n-type</i> silicon?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>donor impurity</b> in <i>n-type</i> silicon provides extra electrons to the conduction band. Phosphorus (P) is a Group V element with 5 valence electrons, donating one electron per atom to the silicon lattice, making it an <i>n-type</i> dopant.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "69962",
+                "tag": "a",
+                "text": "Aluminum (Al)",
+                "is_correct": false
+            },
+            {
+                "option_id": "26889",
+                "tag": "b",
+                "text": "Phosphorus (P)",
+                "is_correct": true
+            },
+            {
+                "option_id": "28149",
+                "tag": "c",
+                "text": "Boron (B)",
+                "is_correct": false
+            },
+            {
+                "option_id": "82099",
+                "tag": "d",
+                "text": "Gallium (Ga)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "33673": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "PN Junction Diode",
+        "question_type": "Theory",
+        "exam_year": "2001",
+        "question_text": "<p>Draw the <b>V-I characteristic curve</b> of a PN junction diode and label the following regions:<br>- Forward bias<br>- Reverse bias<br>- Breakdown region<br><br>Explain the behavior of the diode in each region.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>V-I characteristic curve</b> of a PN junction diode has three key regions:<br><br>1. <b>Forward Bias:</b><br>- Applied voltage reduces the barrier potential ($V_{bi}$).<br>- Current ($I_F$) increases exponentially with voltage ($I_F = I_S(e^{qV/kT} - 1)$).<br>- Diode conducts with low resistance.<br><br>2. <b>Reverse Bias:</b><br>- Applied voltage increases the barrier potential.<br>- Only a small reverse saturation current ($I_S$) flows due to minority carriers.<br>- Diode acts as an open circuit.<br><br>3. <b>Breakdown Region:</b><br>- At high reverse voltage ($V_{BR}$), avalanche or Zener breakdown occurs.<br>- Current increases sharply with little voltage change.<br>- Diode may be damaged if current is not limited.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "33674": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Diode Rectification",
+        "question_type": "Practical",
+        "exam_year": "2001",
+        "question_text": "<p>Design a <b>full-wave bridge rectifier</b> circuit using four diodes. Include a smoothing capacitor ($C$) to reduce ripple voltage.<br><br>1. Draw the circuit diagram.<br>2. Explain how the circuit converts AC input to DC output.<br>3. Derive the expression for the <i>ripple voltage</i> ($V_r$) in terms of load current ($I_L$), capacitance ($C$), and supply frequency ($f$).</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>1. <b>Circuit Diagram:</b><br>- Four diodes arranged in a bridge configuration (D1-D4).<br>- AC input connected to one diagonal of the bridge.<br>- DC output taken across the other diagonal, with a smoothing capacitor ($C$) in parallel with the load ($R_L$).<br><br>2. <b>Operation:</b><br>- During the positive half-cycle of AC, diodes D1 and D2 conduct, charging the capacitor and supplying current to the load.<br>- During the negative half-cycle, diodes D3 and D4 conduct, again charging the capacitor and supplying current.<br>- The capacitor smooths the output by discharging during the intervals when the diodes are not conducting.<br><br>3. <b>Ripple Voltage ($V_r$):</b><br>- The ripple voltage is given by:<br>$V_r = \\frac{I_L}{2fC}$<br>- Where:<br>  - $I_L$ = Load current<br>  - $f$ = Supply frequency<br>  - $C$ = Capacitance<br>- This expression assumes the capacitor discharges linearly during the non-conducting period.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "33675": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "BJT Structure and Operation",
+        "question_type": "Objective",
+        "exam_year": "2001",
+        "question_text": "<p>In a <b>NPN transistor</b>, the majority carriers in the <i>base region</i> are:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In an <b>NPN transistor</b>, the base region is <i>p-type</i>, meaning the majority carriers are <b>holes</b>. The emitter and collector are <i>n-type</i>, where electrons are the majority carriers.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "69962",
+                "tag": "a",
+                "text": "Electrons",
+                "is_correct": false
+            },
+            {
+                "option_id": "26889",
+                "tag": "b",
+                "text": "Holes",
+                "is_correct": true
+            },
+            {
+                "option_id": "28149",
+                "tag": "c",
+                "text": "Protons",
+                "is_correct": false
+            },
+            {
+                "option_id": "82099",
+                "tag": "d",
+                "text": "Neutrons",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "33676": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Common-Emitter Amplifier",
+        "question_type": "Theory",
+        "exam_year": "2001",
+        "question_text": "<p>For a <b>common-emitter amplifier</b> circuit:<br>1. Draw the circuit diagram showing the biasing arrangement.<br>2. Explain the role of the <i>coupling capacitor</i> ($C_C$) and <i>bypass capacitor</i> ($C_E$).<br>3. Derive the expression for the <i>voltage gain</i> ($A_v$) in terms of the transistor parameters and load resistance ($R_L$).</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>1. <b>Circuit Diagram:</b><br>- NPN transistor with base biased via a voltage divider ($R_1$, $R_2$).<br>- Emitter resistor ($R_E$) with bypass capacitor ($C_E$).<br>- Collector resistor ($R_C$) and load resistor ($R_L$) connected via coupling capacitor ($C_C$).<br><br>2. <b>Role of Capacitors:</b><br>- <b>Coupling Capacitor ($C_C$):</b> Blocks DC while allowing AC signals to pass from the amplifier to the load.<br>- <b>Bypass Capacitor ($C_E$):</b> Provides a low-impedance path for AC signals, increasing gain by effectively shorting $R_E$ at signal frequencies.<br><br>3. <b>Voltage Gain ($A_v$):</b><br>- The voltage gain is given by:<br>$A_v = -g_m R_C'$, where $R_C' = R_C \\parallel R_L$.<br>- $g_m$ is the transconductance of the transistor, defined as $g_m = \\frac{I_C}{V_T}$ (where $V_T$ is the thermal voltage, ~26 mV at room temperature).<br>- The negative sign indicates a 180\u00b0 phase shift between input and output.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "33677": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Operational Amplifiers",
+        "question_type": "Theory",
+        "exam_year": "2001",
+        "question_text": "<p>An <b>operational amplifier (Op-Amp)</b> is configured as a <i>non-inverting amplifier</i> with a gain of 10.<br><br>1. Draw the circuit diagram.<br>2. Derive the expression for the <i>closed-loop gain</i> ($A_{CL}$) in terms of the resistors used.<br>3. If the input voltage is $V_{in} = 0.5 V$, calculate the output voltage ($V_{out}$).</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>1. <b>Circuit Diagram:</b><br>- Op-Amp with non-inverting input connected to $V_{in}$ via resistor $R_1$.<br>- Feedback resistor $R_f$ connected from the output to the inverting input.<br>- Inverting input grounded via resistor $R_1$ (or directly if $R_1$ is omitted).<br><br>2. <b>Closed-Loop Gain ($A_{CL}$):</b><br>- For a non-inverting amplifier, the gain is:<br>$A_{CL} = 1 + \\frac{R_f}{R_1}$<br>- Given $A_{CL} = 10$, we have $10 = 1 + \\frac{R_f}{R_1}$, so $\\frac{R_f}{R_1} = 9$.<br><br>3. <b>Output Voltage ($V_{out}$):</b><br>- $V_{out} = A_{CL} \\times V_{in} = 10 \\times 0.5 V = 5 V$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "33678": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Number Systems and Logic Gates",
+        "question_type": "Objective",
+        "exam_year": "2001",
+        "question_text": "<p>Convert the binary number <b>110101</b> to its decimal equivalent.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The binary number <b>110101</b> is converted to decimal as follows:<br>$1 \\times 2^5 + 1 \\times 2^4 + 0 \\times 2^3 + 1 \\times 2^2 + 0 \\times 2^1 + 1 \\times 2^0 = 32 + 16 + 0 + 4 + 0 + 1 = 53$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "69962",
+                "tag": "a",
+                "text": "45",
+                "is_correct": false
+            },
+            {
+                "option_id": "26889",
+                "tag": "b",
+                "text": "53",
+                "is_correct": true
+            },
+            {
+                "option_id": "28149",
+                "tag": "c",
+                "text": "61",
+                "is_correct": false
+            },
+            {
+                "option_id": "82099",
+                "tag": "d",
+                "text": "27",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "33679": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Power Supply Circuits and Thyristors",
+        "question_type": "Theory",
+        "exam_year": "2001",
+        "question_text": "<p>Explain the operation of a <b>thyristor</b> (SCR) in a <i>controlled rectifier</i> circuit. Include:<br>1. The structure of a thyristor.<br>2. How it is triggered into conduction.<br>3. The role of the <i>gate terminal</i>.<br>4. An application of thyristors in power control.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>1. <b>Structure of a Thyristor:</b><br>- A thyristor (SCR) is a four-layer ($PNPN$) semiconductor device with three terminals: <i>anode</i>, <i>cathode</i>, and <i>gate</i>.<br><br>2. <b>Triggering into Conduction:</b><br>- The thyristor remains off until a positive voltage is applied to the anode relative to the cathode.<br>- A small current pulse applied to the gate terminal triggers the thyristor into conduction.<br>- Once triggered, the thyristor remains latched in the on-state even if the gate current is removed, until the anode current falls below the holding current ($I_H$).<br><br>3. <b>Role of the Gate Terminal:</b><br>- The gate terminal controls the turn-on of the thyristor. A small gate current ($I_G$) initiates conduction by injecting carriers into the $P$-base region, causing regenerative action.<br><br>4. <b>Application:</b><br>- Thyristors are used in <b>AC power control</b> (e.g., light dimmers, motor speed controllers) and <b>HVDC transmission</b> for converting AC to DC and vice versa.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

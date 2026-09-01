@@ -428,5 +428,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "96744": {
+        "order_id": 11,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Atomic Structure and Energy Bands",
+        "question_type": "Objective",
+        "exam_year": "2001",
+        "question_text": "<p>Which of the following best describes the <b>valence band</b> in a semiconductor material?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>valence band</b> is the energy band in a semiconductor that contains the outermost electrons (valence electrons) of the atoms. These electrons are responsible for chemical bonding and electrical conduction when they gain sufficient energy to move to the conduction band. The valence band is typically filled or nearly filled at absolute zero temperature.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "46012",
+                "tag": "a",
+                "text": "The band where electrons are free to move and conduct electricity.",
+                "is_correct": false
+            },
+            {
+                "option_id": "56276",
+                "tag": "b",
+                "text": "The energy band containing the outermost electrons of the atoms, which may be filled or partially filled.",
+                "is_correct": true
+            },
+            {
+                "option_id": "51737",
+                "tag": "c",
+                "text": "The forbidden energy gap between the valence and conduction bands.",
+                "is_correct": false
+            },
+            {
+                "option_id": "55128",
+                "tag": "d",
+                "text": "The band where holes are generated due to thermal excitation.",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "96745": {
+        "order_id": 12,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Semiconductor Doping",
+        "question_type": "Objective",
+        "exam_year": "2001",
+        "question_text": "<p>In an <i>n-type</i> semiconductor, the majority charge carriers are:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In an <i>n-type</i> semiconductor, the material is doped with donor impurities (e.g., phosphorus in silicon), which introduce extra electrons into the conduction band. These electrons become the majority charge carriers, while holes remain the minority carriers.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "46013",
+                "tag": "a",
+                "text": "Holes",
+                "is_correct": false
+            },
+            {
+                "option_id": "56277",
+                "tag": "b",
+                "text": "Electrons",
+                "is_correct": true
+            },
+            {
+                "option_id": "51738",
+                "tag": "c",
+                "text": "Protons",
+                "is_correct": false
+            },
+            {
+                "option_id": "55129",
+                "tag": "d",
+                "text": "Neutrons",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "96746": {
+        "order_id": 13,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "PN Junction Diode",
+        "question_type": "Objective",
+        "exam_year": "2001",
+        "question_text": "<p>When a PN junction diode is <u>reverse-biased</u>, the depletion region:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In reverse bias, the positive terminal of the battery is connected to the <i>n-type</i> side and the negative terminal to the <i>p-type</i> side. This widens the depletion region by pulling majority carriers away from the junction, increasing the potential barrier and reducing current flow (except for a small reverse saturation current).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "46014",
+                "tag": "a",
+                "text": "Narrows, allowing more current to flow.",
+                "is_correct": false
+            },
+            {
+                "option_id": "56278",
+                "tag": "b",
+                "text": "Widens, increasing the potential barrier.",
+                "is_correct": true
+            },
+            {
+                "option_id": "51739",
+                "tag": "c",
+                "text": "Remains unchanged, as bias has no effect.",
+                "is_correct": false
+            },
+            {
+                "option_id": "55130",
+                "tag": "d",
+                "text": "Collapses, causing breakdown.",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "96747": {
+        "order_id": 14,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Diode Rectification",
+        "question_type": "Objective",
+        "exam_year": "2001",
+        "question_text": "<p>A <b>full-wave rectifier</b> circuit uses how many diodes?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A full-wave rectifier converts both halves of an AC input signal into DC. The most common configuration (bridge rectifier) uses <b>4 diodes</b> arranged in a bridge to achieve this. Other configurations (e.g., center-tapped transformer) may use 2 diodes, but the standard full-wave bridge rectifier uses 4.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "46015",
+                "tag": "a",
+                "text": "1",
+                "is_correct": false
+            },
+            {
+                "option_id": "56279",
+                "tag": "b",
+                "text": "2",
+                "is_correct": false
+            },
+            {
+                "option_id": "51740",
+                "tag": "c",
+                "text": "4",
+                "is_correct": true
+            },
+            {
+                "option_id": "55131",
+                "tag": "d",
+                "text": "3",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "96748": {
+        "order_id": 15,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Zener Diodes and Regulation",
+        "question_type": "Objective",
+        "exam_year": "2001",
+        "question_text": "<p>The primary function of a <b>Zener diode</b> in a voltage regulator circuit is to:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A Zener diode operates in reverse breakdown mode to maintain a constant voltage across its terminals. In a voltage regulator, it clamps the output voltage to its Zener voltage ($V_Z$), ensuring the load receives a stable voltage despite variations in input voltage or load current.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "46016",
+                "tag": "a",
+                "text": "Amplify the input signal.",
+                "is_correct": false
+            },
+            {
+                "option_id": "56280",
+                "tag": "b",
+                "text": "Maintain a constant output voltage by operating in reverse breakdown.",
+                "is_correct": true
+            },
+            {
+                "option_id": "51741",
+                "tag": "c",
+                "text": "Convert AC to DC.",
+                "is_correct": false
+            },
+            {
+                "option_id": "55132",
+                "tag": "d",
+                "text": "Store electrical energy.",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "96749": {
+        "order_id": 16,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "BJT Biasing Methods",
+        "question_type": "Objective",
+        "exam_year": "2001",
+        "question_text": "<p>In a <b>voltage-divider bias</b> circuit for a BJT, the base voltage is determined by:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Voltage-divider bias uses two resistors ($R_1$ and $R_2$) connected in series across the supply voltage ($V_{CC}$). The base voltage ($V_B$) is set by the voltage division between $R_1$ and $R_2$, calculated as $V_B = V_{CC} \times \frac{R_2}{R_1 + R_2}$. This provides stable biasing for the BJT.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "46017",
+                "tag": "a",
+                "text": "The collector current and emitter resistor.",
+                "is_correct": false
+            },
+            {
+                "option_id": "56281",
+                "tag": "b",
+                "text": "The ratio of two resistors connected in series across the supply voltage.",
+                "is_correct": true
+            },
+            {
+                "option_id": "51742",
+                "tag": "c",
+                "text": "The forward voltage drop of the base-emitter junction.",
+                "is_correct": false
+            },
+            {
+                "option_id": "55133",
+                "tag": "d",
+                "text": "The thermal voltage of the transistor.",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "96750": {
+        "order_id": 17,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Common-Emitter Amplifier",
+        "question_type": "Objective",
+        "exam_year": "2001",
+        "question_text": "<p>In a <b>common-emitter amplifier</b>, the input signal is applied to the <u>base</u>, and the output is taken from the:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The common-emitter amplifier configuration has the input signal applied to the base and the output taken from the <b>collector</b>. The emitter is common to both input and output circuits, providing high voltage gain and moderate input/output impedance.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "46018",
+                "tag": "a",
+                "text": "Emitter",
+                "is_correct": false
+            },
+            {
+                "option_id": "56282",
+                "tag": "b",
+                "text": "Collector",
+                "is_correct": true
+            },
+            {
+                "option_id": "51743",
+                "tag": "c",
+                "text": "Base",
+                "is_correct": false
+            },
+            {
+                "option_id": "55134",
+                "tag": "d",
+                "text": "Supply voltage terminal",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "96751": {
+        "order_id": 18,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Operational Amplifiers (Op-Amp) Basics",
+        "question_type": "Objective",
+        "exam_year": "2001",
+        "question_text": "<p>The <b>ideal</b> operational amplifier has an input impedance of:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>An ideal operational amplifier is assumed to have <b>infinite input impedance</b>, meaning it draws no current from the input source. This ensures no loading effect on the preceding stage. Other ideal characteristics include zero output impedance and infinite open-loop gain.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "46019",
+                "tag": "a",
+                "text": "Zero ohms",
+                "is_correct": false
+            },
+            {
+                "option_id": "56283",
+                "tag": "b",
+                "text": "Infinite ohms",
+                "is_correct": true
+            },
+            {
+                "option_id": "51744",
+                "tag": "c",
+                "text": "50 ohms",
+                "is_correct": false
+            },
+            {
+                "option_id": "55135",
+                "tag": "d",
+                "text": "1000 ohms",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "96752": {
+        "order_id": 19,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Number Systems and Conversions",
+        "question_type": "Objective",
+        "exam_year": "2001",
+        "question_text": "<p>Convert the binary number <b>$1011_2$</b> to its decimal equivalent.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>To convert binary to decimal, multiply each bit by $2^n$ (where $n$ is the bit position, starting from 0 on the right) and sum the results:<br>$1 \times 2^3 + 0 \times 2^2 + 1 \times 2^1 + 1 \times 2^0 = 8 + 0 + 2 + 1 = 11_{10}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "46020",
+                "tag": "a",
+                "text": "9",
+                "is_correct": false
+            },
+            {
+                "option_id": "56284",
+                "tag": "b",
+                "text": "11",
+                "is_correct": true
+            },
+            {
+                "option_id": "51745",
+                "tag": "c",
+                "text": "13",
+                "is_correct": false
+            },
+            {
+                "option_id": "55136",
+                "tag": "d",
+                "text": "15",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "96753": {
+        "order_id": 20,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Logic Gates and Truth Tables",
+        "question_type": "Objective",
+        "exam_year": "2001",
+        "question_text": "<p>Which logic gate produces a <b>HIGH</b> output only when <u>all</u> its inputs are <b>LOW</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>NOR gate</b> is a combination of an OR gate followed by a NOT gate. It produces a HIGH output only when all its inputs are LOW. For example, a 2-input NOR gate outputs 1 only if both inputs are 0.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "46021",
+                "tag": "a",
+                "text": "AND gate",
+                "is_correct": false
+            },
+            {
+                "option_id": "56285",
+                "tag": "b",
+                "text": "OR gate",
+                "is_correct": false
+            },
+            {
+                "option_id": "51746",
+                "tag": "c",
+                "text": "NAND gate",
+                "is_correct": false
+            },
+            {
+                "option_id": "55137",
+                "tag": "d",
+                "text": "NOR gate",
+                "is_correct": true
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

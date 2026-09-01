@@ -1,0 +1,282 @@
+{
+    "19891": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Drawing tools overview",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>Which of the following drawing tools is used to draw circles and arcs of varying radii?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>compass</b> is the primary tool used in technical drawing to construct circles and arcs of different sizes. It consists of two legs, one with a pointed end and the other with a pencil or pen attachment, allowing precise adjustments for radius.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "65099",
+                "tag": "a",
+                "text": "T-square",
+                "is_correct": false
+            },
+            {
+                "option_id": "74307",
+                "tag": "b",
+                "text": "Compass",
+                "is_correct": true
+            },
+            {
+                "option_id": "35919",
+                "tag": "c",
+                "text": "Protractor",
+                "is_correct": false
+            },
+            {
+                "option_id": "61011",
+                "tag": "d",
+                "text": "Set square",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "19892": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Standard sheet sizes",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>What is the dimension of an A2 drawing sheet in millimeters?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The ISO standard for paper sizes defines A2 as <b>420 mm \u00d7 594 mm</b>. Each A-series sheet is half the area of the next larger size (e.g., A1 is 594 mm \u00d7 841 mm).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "65100",
+                "tag": "a",
+                "text": "210 \u00d7 297",
+                "is_correct": false
+            },
+            {
+                "option_id": "74308",
+                "tag": "b",
+                "text": "297 \u00d7 420",
+                "is_correct": false
+            },
+            {
+                "option_id": "35920",
+                "tag": "c",
+                "text": "420 \u00d7 594",
+                "is_correct": true
+            },
+            {
+                "option_id": "61012",
+                "tag": "d",
+                "text": "594 \u00d7 841",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "19893": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Line types and uses",
+        "question_type": "Theory",
+        "exam_year": "2000",
+        "question_text": "<p>List <b>three</b> types of lines used in technical drawing and describe their specific applications.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>1. Continuous thick line:</b> Used for visible outlines and edges of objects.<br><b>2. Dashed thin line:</b> Represents hidden details or edges not visible in the current view.<br><b>3. Chain thin line:</b> Indicates center lines, axes of symmetry, or paths of motion.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "19894": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Basic geometric constructions",
+        "question_type": "Practical",
+        "exam_year": "2000",
+        "question_text": "<p>Construct a perpendicular bisector to a given line segment AB of length 60 mm. Show all construction lines clearly.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>1. Draw line segment AB = 60 mm.<br>2. With A as center, draw an arc above and below AB using a radius <i>greater than half of AB</i>.<br>3. With B as center, draw intersecting arcs using the same radius.<br>4. Join the intersection points to form the perpendicular bisector.<br>5. Label the midpoint where the bisector intersects AB.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "19895": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Orthographic projection methods",
+        "question_type": "Theory",
+        "exam_year": "2000",
+        "question_text": "<p>Explain the difference between <b>First Angle Projection</b> and <b>Third Angle Projection</b>, including their symbolic representations.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>First Angle Projection:</b> The object is placed in the first quadrant, and views are projected onto planes behind the object. Symbol: <i>Circle with a truncated cone</i>.<br><b>Third Angle Projection:</b> The object is placed in the third quadrant, and views are projected onto planes in front of the object. Symbol: <i>Circle with a truncated cone and a small circle inside</i>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "19896": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Sectional view types",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>Which type of sectional view is used to show the interior details of a symmetrical object by cutting it along two intersecting planes?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>half section</b> is used for symmetrical objects, where one-quarter of the object is removed to reveal both external and internal details. This is achieved by cutting along two perpendicular planes.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "65101",
+                "tag": "a",
+                "text": "Full section",
+                "is_correct": false
+            },
+            {
+                "option_id": "74309",
+                "tag": "b",
+                "text": "Half section",
+                "is_correct": true
+            },
+            {
+                "option_id": "35921",
+                "tag": "c",
+                "text": "Revolved section",
+                "is_correct": false
+            },
+            {
+                "option_id": "61013",
+                "tag": "d",
+                "text": "Removed section",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "19897": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Isometric drawing basics",
+        "question_type": "Practical",
+        "exam_year": "2000",
+        "question_text": "<p>Draw an isometric view of a cube with edges of length 40 mm. Show all construction lines and label the dimensions.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>1. Draw the isometric axes at 30\u00b0 to the horizontal.<br>2. Construct the top face as a rhombus with sides 40 mm.<br>3. Project vertical lines downward from each corner.<br>4. Complete the bottom face parallel to the top.<br>5. Darken the visible edges and label dimensions.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "19898": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Surface development",
+        "question_type": "Theory",
+        "exam_year": "2000",
+        "question_text": "<p>Describe the steps to develop the lateral surface of a right circular cone with base diameter 50 mm and slant height 60 mm.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>1. Calculate the circumference of the base: $C = \\pi d = \\pi \\times 50$ mm.<br>2. Draw a sector of a circle with radius = slant height (60 mm) and arc length = $C$.<br>3. The sector angle $\\theta$ is calculated using $\\theta = (C / 2\\pi r) \\times 360\u00b0$, where $r = 60$ mm.<br>4. Complete the sector and label the dimensions.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "19899": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Dimensioning principles",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>Which of the following is <b>not</b> a principle of dimensioning in technical drawing?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Dimensioning text should overlap extension lines</b> violates the principle of clarity. Dimensions must be placed outside the object and never overlap extension or outline lines.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "65102",
+                "tag": "a",
+                "text": "Avoid dimensioning to hidden lines",
+                "is_correct": false
+            },
+            {
+                "option_id": "74310",
+                "tag": "b",
+                "text": "Dimension text should overlap extension lines",
+                "is_correct": true
+            },
+            {
+                "option_id": "35922",
+                "tag": "c",
+                "text": "Place dimensions outside the object",
+                "is_correct": false
+            },
+            {
+                "option_id": "61014",
+                "tag": "d",
+                "text": "Use arrowheads to terminate dimension lines",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "19900": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Working drawings basics",
+        "question_type": "Theory",
+        "exam_year": "2000",
+        "question_text": "<p>List <b>four</b> essential components of a working drawing and explain their purposes.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>1. Title block:</b> Contains project name, scale, date, and drafter details.<br><b>2. Orthographic views:</b> Show multiple projections (front, top, side) for clarity.<br><b>3. Dimensions:</b> Provide precise measurements for manufacturing.<br><b>4. Bill of materials:</b> Lists all parts, quantities, and specifications.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

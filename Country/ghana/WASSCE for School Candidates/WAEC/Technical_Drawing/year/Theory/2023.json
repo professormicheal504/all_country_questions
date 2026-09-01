@@ -1,0 +1,282 @@
+{
+    "56516": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Drawing tools overview",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>Which of the following drawing tools is used to draw circles and arcs of varying radii?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>compass</b> is a drawing instrument used to draw circles and arcs of different sizes. It consists of two legs, one with a pointed end and the other with a pencil or pen attachment.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "96542",
+                "tag": "a",
+                "text": "T-square",
+                "is_correct": false
+            },
+            {
+                "option_id": "45967",
+                "tag": "b",
+                "text": "Compass",
+                "is_correct": true
+            },
+            {
+                "option_id": "70310",
+                "tag": "c",
+                "text": "Protractor",
+                "is_correct": false
+            },
+            {
+                "option_id": "81215",
+                "tag": "d",
+                "text": "Set square",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "56517": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Standard sheet sizes",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>What is the dimension of an A2 drawing sheet in millimeters?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The A2 sheet size is part of the ISO 216 standard and measures <b>420 mm \u00d7 594 mm</b>. Each A-series sheet is half the size of the previous one when folded along its longer side.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "96543",
+                "tag": "a",
+                "text": "210 \u00d7 297",
+                "is_correct": false
+            },
+            {
+                "option_id": "45968",
+                "tag": "b",
+                "text": "297 \u00d7 420",
+                "is_correct": false
+            },
+            {
+                "option_id": "70311",
+                "tag": "c",
+                "text": "420 \u00d7 594",
+                "is_correct": true
+            },
+            {
+                "option_id": "81216",
+                "tag": "d",
+                "text": "594 \u00d7 841",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "56518": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Line types and uses",
+        "question_type": "Theory",
+        "exam_year": "2023",
+        "question_text": "<p>List and describe the uses of <b>three</b> different types of lines used in technical drawing.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>1. Continuous thick line:</b> Used for visible outlines and edges.<br><b>2. Dashed line:</b> Used for hidden details or edges not visible in the view.<br><b>3. Chain line:</b> Used for center lines, paths of motion, or cutting planes.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "56519": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Basic geometric constructions",
+        "question_type": "Practical",
+        "exam_year": "2023",
+        "question_text": "<p>Construct a perpendicular bisector to a given line segment AB of length 60 mm.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>1. Draw line segment AB = 60 mm.<br>2. With A as center, draw an arc with radius > 30 mm.<br>3. With B as center, draw another arc of the same radius to intersect the first arc at points C and D.<br>4. Join C and D to form the perpendicular bisector of AB.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "56520": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Regular polygon construction",
+        "question_type": "Theory",
+        "exam_year": "2023",
+        "question_text": "<p>Describe the steps to construct a regular pentagon inscribed in a circle of radius 40 mm.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>1. Draw a circle of radius 40 mm.<br>2. Draw a vertical diameter and divide it into five equal parts.<br>3. With the top point as center, draw an arc through the second division point to intersect the circle.<br>4. The chord length from this intersection to the top point is the side of the pentagon.<br>5. Step off this chord length around the circle to complete the pentagon.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "56521": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Orthographic projection methods",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>In first-angle orthographic projection, the right-side view is placed to the <b>______</b> of the front view.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In <b>first-angle projection</b>, the right-side view is placed to the <b>left</b> of the front view. This is because the object is imagined to be in the first quadrant, and views are projected onto planes behind the object.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "96544",
+                "tag": "a",
+                "text": "Right",
+                "is_correct": false
+            },
+            {
+                "option_id": "45969",
+                "tag": "b",
+                "text": "Left",
+                "is_correct": true
+            },
+            {
+                "option_id": "70312",
+                "tag": "c",
+                "text": "Top",
+                "is_correct": false
+            },
+            {
+                "option_id": "81217",
+                "tag": "d",
+                "Text": "Bottom",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "56522": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Sectional view types",
+        "question_type": "Theory",
+        "exam_year": "2023",
+        "question_text": "<p>Explain the difference between a <b>full section</b> and a <b>half section</b> in technical drawing.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Full section:</b> The cutting plane passes entirely through the object, showing the entire interior.<br><b>Half section:</b> Only half of the object is sectioned, typically used for symmetrical objects to show both interior and exterior details in one view.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "56523": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Isometric drawing basics",
+        "question_type": "Practical",
+        "exam_year": "2023",
+        "question_text": "<p>Draw an isometric view of a cube with edges of length 50 mm.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>1. Draw the isometric axes at 30\u00b0 to the horizontal.<br>2. Mark 50 mm along each axis.<br>3. Complete the top face by drawing lines parallel to the axes.<br>4. Project vertical lines downward from the top face to form the front and side faces.<br>5. Complete the cube by drawing the remaining edges.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "56524": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Dimensioning principles",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>Which of the following is <b>not</b> a principle of dimensioning in technical drawing?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The principle of <b>over-dimensioning</b> is incorrect because it leads to confusion and errors. Dimensions should be clear, concise, and non-redundant.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "96545",
+                "tag": "a",
+                "text": "Avoid dimensioning to hidden lines",
+                "is_correct": false
+            },
+            {
+                "option_id": "45970",
+                "tag": "b",
+                "text": "Place dimensions outside the view",
+                "is_correct": false
+            },
+            {
+                "option_id": "70313",
+                "tag": "c",
+                "text": "Over-dimension the drawing",
+                "is_correct": true
+            },
+            {
+                "option_id": "81218",
+                "tag": "d",
+                "text": "Use arrowheads to terminate dimension lines",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "56525": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Working drawings basics",
+        "question_type": "Theory",
+        "exam_year": "2023",
+        "question_text": "<p>What are the <b>three</b> essential components of a working drawing?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>1. Orthographic views:</b> Show the object from multiple angles.<br><b>2. Dimensions:</b> Provide measurements for manufacturing.<br><b>3. Title block:</b> Contains information such as the drawing title, scale, date, and drafter's name.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

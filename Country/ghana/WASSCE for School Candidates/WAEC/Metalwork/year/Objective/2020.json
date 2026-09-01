@@ -428,5 +428,865 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "68780": {
+        "order_id": 11,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Metal types and properties",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>Which of the following metals is classified as a <b>ferrous</b> metal?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Ferrous metals are those that contain iron as their primary constituent. Steel, which is an alloy of iron and carbon, is a common example of a ferrous metal. Non-ferrous metals, such as aluminum, copper, and brass, do not contain iron.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "28159",
+                "tag": "a",
+                "text": "Aluminum",
+                "is_correct": false
+            },
+            {
+                "option_id": "25680",
+                "tag": "b",
+                "text": "Steel",
+                "is_correct": true
+            },
+            {
+                "option_id": "74858",
+                "tag": "c",
+                "text": "Copper",
+                "is_correct": false
+            },
+            {
+                "option_id": "33054",
+                "tag": "d",
+                "text": "Brass",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "68781": {
+        "order_id": 12,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Metal extraction methods",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>The process of extracting iron from its ore using a blast furnace involves the reduction of <b>iron oxide</b> by which of the following gases?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In a blast furnace, iron oxide ($Fe_2O_3$) is reduced to iron by carbon monoxide ($CO$). The chemical reaction is:<br>$Fe_2O_3 + 3CO \\rightarrow 2Fe + 3CO_2$. Carbon monoxide acts as the reducing agent.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "28160",
+                "tag": "a",
+                "text": "Oxygen ($O_2$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "25681",
+                "tag": "b",
+                "text": "Carbon monoxide ($CO$)",
+                "is_correct": true
+            },
+            {
+                "option_id": "74859",
+                "tag": "c",
+                "text": "Hydrogen ($H_2$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "33055",
+                "tag": "d",
+                "text": "Nitrogen ($N_2$)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "68782": {
+        "order_id": 13,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Heat treatment processes",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>Which heat treatment process is used to <b>increase the hardness</b> of steel?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Quenching is a heat treatment process where steel is rapidly cooled from a high temperature (usually in water, oil, or air) to increase its hardness. This process locks the steel in a hardened martensitic structure.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "28161",
+                "tag": "a",
+                "text": "Annealing",
+                "is_correct": false
+            },
+            {
+                "option_id": "25682",
+                "tag": "b",
+                "text": "Quenching",
+                "is_correct": true
+            },
+            {
+                "option_id": "74860",
+                "tag": "c",
+                "text": "Tempering",
+                "is_correct": false
+            },
+            {
+                "option_id": "33056",
+                "tag": "d",
+                "text": "Normalizing",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "68783": {
+        "order_id": 14,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Metal forming techniques",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>Which of the following metal forming techniques is used to produce <b>hollow cylindrical components</b> such as pipes?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Extrusion is a metal forming process where a billet of metal is forced through a die to create objects with a fixed cross-sectional profile, such as pipes or tubes. This process is commonly used for aluminum and copper.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "28162",
+                "tag": "a",
+                "text": "Forging",
+                "is_correct": false
+            },
+            {
+                "option_id": "25683",
+                "tag": "b",
+                "text": "Extrusion",
+                "is_correct": true
+            },
+            {
+                "option_id": "74861",
+                "tag": "c",
+                "text": "Rolling",
+                "is_correct": false
+            },
+            {
+                "option_id": "33057",
+                "tag": "d",
+                "text": "Drawing",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "68784": {
+        "order_id": 15,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Sheet metal operations",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>In sheet metal work, the process of bending a sheet along a straight line is known as:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Folding is the process of bending sheet metal along a straight line to create angles or shapes. This is typically done using a folding machine or brake press.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "28163",
+                "tag": "a",
+                "text": "Shearing",
+                "is_correct": false
+            },
+            {
+                "option_id": "25684",
+                "tag": "b",
+                "text": "Folding",
+                "is_correct": true
+            },
+            {
+                "option_id": "74862",
+                "tag": "c",
+                "text": "Punching",
+                "is_correct": false
+            },
+            {
+                "option_id": "33058",
+                "tag": "d",
+                "text": "Blanking",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "68785": {
+        "order_id": 16,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Welding processes",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>Which of the following welding processes uses a <b>non-consumable tungsten electrode</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Tungsten Inert Gas (TIG) welding uses a non-consumable tungsten electrode to produce the weld. The electrode does not melt during the process, and a separate filler material may be added if needed.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "28164",
+                "tag": "a",
+                "text": "Shielded Metal Arc Welding (SMAW)",
+                "is_correct": false
+            },
+            {
+                "option_id": "25685",
+                "tag": "b",
+                "text": "Gas Tungsten Arc Welding (GTAW/TIG)",
+                "is_correct": true
+            },
+            {
+                "option_id": "74863",
+                "tag": "c",
+                "text": "Gas Metal Arc Welding (GMAW/MIG)",
+                "is_correct": false
+            },
+            {
+                "option_id": "33059",
+                "tag": "d",
+                "text": "Submerged Arc Welding (SAW)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "68786": {
+        "order_id": 17,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Metal cutting tools",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>Which of the following tools is used for <b>cutting internal threads</b> in a drilled hole?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A tap is a cutting tool used to create internal threads in a pre-drilled hole. It is rotated into the hole to cut the threads, allowing a bolt or screw to be fastened into the material.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "28165",
+                "tag": "a",
+                "text": "Die",
+                "is_correct": false
+            },
+            {
+                "option_id": "25686",
+                "tag": "b",
+                "text": "Tap",
+                "is_correct": true
+            },
+            {
+                "option_id": "74864",
+                "tag": "c",
+                "text": "Reamer",
+                "is_correct": false
+            },
+            {
+                "option_id": "33060",
+                "tag": "d",
+                "text": "Counterbore",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "68787": {
+        "order_id": 18,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Lathe operations",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>In lathe operations, the process of <b>reducing the diameter</b> of a workpiece is known as:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Turning is the lathe operation where the diameter of a workpiece is reduced by rotating it against a cutting tool. This is one of the most common operations performed on a lathe.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "28166",
+                "tag": "a",
+                "text": "Facing",
+                "is_correct": false
+            },
+            {
+                "option_id": "25687",
+                "tag": "b",
+                "text": "Turning",
+                "is_correct": true
+            },
+            {
+                "option_id": "74865",
+                "tag": "c",
+                "text": "Drilling",
+                "is_correct": false
+            },
+            {
+                "option_id": "33061",
+                "tag": "d",
+                "text": "Boring",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "68788": {
+        "order_id": 19,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Measurement tools",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>Which of the following tools is used for <b>measuring the external diameter</b> of a cylindrical workpiece with high precision?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A micrometer is a precision measuring tool used to measure external diameters, thicknesses, and lengths with high accuracy, typically to within 0.01 mm or 0.001 inches.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "28167",
+                "tag": "a",
+                "text": "Vernier caliper",
+                "is_correct": false
+            },
+            {
+                "option_id": "25688",
+                "tag": "b",
+                "text": "Micrometer",
+                "is_correct": true
+            },
+            {
+                "option_id": "74866",
+                "tag": "c",
+                "text": "Steel rule",
+                "is_correct": false
+            },
+            {
+                "option_id": "33062",
+                "tag": "d",
+                "text": "Protractor",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "68789": {
+        "order_id": 20,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Metalwork safety",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>Which of the following is the <b>most important</b> personal protective equipment (PPE) when operating a grinding machine?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Safety goggles are the most important PPE when operating a grinding machine because they protect the eyes from flying debris, sparks, and metal particles that can cause serious injury.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "28168",
+                "tag": "a",
+                "text": "Earplugs",
+                "is_correct": false
+            },
+            {
+                "option_id": "25689",
+                "tag": "b",
+                "text": "Safety goggles",
+                "is_correct": true
+            },
+            {
+                "option_id": "74867",
+                "tag": "c",
+                "text": "Gloves",
+                "is_correct": false
+            },
+            {
+                "option_id": "33063",
+                "tag": "d",
+                "text": "Apron",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
+    },
+    "86602": {
+        "order_id": 21,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Metal types and properties",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>Which of the following metals is classified as a <b>ferrous</b> metal?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Ferrous metals are those that contain iron as their primary constituent. <i>Cast iron</i> is an alloy of iron and carbon, making it a ferrous metal. The other options (aluminium, copper, and zinc) are non-ferrous metals as they do not contain iron.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "76801",
+                "tag": "a",
+                "text": "Aluminium",
+                "is_correct": false
+            },
+            {
+                "option_id": "76423",
+                "tag": "b",
+                "text": "Cast iron",
+                "is_correct": true
+            },
+            {
+                "option_id": "84530",
+                "tag": "c",
+                "text": "Copper",
+                "is_correct": false
+            },
+            {
+                "option_id": "86942",
+                "tag": "d",
+                "text": "Zinc",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "86603": {
+        "order_id": 22,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Metal extraction methods",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>The process of extracting iron from its ore using a blast furnace involves the reduction of <i>haematite</i> ($Fe_2O_3$) with which of the following?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In a blast furnace, iron is extracted from haematite ($Fe_2O_3$) by reducing it with <i>carbon monoxide (CO)</i>, which is produced from the reaction of coke (carbon) with oxygen. The other options (hydrogen, nitrogen, and chlorine) are not used in this reduction process.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "76802",
+                "tag": "a",
+                "text": "Hydrogen ($H_2$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "76424",
+                "tag": "b",
+                "text": "Carbon monoxide ($CO$)",
+                "is_correct": true
+            },
+            {
+                "option_id": "84531",
+                "tag": "c",
+                "text": "Nitrogen ($N_2$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "86943",
+                "tag": "d",
+                "text": "Chlorine ($Cl_2$)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "86604": {
+        "order_id": 23,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Heat treatment processes",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>Which heat treatment process involves heating steel to a temperature below its critical range and then cooling it slowly to relieve internal stresses?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><i>Tempering</i> is the heat treatment process where steel is heated to a temperature below its critical range (usually between $200\u00b0C$ and $600\u00b0C$) and then cooled slowly. This process reduces brittleness and relieves internal stresses without significantly reducing hardness. The other options (annealing, normalizing, and quenching) involve different temperature ranges and cooling methods.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "76803",
+                "tag": "a",
+                "text": "Annealing",
+                "is_correct": false
+            },
+            {
+                "option_id": "76425",
+                "tag": "b",
+                "text": "Tempering",
+                "is_correct": true
+            },
+            {
+                "option_id": "84532",
+                "tag": "c",
+                "text": "Normalizing",
+                "is_correct": false
+            },
+            {
+                "option_id": "86944",
+                "tag": "d",
+                "text": "Quenching",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "86605": {
+        "order_id": 24,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Metal forming techniques",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>Which of the following metal forming techniques is used to produce seamless tubes and pipes?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><i>Extrusion</i> is the metal forming process used to produce seamless tubes and pipes by forcing a heated billet through a die. The other options (forging, rolling, and drawing) are used for different types of metal forming but not specifically for seamless tubes.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "76804",
+                "tag": "a",
+                "text": "Forging",
+                "is_correct": false
+            },
+            {
+                "option_id": "76426",
+                "tag": "b",
+                "text": "Extrusion",
+                "is_correct": true
+            },
+            {
+                "option_id": "84533",
+                "tag": "c",
+                "text": "Rolling",
+                "is_correct": false
+            },
+            {
+                "option_id": "86945",
+                "tag": "d",
+                "text": "Drawing",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "86606": {
+        "order_id": 25,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Sheet metal operations",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>In sheet metal work, the process of bending a sheet along a straight line to form an angle is known as:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><i>Folding</i> is the sheet metal operation where a sheet is bent along a straight line to form an angle. The other options (shearing, punching, and blanking) involve cutting or removing material rather than bending.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "76805",
+                "tag": "a",
+                "text": "Shearing",
+                "is_correct": false
+            },
+            {
+                "option_id": "76427",
+                "tag": "b",
+                "text": "Folding",
+                "is_correct": true
+            },
+            {
+                "option_id": "84534",
+                "tag": "c",
+                "text": "Punching",
+                "is_correct": false
+            },
+            {
+                "option_id": "86946",
+                "tag": "d",
+                "text": "Blanking",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "86607": {
+        "order_id": 26,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Welding processes",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>Which of the following welding processes uses a non-consumable tungsten electrode?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><i>TIG (Tungsten Inert Gas) welding</i> uses a non-consumable tungsten electrode to produce the weld. The other options (MIG, arc, and gas welding) use consumable electrodes or different methods.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "76806",
+                "tag": "a",
+                "text": "MIG welding",
+                "is_correct": false
+            },
+            {
+                "option_id": "76428",
+                "tag": "b",
+                "text": "TIG welding",
+                "is_correct": true
+            },
+            {
+                "option_id": "84535",
+                "tag": "c",
+                "text": "Arc welding",
+                "is_correct": false
+            },
+            {
+                "option_id": "86947",
+                "tag": "d",
+                "text": "Gas welding",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "86608": {
+        "order_id": 27,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Metal cutting tools",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>Which of the following tools is used for cutting internal threads in a hole?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <i>tap</i> is the tool used for cutting internal threads in a hole. The other options (die, reamer, and drill bit) are used for external threading, enlarging holes, and drilling holes, respectively.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "76807",
+                "tag": "a",
+                "text": "Die",
+                "is_correct": false
+            },
+            {
+                "option_id": "76429",
+                "tag": "b",
+                "text": "Tap",
+                "is_correct": true
+            },
+            {
+                "option_id": "84536",
+                "tag": "c",
+                "text": "Reamer",
+                "is_correct": false
+            },
+            {
+                "option_id": "86948",
+                "tag": "d",
+                "text": "Drill bit",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "86609": {
+        "order_id": 28,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Lathe operations",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>In lathe operations, the process of reducing the diameter of a workpiece by feeding a cutting tool along its length is called:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><i>Turning</i> is the lathe operation where the diameter of a workpiece is reduced by feeding a cutting tool along its length. The other options (facing, drilling, and boring) involve different operations on the lathe.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "76808",
+                "tag": "a",
+                "text": "Facing",
+                "is_correct": false
+            },
+            {
+                "option_id": "76430",
+                "tag": "b",
+                "text": "Turning",
+                "is_correct": true
+            },
+            {
+                "option_id": "84537",
+                "tag": "c",
+                "text": "Drilling",
+                "is_correct": false
+            },
+            {
+                "option_id": "86949",
+                "tag": "d",
+                "text": "Boring",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "86610": {
+        "order_id": 29,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Measurement tools",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>Which of the following tools is used to measure the <b>internal diameter</b> of a cylindrical workpiece with high precision?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <i>vernier caliper</i> is a precision measuring tool that can measure both internal and external diameters with high accuracy. The other options (micrometer, steel rule, and try square) are not primarily used for measuring internal diameters.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "76809",
+                "tag": "a",
+                "text": "Micrometer",
+                "is_correct": false
+            },
+            {
+                "option_id": "76431",
+                "tag": "b",
+                "text": "Vernier caliper",
+                "is_correct": true
+            },
+            {
+                "option_id": "84538",
+                "tag": "c",
+                "text": "Steel rule",
+                "is_correct": false
+            },
+            {
+                "option_id": "86950",
+                "tag": "d",
+                "text": "Try square",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "86611": {
+        "order_id": 30,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Metalwork safety",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>Which of the following personal protective equipment (PPE) is <b>most essential</b> when operating a grinding machine?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><i>Safety goggles</i> are the most essential PPE when operating a grinding machine to protect the eyes from flying sparks and debris. While gloves, aprons, and earplugs are also important, they are not as critical as eye protection in this context.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "76810",
+                "tag": "a",
+                "text": "Leather gloves",
+                "is_correct": false
+            },
+            {
+                "option_id": "76432",
+                "tag": "b",
+                "text": "Safety goggles",
+                "is_correct": true
+            },
+            {
+                "option_id": "84539",
+                "tag": "c",
+                "text": "Apron",
+                "is_correct": false
+            },
+            {
+                "option_id": "86951",
+                "tag": "d",
+                "text": "Earplugs",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

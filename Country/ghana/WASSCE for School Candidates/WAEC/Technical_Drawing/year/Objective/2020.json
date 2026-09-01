@@ -1,0 +1,432 @@
+{
+    "11198": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Drawing tools overview",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>Which of the following drawing tools is used to draw circles and arcs of varying radii?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>compass</b> is the primary tool used in technical drawing to construct circles and arcs of different sizes. It consists of two legs, one with a pointed end and the other with a pencil or pen attachment, allowing precise control over the radius.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "11198a",
+                "tag": "a",
+                "text": "T-square",
+                "is_correct": false
+            },
+            {
+                "option_id": "11198b",
+                "tag": "b",
+                "text": "Compass",
+                "is_correct": true
+            },
+            {
+                "option_id": "11198c",
+                "tag": "c",
+                "text": "Set square",
+                "is_correct": false
+            },
+            {
+                "option_id": "11198d",
+                "tag": "d",
+                "text": "Protractor",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "11199": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Standard sheet sizes",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>What is the dimensions of an A2 drawing sheet in millimetres?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The ISO <b>A2</b> sheet size is defined as <b>420 mm \u00d7 594 mm</b>. This follows the standard A-series where each size is half the area of the next larger size (e.g., A1 is 594 mm \u00d7 841 mm).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "11199a",
+                "tag": "a",
+                "text": "210 \u00d7 297",
+                "is_correct": false
+            },
+            {
+                "option_id": "11199b",
+                "tag": "b",
+                "text": "297 \u00d7 420",
+                "is_correct": false
+            },
+            {
+                "option_id": "11199c",
+                "tag": "c",
+                "text": "420 \u00d7 594",
+                "is_correct": true
+            },
+            {
+                "option_id": "11199d",
+                "tag": "d",
+                "text": "594 \u00d7 841",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "11200": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Line types and uses",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>Which line type is used to represent hidden details in an orthographic projection?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>dashed line</b> (also called a hidden line) is used to show edges or features that are not visible in the current view but exist in the object. It consists of short, evenly spaced dashes.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "11200a",
+                "tag": "a",
+                "text": "Continuous thick line",
+                "is_correct": false
+            },
+            {
+                "option_id": "11200b",
+                "tag": "b",
+                "text": "Dashed line",
+                "is_correct": true
+            },
+            {
+                "option_id": "11200c",
+                "tag": "c",
+                "text": "Chain line",
+                "is_correct": false
+            },
+            {
+                "option_id": "11200d",
+                "tag": "d",
+                "text": "Continuous thin line",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "11201": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Basic geometric constructions",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>To bisect a given angle using a compass and straightedge, which of the following steps is <b>not</b> required?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Bisecting an angle requires: (1) drawing an arc from the vertex to intersect both arms, (2) drawing arcs from these intersections to find the bisector, and (3) joining the vertex to the new intersection. <b>Drawing a perpendicular line from the vertex</b> is not part of the standard procedure.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "11201a",
+                "tag": "a",
+                "text": "Drawing an arc from the vertex to intersect both arms of the angle",
+                "is_correct": false
+            },
+            {
+                "option_id": "11201b",
+                "tag": "b",
+                "text": "Drawing a perpendicular line from the vertex to one arm",
+                "is_correct": true
+            },
+            {
+                "option_id": "11201c",
+                "tag": "c",
+                "text": "Drawing arcs from the points of intersection to find the bisector",
+                "is_correct": false
+            },
+            {
+                "option_id": "11201d",
+                "tag": "d",
+                "text": "Joining the vertex to the new intersection point",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "11202": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Regular polygon construction",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>Which of the following methods is used to construct a regular pentagon inside a given circle?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>general method for polygons</b> (also called the <i>polygon-by-division</i> method) is used to construct a regular pentagon. It involves dividing the circle into five equal parts using a protractor or geometric construction and joining the points.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "11202a",
+                "tag": "a",
+                "text": "Bisecting the circle's diameter",
+                "is_correct": false
+            },
+            {
+                "option_id": "11202b",
+                "tag": "b",
+                "text": "Using the general method for polygons",
+                "is_correct": true
+            },
+            {
+                "option_id": "11202c",
+                "tag": "c",
+                "text": "Drawing tangents at 45\u00b0 angles",
+                "is_correct": false
+            },
+            {
+                "option_id": "11202d",
+                "tag": "d",
+                "text": "Constructing a square and subdividing it",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "11203": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Orthographic projection methods",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>In first-angle orthographic projection, the front view is placed <b>where</b> relative to the plan?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In <b>first-angle projection</b>, the front view is placed <b>below the plan</b>. This is because the object is imagined to be in the first quadrant, with the plan viewed from above and the front view from the front, projected downward.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "11203a",
+                "tag": "a",
+                "text": "Above the plan",
+                "is_correct": false
+            },
+            {
+                "option_id": "11203b",
+                "tag": "b",
+                "text": "To the right of the plan",
+                "is_correct": false
+            },
+            {
+                "option_id": "11203c",
+                "tag": "c",
+                "text": "Below the plan",
+                "is_correct": true
+            },
+            {
+                "option_id": "11203d",
+                "tag": "d",
+                "text": "To the left of the plan",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "11204": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Sectional view types",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>Which type of sectional view is used to show the interior details of a symmetrical object by cutting through only half of it?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>half section</b> is used for symmetrical objects. It cuts through only half of the object, revealing interior details while retaining the external features of the other half. This is commonly used for cylindrical or symmetrical parts.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "11204a",
+                "tag": "a",
+                "text": "Full section",
+                "is_correct": false
+            },
+            {
+                "option_id": "11204b",
+                "tag": "b",
+                "text": "Half section",
+                "is_correct": true
+            },
+            {
+                "option_id": "11204c",
+                "tag": "c",
+                "text": "Revolved section",
+                "is_correct": false
+            },
+            {
+                "option_id": "11204d",
+                "tag": "d",
+                "text": "Removed section",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "11205": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Isometric drawing basics",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>In an isometric drawing, the three principal axes are inclined at what angle to the horizontal plane?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In isometric projection, the three principal axes (length, width, and height) are each inclined at <b>30\u00b0 to the horizontal plane</b>. This creates a 120\u00b0 angle between any two axes, allowing for a three-dimensional representation on a two-dimensional plane.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "11205a",
+                "tag": "a",
+                "text": "15\u00b0",
+                "is_correct": false
+            },
+            {
+                "option_id": "11205b",
+                "tag": "b",
+                "text": "30\u00b0",
+                "is_correct": true
+            },
+            {
+                "option_id": "11205c",
+                "tag": "c",
+                "text": "45\u00b0",
+                "is_correct": false
+            },
+            {
+                "option_id": "11205d",
+                "tag": "d",
+                "text": "60\u00b0",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "11206": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Surface development",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>Which of the following shapes <b>cannot</b> be developed into a flat surface without distortion?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>sphere</b> is a double-curved surface and cannot be developed into a flat plane without distortion. Shapes like cylinders, cones, and prisms can be ",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "11206a",
+                "tag": "a",
+                "text": "Cylinder",
+                "is_correct": false
+            },
+            {
+                "option_id": "11206b",
+                "tag": "b",
+                "text": "Cone",
+                "is_correct": false
+            },
+            {
+                "option_id": "11206c",
+                "tag": "c",
+                "text": "Sphere",
+                "is_correct": true
+            },
+            {
+                "option_id": "11206d",
+                "tag": "d",
+                "text": "Prism",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "11207": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Dimensioning principles",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>Which of the following is a <b>correct</b> dimensioning practice in technical drawing?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Dimension lines should <b>not cross extension lines</b> to avoid confusion. Other correct practices include placing dimensions outside the object, avoiding duplicate dimensions, and using arrowheads to terminate dimension lines.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "11207a",
+                "tag": "a",
+                "text": "Placing dimensions inside the object outline",
+                "is_correct": false
+            },
+            {
+                "option_id": "11207b",
+                "tag": "b",
+                "text": "Crossing dimension lines with extension lines",
+                "is_correct": false
+            },
+            {
+                "option_id": "11207c",
+                "tag": "c",
+                "text": "Avoiding duplicate dimensions",
+                "is_correct": true
+            },
+            {
+                "option_id": "11207d",
+                "tag": "d",
+                "text": "Using leader lines for all dimensions",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

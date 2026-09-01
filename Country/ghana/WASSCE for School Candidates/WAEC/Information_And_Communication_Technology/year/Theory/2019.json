@@ -1,0 +1,257 @@
+{
+    "59037": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "ICT Basics",
+        "question_type": "Theory",
+        "exam_year": "2019",
+        "question_text": "<p>Explain the term <b>Information and Communication Technology (ICT)</b> and list <u>four</u> key areas where ICT is applied in modern society.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Information and Communication Technology (ICT)</b> refers to the use of digital technology to handle information and facilitate communication. It encompasses hardware, software, networks, and media for collecting, storing, processing, transmitting, and presenting data in digital form.<br><br>Key areas of ICT application include:<br><b>1.</b> <i>Education</i> (e.g., e-learning platforms, digital libraries).<br><b>2.</b> <i>Healthcare</i> (e.g., electronic health records, telemedicine).<br><b>3.</b> <i>Business</i> (e.g., e-commerce, digital marketing).<br><b>4.</b> <i>Government</i> (e.g., e-governance, online tax filing).<br><b>5.</b> <i>Entertainment</i> (e.g., streaming services, gaming).<br><b>6.</b> <i>Agriculture</i> (e.g., precision farming, market access via mobile apps).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "59038": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Computer Types",
+        "question_type": "Objective",
+        "exam_year": "2019",
+        "question_text": "<p>Which of the following computer types is designed to perform complex scientific calculations and simulations?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The correct answer is <b>Supercomputer</b>. Supercomputers are high-performance machines designed for tasks requiring massive computational power, such as weather forecasting, nuclear research, and quantum mechanics simulations.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "10943",
+                "tag": "a",
+                "text": "Microcomputer",
+                "is_correct": false
+            },
+            {
+                "option_id": "63655",
+                "tag": "b",
+                "text": "Supercomputer",
+                "is_correct": true
+            },
+            {
+                "option_id": "29341",
+                "tag": "c",
+                "text": "Minicomputer",
+                "is_correct": false
+            },
+            {
+                "option_id": "48373",
+                "tag": "d",
+                "text": "Mainframe computer",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "59039": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Hardware Components",
+        "question_type": "Theory",
+        "exam_year": "2019",
+        "question_text": "<p>Describe the functions of the following hardware components in a computer system:<br><b>(i)</b> <u>Central Processing Unit (CPU)</u><br><b>(ii)</b> <u>Random Access Memory (RAM)</u><br><b>(iii)</b> <u>Hard Disk Drive (HDD)</u></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>(i) Central Processing Unit (CPU):</b> The CPU is the <i>brain</i> of the computer. It performs arithmetic and logical operations, executes instructions from programs, and manages data flow between components.<br><br><b>(ii) Random Access Memory (RAM):</b> RAM is <i>volatile memory</i> that temporarily stores data and instructions currently in use by the CPU. It allows for fast read/write operations but loses its contents when the computer is powered off.<br><br><b>(iii) Hard Disk Drive (HDD):</b> The HDD is a <i>non-volatile storage device</i> used for long-term data storage. It stores the operating system, software applications, and user files, retaining data even when the computer is turned off.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "59040": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Number System Conversion",
+        "question_type": "Theory",
+        "exam_year": "2019",
+        "question_text": "<p>Convert the binary number <b>$110101_2$</b> to:<br><b>(i)</b> Decimal<br><b>(ii)</b> Hexadecimal<br>Show all working steps.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>(i) Binary to Decimal:</b><br>$110101_2 = 1 \\times 2^5 + 1 \\times 2^4 + 0 \\times 2^3 + 1 \\times 2^2 + 0 \\times 2^1 + 1 \\times 2^0$<br>$= 32 + 16 + 0 + 4 + 0 + 1$<br>$= 53_{10}$<br><br><b>(ii) Binary to Hexadecimal:</b><br>Group the binary digits into sets of four (from right to left): <b>$11\\ 0101$</b>.<br>Add leading zeros if necessary: <b>$0011\\ 0101$</b>.<br>Convert each group to hexadecimal:<br>$0011_2 = 3_{16}$<br>$0101_2 = 5_{16}$<br>Thus, $110101_2 = 35_{16}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "59041": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Network Devices",
+        "question_type": "Objective",
+        "exam_year": "2019",
+        "question_text": "<p>Which network device operates at the <b>Data Link Layer (Layer 2)</b> of the OSI model and is used to connect multiple devices within a local area network (LAN)?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The correct answer is <b>Switch</b>. A switch operates at the Data Link Layer (Layer 2) and uses MAC addresses to forward data frames to the correct device within a LAN, reducing network congestion.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "10944",
+                "tag": "a",
+                "text": "Router",
+                "is_correct": false
+            },
+            {
+                "option_id": "63656",
+                "tag": "b",
+                "text": "Hub",
+                "is_correct": false
+            },
+            {
+                "option_id": "29342",
+                "tag": "c",
+                "text": "Switch",
+                "is_correct": true
+            },
+            {
+                "option_id": "48374",
+                "tag": "d",
+                "text": "Modem",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "59042": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Cybersecurity Threats",
+        "question_type": "Theory",
+        "exam_year": "2019",
+        "question_text": "<p>Explain the following cybersecurity threats and suggest <u>one</u> preventive measure for each:<br><b>(i)</b> <u>Phishing</u><br><b>(ii)</b> <u>Malware</u><br><b>(iii)</b> <u>Denial-of-Service (DoS) Attack</u></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>(i) Phishing:</b> Phishing is a cyberattack where attackers impersonate legitimate entities (e.g., banks, companies) to trick users into revealing sensitive information like passwords or credit card details, often via fraudulent emails or websites.<br><i>Preventive Measure:</i> Educate users to verify sender email addresses, avoid clicking on suspicious links, and use multi-factor authentication (MFA).<br><br><b>(ii) Malware:</b> Malware (malicious software) includes viruses, worms, ransomware, and spyware designed to damage, disrupt, or gain unauthorized access to computer systems.<br><i>Preventive Measure:</i> Install and regularly update antivirus software, avoid downloading files from untrusted sources, and keep operating systems patched.<br><br><b>(iii) Denial-of-Service (DoS) Attack:</b> A DoS attack overwhelms a target system (e.g., website, server) with excessive traffic, rendering it unavailable to legitimate users.<br><i>Preventive Measure:</i> Use firewalls, intrusion detection systems (IDS), and rate-limiting techniques to filter malicious traffic.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "59043": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Logic Gates",
+        "question_type": "Theory",
+        "exam_year": "2019",
+        "question_text": "<p>Draw the truth table for a <b>NAND gate</b> and explain its operation with reference to the Boolean expression $Y = \\overline{A \\cdot B}$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>NAND gate</b> is a universal logic gate that outputs <i>false</i> only when all its inputs are <i>true</i>. Its Boolean expression is $Y = \\overline{A \\cdot B}$.<br><br><b>Truth Table:</b><br><table border='1'><tr><th>A</th><th>B</th><th>Y = \\overline{A \\cdot B}</th></tr><tr><td>0</td><td>0</td><td>1</td></tr><tr><td>0</td><td>1</td><td>1</td></tr><tr><td>1</td><td>0</td><td>1</td></tr><tr><td>1</td><td>1</td><td>0</td></tr></table><br>The NAND gate inverts the output of an AND gate. It is widely used in digital circuits for its versatility in constructing other gates (e.g., NOT, AND, OR).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "59044": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Spreadsheet Tools",
+        "question_type": "Practical",
+        "exam_year": "2019",
+        "question_text": "<p>In a spreadsheet application, you are required to calculate the <b>total sales</b> for a product using the formula:<br>$\\text{Total Sales} = \\text{Unit Price} \\times \\text{Quantity Sold}$<br>Given the following data:<br><table border='1'><tr><th>Product</th><th>Unit Price ($)</th><th>Quantity Sold</th></tr><tr><td>A</td><td>15.50</td><td>20</td></tr><tr><td>B</td><td>8.75</td><td>35</td></tr><tr><td>C</td><td>22.00</td><td>12</td></tr></table><br>Write the formula to calculate the total sales for <u>Product A</u> in cell D2, assuming the unit price is in cell B2 and quantity sold is in cell C2.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The correct formula to calculate the total sales for <b>Product A</b> in cell D2 is:<br><code>=B2 * C2</code><br><br>This formula multiplies the <i>Unit Price</i> (B2) by the <i>Quantity Sold</i> (C2) to compute the total sales. For the given data, the result would be:<br>$15.50 \\times 20 = 310.00$.<br><br>To apply this formula to other products, drag the fill handle (small square at the bottom-right corner of the cell) down to cells D3 and D4.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "59045": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Internet vs Intranet",
+        "question_type": "Objective",
+        "exam_year": "2019",
+        "question_text": "<p>Which of the following statements correctly differentiates an <b>intranet</b> from the <b>internet</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The correct answer is <b>An intranet is a private network accessible only to an organization's staff, while the internet is a global public network.</b> Intranets are used for internal communication and resource sharing within an organization, whereas the internet is accessible to the general public.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "10945",
+                "tag": "a",
+                "text": "An intranet is faster than the internet.",
+                "is_correct": false
+            },
+            {
+                "option_id": "63657",
+                "tag": "b",
+                "text": "An intranet is a private network accessible only to an organization's staff, while the internet is a global public network.",
+                "is_correct": true
+            },
+            {
+                "option_id": "29343",
+                "tag": "c",
+                "text": "The internet is used for internal communication, while an intranet is used for external communication.",
+                "is_correct": false
+            },
+            {
+                "option_id": "48375",
+                "tag": "d",
+                "text": "An intranet requires a modem to access, while the internet does not.",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "59046": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Computer Ethics",
+        "question_type": "Theory",
+        "exam_year": "2019",
+        "question_text": "<p>Discuss <u>three</u> ethical issues associated with the use of ICT and suggest ways to address them.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>1. Privacy Violations:</b><br>Ethical Issue: Unauthorized collection, storage, or sharing of personal data (e.g., surveillance, data breaches) infringes on individuals' privacy.<br><i>Solution:</i> Enforce data protection laws (e.g., GDPR), use encryption, and obtain informed consent for data collection.<br><br><b>2. Cyberbullying:</b><br>Ethical Issue: The use of digital platforms to harass, intimidate, or humiliate others, often anonymously.<br><i>Solution:</i> Implement strict anti-cyberbullying policies, educate users on digital citizenship, and provide reporting mechanisms.<br><br><b>3. Intellectual Property Theft:</b><br>Ethical Issue: Unauthorized use or distribution of copyrighted material (e.g., software piracy, plagiarism).<br><i>Solution:</i> Promote awareness of copyright laws, use digital rights management (DRM), and encourage original content creation.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

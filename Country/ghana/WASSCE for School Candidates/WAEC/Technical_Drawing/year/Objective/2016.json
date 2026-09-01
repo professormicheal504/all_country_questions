@@ -1,0 +1,432 @@
+{
+    "88409": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Drawing tools overview",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>Which of the following drawing tools is used to draw horizontal lines accurately?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>T-square</b> is a drawing tool specifically designed to draw horizontal lines accurately by aligning it with the edge of the drawing board. Other tools like set squares and protractors are used for angles, while the compass is for circles and arcs.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "80083",
+                "tag": "a",
+                "text": "Set square",
+                "is_correct": false
+            },
+            {
+                "option_id": "88468",
+                "tag": "b",
+                "text": "T-square",
+                "is_correct": true
+            },
+            {
+                "option_id": "85851",
+                "tag": "c",
+                "pro tractor": "Protractor",
+                "is_correct": false
+            },
+            {
+                "option_id": "87181",
+                "tag": "d",
+                "text": "Compass",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "88410": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Standard sheet sizes",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>What is the size of an A2 drawing sheet in millimeters?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The ISO standard for paper sizes defines A2 as <b>420 mm \u00d7 594 mm</b>. Each A-size is half the area of the previous size (e.g., A1 is 594 mm \u00d7 841 mm).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "80084",
+                "tag": "a",
+                "text": "210 \u00d7 297",
+                "is_correct": false
+            },
+            {
+                "option_id": "88469",
+                "tag": "b",
+                "text": "297 \u00d7 420",
+                "is_correct": false
+            },
+            {
+                "option_id": "85852",
+                "tag": "c",
+                "text": "420 \u00d7 594",
+                "is_correct": true
+            },
+            {
+                "option_id": "87182",
+                "tag": "d",
+                "text": "594 \u00d7 841",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "88411": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Line types and uses",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>Which line type is used to represent hidden details in an orthographic projection?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>dashed line</b> (short dashes) is used to represent hidden edges or details in orthographic projections. Continuous thick lines are for visible outlines, chain lines for center lines, and continuous thin lines for dimensioning.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "80085",
+                "tag": "a",
+                "text": "Continuous thick line",
+                "is_correct": false
+            },
+            {
+                "option_id": "88470",
+                "tag": "b",
+                "text": "Dashed line",
+                "is_correct": true
+            },
+            {
+                "option_id": "85853",
+                "tag": "c",
+                "text": "Chain line",
+                "is_correct": false
+            },
+            {
+                "option_id": "87183",
+                "tag": "d",
+                "text": "Continuous thin line",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "88412": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Basic geometric constructions",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>To bisect a given angle using a compass and straightedge, which of the following steps is <b>not</b> required?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Bisecting an angle requires: (1) Drawing an arc from the vertex to intersect both arms, (2) Drawing arcs from the intersection points to locate the bisector, and (3) Joining the vertex to the new intersection. <b>Measuring the angle with a protractor</b> is unnecessary and not part of the geometric construction.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "80086",
+                "tag": "a",
+                "text": "Drawing an arc from the vertex to intersect both arms of the angle",
+                "is_correct": false
+            },
+            {
+                "option_id": "88471",
+                "tag": "b",
+                "text": "Measuring the angle with a protractor",
+                "is_correct": true
+            },
+            {
+                "option_id": "85854",
+                "tag": "c",
+                "text": "Drawing arcs from the intersection points to locate the bisector",
+                "is_correct": false
+            },
+            {
+                "option_id": "87184",
+                "tag": "d",
+                "text": "Joining the vertex to the new intersection point",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "88413": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Orthographic projection methods",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>In first-angle orthographic projection, the front view is placed:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In <b>first-angle projection</b>, the object is imagined to be in the first quadrant, and the views are projected onto planes behind the object. Thus, the front view is placed <b>above the plan</b> and to the left of the side view.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "80087",
+                "tag": "a",
+                "text": "Below the plan",
+                "is_correct": false
+            },
+            {
+                "option_id": "88472",
+                "tag": "b",
+                "text": "Above the plan",
+                "is_correct": true
+            },
+            {
+                "option_id": "85855",
+                "tag": "c",
+                "text": "To the right of the side view",
+                "is_correct": false
+            },
+            {
+                "option_id": "87185",
+                "tag": "d",
+                "text": "Behind the plan",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "88414": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Sectional view types",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>Which sectional view is used to show the interior details of a symmetrical object without cutting it fully?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>half section</b> is used for symmetrical objects, where only half of the object is sectioned to reveal interior details while the other half remains intact to show external features.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "80088",
+                "tag": "a",
+                "text": "Full section",
+                "is_correct": false
+            },
+            {
+                "option_id": "88473",
+                "tag": "b",
+                "text": "Half section",
+                "is_correct": true
+            },
+            {
+                "option_id": "85856",
+                "tag": "c",
+                "text": "Revolved section",
+                "is_correct": false
+            },
+            {
+                "option_id": "87186",
+                "tag": "d",
+                "text": "Removed section",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "88415": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Isometric drawing basics",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>In isometric drawing, the three principal axes are inclined at what angle to each other?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In isometric projection, the three principal axes (length, width, and height) are equally inclined at <b>120\u00b0</b> to each other to create a 3D effect on a 2D plane.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "80089",
+                "tag": "a",
+                "text": "90\u00b0",
+                "is_correct": false
+            },
+            {
+                "option_id": "88474",
+                "tag": "b",
+                "text": "60\u00b0",
+                "is_correct": false
+            },
+            {
+                "option_id": "85857",
+                "tag": "c",
+                "text": "120\u00b0",
+                "is_correct": true
+            },
+            {
+                "option_id": "87187",
+                "tag": "d",
+                "text": "45\u00b0",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "88416": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Surface development",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>Which of the following solids has a surface that can be developed into a single plane without distortion?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>cylinder</b> is a developable surface, meaning its lateral surface can be unfolded into a rectangle without distortion. Cones are also developable, but spheres and pyramids (unless right pyramids with specific conditions) are not.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "80090",
+                "tag": "a",
+                "text": "Sphere",
+                "is_correct": false
+            },
+            {
+                "option_id": "88475",
+                "tag": "b",
+                "text": "Cylinder",
+                "is_correct": true
+            },
+            {
+                "option_id": "85858",
+                "tag": "c",
+                "text": "Pyramid",
+                "is_correct": false
+            },
+            {
+                "option_id": "87188",
+                "tag": "d",
+                "text": "Torus",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "88417": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Dimensioning principles",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>Which of the following is <b>not</b> a principle of dimensioning in technical drawing?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Principles of dimensioning include avoiding duplication, placing dimensions outside the view, and using extension lines. <b>Dimensioning to hidden lines</b> is incorrect because dimensions should always refer to visible outlines.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "80091",
+                "tag": "a",
+                "text": "Avoid duplicating dimensions",
+                "is_correct": false
+            },
+            {
+                "option_id": "88476",
+                "tag": "b",
+                "text": "Place dimensions outside the view where possible",
+                "is_correct": false
+            },
+            {
+                "option_id": "85859",
+                "tag": "c",
+                "text": "Dimension to hidden lines",
+                "is_correct": true
+            },
+            {
+                "option_id": "87189",
+                "tag": "d",
+                "text": "Use extension lines to indicate the extent of dimensions",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "88418": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Fasteners and joints",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>Which of the following fasteners is used to prevent relative motion between two parts by friction?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>set screw</b> is a type of fastener used to secure an object within or against another object, typically by friction or compression, without using a nut. Bolts, rivets, and keys serve different purposes.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "80092",
+                "tag": "a",
+                "text": "Bolt",
+                "is_correct": false
+            },
+            {
+                "option_id": "88477",
+                "tag": "b",
+                "text": "Set screw",
+                "is_correct": true
+            },
+            {
+                "option_id": "85860",
+                "tag": "c",
+                "text": "Rivet",
+                "is_correct": false
+            },
+            {
+                "option_id": "87190",
+                "tag": "d",
+                "text": "Key",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

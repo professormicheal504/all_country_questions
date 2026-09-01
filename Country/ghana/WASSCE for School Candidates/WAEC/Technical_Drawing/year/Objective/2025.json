@@ -1,0 +1,432 @@
+{
+    "77699": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Drawing tools overview",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>Which of the following drawing tools is used to draw circles and arcs of varying radii?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>compass</b> is a drawing instrument used to draw circles and arcs of different sizes. It consists of two legs, one with a pointed end and the other with a pencil or pen attachment.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "86442",
+                "tag": "a",
+                "text": "T-square",
+                "is_correct": false
+            },
+            {
+                "option_id": "52628",
+                "tag": "b",
+                "text": "Compass",
+                "is_correct": true
+            },
+            {
+                "option_id": "95338",
+                "tag": "c",
+                "text": "Protractor",
+                "is_correct": false
+            },
+            {
+                "option_id": "75874",
+                "tag": "d",
+                "text": "Set square",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "77700": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Standard sheet sizes",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>What is the dimension of an A3 drawing sheet in millimeters?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The A3 sheet size is part of the ISO 216 standard and measures <b>297 mm \u00d7 420 mm</b>. It is half the size of an A2 sheet and twice the size of an A4 sheet.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "86443",
+                "tag": "a",
+                "text": "210 \u00d7 297",
+                "is_correct": false
+            },
+            {
+                "option_id": "52629",
+                "tag": "b",
+                "text": "297 \u00d7 420",
+                "is_correct": true
+            },
+            {
+                "option_id": "95339",
+                "tag": "c",
+                "text": "420 \u00d7 594",
+                "is_correct": false
+            },
+            {
+                "option_id": "75875",
+                "tag": "d",
+                "text": "594 \u00d7 841",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "77701": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Line types and uses",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>Which line type is used to represent hidden details in an orthographic projection?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>dashed line</b> (or hidden line) is used to represent edges or features that are not visible in the current view but exist in the object. It consists of short dashes evenly spaced.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "86444",
+                "tag": "a",
+                "text": "Continuous thick line",
+                "is_correct": false
+            },
+            {
+                "option_id": "52630",
+                "tag": "b",
+                "text": "Dashed line",
+                "is_correct": true
+            },
+            {
+                "option_id": "95340",
+                "tag": "c",
+                "text": "Chain line",
+                "is_correct": false
+            },
+            {
+                "option_id": "75876",
+                "tag": "d",
+                "text": "Continuous thin line",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "77702": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Basic geometric constructions",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>To bisect a given angle using a compass and straightedge, which of the following steps is <b>not</b> required?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Bisecting an angle requires drawing arcs from the vertex and intersecting points, then connecting the vertex to the intersection. <b>Drawing a perpendicular line from the vertex</b> is not part of the standard procedure.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "86445",
+                "tag": "a",
+                "text": "Drawing an arc from the vertex to intersect the angle arms",
+                "is_correct": false
+            },
+            {
+                "option_id": "52631",
+                "tag": "b",
+                "text": "Drawing arcs from the intersection points to find a new point",
+                "is_correct": false
+            },
+            {
+                "option_id": "95341",
+                "tag": "c",
+                "text": "Drawing a perpendicular line from the vertex",
+                "is_correct": true
+            },
+            {
+                "option_id": "75877",
+                "tag": "d",
+                "text": "Connecting the vertex to the intersection of the arcs",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "77703": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Orthographic projection methods",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>In first-angle orthographic projection, the front view is placed:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In <b>first-angle projection</b>, the front view is placed above the plan (top view) and to the left of the side view. The object is imagined to be in the first quadrant.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "86446",
+                "tag": "a",
+                "text": "Above the plan and to the right of the side view",
+                "is_correct": false
+            },
+            {
+                "option_id": "52632",
+                "tag": "b",
+                "text": "Above the plan and to the left of the side view",
+                "is_correct": true
+            },
+            {
+                "option_id": "95342",
+                "tag": "c",
+                "text": "Below the plan and to the right of the side view",
+                "is_correct": false
+            },
+            {
+                "option_id": "75878",
+                "tag": "d",
+                "text": "Below the plan and to the left of the side view",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "77704": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Sectional view types",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>Which type of sectional view is used to show the interior details of a symmetrical object by removing one-quarter of it?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>half section</b> is used for symmetrical objects, where one-quarter of the object is removed to reveal interior details while retaining half of the exterior view.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "86447",
+                "tag": "a",
+                "text": "Full section",
+                "is_correct": false
+            },
+            {
+                "option_id": "52633",
+                "tag": "b",
+                "text": "Half section",
+                "is_correct": true
+            },
+            {
+                "option_id": "95343",
+                "tag": "c",
+                "text": "Revolved section",
+                "is_correct": false
+            },
+            {
+                "option_id": "75879",
+                "tag": "d",
+                "text": "Removed section",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "77705": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Isometric drawing basics",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>In an isometric drawing, the three principal axes are inclined at what angle to each other?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In isometric projection, the three principal axes (length, width, and height) are equally spaced at <b>120\u00b0</b> to each other, creating a 3D representation on a 2D plane.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "86448",
+                "tag": "a",
+                "text": "90\u00b0",
+                "is_correct": false
+            },
+            {
+                "option_id": "52634",
+                "tag": "b",
+                "text": "120\u00b0",
+                "is_correct": true
+            },
+            {
+                "option_id": "95344",
+                "tag": "c",
+                "text": "60\u00b0",
+                "is_correct": false
+            },
+            {
+                "option_id": "75880",
+                "tag": "d",
+                "text": "45\u00b0",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "77706": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Dimensioning principles",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>Which of the following is <b>not</b> a correct dimensioning practice in technical drawing?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Dimensioning should avoid <b>placing dimensions inside the object</b> as it can cause confusion. Dimensions should be placed outside the object, aligned with extension lines, and not duplicated.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "86449",
+                "tag": "a",
+                "text": "Placing dimensions outside the object",
+                "is_correct": false
+            },
+            {
+                "option_id": "52635",
+                "tag": "b",
+                "text": "Placing dimensions inside the object",
+                "is_correct": true
+            },
+            {
+                "option_id": "95345",
+                "tag": "c",
+                "text": "Using extension lines to avoid crossing dimension lines",
+                "is_correct": false
+            },
+            {
+                "option_id": "75881",
+                "tag": "d",
+                "text": "Avoiding duplication of dimensions",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "77707": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Scale types and use",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>A drawing is made at a scale of 1:5. If a line on the drawing measures 40 mm, what is the actual length of the line in millimeters?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A scale of 1:5 means the drawing is 5 times smaller than the actual object. To find the actual length, multiply the drawing length by the scale factor: <b>40 mm \u00d7 5 = 200 mm</b>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "86450",
+                "tag": "a",
+                "text": "8 mm",
+                "is_correct": false
+            },
+            {
+                "option_id": "52636",
+                "tag": "b",
+                "text": "200 mm",
+                "is_correct": true
+            },
+            {
+                "option_id": "95346",
+                "tag": "c",
+                "text": "45 mm",
+                "is_correct": false
+            },
+            {
+                "option_id": "75882",
+                "tag": "d",
+                "text": "100 mm",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "77708": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Fasteners and joints",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>Which of the following fasteners is used to prevent relative motion between two parts by friction?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>set screw</b> is a type of fastener used to secure an object within or against another object, typically by friction or pressure, without using a nut.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "86451",
+                "tag": "a",
+                "text": "Bolt",
+                "is_correct": false
+            },
+            {
+                "option_id": "52637",
+                "tag": "b",
+                "text": "Set screw",
+                "is_correct": true
+            },
+            {
+                "option_id": "95347",
+                "tag": "c",
+                "text": "Rivet",
+                "is_correct": false
+            },
+            {
+                "option_id": "75883",
+                "tag": "d",
+                "text": "Key",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

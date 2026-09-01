@@ -1,0 +1,282 @@
+{
+    "26515": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Electronics Basics",
+        "question_type": "Theory",
+        "exam_year": "2003",
+        "question_text": "<p>Explain the difference between <b>conductors</b>, <b>semiconductors</b>, and <b>insulators</b> in terms of their energy bands. Include a sketch of their energy band diagrams in your explanation.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Conductors:</b> Have overlapping valence and conduction bands, allowing free electron flow. No energy gap ($E_g = 0$).<br><br><b>Semiconductors:</b> Have a small energy gap ($E_g$) between valence and conduction bands (e.g., $E_g = 1.1 \text{ eV}$ for silicon). At room temperature, some electrons gain enough energy to jump to the conduction band.<br><br><b>Insulators:</b> Have a large energy gap ($E_g > 3 \text{ eV}$), preventing electron flow under normal conditions.<br><br><i>Sketch:</i> Diagrams should show:<br>- Conductors: Overlapping bands.<br>- Semiconductors: Small gap between bands.<br>- Insulators: Large gap between bands.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "26516": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "PN Junction Diode",
+        "question_type": "Theory",
+        "exam_year": "2003",
+        "question_text": "<p>Describe the formation of a <b>depletion region</b> in a PN junction diode. How does this region affect the diode's behavior under <b>forward bias</b> and <b>reverse bias</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The depletion region forms when holes from the <i>p-type</i> and electrons from the <i>n-type</i> recombine at the junction, creating an area devoid of free charge carriers. This region acts as a barrier to current flow.<br><br><b>Forward Bias:</b> Reduces the depletion region width, allowing current to flow as the barrier potential decreases.<br><b>Reverse Bias:</b> Increases the depletion region width, preventing current flow (except for a small leakage current).<br><br>Key equation for barrier potential: $V_{bi} = \frac{kT}{q} \text{ln} \frac{N_A N_D}{n_i^2}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "26517": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Diode Rectification",
+        "question_type": "Objective",
+        "exam_year": "2003",
+        "question_text": "<p>Which of the following circuits converts an <b>AC input</b> to a <b>pulsating DC output</b> using a single diode?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>half-wave rectifier</b> uses a single diode to allow only one half-cycle of the AC input to pass through, producing a pulsating DC output. The other options either use multiple diodes or serve different purposes.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "70963",
+                "tag": "a",
+                "text": "Full-wave rectifier",
+                "is_correct": false
+            },
+            {
+                "option_id": "48660",
+                "tag": "b",
+                "text": "Half-wave rectifier",
+                "is_correct": true
+            },
+            {
+                "option_id": "50111",
+                "tag": "c",
+                "text": "Bridge rectifier",
+                "is_correct": false
+            },
+            {
+                "option_id": "68428",
+                "tag": "d",
+                "text": "Voltage regulator",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "26518": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Zener Diodes",
+        "question_type": "Theory",
+        "exam_year": "2003",
+        "question_text": "<p>Explain how a <b>Zener diode</b> maintains a constant output voltage in a voltage regulator circuit. Include a circuit diagram in your answer.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A Zener diode operates in <b>reverse breakdown</b> mode, where it maintains a nearly constant voltage ($V_Z$) across its terminals despite changes in current. In a regulator circuit, it is placed in parallel with the load. When the input voltage exceeds $V_Z$, the Zener diode conducts, shunting excess current and stabilizing the output voltage.<br><br><i>Circuit Diagram:</i> Should show:<br>- Input voltage source.<br>- Series resistor.<br>- Zener diode in reverse bias.<br>- Load resistor in parallel with the Zener diode.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "26519": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "BJT Biasing Methods",
+        "question_type": "Objective",
+        "exam_year": "2003",
+        "question_text": "<p>Which BJT biasing method uses a single resistor connected to the base and provides <b>poor stability</b> against temperature variations?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Base bias (fixed bias)</b> uses a single resistor connected to the base and provides poor stability because the collector current ($I_C$) is highly dependent on the transistor's current gain ($\u03b2$), which varies with temperature.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "70964",
+                "tag": "a",
+                "text": "Voltage divider bias",
+                "is_correct": false
+            },
+            {
+                "option_id": "48661",
+                "tag": "b",
+                "text": "Emitter bias",
+                "is_correct": false
+            },
+            {
+                "option_id": "50112",
+                "tag": "c",
+                "text": "Base bias",
+                "is_correct": true
+            },
+            {
+                "option_id": "68429",
+                "tag": "d",
+                "text": "Collector feedback bias",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "26520": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Common-Emitter Amplifier",
+        "question_type": "Theory",
+        "exam_year": "2003",
+        "question_text": "<p>Derive the expression for the <b>voltage gain</b> ($A_v$) of a common-emitter amplifier. State the assumptions made in your derivation.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The voltage gain of a common-emitter amplifier is given by:<br>$A_v = \frac{V_{out}}{V_{in}} = -g_m R_C$, where $g_m$ is the transconductance ($g_m = \frac{I_C}{V_T}$) and $R_C$ is the collector resistor.<br><br>Assumptions:<br>- The transistor is in the <b>active region</b>.<br>- The coupling capacitors act as short circuits at the signal frequency.<br>- The emitter bypass capacitor provides a low-impedance path to ground.<br>- The load resistance is much larger than $R_C$.<br><br>Derivation:<br>1. $V_{out} = -I_C R_C$.<br>2. $I_C = g_m V_{be}$.<br>3. $V_{be} = V_{in}$ (assuming $R_B$ is large).<br>4. Substituting: $A_v = -g_m R_C$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "26521": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Number Systems",
+        "question_type": "Objective",
+        "exam_year": "2003",
+        "question_text": "<p>Convert the binary number <b>$110101_2$</b> to its decimal equivalent.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The binary number $110101_2$ is converted to decimal as follows:<br>$1 \times 2^5 + 1 \times 2^4 + 0 \times 2^3 + 1 \times 2^2 + 0 \times 2^1 + 1 \times 2^0 = 32 + 16 + 0 + 4 + 0 + 1 = 53_{10}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "70965",
+                "tag": "a",
+                "text": "45",
+                "is_correct": false
+            },
+            {
+                "option_id": "48662",
+                "tag": "b",
+                "text": "53",
+                "is_correct": true
+            },
+            {
+                "option_id": "50113",
+                "tag": "c",
+                "text": "61",
+                "is_correct": false
+            },
+            {
+                "option_id": "68430",
+                "tag": "d",
+                "text": "27",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "26522": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Logic Gates",
+        "question_type": "Theory",
+        "exam_year": "2003",
+        "question_text": "<p>Draw the truth table for a <b>3-input NAND gate</b>. Using Boolean algebra, simplify the expression $Y = \\overline{A \bullet B \bullet C}$ for the case where $A = 1$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Truth Table for 3-input NAND gate:</b><br><table border='1'><tr><th>A</th><th>B</th><th>C</th><th>Y</th></tr><tr><td>0</td><td>0</td><td>0</td><td>1</td></tr><tr><td>0</td><td>0</td><td>1</td><td>1</td></tr><tr><td>0</td><td>1</td><td>0</td><td>1</td></tr><tr><td>0</td><td>1</td><td>1</td><td>1</td></tr><tr><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>1</td><td>0</td><td>1</td><td>1</td></tr><tr><td>1</td><td>1</td><td>0</td><td>1</td></tr><tr><td>1</td><td>1</td><td>1</td><td>0</td></tr></table><br><b>Simplification for $A = 1$:</b><br>$Y = \\overline{1 \bullet B \bullet C} = \\overline{B \bullet C}$ (using the identity $\\overline{1 \bullet X} = \bar{X}$).<br>This simplifies to a 2-input NAND gate with inputs $B$ and $C$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "26523": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Op-Amp Applications",
+        "question_type": "Objective",
+        "exam_year": "2003",
+        "question_text": "<p>Which of the following Op-Amp configurations is used to <b>add two voltages</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>summing amplifier</b> is an Op-Amp configuration used to add two or more voltages. It uses multiple input resistors connected to the inverting terminal, with the output voltage proportional to the sum of the input voltages.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "70966",
+                "tag": "a",
+                "text": "Inverting amplifier",
+                "is_correct": false
+            },
+            {
+                "option_id": "48663",
+                "tag": "b",
+                "text": "Non-inverting amplifier",
+                "is_correct": false
+            },
+            {
+                "option_id": "50114",
+                "tag": "c",
+                "text": "Summing amplifier",
+                "is_correct": true
+            },
+            {
+                "option_id": "68431",
+                "tag": "d",
+                "text": "Differentiator",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "26524": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Power Supply Circuits",
+        "question_type": "Theory",
+        "exam_year": "2003",
+        "question_text": "<p>Describe the operation of a <b>full-wave bridge rectifier</b>. Calculate the <b>peak inverse voltage (PIV)</b> across each diode in the circuit if the input AC voltage is $24 \text{ V}_{\text{rms}}$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>full-wave bridge rectifier</b> uses four diodes arranged in a bridge configuration to rectify both halves of the AC input waveform. During each half-cycle, two diodes conduct, allowing current to flow through the load in the same direction.<br><br><b>PIV Calculation:</b><br>The peak voltage of the AC input is $V_{peak} = V_{rms} \times \\sqrt{2} = 24 \times 1.414 = 33.94 \text{ V}$.<br>The PIV across each diode is equal to the peak voltage of the input: $PIV = V_{peak} = 33.94 \text{ V}$ (since the diodes are reverse-biased during the non-conducting half-cycle).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

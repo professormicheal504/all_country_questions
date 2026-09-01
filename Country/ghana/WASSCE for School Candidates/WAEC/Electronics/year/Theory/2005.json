@@ -1,0 +1,282 @@
+{
+    "64923": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Electronics Basics",
+        "question_type": "Theory",
+        "exam_year": "2005",
+        "question_text": "<p>Explain the difference between <b>conductors</b>, <b>semiconductors</b>, and <b>insulators</b> in terms of their energy bands. Include a sketch of their energy band diagrams in your explanation.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Conductors, semiconductors, and insulators are classified based on their energy band structures:<br><br><b>Conductors:</b><br>- Have overlapping valence and conduction bands.<br>- Electrons can move freely, allowing easy flow of current.<br>- Example: Metals like copper and aluminum.<br><br><b>Semiconductors:</b><br>- Have a small energy gap ($E_g$) between the valence and conduction bands (e.g., $E_g = 1.1 \text{ eV}$ for silicon).<br>- At absolute zero, they behave as insulators, but at room temperature, some electrons gain enough energy to jump to the conduction band.<br>- Example: Silicon and germanium.<br><br><b>Insulators:</b><br>- Have a large energy gap ($E_g > 3 \text{ eV}$) between the valence and conduction bands.<br>- Electrons cannot jump to the conduction band under normal conditions, preventing current flow.<br>- Example: Glass and rubber.<br><br>The energy band diagrams are as follows:<br>- <b>Conductor:</b> Overlapping bands.<br>- <b>Semiconductor:</b> Small gap between valence and conduction bands.<br>- <b>Insulator:</b> Large gap between valence and conduction bands.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "64924": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "PN Junction Diode",
+        "question_type": "Theory",
+        "exam_year": "2005",
+        "question_text": "<p>Describe the formation of a <b>depletion region</b> in a PN junction diode. How does this region affect the diode's behavior under <i>forward bias</i> and <i>reverse bias</i> conditions?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The depletion region in a PN junction diode forms due to the diffusion of majority carriers across the junction:<br><br>1. <b>Formation:</b><br>- When a P-type and N-type semiconductor are joined, holes from the P-side diffuse into the N-side, and electrons from the N-side diffuse into the P-side.<br>- The diffused carriers recombine near the junction, leaving behind immobile ions (donor ions in the N-side and acceptor ions in the P-side).<br>- This creates a region depleted of free carriers, called the <b>depletion region</b>, which acts as a potential barrier.<br><br>2. <b>Forward Bias:</b><br>- The external voltage reduces the potential barrier, allowing majority carriers to cross the junction.<br>- Current flows easily as the depletion region narrows.<br><br>3. <b>Reverse Bias:</b><br>- The external voltage increases the potential barrier, widening the depletion region.<br>- Only a small reverse saturation current flows due to minority carriers.<br><br>The depletion region is crucial in determining the diode's rectifying properties.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "64925": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Diode Rectification",
+        "question_type": "Objective",
+        "exam_year": "2005",
+        "question_text": "<p>Which of the following circuits converts an <i>AC input</i> to a <i>pulsating DC output</i>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>half-wave rectifier</b> converts an AC input to a pulsating DC output by allowing only one half-cycle of the AC signal to pass through while blocking the other half. This is achieved using a single diode in series with the load resistor.<br><br>The correct answer is <b>(a) Half-wave rectifier</b>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "82056",
+                "tag": "a",
+                "text": "Half-wave rectifier",
+                "is_correct": true
+            },
+            {
+                "option_id": "92710",
+                "tag": "b",
+                "text": "Full-wave rectifier",
+                "is_correct": false
+            },
+            {
+                "option_id": "90268",
+                "tag": "c",
+                "text": "Voltage regulator",
+                "is_correct": false
+            },
+            {
+                "option_id": "13410",
+                "tag": "d",
+                "text": "Amplifier circuit",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "64926": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Zener Diodes and Regulation",
+        "question_type": "Theory",
+        "exam_year": "2005",
+        "question_text": "<p>Explain how a <b>Zener diode</b> maintains a constant output voltage in a voltage regulator circuit. Include a circuit diagram in your answer.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A Zener diode maintains a constant output voltage in a voltage regulator circuit by operating in the <b>reverse breakdown region</b>:<br><br>1. <b>Operation:</b><br>- When reverse-biased beyond its breakdown voltage ($V_Z$), the Zener diode conducts current while maintaining a nearly constant voltage across its terminals.<br>- This property allows it to regulate voltage by shunting excess current away from the load.<br><br>2. <b>Circuit Diagram:</b><br>- The Zener diode is connected in parallel with the load resistor ($R_L$).<br>- A series resistor ($R_S$) limits the current through the Zener diode to prevent damage.<br>- The input voltage ($V_{in}$) must be greater than the Zener voltage ($V_Z$) for regulation to occur.<br><br>3. <b>Regulation Process:</b><br>- If $V_{in}$ increases, the Zener diode conducts more current, dropping more voltage across $R_S$ and maintaining $V_Z$ across $R_L$.<br>- If $V_{in}$ decreases, the Zener diode conducts less current, reducing the voltage drop across $R_S$ and again maintaining $V_Z$ across $R_L$.<br><br>The output voltage remains stable as long as the Zener diode operates within its specified current range.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "64927": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "BJT Biasing Methods",
+        "question_type": "Objective",
+        "exam_year": "2005",
+        "question_text": "<p>Which of the following BJT biasing methods provides the <i>most stable</i> Q-point against temperature variations?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>voltage divider bias</b> method provides the most stable Q-point against temperature variations because it uses a resistive divider network to set the base voltage, reducing the dependency on the transistor's current gain ($\\beta$).<br><br>The correct answer is <b>(c) Voltage divider bias</b>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "82056",
+                "tag": "a",
+                "text": "Fixed bias",
+                "is_correct": false
+            },
+            {
+                "option_id": "92710",
+                "tag": "b",
+                "text": "Emitter bias",
+                "is_correct": false
+            },
+            {
+                "option_id": "90268",
+                "tag": "c",
+                "text": "Voltage divider bias",
+                "is_correct": true
+            },
+            {
+                "option_id": "13410",
+                "tag": "d",
+                "text": "Collector feedback bias",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "64928": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Common-Emitter Amplifier",
+        "question_type": "Theory",
+        "exam_year": "2005",
+        "question_text": "<p>Derive the expression for the <b>voltage gain</b> ($A_v$) of a common-emitter amplifier. Assume the amplifier uses a BJT with current gain $\\beta$ and a load resistor $R_L$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The voltage gain ($A_v$) of a common-emitter amplifier can be derived as follows:<br><br>1. <b>Small-Signal Model:</b><br>- The input resistance at the base is $r_{\\pi} = \\frac{\\beta V_T}{I_C}$, where $V_T$ is the thermal voltage (~26 mV at room temperature) and $I_C$ is the collector current.<br>- The output voltage is $v_{out} = -g_m v_{\\pi} R_L$, where $g_m = \\frac{I_C}{V_T}$ is the transconductance.<br><br>2. <b>Input Voltage:</b><br>- The input voltage is $v_{in} = v_{\\pi} + i_b r_{\\pi} = v_{\\pi} (1 + \\frac{r_{\\pi}}{R_B})$, where $R_B$ is the base resistance.<br>- For simplicity, assume $R_B \\gg r_{\\pi}$, so $v_{in} \\approx v_{\\pi}$.<br><br>3. <b>Voltage Gain:</b><br>- $A_v = \\frac{v_{out}}{v_{in}} = \\frac{-g_m v_{\\pi} R_L}{v_{\\pi}} = -g_m R_L$.<br>- Substituting $g_m = \\frac{I_C}{V_T}$, we get $A_v = -\\frac{I_C R_L}{V_T}$.<br>- Since $I_C = \\beta I_B$, the gain can also be expressed as $A_v = -\\beta \\frac{R_L}{r_{\\pi}}$.<br><br>The negative sign indicates a 180\u00b0 phase shift between input and output.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "64929": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Operational Amplifiers",
+        "question_type": "Objective",
+        "exam_year": "2005",
+        "question_text": "<p>In an <b>inverting amplifier</b> using an Op-Amp, the voltage gain is given by:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The voltage gain of an inverting amplifier is determined by the ratio of the feedback resistor ($R_f$) to the input resistor ($R_{in}$), with a negative sign indicating a phase inversion:<br><br>$A_v = -\\frac{R_f}{R_{in}}$.<br><br>The correct answer is <b>(b) $-\\frac{R_f}{R_{in}}$</b>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "82056",
+                "tag": "a",
+                "text": "$\\frac{R_f}{R_{in}}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "92710",
+                "tag": "b",
+                "text": "$-\\frac{R_f}{R_{in}}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "90268",
+                "tag": "c",
+                "text": "$\\frac{R_{in}}{R_f}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "13410",
+                "tag": "d",
+                "text": "$-\\frac{R_{in}}{R_f}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "64930": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Number Systems and Conversions",
+        "question_type": "Theory",
+        "exam_year": "2005",
+        "question_text": "<p>Convert the binary number <b>110101.101</b> to its decimal equivalent. Show all steps clearly.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>To convert the binary number <b>110101.101</b> to decimal, follow these steps:<br><br>1. <b>Integer Part (110101):</b><br>- $1 \\times 2^5 = 32$<br>- $1 \\times 2^4 = 16$<br>- $0 \\times 2^3 = 0$<br>- $1 \\times 2^2 = 4$<br>- $0 \\times 2^1 = 0$<br>- $1 \\times 2^0 = 1$<br>- Sum: $32 + 16 + 0 + 4 + 0 + 1 = 53$.<br><br>2. <b>Fractional Part (.101):</b><br>- $1 \\times 2^{-1} = 0.5$<br>- $0 \\times 2^{-2} = 0$<br>- $1 \\times 2^{-3} = 0.125$<br>- Sum: $0.5 + 0 + 0.125 = 0.625$.<br><br>3. <b>Final Result:</b><br>- Combine integer and fractional parts: $53 + 0.625 = 53.625$.<br><br>The decimal equivalent of <b>110101.101</b> is <b>53.625</b>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "64931": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Logic Gates and Boolean Algebra",
+        "question_type": "Objective",
+        "exam_year": "2005",
+        "question_text": "<p>Which of the following Boolean expressions represents the output of a <b>NAND gate</b> with inputs A and B?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A NAND gate is equivalent to an AND gate followed by a NOT gate. Its Boolean expression is the negation of the AND operation:<br><br>$Y = \\overline{A \\cdot B}$.<br><br>The correct answer is <b>(d) $\\overline{A \\cdot B}$</b>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "82056",
+                "tag": "a",
+                "text": "$A + B$",
+                "is_correct": false
+            },
+            {
+                "option_id": "92710",
+                "tag": "b",
+                "text": "$A \\cdot B$",
+                "is_correct": false
+            },
+            {
+                "option_id": "90268",
+                "tag": "c",
+                "text": "$\\overline{A + B}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "13410",
+                "tag": "d",
+                "text": "$\\overline{A \\cdot B}$",
+                "is_correct": true
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "64932": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Power Supply Circuits",
+        "question_type": "Theory",
+        "exam_year": "2005",
+        "question_text": "<p>Draw and explain the operation of a <b>full-wave bridge rectifier</b> circuit. Include the input and output waveforms in your answer.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A full-wave bridge rectifier converts an AC input into a pulsating DC output using four diodes arranged in a bridge configuration:<br><br>1. <b>Circuit Diagram:</b><br>- Four diodes ($D_1$, $D_2$, $D_3$, $D_4$) are connected in a bridge.<br>- The AC input is applied across one diagonal, and the load resistor ($R_L$) is connected across the other diagonal.<br><br>2. <b>Operation:</b><br>- During the positive half-cycle of the AC input, diodes $D_1$ and $D_2$ conduct, allowing current to flow through $R_L$ in one direction.<br>- During the negative half-cycle, diodes $D_3$ and $D_4$ conduct, allowing current to flow through $R_L$ in the same direction as before.<br>- This results in a pulsating DC output with both halves of the AC waveform utilized.<br><br>3. <b>Output Waveform:</b><br>- The output waveform is a full-wave rectified signal with a frequency twice that of the input AC signal.<br>- The average output voltage is $V_{out} = \\frac{2 V_{peak}}{\\pi}$, where $V_{peak}$ is the peak input voltage.<br><br>The bridge rectifier is more efficient than a half-wave rectifier and does not require a center-tapped transformer.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

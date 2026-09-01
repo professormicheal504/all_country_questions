@@ -1,0 +1,257 @@
+{
+    "81192": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Electronics Basics",
+        "question_type": "Theory",
+        "exam_year": "2000",
+        "question_text": "<p>Explain the concept of <b>electron flow</b> in a conductor. How does it differ from conventional current flow? Illustrate your answer with a simple circuit diagram.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Electron flow</b> refers to the movement of <i>free electrons</i> from the negative terminal to the positive terminal of a voltage source in a conductor. This is the actual direction of charge carrier movement in metals.<br><br>Conventional current flow, however, assumes that current flows from the positive terminal to the negative terminal. This convention was established before the discovery of the electron and is still used in circuit analysis for historical reasons.<br><br>In a simple circuit diagram, electron flow would be shown moving from the negative side of the battery to the positive side, while conventional current would be depicted in the opposite direction.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "81193": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Atomic Structure and Energy Bands",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>In a semiconductor material, the energy gap between the valence band and the conduction band is known as the:<br>(A) <i>Fermi level</i><br>(B) <i>Bandgap</i><br>(C) <i>Intrinsic level</i><br>(D) <i>Doping level</i></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The correct answer is (B) <b>Bandgap</b>. The <i>bandgap</i> ($E_g$) is the energy difference between the valence band (where electrons are bound) and the conduction band (where electrons are free to move and conduct electricity). This property is fundamental in determining whether a material is a conductor, semiconductor, or insulator.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "73973",
+                "tag": "a",
+                "text": "<i>Fermi level</i>",
+                "is_correct": false
+            },
+            {
+                "option_id": "50609",
+                "tag": "b",
+                "text": "<i>Bandgap</i>",
+                "is_correct": true
+            },
+            {
+                "option_id": "80773",
+                "tag": "c",
+                "text": "<i>Intrinsic level</i>",
+                "is_correct": false
+            },
+            {
+                "option_id": "84115",
+                "tag": "d",
+                "text": "<i>Doping level</i>",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "81194": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Semiconductor Types and Doping",
+        "question_type": "Theory",
+        "exam_year": "2000",
+        "question_text": "<p>Describe the process of <b>doping</b> in semiconductors. Differentiate between <i>n-type</i> and <i>p-type</i> semiconductors, including the majority and minority carriers in each.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Doping</b> is the intentional introduction of impurities into an intrinsic semiconductor to modify its electrical properties.<br><br><b>n-type semiconductor:</b> Doped with pentavalent atoms (e.g., phosphorus). These atoms donate extra electrons, making electrons the <i>majority carriers</i> and holes the <i>minority carriers</i>.<br><br><b>p-type semiconductor:</b> Doped with trivalent atoms (e.g., boron). These atoms create ",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "81195": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "PN Junction Diode",
+        "question_type": "Theory",
+        "exam_year": "2000",
+        "question_text": "<p>Draw the <b>I-V characteristic curve</b> of a PN junction diode. Label the forward bias, reverse bias, and breakdown regions. Explain the behavior of the diode in each region.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>I-V characteristic curve</b> of a PN junction diode shows the relationship between the current ($I$) and voltage ($V$) across the diode.<br><br><b>Forward Bias:</b> When the anode is positive relative to the cathode, the diode conducts current easily after a small threshold voltage ($V_{th} \\approx 0.7V$ for silicon). The current increases exponentially with voltage.<br><br><b>Reverse Bias:</b> When the cathode is positive relative to the anode, only a small reverse saturation current ($I_s$) flows due to minority carriers. The diode acts as an insulator.<br><br><b>Breakdown Region:</b> At a sufficiently high reverse voltage ($V_{BR}$), the diode undergoes <i>avalanche breakdown</i> or <i>Zener breakdown</i>, leading to a sharp increase in current. This region is destructive unless the diode is designed for it (e.g., Zener diodes).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "81196": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Diode Rectification",
+        "question_type": "Practical",
+        "exam_year": "2000",
+        "question_text": "<p>Design a <b>full-wave bridge rectifier</b> circuit using four diodes. Include a smoothing capacitor to reduce ripple voltage. Calculate the output DC voltage if the input AC voltage is $V_{in} = 12V_{rms}$ and the diode forward voltage drop is $V_d = 0.7V$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>full-wave bridge rectifier</b> uses four diodes arranged in a bridge configuration to convert AC to DC. The smoothing capacitor ($C$) is connected in parallel with the load to reduce ripple.<br><br><b>Peak input voltage:</b> $V_{peak} = V_{in} \times \\sqrt{2} = 12 \times 1.414 = 16.97V$.<br><br><b>Peak output voltage:</b> $V_{out(peak)} = V_{peak} - 2V_d = 16.97 - 1.4 = 15.57V$ (two diodes conduct in series).<br><br><b>Average DC output voltage:</b> $V_{DC} \\approx V_{out(peak)} - \frac{V_{ripple}}{2}$, where $V_{ripple}$ depends on the load current and capacitance. For ideal smoothing, $V_{DC} \\approx 15.57V$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "81197": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Zener Diodes and Regulation",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>A Zener diode is primarily used for:<br>(A) <i>Amplification</i><br>(B) <i>Rectification</i><br>(C) <i>Voltage regulation</i><br>(D) <i>Oscillation</i></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The correct answer is (C) <b>Voltage regulation</b>. A Zener diode operates in the reverse breakdown region to maintain a constant output voltage across a load, even when the input voltage or load current varies. This makes it ideal for voltage regulation applications.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "73974",
+                "tag": "a",
+                "text": "<i>Amplification</i>",
+                "is_correct": false
+            },
+            {
+                "option_id": "50610",
+                "tag": "b",
+                "text": "<i>Rectification</i>",
+                "is_correct": false
+            },
+            {
+                "option_id": "80774",
+                "tag": "c",
+                "text": "<i>Voltage regulation</i>",
+                "is_correct": true
+            },
+            {
+                "option_id": "84116",
+                "tag": "d",
+                "text": "<i>Oscillation</i>",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "81198": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "BJT Structure and Operation",
+        "question_type": "Theory",
+        "exam_year": "2000",
+        "question_text": "<p>Explain the <b>operation</b> of a <i>Bipolar Junction Transistor (BJT)</i> in the active region. Include the roles of the base, emitter, and collector, and derive the relationship between the collector current ($I_C$) and base current ($I_B$).</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A BJT operates in the <b>active region</b> when the base-emitter junction is forward-biased and the base-collector junction is reverse-biased.<br><br><b>Roles of terminals:</b><br>- <b>Emitter (E):</b> Heavily doped; emits majority carriers (electrons in npn, holes in pnp).<br>- <b>Base (B):</b> Thin and lightly doped; controls the flow of carriers from emitter to collector.<br>- <b>Collector (C):</b> Moderately doped; collects carriers from the emitter.<br><br><b>Current relationship:</b> The collector current ($I_C$) is proportional to the base current ($I_B$) and is given by:<br>$I_C = \beta I_B$, where $\beta$ is the <i>current gain</i> (typically 50\u2013200).<br>The emitter current ($I_E$) is the sum of $I_C$ and $I_B$: $I_E = I_C + I_B$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "81199": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Common-Emitter Amplifier",
+        "question_type": "Practical",
+        "exam_year": "2000",
+        "question_text": "<p>For a <b>common-emitter amplifier</b> circuit with a BJT, derive the expression for the <i>voltage gain</i> ($A_v$) in terms of the collector resistance ($R_C$), emitter resistance ($R_E$), and the transistor's current gain ($\beta$). Assume the amplifier is biased for linear operation.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>voltage gain</b> ($A_v$) of a common-emitter amplifier is given by:<br><br>$A_v = \frac{V_{out}}{V_{in}} = \frac{-g_m R_C}{1 + g_m R_E}$, where $g_m$ is the <i>transconductance</i> of the transistor.<br><br>For a BJT, $g_m = \frac{I_C}{V_T}$, where $V_T$ is the thermal voltage ($V_T \\approx 26mV$ at room temperature).<br><br>Substituting $g_m$ and simplifying, the voltage gain can be approximated as:<br>$A_v \\approx \frac{-\beta R_C}{r_{\\pi} + (\beta + 1) R_E}$, where $r_{\\pi} = \frac{\beta}{g_m}$ is the input resistance of the transistor.<br><br>For large $\beta$, this simplifies to:<br>$A_v \\approx \frac{-R_C}{R_E}$ (if $R_E$ is unbypassed).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "81200": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Operational Amplifiers (Op-Amp)",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>In an <b>inverting Op-Amp configuration</b>, the voltage gain is given by:<br>(A) $A_v = 1 + \frac{R_f}{R_{in}}$<br>(B) $A_v = -\frac{R_f}{R_{in}}$<br>(C) $A_v = \frac{R_f}{R_{in}}$<br>(D) $A_v = -\frac{R_{in}}{R_f}$</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The correct answer is (B) $A_v = -\frac{R_f}{R_{in}}$.<br><br>In an <b>inverting Op-Amp configuration</b>, the input signal is applied to the inverting terminal, and the feedback resistor ($R_f$) is connected from the output to the inverting terminal. The voltage gain is negative, indicating a 180\u00b0 phase shift, and its magnitude is determined by the ratio of $R_f$ to $R_{in}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "73975",
+                "tag": "a",
+                "text": "$A_v = 1 + \\frac{R_f}{R_{in}}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "50611",
+                "tag": "b",
+                "text": "$A_v = -\\frac{R_f}{R_{in}}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "80775",
+                "tag": "c",
+                "text": "$A_v = \\frac{R_f}{R_{in}}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "84117",
+                "tag": "d",
+                "text": "$A_v = -\\frac{R_{in}}{R_f}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "81201": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Number Systems and Logic Gates",
+        "question_type": "Theory",
+        "exam_year": "2000",
+        "question_text": "<p>Convert the decimal number <b>45</b> to its binary, octal, and hexadecimal equivalents. Using the binary equivalent, construct the truth table for a 2-input <i>AND gate</i> and a 2-input <i>OR gate</i>.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Decimal to Binary:</b> $45_{10} = 101101_2$ (divide by 2 and record remainders).<br><br><b>Decimal to Octal:</b> $45_{10} = 55_8$ (group binary digits into sets of 3: $101101_2 = 55_8$).<br><br><b>Decimal to Hexadecimal:</b> $45_{10} = 2D_{16}$ (group binary digits into sets of 4: $00101101_2 = 2D_{16}$).<br><br><b>Truth Tables:</b><br><br><u>AND Gate:</u><br><table border='1'><tr><th>A</th><th>B</th><th>A AND B</th></tr><tr><td>0</td><td>0</td><td>0</td></tr><tr><td>0</td><td>1</td><td>0</td></tr><tr><td>1</td><td>0</td><td>0</td></tr><tr><td>1</td><td>1</td><td>1</td></tr></table><br><u>OR Gate:</u><br><table border='1'><tr><th>A</th><th>B</th><th>A OR B</th></tr><tr><td>0</td><td>0</td><td>0</td></tr><tr><td>0</td><td>1</td><td>1</td></tr><tr><td>1</td><td>0</td><td>1</td></tr><tr><td>1</td><td>1</td><td>1</td></tr></table></p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

@@ -1,0 +1,257 @@
+{
+    "40056": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Electronics Basics",
+        "question_type": "Theory",
+        "exam_year": "2007",
+        "question_text": "<p>Explain the term <b>electronics</b> and describe the role of electrons in electronic devices. State <u>two</u> examples of electronic devices and their applications.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Electronics</b> is the branch of physics and technology concerned with the design of circuits using active and passive components to control the flow of electrons for processing information or converting energy.<br><br>Electrons play a crucial role in electronic devices as they are the charge carriers that enable current flow. Their movement through conductors and semiconductors allows devices to perform functions like amplification, switching, and signal processing.<br><br><b>Examples:</b><br>1. <b>Transistor:</b> Used in amplifiers and digital logic circuits.<br>2. <b>Diode:</b> Used for rectification in power supplies.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "40057": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Atomic Structure and Energy Bands",
+        "question_type": "Theory",
+        "exam_year": "2007",
+        "question_text": "<p>Describe the <b>atomic structure</b> of a silicon atom and explain the concept of <b>energy bands</b> in solids. How do these bands determine whether a material is a conductor, semiconductor, or insulator?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A silicon atom has 14 electrons, with its electronic configuration as $1s^2 2s^2 2p^6 3s^2 3p^2$. It has four valence electrons in its outermost shell.<br><br><b>Energy bands</b> in solids arise from the splitting of atomic energy levels when atoms come together to form a crystal lattice. The two key bands are:<br>1. <b>Valence Band:</b> The energy band where valence electrons reside.<br>2. <b>Conduction Band:</b> The energy band where electrons can move freely to conduct electricity.<br><br>The <b>band gap</b> ($E_g$) between these bands determines the material's conductivity:<br>- <b>Conductor:</b> No band gap (valence and conduction bands overlap).<br>- <b>Semiconductor:</b> Small band gap (e.g., silicon: $E_g = 1.1 \text{ eV}$).<br>- <b>Insulator:</b> Large band gap (e.g., diamond: $E_g = 5.5 \text{ eV}$).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "40058": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Semiconductor Types and Doping",
+        "question_type": "Objective",
+        "exam_year": "2007",
+        "question_text": "<p>Which of the following elements is commonly used as a <b>donor impurity</b> in <i>n-type</i> semiconductor doping?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>donor impurity</b> is an element with five valence electrons (pentavalent), such as phosphorus, arsenic, or antimony. These elements provide extra free electrons when added to a semiconductor like silicon, making it <i>n-type</i>.<br><br>Phosphorus is the most commonly used donor impurity in silicon doping.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "77440",
+                "tag": "a",
+                "text": "Boron",
+                "is_correct": false
+            },
+            {
+                "option_id": "68655",
+                "tag": "b",
+                "text": "Phosphorus",
+                "is_correct": true
+            },
+            {
+                "option_id": "21924",
+                "tag": "c",
+                "text": "Aluminum",
+                "is_correct": false
+            },
+            {
+                "option_id": "50945",
+                "tag": "d",
+                "text": "Gallium",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "40059": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "PN Junction Diode",
+        "question_type": "Theory",
+        "exam_year": "2007",
+        "question_text": "<p>Draw the <b>energy band diagram</b> of a <i>PN junction diode</i> under <u>forward bias</u> and explain how it allows current to flow. What happens to the depletion region under this condition?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Under <b>forward bias</b>, the <i>p-side</i> of the diode is connected to the positive terminal of the battery, and the <i>n-side</i> to the negative terminal. This reduces the potential barrier across the junction.<br><br><b>Energy Band Diagram:</b><br>- The conduction band on the <i>n-side</i> and the valence band on the <i>p-side</i> bend downward, reducing the barrier height.<br>- Electrons from the <i>n-side</i> and holes from the <i>p-side</i> gain enough energy to cross the junction.<br><br>The <b>depletion region</b> narrows because the applied voltage repels majority carriers toward the junction, reducing the width of the space-charge region. This allows current to flow easily.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "40060": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Diode Rectification",
+        "question_type": "Theory",
+        "exam_year": "2007",
+        "question_text": "<p>Explain the operation of a <b>full-wave bridge rectifier</b> with the aid of a circuit diagram. Derive the expression for the <i>average output voltage</i> ($V_{dc}$) if the input AC voltage is $V_{in} = V_m \text{ sin}(\\omega t)$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>full-wave bridge rectifier</b> uses four diodes arranged in a bridge configuration to convert AC to DC. During each half-cycle of the input AC, two diodes conduct, allowing current to flow in the same direction through the load.<br><br><b>Operation:</b><br>- In the positive half-cycle, diodes D1 and D2 conduct.<br>- In the negative half-cycle, diodes D3 and D4 conduct.<br><br><b>Average Output Voltage ($V_{dc}$):</b><br>The output voltage waveform is a full-wave rectified sine wave. The average value is given by:<br>$V_{dc} = \\frac{2V_m}{\\pi}$,<br>where $V_m$ is the peak value of the input AC voltage.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "40061": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Zener Diodes and Regulation",
+        "question_type": "Objective",
+        "exam_year": "2007",
+        "question_text": "<p>A Zener diode is primarily used for:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>Zener diode</b> is designed to operate in the reverse breakdown region, where it maintains a nearly constant voltage across its terminals. This property makes it ideal for <b>voltage regulation</b> in power supply circuits.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "77441",
+                "tag": "a",
+                "text": "Amplification",
+                "is_correct": false
+            },
+            {
+                "option_id": "68656",
+                "tag": "b",
+                "text": "Rectification",
+                "is_correct": false
+            },
+            {
+                "option_id": "21925",
+                "tag": "c",
+                "text": "Voltage regulation",
+                "is_correct": true
+            },
+            {
+                "option_id": "50946",
+                "tag": "d",
+                "text": "Oscillation",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "40062": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "BJT Structure and Operation",
+        "question_type": "Theory",
+        "exam_year": "2007",
+        "question_text": "<p>Describe the <b>structure</b> of an <i>NPN bipolar junction transistor (BJT)</i> and explain its operation in the <u>active region</u>. Include the roles of the emitter, base, and collector.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>An <b>NPN BJT</b> consists of three doped semiconductor regions:<br>1. <b>Emitter (E):</b> Heavily doped, emits electrons into the base.<br>2. <b>Base (B):</b> Thin and lightly doped, allows most electrons to pass to the collector.<br>3. <b>Collector (C):</b> Moderately doped, collects electrons from the base.<br><br><b>Operation in Active Region:</b><br>- The base-emitter junction is forward-biased, allowing electrons to flow from the emitter to the base.<br>- Most electrons diffuse through the thin base into the collector due to the reverse-biased base-collector junction.<br>- A small base current ($I_B$) controls a larger collector current ($I_C$), providing current amplification ($I_C = \\beta I_B$).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "40063": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Common-Emitter Amplifier",
+        "question_type": "Theory",
+        "exam_year": "2007",
+        "question_text": "<p>Draw the circuit diagram of a <b>common-emitter amplifier</b> and derive the expression for its <i>voltage gain</i> ($A_v$). State <u>two</u> advantages of this configuration.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>common-emitter amplifier</b> has the emitter as the common terminal for input and output. The circuit includes a BJT, biasing resistors ($R_1$, $R_2$, $R_E$), a collector resistor ($R_C$), and coupling capacitors.<br><br><b>Voltage Gain ($A_v$):</b><br>The voltage gain is given by:<br>$A_v = -g_m R_C$,<br>where $g_m = \\frac{I_C}{V_T}$ is the transconductance, $I_C$ is the collector current, and $V_T$ is the thermal voltage (~26 mV at room temperature).<br><br><b>Advantages:</b><br>1. High voltage gain.<br>2. Moderate input and output impedance.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "40064": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Operational Amplifiers (Op-Amp)",
+        "question_type": "Objective",
+        "exam_year": "2007",
+        "question_text": "<p>Which of the following is <b>NOT</b> a characteristic of an ideal operational amplifier (Op-Amp)?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>An <b>ideal Op-Amp</b> has the following characteristics:<br>1. Infinite input impedance.<br>2. Zero output impedance.<br>3. Infinite voltage gain.<br>4. Infinite bandwidth.<br>5. Zero input offset voltage.<br><br><b>Finite bandwidth</b> is not a characteristic of an ideal Op-Amp.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "77442",
+                "tag": "a",
+                "text": "Infinite input impedance",
+                "is_correct": false
+            },
+            {
+                "option_id": "68657",
+                "tag": "b",
+                "text": "Zero output impedance",
+                "is_correct": false
+            },
+            {
+                "option_id": "21926",
+                "tag": "c",
+                "text": "Finite bandwidth",
+                "is_correct": true
+            },
+            {
+                "option_id": "50947",
+                "tag": "d",
+                "text": "Infinite voltage gain",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "40065": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Number Systems and Logic Gates",
+        "question_type": "Theory",
+        "exam_year": "2007",
+        "question_text": "<p>Convert the binary number <b>110101</b> to its decimal equivalent. Using Boolean algebra, simplify the expression $Y = A\\overline{B} + A\\overline{B}C + \\overline{A}B$ and draw the logic circuit for the simplified expression.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Binary to Decimal Conversion:</b><br>The binary number <b>110101</b> is converted as:<br>$1 \\times 2^5 + 1 \\times 2^4 + 0 \\times 2^3 + 1 \\times 2^2 + 0 \\times 2^1 + 1 \\times 2^0 = 32 + 16 + 0 + 4 + 0 + 1 = 53$.<br><br><b>Boolean Simplification:</b><br>$Y = A\\overline{B} + A\\overline{B}C + \\overline{A}B$<br>Factor out $A\\overline{B}$:<br>$Y = A\\overline{B}(1 + C) + \\overline{A}B$<br>Since $1 + C = 1$:<br>$Y = A\\overline{B} + \\overline{A}B$ (Exclusive OR, XOR).<br><br><b>Logic Circuit:</b><br>The simplified expression $Y = A\\overline{B} + \\overline{A}B$ can be implemented using an XOR gate.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

@@ -428,5 +428,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "77361": {
+        "order_id": 11,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "ICT Basics",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>Which of the following best describes the term <b>Information and Communication Technology (ICT)</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>ICT</b> refers to the integration of telecommunications, computers, software, and necessary enterprise software, middleware, storage, and audio-visual systems to enable users to access, store, transmit, and manipulate information. The correct answer is the option that encompasses all these aspects.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "98410",
+                "tag": "a",
+                "text": "The study of computer hardware only.",
+                "is_correct": false
+            },
+            {
+                "option_id": "73694",
+                "tag": "b",
+                "text": "The use of technology to handle information and aid communication.",
+                "is_correct": true
+            },
+            {
+                "option_id": "42370",
+                "tag": "c",
+                "text": "A branch of mathematics dealing with algorithms.",
+                "is_correct": false
+            },
+            {
+                "option_id": "84206",
+                "tag": "d",
+                "text": "The process of building physical computer components.",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "77362": {
+        "order_id": 12,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Computer Types",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>Which type of computer is designed to perform complex scientific calculations and is typically used in research institutions?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Supercomputers</b> are high-performance computing machines designed to handle complex calculations, such as weather forecasting, nuclear research, and quantum mechanics simulations. They are the most powerful computers available.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "98411",
+                "tag": "a",
+                "text": "Microcomputer",
+                "is_correct": false
+            },
+            {
+                "option_id": "73695",
+                "tag": "b",
+                "text": "Supercomputer",
+                "is_correct": true
+            },
+            {
+                "option_id": "42371",
+                "tag": "c",
+                "text": "Minicomputer",
+                "is_correct": false
+            },
+            {
+                "option_id": "84207",
+                "tag": "d",
+                "text": "Mainframe computer",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "77363": {
+        "order_id": 13,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Hardware Components",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>Which of the following hardware components is responsible for temporarily storing data and instructions that the CPU may need to access quickly?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>RAM (Random Access Memory)</b> is a volatile memory component that temporarily stores data and instructions for quick access by the CPU. It is essential for the smooth operation of a computer system.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "98412",
+                "tag": "a",
+                "text": "Hard Disk Drive (HDD)",
+                "is_correct": false
+            },
+            {
+                "option_id": "73696",
+                "tag": "b",
+                "text": "Random Access Memory (RAM)",
+                "is_correct": true
+            },
+            {
+                "option_id": "42372",
+                "tag": "c",
+                "text": "Read-Only Memory (ROM)",
+                "is_correct": false
+            },
+            {
+                "option_id": "84208",
+                "tag": "d",
+                "text": "Central Processing Unit (CPU)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "77364": {
+        "order_id": 14,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Software Types",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>Which type of software is designed to help users perform specific tasks such as word processing, spreadsheet calculations, or graphic design?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Application software</b> is designed to help users perform specific tasks, such as creating documents, managing data, or designing graphics. Examples include Microsoft Word, Excel, and Adobe Photoshop.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "98413",
+                "tag": "a",
+                "text": "System software",
+                "is_correct": false
+            },
+            {
+                "option_id": "73697",
+                "tag": "b",
+                "text": "Application software",
+                "is_correct": true
+            },
+            {
+                "option_id": "42373",
+                "tag": "c",
+                "text": "Utility software",
+                "is_correct": false
+            },
+            {
+                "option_id": "84209",
+                "tag": "d",
+                "text": "Firmware",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "77365": {
+        "order_id": 15,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Number System Conversion",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>Convert the binary number <b>$1101_2$</b> to its decimal equivalent.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>To convert the binary number $1101_2$ to decimal:<br>$1 \\times 2^3 + 1 \\times 2^2 + 0 \\times 2^1 + 1 \\times 2^0 = 8 + 4 + 0 + 1 = 13_{10}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "98414",
+                "tag": "a",
+                "text": "$10_{10}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "73698",
+                "tag": "b",
+                "text": "$13_{10}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "42374",
+                "tag": "c",
+                "text": "$11_{10}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "84210",
+                "tag": "d",
+                "text": "$14_{10}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "77366": {
+        "order_id": 16,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Network Types",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>Which of the following network types covers a small geographical area, such as a single building or campus?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>Local Area Network (LAN)</b> is a network that connects computers and devices within a limited geographical area, such as a home, school, or office building. It allows for resource sharing and communication among connected devices.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "98415",
+                "tag": "a",
+                "text": "Wide Area Network (WAN)",
+                "is_correct": false
+            },
+            {
+                "option_id": "73699",
+                "tag": "b",
+                "text": "Local Area Network (LAN)",
+                "is_correct": true
+            },
+            {
+                "option_id": "42375",
+                "tag": "c",
+                "text": "Metropolitan Area Network (MAN)",
+                "is_correct": false
+            },
+            {
+                "option_id": "84211",
+                "tag": "d",
+                "text": "Personal Area Network (PAN)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "77367": {
+        "order_id": 17,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Cybersecurity Threats",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>Which of the following is an example of a <b>social engineering</b> attack?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Phishing</b> is a type of social engineering attack where attackers impersonate legitimate entities to trick individuals into revealing sensitive information, such as passwords or credit card numbers.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "98416",
+                "tag": "a",
+                "text": "Denial of Service (DoS) attack",
+                "is_correct": false
+            },
+            {
+                "option_id": "73700",
+                "tag": "b",
+                "text": "Phishing",
+                "is_correct": true
+            },
+            {
+                "option_id": "42376",
+                "tag": "c",
+                "text": "Malware infection",
+                "is_correct": false
+            },
+            {
+                "option_id": "84212",
+                "tag": "d",
+                "text": "Brute force attack",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "77368": {
+        "order_id": 18,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Spreadsheet Tools",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>In a spreadsheet application, which function is used to calculate the average of a range of cells?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>AVERAGE</b> function in spreadsheet applications like Microsoft Excel or Google Sheets is used to calculate the arithmetic mean of a range of cells. For example, <code>=AVERAGE(A1:A10)</code> calculates the average of values in cells A1 to A10.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "98417",
+                "tag": "a",
+                "text": "<code>SUM</code>",
+                "is_correct": false
+            },
+            {
+                "option_id": "73701",
+                "tag": "b",
+                "text": "<code>AVERAGE</code>",
+                "is_correct": true
+            },
+            {
+                "option_id": "42377",
+                "tag": "c",
+                "text": "<code>COUNT</code>",
+                "is_correct": false
+            },
+            {
+                "option_id": "84213",
+                "tag": "d",
+                "text": "<code>MAX</code>",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "77369": {
+        "order_id": 19,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Computer Ethics",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>Which of the following is an example of <b>unethical behavior</b> in the use of ICT?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Plagiarism</b> involves using someone else's work or ideas without proper attribution, which is unethical and violates intellectual property rights. It is a common issue in academic and professional settings.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "98418",
+                "tag": "a",
+                "text": "Using licensed software for personal projects",
+                "is_correct": false
+            },
+            {
+                "option_id": "73702",
+                "tag": "b",
+                "text": "Copying and pasting content from the internet without citation",
+                "is_correct": true
+            },
+            {
+                "option_id": "42378",
+                "tag": "c",
+                "text": "Backing up important data regularly",
+                "is_correct": false
+            },
+            {
+                "option_id": "84214",
+                "tag": "d",
+                "text": "Installing antivirus software on a computer",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "77370": {
+        "order_id": 20,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Emerging Tech",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>Which of the following technologies is primarily associated with <b>autonomous vehicles</b> and real-time object detection?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Artificial Intelligence (AI)</b> is the technology behind autonomous vehicles, enabling them to perceive their environment, make decisions, and navigate without human intervention. AI algorithms process data from sensors and cameras to detect objects in real-time.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "98419",
+                "tag": "a",
+                "text": "Blockchain",
+                "is_correct": false
+            },
+            {
+                "option_id": "73703",
+                "tag": "b",
+                "text": "Artificial Intelligence (AI)",
+                "is_correct": true
+            },
+            {
+                "option_id": "42379",
+                "tag": "c",
+                "text": "Virtual Reality (VR)",
+                "is_correct": false
+            },
+            {
+                "option_id": "84215",
+                "tag": "d",
+                "text": "Cloud Computing",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

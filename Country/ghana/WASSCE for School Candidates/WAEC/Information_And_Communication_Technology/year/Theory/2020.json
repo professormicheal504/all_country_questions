@@ -1,0 +1,257 @@
+{
+    "74219": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "ICT Basics",
+        "question_type": "Theory",
+        "exam_year": "2020",
+        "question_text": "<p>Explain the term <b>Information and Communication Technology (ICT)</b> and list <u>four</u> areas where ICT is applied in society.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Information and Communication Technology (ICT)</b> refers to the use of digital technology to handle information and facilitate communication. It encompasses hardware, software, networks, and media for collecting, storing, processing, transmitting, and presenting data in digital form.<br><br><b>Areas of application:</b><br>1. <i>Education:</i> E-learning platforms, digital libraries, and virtual classrooms.<br>2. <i>Healthcare:</i> Electronic health records, telemedicine, and medical imaging.<br>3. <i>Banking:</i> Online banking, ATMs, and mobile money services.<br>4. <i>Government:</i> E-governance, digital tax filing, and public service delivery.<br>5. <i>Agriculture:</i> Precision farming, market price tracking, and weather forecasting (any four).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "74220": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Computer Types",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>Which of the following computers is designed to perform a wide range of tasks and is commonly used in homes and offices?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The correct answer is <b>General-purpose computer</b>. These computers are versatile and can run various applications, such as word processors, spreadsheets, and web browsers, making them suitable for homes and offices.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "79774",
+                "tag": "a",
+                "text": "Supercomputer",
+                "is_correct": false
+            },
+            {
+                "option_id": "51760",
+                "tag": "b",
+                "text": "General-purpose computer",
+                "is_correct": true
+            },
+            {
+                "option_id": "88886",
+                "tag": "c",
+                "text": "Embedded computer",
+                "is_correct": false
+            },
+            {
+                "option_id": "53175",
+                "tag": "d",
+                "text": "Analog computer",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "74221": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Hardware Components",
+        "question_type": "Theory",
+        "exam_year": "2020",
+        "question_text": "<p>Describe the functions of the following hardware components of a computer system:<br>(i) <b>Central Processing Unit (CPU)</b><br>(ii) <b>Random Access Memory (RAM)</b><br>(iii) <b>Hard Disk Drive (HDD)</b></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) <b>Central Processing Unit (CPU):</b> The CPU is the <i>brain</i> of the computer. It performs arithmetic and logical operations, executes instructions from programs, and manages data flow between components.<br><br>(ii) <b>Random Access Memory (RAM):</b> RAM is <i>volatile memory</i> that temporarily stores data and instructions currently in use by the CPU. It allows for fast read/write operations, improving system performance.<br><br>(iii) <b>Hard Disk Drive (HDD):</b> The HDD is a <i>non-volatile storage device</i> that permanently stores data, programs, and the operating system. It uses magnetic storage to retain data even when the computer is powered off.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "74222": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Number System Conversion",
+        "question_type": "Theory",
+        "exam_year": "2020",
+        "question_text": "<p>Convert the binary number <b>$110101_2$</b> to its decimal equivalent. Show all working steps.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>To convert $110101_2$ to decimal:<br><br>1. Write the binary number with its positional values:<br>$1 \times 2^5 + 1 \times 2^4 + 0 \times 2^3 + 1 \times 2^2 + 0 \times 2^1 + 1 \times 2^0$<br><br>2. Calculate each term:<br>$1 \times 32 + 1 \times 16 + 0 \times 8 + 1 \times 4 + 0 \times 2 + 1 \times 1$<br><br>3. Sum the values:<br>$32 + 16 + 0 + 4 + 0 + 1 = 53_{10}$<br><br>The decimal equivalent is <b>$53_{10}$</b>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "74223": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Cybersecurity Threats",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>Which of the following is <u>NOT</u> a common cybersecurity threat?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The correct answer is <b>Firewall</b>. A firewall is a security tool designed to <i>prevent</i> unauthorized access to a network, not a threat. The other options (phishing, malware, and ransomware) are common cybersecurity threats.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "79774",
+                "tag": "a",
+                "text": "Phishing",
+                "is_correct": false
+            },
+            {
+                "option_id": "51760",
+                "tag": "b",
+                "text": "Malware",
+                "is_correct": false
+            },
+            {
+                "option_id": "88886",
+                "tag": "c",
+                "text": "Firewall",
+                "is_correct": true
+            },
+            {
+                "option_id": "53175",
+                "tag": "d",
+                "text": "Ransomware",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "74224": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Operating Systems",
+        "question_type": "Theory",
+        "exam_year": "2020",
+        "question_text": "<p>State <u>three</u> functions of an operating system and explain each briefly.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>1. <b>Process Management:</b> The OS allocates CPU time to different processes, ensuring efficient multitasking and preventing conflicts between programs.<br><br>2. <b>Memory Management:</b> The OS manages RAM by allocating and deallocating memory to processes, optimizing performance and preventing crashes.<br><br>3. <b>File Management:</b> The OS organizes, stores, and retrieves files on storage devices, providing a hierarchical structure for easy access.<br><br>4. <b>Device Management:</b> The OS controls hardware devices (e.g., printers, keyboards) through drivers, enabling communication between software and hardware (any three).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "74225": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Network Devices",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>A device that connects multiple networks and directs data packets between them is called a:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The correct answer is <b>Router</b>. A router is a network device that forwards data packets between computer networks, enabling communication between devices on different networks (e.g., home network and the internet).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "79774",
+                "tag": "a",
+                "text": "Hub",
+                "is_correct": false
+            },
+            {
+                "option_id": "51760",
+                "tag": "b",
+                "text": "Switch",
+                "is_correct": false
+            },
+            {
+                "option_id": "88886",
+                "tag": "c",
+                "text": "Router",
+                "is_correct": true
+            },
+            {
+                "option_id": "53175",
+                "tag": "d",
+                "text": "Modem",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "74226": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Word Processing",
+        "question_type": "Practical",
+        "exam_year": "2020",
+        "question_text": "<p>Using a word processor, describe the steps to:<br>(i) Insert a table with 3 columns and 4 rows.<br>(ii) Apply bold formatting to the first row.<br>(iii) Merge the cells in the last row.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) <b>Insert a table:</b><br>1. Place the cursor where the table should appear.<br>2. Go to the <i>Insert</i> tab.<br>3. Click <i>Table</i> and select a 3x4 grid.<br><br>(ii) <b>Apply bold formatting:</b><br>1. Select the first row of the table.<br>2. Click the <b>Bold</b> button in the toolbar or press <code>Ctrl+B</code>.<br><br>(iii) <b>Merge cells:</b><br>1. Select the cells in the last row.<br>2. Right-click and choose <i>Merge Cells</i> or use the <i>Layout</i> tab in the toolbar.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "74227": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Logic Gates",
+        "question_type": "Theory",
+        "exam_year": "2020",
+        "question_text": "<p>Draw the truth table for a <b>NAND gate</b> and explain its operation with an example.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Truth Table for NAND Gate:</b><br><table border='1'><tr><th>A</th><th>B</th><th>A NAND B</th></tr><tr><td>0</td><td>0</td><td>1</td></tr><tr><td>0</td><td>1</td><td>1</td></tr><tr><td>1</td><td>0</td><td>1</td></tr><tr><td>1</td><td>1</td><td>0</td></tr></table><br><b>Operation:</b> A NAND gate outputs <i>false</i> (0) only when all inputs are <i>true</i> (1). Otherwise, it outputs <i>true</i> (1).<br><br><b>Example:</b> If inputs A=1 and B=1, the output is 0. For A=0 and B=1, the output is 1.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "74228": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "ICT in Society",
+        "question_type": "Theory",
+        "exam_year": "2020",
+        "question_text": "<p>Discuss <u>two</u> positive and <u>two</u> negative impacts of ICT on society.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Positive Impacts:</b><br>1. <i>Improved Communication:</i> ICT enables instant communication via email, social media, and video calls, bridging geographical gaps.<br>2. <i>Access to Information:</i> The internet provides vast knowledge resources, enhancing education, research, and decision-making.<br><br><b>Negative Impacts:</b><br>1. <i>Job Displacement:</i> Automation and AI may replace human jobs, leading to unemployment in certain sectors.<br>2. <i>Privacy Concerns:</i> ICT facilitates data collection, raising issues of surveillance, identity theft, and misuse of personal information.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

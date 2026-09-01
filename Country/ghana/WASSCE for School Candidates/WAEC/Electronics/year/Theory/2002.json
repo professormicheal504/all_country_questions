@@ -1,0 +1,257 @@
+{
+    "65970": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Electronics Basics",
+        "question_type": "Theory",
+        "exam_year": "2002",
+        "question_text": "<p>Explain the term <b>electronics</b> and describe the role of electrons in electronic devices. State <u>two</u> examples of electronic devices and their applications.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Electronics</b> is the branch of physics and technology concerned with the design of circuits using <i>active components</i> like transistors, diodes, and integrated circuits to control the flow of electrons for processing information or converting energy.<br><br>Electrons play a crucial role in electronic devices as they are the charge carriers that enable current flow. Their movement through semiconductors and conductors forms the basis of signal amplification, switching, and logic operations.<br><br><b>Examples:</b><br>1. <b>Transistor (BJT/FET):</b> Used in amplifiers and digital switches.<br>2. <b>Diode:</b> Used in rectification (converting AC to DC) and voltage regulation.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "65971": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Atomic Structure and Energy Bands",
+        "question_type": "Theory",
+        "exam_year": "2002",
+        "question_text": "<p>Describe the <b>energy band structure</b> of a semiconductor. Explain how the <i>valence band</i>, <i>conduction band</i>, and <i>forbidden gap</i> determine the electrical properties of intrinsic and extrinsic semiconductors.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In a semiconductor, electrons occupy energy levels grouped into bands:<br><br>1. <b>Valence Band:</b> The highest energy band fully or partially occupied by electrons at absolute zero temperature. Electrons here are bound to atoms.<br>2. <b>Conduction Band:</b> The next higher energy band, where electrons are free to move and conduct electricity.<br>3. <b>Forbidden Gap ($E_g$):</b> The energy gap between the valence and conduction bands where no electron states exist.<br><br>In <b>intrinsic semiconductors</b> (e.g., pure silicon), the forbidden gap is small (~1.1 eV for Si), allowing thermal excitation of electrons from the valence to the conduction band, creating electron-hole pairs.<br><br>In <b>extrinsic semiconductors</b>, doping introduces energy levels within the forbidden gap:<br>- <b>n-type:</b> Donor impurities (e.g., phosphorus) create energy levels just below the conduction band, increasing free electrons.<br>- <b>p-type:</b> Acceptor impurities (e.g., boron) create energy levels just above the valence band, increasing holes.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "65972": {
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "PN Junction Diode",
+        "question_type": "Objective",
+        "exam_year": "2002",
+        "order_id": 3,
+        "question_text": "<p>Which of the following statements correctly describes the <b>depletion region</b> in a PN junction diode?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>depletion region</b> is the area around the PN junction where mobile charge carriers (electrons and holes) are depleted due to recombination. It contains <i>immobile ions</i> (donors in the n-side and acceptors in the p-side), creating an electric field that opposes further diffusion of charge carriers.<br><br>The correct statement is (b), as the depletion region is devoid of free charge carriers and acts as a barrier to current flow under equilibrium conditions.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "75722",
+                "tag": "a",
+                "text": "It is a region with an excess of free electrons and holes.",
+                "is_correct": false
+            },
+            {
+                "option_id": "48930",
+                "tag": "b",
+                "text": "It is a region devoid of free charge carriers, containing only immobile ions.",
+                "is_correct": true
+            },
+            {
+                "option_id": "40543",
+                "tag": "c",
+                "text": "It is a region where the electric field is zero.",
+                "is_correct": false
+            },
+            {
+                "option_id": "70514",
+                "tag": "d",
+                "text": "It is a region that conducts current in both forward and reverse bias.",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "65973": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Diode Rectification",
+        "question_type": "Theory",
+        "exam_year": "2002",
+        "question_text": "<p>Draw the circuit diagram of a <b>full-wave bridge rectifier</b> and explain its operation. Calculate the <i>peak inverse voltage (PIV)</i> across each diode if the input AC voltage is $V_{rms} = 12 V$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>full-wave bridge rectifier</b> uses four diodes arranged in a bridge configuration to convert AC to DC. During the positive half-cycle, diodes D1 and D2 conduct, while D3 and D4 conduct during the negative half-cycle, ensuring current flows in the same direction through the load.<br><br><b>PIV Calculation:</b><br>The peak voltage of the input AC is $V_{peak} = V_{rms} \times \\sqrt{2} = 12 \\times 1.414 = 16.97 V$.<br>The PIV across each diode is equal to $V_{peak}$ because the reverse voltage across a non-conducting diode is the peak input voltage.<br><br>Thus, $PIV = 16.97 V$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "65974": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Zener Diodes and Regulation",
+        "question_type": "Objective",
+        "exam_year": "2002",
+        "question_text": "<p>A Zener diode is used in a voltage regulator circuit to:<br>(a) Amplify signals<br>(b) Rectify AC to DC<br>(c) Maintain a constant output voltage<br>(d) Store electrical energy</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>Zener diode</b> operates in the reverse breakdown region to maintain a constant output voltage across its terminals, making it ideal for voltage regulation. The correct answer is (c).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "75722",
+                "tag": "a",
+                "text": "Amplify signals",
+                "is_correct": false
+            },
+            {
+                "option_id": "48930",
+                "tag": "b",
+                "text": "Rectify AC to DC",
+                "is_correct": false
+            },
+            {
+                "option_id": "40543",
+                "tag": "c",
+                "text": "Maintain a constant output voltage",
+                "is_correct": true
+            },
+            {
+                "option_id": "70514",
+                "tag": "d",
+                "text": "Store electrical energy",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "65975": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "BJT Biasing Methods",
+        "question_type": "Theory",
+        "exam_year": "2002",
+        "question_text": "<p>Explain the <b>voltage-divider bias</b> method for a BJT. Derive the expression for the base voltage ($V_B$) and collector current ($I_C$) in terms of the circuit components. State <u>one advantage</u> of this biasing method.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Voltage-Divider Bias:</b> This method uses a resistive voltage divider ($R_1$ and $R_2$) to set the base voltage ($V_B$) of the BJT, providing stable operating conditions.<br><br><b>Derivation:</b><br>$V_B = V_{CC} \\times \\frac{R_2}{R_1 + R_2}$ (assuming $I_B$ is negligible).<br>The emitter voltage is $V_E = V_B - V_{BE}$ (where $V_{BE} \\approx 0.7 V$ for silicon).<br>The emitter current is $I_E = \\frac{V_E}{R_E}$, and since $I_C \\approx I_E$, we have:<br>$I_C \\approx \\frac{V_B - V_{BE}}{R_E}$.<br><br><b>Advantage:</b> Voltage-divider bias provides better stability against variations in $\\beta$ (current gain) and temperature compared to fixed bias.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "65976": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Common-Emitter Amplifier",
+        "question_type": "Theory",
+        "exam_year": "2002",
+        "question_text": "<p>For a <b>common-emitter amplifier</b>, derive the expression for the <i>voltage gain</i> ($A_v$) in terms of the transistor parameters and load resistance. Explain how the coupling capacitor affects the low-frequency response of the amplifier.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Voltage Gain ($A_v$):</b><br>The voltage gain of a common-emitter amplifier is given by:<br>$A_v = -g_m R_C$, where $g_m = \\frac{I_C}{V_T}$ is the transconductance ($V_T \\approx 26 mV$ at room temperature) and $R_C$ is the collector resistance.<br>Alternatively, $A_v = -\\frac{\\beta R_C}{r_{\\pi}}$, where $r_{\\pi} = \\frac{\\beta}{g_m}$ is the input resistance of the transistor.<br><br><b>Coupling Capacitor Effect:</b><br>The coupling capacitor ($C_C$) blocks DC while allowing AC signals to pass. At low frequencies, its reactance ($X_C = \\frac{1}{2 \\pi f C_C}$) increases, reducing the gain. The lower cutoff frequency ($f_L$) is determined by $C_C$ and the input/output resistances.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "65977": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Operational Amplifiers (Op-Amp)",
+        "question_type": "Objective",
+        "exam_year": "2002",
+        "question_text": "<p>In an <b>inverting Op-Amp configuration</b>, the voltage gain is given by:<br>(a) $A_v = 1 + \\frac{R_f}{R_1}$<br>(b) $A_v = -\\frac{R_f}{R_1}$<br>(c) $A_v = \\frac{R_1}{R_f}$<br>(d) $A_v = -\\frac{R_1}{R_f}$</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The voltage gain of an <b>inverting Op-Amp</b> is determined by the ratio of the feedback resistor ($R_f$) to the input resistor ($R_1$), with a negative sign indicating phase inversion. The correct answer is (b).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "75722",
+                "tag": "a",
+                "text": "$A_v = 1 + \\frac{R_f}{R_1}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "48930",
+                "tag": "b",
+                "text": "$A_v = -\\frac{R_f}{R_1}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "40543",
+                "tag": "c",
+                "text": "$A_v = \\frac{R_1}{R_f}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "70514",
+                "tag": "d",
+                "text": "$A_v = -\\frac{R_1}{R_f}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "65978": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Number Systems and Logic Gates",
+        "question_type": "Theory",
+        "exam_year": "2002",
+        "question_text": "<p>Convert the binary number $110101_2$ to its decimal equivalent. Using Boolean algebra, simplify the expression $Y = A \\cdot \\overline{B} + A \\cdot B$ and draw the logic circuit for the simplified expression.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Binary to Decimal Conversion:</b><br>$110101_2 = 1 \\times 2^5 + 1 \\times 2^4 + 0 \\times 2^3 + 1 \\times 2^2 + 0 \\times 2^1 + 1 \\times 2^0 = 32 + 16 + 0 + 4 + 0 + 1 = 53_{10}$.<br><br><b>Boolean Simplification:</b><br>$Y = A \\cdot \\overline{B} + A \\cdot B = A(\\overline{B} + B) = A \\cdot 1 = A$.<br>The simplified expression is $Y = A$, which can be implemented using a single wire (no logic gate required).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "65979": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Power Supply Circuits and Thyristors",
+        "question_type": "Theory",
+        "exam_year": "2002",
+        "question_text": "<p>Describe the operation of a <b>thyristor</b> (SCR) in a controlled rectifier circuit. Explain how the <i>firing angle</i> controls the output voltage. Calculate the average output voltage for a firing angle of $60^\\circ$ if the input AC voltage is $V_{rms} = 220 V$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>thyristor (SCR)</b> is a four-layer semiconductor device that acts as a switch, conducting when its gate receives a trigger pulse. In a controlled rectifier, the firing angle ($\\alpha$) determines the point in the AC cycle when the thyristor turns on, controlling the output voltage.<br><br><b>Average Output Voltage ($V_{avg}$):</b><br>The average output voltage for a half-wave controlled rectifier is given by:<br>$V_{avg} = \\frac{V_{peak}}{2 \\pi} (1 + \\cos \\alpha)$, where $V_{peak} = V_{rms} \\times \\sqrt{2} = 220 \\times 1.414 = 311 V$.<br>For $\\alpha = 60^\\circ$:<br>$V_{avg} = \\frac{311}{2 \\pi} (1 + \\cos 60^\\circ) = \\frac{311}{6.28} (1 + 0.5) = 49.52 \\times 1.5 = 74.28 V$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

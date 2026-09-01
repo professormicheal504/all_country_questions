@@ -1,0 +1,257 @@
+{
+    "48578": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Electronics Basics",
+        "question_type": "Theory",
+        "exam_year": "2004",
+        "question_text": "<p>Explain the concept of <b>electron flow</b> in a conductor. In your explanation, include:<br>(i) The role of <i>valence electrons</i>.<br>(ii) The effect of an applied <i>electric field</i>.<br>(iii) The difference between <i>conventional current</i> and <i>electron flow</i>.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) <b>Valence electrons</b> are the outermost electrons in an atom and are loosely bound to the nucleus. In conductors, these electrons are free to move when an external force is applied.<br>(ii) When an <i>electric field</i> is applied across a conductor, the free electrons experience a force and drift in the direction opposite to the electric field, creating an electric current.<br>(iii) <b>Conventional current</b> assumes that current flows from the positive to the negative terminal, while <b>electron flow</b> is the actual movement of electrons from the negative to the positive terminal. This distinction arises from historical conventions in early electrical theory.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "48579": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Atomic Structure and Energy Bands",
+        "question_type": "Theory",
+        "exam_year": "2004",
+        "question_text": "<p>Describe the <b>energy band theory</b> in solids. In your answer:<br>(i) Define <i>conduction band</i>, <i>valence band</i>, and <i>forbidden gap</i>.<br>(ii) Explain how the width of the forbidden gap determines whether a material is a <i>conductor</i>, <i>semiconductor</i>, or <i>insulator</i>.<br>(iii) Sketch and label the energy band diagrams for the three types of materials.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) <b>Conduction band</b>: The energy band where electrons are free to move and conduct electricity.<br><b>Valence band</b>: The energy band where electrons are bound to their atoms.<br><b>Forbidden gap</b>: The energy gap between the valence band and conduction band where no electron states exist.<br>(ii) The width of the forbidden gap determines the material type:<br>- <b>Conductors</b>: No forbidden gap (valence and conduction bands overlap).<br>- <b>Semiconductors</b>: Narrow forbidden gap (e.g., $E_g \\approx 1 \text{ eV}$ for silicon).<br>- <b>Insulators</b>: Wide forbidden gap (e.g., $E_g > 3 \text{ eV}$).<br>(iii) Diagrams should show:<br>- Conductor: Overlapping bands.<br>- Semiconductor: Small gap between bands.<br>- Insulator: Large gap between bands.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "48580": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Semiconductor Types and Doping",
+        "question_type": "Objective",
+        "exam_year": "2004",
+        "question_text": "<p>Which of the following elements is commonly used as a <i>donor impurity</i> in <b>n-type</b> semiconductors?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <i>donor impurity</i> in <b>n-type</b> semiconductors provides extra electrons to the conduction band. Phosphorus (P) is a Group V element with 5 valence electrons, making it an ideal donor for silicon (Group IV). The extra electron increases the number of free charge carriers, enhancing conductivity.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "57934",
+                "tag": "a",
+                "text": "Aluminum (Al)",
+                "is_correct": false
+            },
+            {
+                "option_id": "55098",
+                "tag": "b",
+                "text": "Phosphorus (P)",
+                "is_correct": true
+            },
+            {
+                "option_id": "38080",
+                "tag": "c",
+                "text": "Boron (B)",
+                "is_correct": false
+            },
+            {
+                "option_id": "25001",
+                "tag": "d",
+                "text": "Gallium (Ga)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "48581": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "PN Junction Diode",
+        "question_type": "Theory",
+        "exam_year": "2004",
+        "question_text": "<p>Explain the operation of a <b>PN junction diode</b> under:<br>(i) <i>Forward bias</i>.<br>(ii) <i>Reverse bias</i>.<br>Include diagrams to illustrate the depletion region and current flow in both cases.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) <b>Forward bias</b>: The p-side is connected to the positive terminal and the n-side to the negative terminal. This reduces the depletion region width, allowing majority carriers (holes in p-side, electrons in n-side) to diffuse across the junction, resulting in a large forward current.<br>(ii) <b>Reverse bias</b>: The p-side is connected to the negative terminal and the n-side to the positive terminal. This widens the depletion region, preventing majority carrier flow. Only a small reverse saturation current (due to minority carriers) flows.<br>Diagrams should show:<br>- Forward bias: Narrow depletion region, current flow.<br>- Reverse bias: Wide depletion region, negligible current.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "48582": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Diode Rectification",
+        "question_type": "Theory",
+        "exam_year": "2004",
+        "question_text": "<p>Draw and explain the operation of a <b>full-wave bridge rectifier</b>. In your answer:<br>(i) Sketch the circuit diagram.<br>(ii) Describe the role of each diode in the circuit.<br>(iii) Sketch the input and output waveforms, labeling key features.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) The circuit consists of four diodes arranged in a bridge configuration, with an AC input and a load resistor.<br>(ii) During the positive half-cycle of the AC input, diodes D1 and D2 conduct, allowing current to flow through the load. During the negative half-cycle, diodes D3 and D4 conduct, again allowing current to flow in the same direction through the load.<br>(iii) The input waveform is a sinusoidal AC signal. The output waveform is a pulsating DC signal with twice the frequency of the input, showing both halves of the AC cycle rectified.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "48583": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Zener Diodes and Regulation",
+        "question_type": "Objective",
+        "exam_year": "2004",
+        "question_text": "<p>A <b>Zener diode</b> is primarily used for:<br>(a) Amplification<br>(b) Rectification<br>(c) Voltage regulation<br>(d) Switching</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>Zener diode</b> operates in the reverse breakdown region and maintains a constant voltage across its terminals, making it ideal for <i>voltage regulation</i> in power supply circuits.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "57934",
+                "tag": "a",
+                "text": "Amplification",
+                "is_correct": false
+            },
+            {
+                "option_id": "55098",
+                "tag": "b",
+                "text": "Rectification",
+                "is_correct": false
+            },
+            {
+                "option_id": "38080",
+                "tag": "c",
+                "text": "Voltage regulation",
+                "is_correct": true
+            },
+            {
+                "option_id": "25001",
+                "tag": "d",
+                "text": "Switching",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "48584": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "BJT Structure and Operation",
+        "question_type": "Theory",
+        "exam_year": "2004",
+        "question_text": "<p>Describe the structure and operation of a <b>Bipolar Junction Transistor (BJT)</b>. In your answer:<br>(i) Identify the three regions of a BJT and their doping types.<br>(ii) Explain how a BJT operates in the <i>active region</i>.<br>(iii) Define <i>current gain</i> ($\\beta$) and its significance.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) A BJT has three regions: <b>Emitter</b> (heavily doped), <b>Base</b> (thin and lightly doped), and <b>Collector</b> (moderately doped). In an NPN transistor, the emitter and collector are n-type, and the base is p-type.<br>(ii) In the <i>active region</i>, the base-emitter junction is forward-biased, and the base-collector junction is reverse-biased. Electrons from the emitter diffuse into the base, where most are swept into the collector, creating a collector current.<br>(iii) <b>Current gain</b> ($\\beta = \\frac{I_C}{I_B}$) is the ratio of collector current ($I_C$) to base current ($I_B$). It indicates the amplification capability of the BJT.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "48585": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Common-Emitter Amplifier",
+        "question_type": "Theory",
+        "exam_year": "2004",
+        "question_text": "<p>For a <b>common-emitter amplifier</b>:<br>(i) Draw the circuit diagram, labeling all components.<br>(ii) Explain the purpose of the <i>coupling capacitor</i> and <i>bypass capacitor</i>.<br>(iii) Derive the expression for the <i>voltage gain</i> ($A_v$) of the amplifier.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) The circuit includes a BJT, biasing resistors ($R_1$, $R_2$, $R_C$, $R_E$), coupling capacitor ($C_C$), bypass capacitor ($C_E$), and input/output terminals.<br>(ii) The <i>coupling capacitor</i> ($C_C$) blocks DC while allowing AC signals to pass. The <i>bypass capacitor</i> ($C_E$) provides a low-impedance path for AC signals, increasing gain by reducing negative feedback.<br>(iii) The voltage gain is given by:<br>$A_v = -g_m R_C$, where $g_m = \\frac{I_C}{V_T}$ is the transconductance, $I_C$ is the collector current, and $V_T$ is the thermal voltage (~26 mV at room temperature).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "48586": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Operational Amplifiers (Op-Amp)",
+        "question_type": "Objective",
+        "exam_year": "2004",
+        "question_text": "<p>In an <b>inverting Op-Amp configuration</b>, the voltage gain is given by:<br>(a) $A_v = 1 + \\frac{R_f}{R_{in}}$<br>(b) $A_v = -\\frac{R_f}{R_{in}}$<br>(c) $A_v = \\frac{R_f}{R_{in}}$<br>(d) $A_v = -\\frac{R_{in}}{R_f}$</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The voltage gain of an <b>inverting Op-Amp</b> is determined by the ratio of the feedback resistor ($R_f$) to the input resistor ($R_{in}$), with a negative sign indicating a 180\u00b0 phase shift. The correct expression is $A_v = -\\frac{R_f}{R_{in}}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "57934",
+                "tag": "a",
+                "text": "$A_v = 1 + \\frac{R_f}{R_{in}}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "55098",
+                "tag": "b",
+                "text": "$A_v = -\\frac{R_f}{R_{in}}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "38080",
+                "tag": "c",
+                "text": "$A_v = \\frac{R_f}{R_{in}}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "25001",
+                "tag": "d",
+                "text": "$A_v = -\\frac{R_{in}}{R_f}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "48587": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Number Systems and Logic Gates",
+        "question_type": "Theory",
+        "exam_year": "2004",
+        "question_text": "<p>(i) Convert the binary number $110101_2$ to its decimal equivalent.<br>(ii) Draw the truth table for a <b>3-input NAND gate</b>.<br>(iii) Simplify the Boolean expression $Y = \\overline{A \\cdot B + \\overline{C}}$ using De Morgan's laws.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) $110101_2 = 1 \\cdot 2^5 + 1 \\cdot 2^4 + 0 \\cdot 2^3 + 1 \\cdot 2^2 + 0 \\cdot 2^1 + 1 \\cdot 2^0 = 32 + 16 + 0 + 4 + 0 + 1 = 53_{10}$.<br>(ii) The truth table for a 3-input NAND gate has 8 rows (for inputs A, B, C) and output $Y = \\overline{A \\cdot B \\cdot C}$. The output is 0 only when all inputs are 1.<br>(iii) Using De Morgan's laws:<br>$Y = \\overline{A \\cdot B + \\overline{C}} = (\\overline{A \\cdot B}) \\cdot C = (\\overline{A} + \\overline{B}) \\cdot C$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

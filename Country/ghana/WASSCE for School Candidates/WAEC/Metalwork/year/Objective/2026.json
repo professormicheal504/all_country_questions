@@ -471,5 +471,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 11
+    },
+    "16058": {
+        "order_id": 12,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Metal types and properties",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Which of the following metals is classified as a <b>ferrous</b> metal?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Ferrous metals are those that contain iron as their primary constituent. Steel, which is an alloy of iron and carbon, is a common example of a ferrous metal. Non-ferrous metals, such as aluminum, copper, and brass, do not contain iron.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "54663",
+                "tag": "a",
+                "text": "Aluminum",
+                "is_correct": false
+            },
+            {
+                "option_id": "67914",
+                "tag": "b",
+                "text": "Steel",
+                "is_correct": true
+            },
+            {
+                "option_id": "46098",
+                "tag": "c",
+                "text": "Copper",
+                "is_correct": false
+            },
+            {
+                "option_id": "64851",
+                "tag": "d",
+                "text": "Brass",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "16059": {
+        "order_id": 13,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Metal extraction methods",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>The process of extracting iron from its ore using a blast furnace involves the reduction of <b>iron oxide</b> by which of the following gases?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In a blast furnace, iron oxide ($Fe_2O_3$) is reduced to iron by carbon monoxide ($CO$). The chemical reaction is:<br>$Fe_2O_3 + 3CO \\rightarrow 2Fe + 3CO_2$. Carbon monoxide acts as the reducing agent.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "54664",
+                "tag": "a",
+                "text": "Oxygen ($O_2$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "67915",
+                "tag": "b",
+                "text": "Carbon monoxide ($CO$)",
+                "is_correct": true
+            },
+            {
+                "option_id": "46099",
+                "tag": "c",
+                "text": "Hydrogen ($H_2$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "64852",
+                "tag": "d",
+                "text": "Nitrogen ($N_2$)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "16060": {
+        "order_id": 14,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Heat treatment processes",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Which heat treatment process involves heating steel to a temperature below its critical range and then cooling it slowly to relieve internal stresses?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Tempering is a heat treatment process where steel is heated to a temperature below its critical range (usually between $200\u00b0C$ and $600\u00b0C$) and then cooled slowly. This process reduces brittleness and relieves internal stresses while maintaining some hardness.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "54665",
+                "tag": "a",
+                "text": "Annealing",
+                "is_correct": false
+            },
+            {
+                "option_id": "67916",
+                "tag": "b",
+                "text": "Tempering",
+                "is_correct": true
+            },
+            {
+                "option_id": "46100",
+                "tag": "c",
+                "text": "Hardening",
+                "is_correct": false
+            },
+            {
+                "option_id": "64853",
+                "tag": "d",
+                "text": "Normalizing",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "16061": {
+        "order_id": 15,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Metal forming techniques",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Which of the following metal forming techniques is used to produce seamless tubes and pipes?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Extrusion is a metal forming process where a billet of metal is forced through a die to produce seamless tubes and pipes. This process is commonly used for materials like aluminum and copper.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "54666",
+                "tag": "a",
+                "text": "Forging",
+                "is_correct": false
+            },
+            {
+                "option_id": "67917",
+                "tag": "b",
+                "text": "Extrusion",
+                "is_correct": true
+            },
+            {
+                "option_id": "46101",
+                "tag": "c",
+                "text": "Rolling",
+                "is_correct": false
+            },
+            {
+                "option_id": "64854",
+                "tag": "d",
+                "text": "Drawing",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "16062": {
+        "order_id": 16,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Welding processes",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>In <b>arc welding</b>, the electrode is coated with a flux to:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The flux coating on the electrode in arc welding serves multiple purposes, including stabilizing the arc, shielding the weld pool from atmospheric contamination, and forming a slag that protects the weld as it cools.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "54667",
+                "tag": "a",
+                "text": "Increase the melting point of the electrode",
+                "is_correct": false
+            },
+            {
+                "option_id": "67918",
+                "tag": "b",
+                "text": "Shield the weld pool from atmospheric contamination",
+                "is_correct": true
+            },
+            {
+                "option_id": "46102",
+                "tag": "c",
+                "text": "Reduce the electrical conductivity of the electrode",
+                "is_correct": false
+            },
+            {
+                "option_id": "64855",
+                "tag": "d",
+                "text": "Prevent the electrode from sticking to the workpiece",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "16063": {
+        "order_id": 17,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Metal cutting tools",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Which of the following tools is used for <b>precision cutting</b> of internal threads in a workpiece?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A tap is a cutting tool used to create internal threads in a pre-drilled hole. It is designed to cut precise threads by removing material as it is rotated into the hole.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "54668",
+                "tag": "a",
+                "text": "Die",
+                "is_correct": false
+            },
+            {
+                "option_id": "67919",
+                "tag": "b",
+                "text": "Tap",
+                "is_correct": true
+            },
+            {
+                "option_id": "46103",
+                "tag": "c",
+                "text": "Reamer",
+                "is_correct": false
+            },
+            {
+                "option_id": "64856",
+                "tag": "d",
+                "text": "Broach",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "16064": {
+        "order_id": 18,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Lathe operations",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>In lathe operations, the process of <b>facing</b> is used to:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Facing is a lathe operation where the tool moves perpendicular to the axis of rotation to create a flat surface on the end of the workpiece. This is typically the first operation performed to ensure the workpiece is square.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "54669",
+                "tag": "a",
+                "text": "Cut threads on the workpiece",
+                "is_correct": false
+            },
+            {
+                "option_id": "67920",
+                "tag": "b",
+                "text": "Create a flat surface on the end of the workpiece",
+                "is_correct": true
+            },
+            {
+                "option_id": "46104",
+                "tag": "c",
+                "text": "Enlarge an existing hole",
+                "is_correct": false
+            },
+            {
+                "option_id": "64857",
+                "tag": "d",
+                "text": "Produce a taper on the workpiece",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "16065": {
+        "order_id": 19,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Measurement tools",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Which of the following measurement tools is used to check the <b>flatness</b> of a surface?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A surface plate is a precision tool used to check the flatness of a surface. It provides a reference plane against which the flatness of a workpiece can be measured using tools like a dial indicator or straightedge.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "54670",
+                "tag": "a",
+                "text": "Vernier caliper",
+                "is_correct": false
+            },
+            {
+                "option_id": "67921",
+                "tag": "b",
+                "text": "Surface plate",
+                "is_correct": true
+            },
+            {
+                "option_id": "46105",
+                "tag": "c",
+                "text": "Micrometer screw gauge",
+                "is_correct": false
+            },
+            {
+                "option_id": "64858",
+                "tag": "d",
+                "text": "Protractor",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "16066": {
+        "order_id": 20,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Corrosion prevention",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Which of the following methods is used to prevent corrosion by applying a protective layer of zinc to steel?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Galvanizing is a corrosion prevention method where a protective layer of zinc is applied to steel or iron to prevent rusting. The zinc layer acts as a sacrificial anode, corroding preferentially to protect the underlying metal.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "54671",
+                "tag": "a",
+                "text": "Anodizing",
+                "is_correct": false
+            },
+            {
+                "option_id": "67922",
+                "tag": "b",
+                "text": "Galvanizing",
+                "is_correct": true
+            },
+            {
+                "option_id": "46106",
+                "tag": "c",
+                "text": "Painting",
+                "is_correct": false
+            },
+            {
+                "option_id": "64859",
+                "tag": "d",
+                "text": "Electroplating with chromium",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "16067": {
+        "order_id": 21,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Foundry processes",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>In foundry work, the process of <b>sand casting</b> involves pouring molten metal into a mold made of:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Sand casting is a foundry process where molten metal is poured into a mold made of compacted sand. The sand mold is created using a pattern and is destroyed after the metal solidifies to remove the casting.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "54672",
+                "tag": "a",
+                "text": "Plaster of Paris",
+                "is_correct": false
+            },
+            {
+                "option_id": "67923",
+                "tag": "b",
+                "text": "Compacted sand",
+                "is_correct": true
+            },
+            {
+                "option_id": "46107",
+                "tag": "c",
+                "text": "Ceramic",
+                "is_correct": false
+            },
+            {
+                "option_id": "64860",
+                "tag": "d",
+                "text": "Wax",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

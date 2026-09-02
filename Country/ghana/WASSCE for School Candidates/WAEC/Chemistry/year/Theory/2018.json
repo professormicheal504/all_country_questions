@@ -1,0 +1,257 @@
+{
+    "83748": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Atomic Structure and Electron Blocks",
+        "question_type": "Theory",
+        "exam_year": "2018",
+        "question_text": "<p>Explain the significance of the <b>Aufbau principle</b>, <b>Pauli exclusion principle</b>, and <b>Hund's rule</b> in determining the electronic configuration of atoms. Write the electronic configuration of a chlorine atom ($Z = 17$) and indicate the number of unpaired electrons in its ground state.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Aufbau Principle:</b> Electrons fill atomic orbitals in order of increasing energy levels, starting from the lowest energy orbital.<br><b>Pauli Exclusion Principle:</b> No two electrons in an atom can have the same set of four quantum numbers; thus, an orbital can hold a maximum of two electrons with opposite spins.<br><b>Hund's Rule:</b> Electrons occupy degenerate orbitals (orbitals of the same energy) singly before pairing up to maximize the number of unpaired electrons.<br><br>The electronic configuration of chlorine ($Z = 17$) is:<br>$1s^2 2s^2 2p^6 3s^2 3p^5$.<br>In its ground state, chlorine has <b>1 unpaired electron</b> in the $3p$ subshell.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "83749": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Periodic Trends",
+        "question_type": "Theory",
+        "exam_year": "2018",
+        "question_text": "<p>Describe the trends in <b>atomic radius</b>, <b>ionization energy</b>, and <b>electronegativity</b> across a period and down a group in the periodic table. Explain why fluorine has the highest electronegativity among all elements.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Atomic Radius:</b><br>- Decreases across a period due to increasing nuclear charge pulling electrons closer.<br>- Increases down a group as additional electron shells are added.<br><br><b>Ionization Energy:</b><br>- Increases across a period due to stronger nuclear attraction.<br>- Decreases down a group as outer electrons are farther from the nucleus.<br><br><b>Electronegativity:</b><br>- Increases across a period as atoms attract bonding electrons more strongly.<br>- Decreases down a group due to increased atomic size.<br><br>Fluorine has the highest electronegativity because it has a small atomic radius and a high effective nuclear charge, strongly attracting bonding electrons.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "83750": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Chemical Bonding Types",
+        "question_type": "Objective",
+        "exam_year": "2018",
+        "question_text": "<p>Which of the following compounds exhibits <b>hydrogen bonding</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Hydrogen bonding occurs in compounds where hydrogen is bonded to highly electronegative atoms like nitrogen, oxygen, or fluorine. <b>Ammonia ($NH_3$)</b> exhibits hydrogen bonding due to the $N-H$ bonds.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "37074",
+                "tag": "a",
+                "text": "$CH_4$",
+                "is_correct": false
+            },
+            {
+                "option_id": "97620",
+                "tag": "b",
+                "text": "$NH_3$",
+                "is_correct": true
+            },
+            {
+                "option_id": "26705",
+                "tag": "c",
+                "text": "$HCl$",
+                "is_correct": false
+            },
+            {
+                "option_id": "77923",
+                "tag": "d",
+                "text": "$CO_2$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "83751": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Gas Laws and Kinetic Theory",
+        "question_type": "Theory",
+        "exam_year": "2018",
+        "question_text": "<p>State the <b>ideal gas equation</b> and explain the conditions under which a real gas deviates from ideal behavior. Derive the relationship between the <b>van der Waals equation</b> and the ideal gas law.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>ideal gas equation</b> is:<br>$PV = nRT$.<br><br>Real gases deviate from ideal behavior at <b>high pressures</b> and <b>low temperatures</b> due to intermolecular forces and the finite volume of gas molecules.<br><br>The <b>van der Waals equation</b> corrects for these deviations:<br>$\\left(P + \\frac{an^2}{V^2}\\right)(V - nb) = nRT$,<br>where $\\frac{an^2}{V^2}$ accounts for intermolecular attractions and $nb$ corrects for the volume occupied by gas molecules.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "83752": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Solutions and Colligative Properties",
+        "question_type": "Theory",
+        "exam_year": "2018",
+        "question_text": "<p>Define <b>colligative properties</b> and explain how the addition of a non-volatile solute affects the <b>boiling point</b> and <b>freezing point</b> of a solvent. Calculate the boiling point elevation for a solution containing 5.0 g of glucose ($C_6H_{12}O_6$) dissolved in 100 g of water. ($K_b$ for water = $0.52 \\, ^\\circ C \\cdot kg \\cdot mol^{-1}$)</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Colligative properties</b> depend on the number of solute particles in a solution, not their identity. They include boiling point elevation, freezing point depression, osmotic pressure, and vapor pressure lowering.<br><br>Adding a non-volatile solute <b>increases the boiling point</b> and <b>decreases the freezing point</b> of a solvent.<br><br>Molar mass of glucose = $180 \\, g \\cdot mol^{-1}$.<br>Moles of glucose = $\\frac{5.0 \\, g}{180 \\, g \\cdot mol^{-1}} = 0.0278 \\, mol$.<br>Molality = $\\frac{0.0278 \\, mol}{0.100 \\, kg} = 0.278 \\, m$.<br>Boiling point elevation = $K_b \\cdot m = 0.52 \\, ^\\circ C \\cdot kg \\cdot mol^{-1} \\times 0.278 \\, m = 0.145 \\, ^\\circ C$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "83753": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Thermochemistry and Enthalpy",
+        "question_type": "Objective",
+        "exam_year": "2018",
+        "question_text": "<p>The standard enthalpy change of combustion of methane ($CH_4$) is $-890 \\, kJ \\cdot mol^{-1}$. What is the heat released when 16 g of methane is completely burned?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Molar mass of $CH_4$ = $16 \\, g \\cdot mol^{-1}$.<br>Moles of $CH_4$ = $\\frac{16 \\, g}{16 \\, g \\cdot mol^{-1}} = 1 \\, mol$.<br>Heat released = $1 \\, mol \\times 890 \\, kJ \\cdot mol^{-1} = 890 \\, kJ$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "37074",
+                "tag": "a",
+                "text": "$445 \\, kJ$",
+                "is_correct": false
+            },
+            {
+                "option_id": "97620",
+                "tag": "b",
+                "text": "$890 \\, kJ$",
+                "is_correct": true
+            },
+            {
+                "option_id": "26705",
+                "tag": "c",
+                "text": "$1780 \\, kJ$",
+                "is_correct": false
+            },
+            {
+                "option_id": "77923",
+                "tag": "d",
+                "text": "$222.5 \\, kJ$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "83754": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Chemical Equilibrium",
+        "question_type": "Theory",
+        "exam_year": "2018",
+        "question_text": "<p>State <b>Le Chatelier's principle</b> and use it to predict the effect of the following changes on the equilibrium position of the reaction:<br>$N_2(g) + 3H_2(g) \\rightleftharpoons 2NH_3(g) \\quad \\Delta H = -92 \\, kJ \\cdot mol^{-1}$<br>(i) Increasing the pressure<br>(ii) Increasing the temperature<br>(iii) Adding a catalyst</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Le Chatelier's Principle:</b> If a dynamic equilibrium is disturbed by changing the conditions, the system adjusts to counteract the change and restore equilibrium.<br><br>(i) <b>Increasing pressure:</b> Shifts equilibrium to the right (toward $NH_3$) to reduce the number of gas molecules.<br>(ii) <b>Increasing temperature:</b> Shifts equilibrium to the left (endothermic direction) to absorb excess heat.<br>(iii) <b>Adding a catalyst:</b> No effect on equilibrium position; only speeds up the rate of reaction.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "83755": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Acid-Base Theories and pH",
+        "question_type": "Theory",
+        "exam_year": "2018",
+        "question_text": "<p>Define <b>pH</b> and calculate the pH of a $0.01 \\, mol \\cdot dm^{-3}$ solution of hydrochloric acid ($HCl$). Explain how a <b>buffer solution</b> resists changes in pH when small amounts of acid or base are added.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>pH</b> is defined as the negative logarithm (base 10) of the hydrogen ion concentration:<br>$pH = -\\log[H^+]$.<br><br>For $0.01 \\, mol \\cdot dm^{-3}$ $HCl$, $[H^+] = 0.01 \\, mol \\cdot dm^{-3}$.<br>$pH = -\\log(0.01) = 2$.<br><br>A <b>buffer solution</b> contains a weak acid and its conjugate base (or a weak base and its conjugate acid). When small amounts of acid or base are added, the buffer components react to neutralize the added $H^+$ or $OH^-$, minimizing pH changes.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "83756": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Redox Reactions and Electrochemistry",
+        "question_type": "Objective",
+        "exam_year": "2018",
+        "question_text": "<p>In the electrochemical cell:<br>$Zn(s) | Zn^{2+}(aq) || Cu^{2+}(aq) | Cu(s)$<br>Which species is oxidized, and what is the cell notation for the reaction?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In the given cell, <b>zinc ($Zn$)</b> is oxidized to $Zn^{2+}$, and <b>copper ($Cu^{2+}$)</b> is reduced to $Cu$. The cell notation is:<br>$Zn(s) | Zn^{2+}(aq) || Cu^{2+}(aq) | Cu(s)$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "37074",
+                "tag": "a",
+                "text": "$Cu$ is oxidized; $Cu(s) | Cu^{2+}(aq) || Zn^{2+}(aq) | Zn(s)$",
+                "is_correct": false
+            },
+            {
+                "option_id": "97620",
+                "tag": "b",
+                "text": "$Zn$ is oxidized; $Zn(s) | Zn^{2+}(aq) || Cu^{2+}(aq) | Cu(s)$",
+                "is_correct": true
+            },
+            {
+                "option_id": "26705",
+                "tag": "c",
+                "text": "$Zn^{2+}$ is oxidized; $Zn^{2+}(aq) | Zn(s) || Cu(s) | Cu^{2+}(aq)$",
+                "is_correct": false
+            },
+            {
+                "option_id": "77923",
+                "tag": "d",
+                "text": "$Cu^{2+}$ is oxidized; $Cu^{2+}(aq) | Cu(s) || Zn(s) | Zn^{2+}(aq)$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "83757": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Organic Chemistry: Hydrocarbons and Reaction Types",
+        "question_type": "Theory",
+        "exam_year": "2018",
+        "question_text": "<p>Describe the <b>mechanism of electrophilic addition</b> in alkenes, using the reaction between ethene ($C_2H_4$) and hydrogen bromide ($HBr$) as an example. Draw the structural formula of the major product formed.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Mechanism of Electrophilic Addition:</b><br>1. The $C=C$ double bond in ethene is electron-rich and attracts the electrophile ($H^+$ from $HBr$).<br>2. A carbocation intermediate is formed.<br>3. The bromide ion ($Br^-$) attacks the carbocation, forming the addition product.<br><br>The major product is <b>bromoethane ($CH_3CH_2Br$)</b>, following Markovnikov's rule.<br><br>Structural formula:<br><br>$CH_2=CH_2 + HBr \\rightarrow CH_3-CH_2Br$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

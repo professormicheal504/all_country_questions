@@ -1,0 +1,432 @@
+{
+    "76021": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Accounting Equation",
+        "question_type": "Practical",
+        "exam_year": "2007",
+        "question_text": "<p>The assets of a business are \u20b5120,000 and the liabilities are \u20b540,000. What is the owner's equity?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Using the accounting equation: $Assets = Liabilities + Owner's\thinspace Equity$.<br>Rearranged to find owner's equity: $Owner's\thinspace Equity = Assets - Liabilities$.<br>Substitute the given values: $Owner's\thinspace Equity = \u20b5120,000 - \u20b540,000 = \u20b580,000$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "62091",
+                "tag": "a",
+                "text": "\u20b580,000",
+                "is_correct": true
+            },
+            {
+                "option_id": "48291",
+                "tag": "b",
+                "text": "\u20b5120,000",
+                "is_correct": false
+            },
+            {
+                "option_id": "34706",
+                "tag": "c",
+                "text": "\u20b5160,000",
+                "is_correct": false
+            },
+            {
+                "option_id": "22282",
+                "tag": "d",
+                "text": "\u20b540,000",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "76022": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Double-Entry Rules",
+        "question_type": "Practical",
+        "exam_year": "2007",
+        "question_text": "<p>A business purchased goods for \u20b55,000 on credit. Which of the following entries correctly records this transaction?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The transaction involves an increase in purchases (debit) and an increase in creditors (credit).<br>The correct double-entry is:<br><b>Debit Purchases Account \u20b55,000</b><br><b>Credit Creditors Account \u20b55,000</b>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "62092",
+                "tag": "a",
+                "text": "<b>Debit Purchases \u20b55,000</b><br><b>Credit Cash \u20b55,000</b>",
+                "is_correct": false
+            },
+            {
+                "option_id": "48292",
+                "tag": "b",
+                "text": "<b>Debit Purchases \u20b55,000</b><br><b>Credit Creditors \u20b55,000</b>",
+                "is_correct": true
+            },
+            {
+                "option_id": "34707",
+                "tag": "c",
+                "text": "<b>Debit Creditors \u20b55,000</b><br><b>Credit Purchases \u20b55,000</b>",
+                "is_correct": false
+            },
+            {
+                "option_id": "22283",
+                "tag": "d",
+                "text": "<b>Debit Cash \u20b55,000</b><br><b>Credit Purchases \u20b55,000</b>",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "76023": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Bank Reconciliation",
+        "question_type": "Practical",
+        "exam_year": "2007",
+        "question_text": "<p>The cash book balance of a business is \u20b515,000 (debit), while the bank statement shows a balance of \u20b518,000 (credit). The following were discovered:<br><i>Unpresented cheques: \u20b54,000</i><br><i>Bank charges not recorded: \u20b51,000</i><br><i>Deposit not yet credited: \u20b52,000</i><br>Calculate the adjusted cash book balance.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Start with the cash book balance: \u20b515,000.<br>Adjust for items not recorded in the cash book:<br><b>Add: Deposit not yet credited \u20b52,000</b><br><b>Less: Bank charges \u20b51,000</b><br>Adjusted cash book balance = \u20b515,000 + \u20b52,000 - \u20b51,000 = <b>\u20b516,000</b>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "62093",
+                "tag": "a",
+                "text": "\u20b514,000",
+                "is_correct": false
+            },
+            {
+                "option_id": "48293",
+                "tag": "b",
+                "text": "\u20b516,000",
+                "is_correct": true
+            },
+            {
+                "option_id": "34708",
+                "tag": "c",
+                "text": "\u20b517,000",
+                "is_correct": false
+            },
+            {
+                "option_id": "22284",
+                "tag": "d",
+                "text": "\u20b519,000",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "76024": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Depreciation Methods",
+        "question_type": "Practical",
+        "exam_year": "2007",
+        "question_text": "<p>A machine was purchased for \u20b550,000 with an estimated useful life of 5 years and a residual value of \u20b55,000. Calculate the annual depreciation charge using the straight-line method.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The straight-line depreciation formula is:<br>$Depreciation = \frac{Cost - Residual\thinspace Value}{Useful\thinspace Life}$<br>Substitute the values: $Depreciation = \frac{\u20b550,000 - \u20b55,000}{5} = \u20b59,000$ per year.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "62094",
+                "tag": "a",
+                "text": "\u20b58,000",
+                "is_correct": false
+            },
+            {
+                "option_id": "48294",
+                "tag": "b",
+                "text": "\u20b59,000",
+                "is_correct": true
+            },
+            {
+                "option_id": "34709",
+                "tag": "c",
+                "text": "\u20b510,000",
+                "is_correct": false
+            },
+            {
+                "option_id": "22285",
+                "tag": "d",
+                "text": "\u20b511,000",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "76025": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Final Accounts Adjustments",
+        "question_type": "Practical",
+        "exam_year": "2007",
+        "question_text": "<p>The trial balance of a business shows rent paid of \u20b512,000. It was discovered that \u20b53,000 of this amount relates to the next accounting period. What is the correct amount to be shown in the income statement?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The rent paid includes a prepayment of \u20b53,000 for the next period.<br>The correct amount to be expensed in the current period is:<br>$\u20b512,000 - \u20b53,000 = \u20b59,000$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "62095",
+                "tag": "a",
+                "text": "\u20b53,000",
+                "is_correct": false
+            },
+            {
+                "option_id": "48295",
+                "tag": "b",
+                "text": "\u20b59,000",
+                "is_correct": true
+            },
+            {
+                "option_id": "34710",
+                "tag": "c",
+                "text": "\u20b512,000",
+                "is_correct": false
+            },
+            {
+                "option_id": "22286",
+                "tag": "d",
+                "text": "\u20b515,000",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "76026": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Partnership Accounts",
+        "question_type": "Practical",
+        "exam_year": "2007",
+        "question_text": "<p>A and B are partners sharing profits and losses in the ratio 3:2. The net profit for the year is \u20b525,000. Calculate A's share of the profit.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The profit-sharing ratio is 3:2, meaning the total parts are 5.<br>A's share = $\frac{3}{5} \times \u20b525,000 = \u20b515,000$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "62096",
+                "tag": "a",
+                "text": "\u20b510,000",
+                "is_correct": false
+            },
+            {
+                "option_id": "48296",
+                "tag": "b",
+                "text": "\u20b515,000",
+                "is_correct": true
+            },
+            {
+                "option_id": "34711",
+                "tag": "c",
+                "text": "\u20b520,000",
+                "is_correct": false
+            },
+            {
+                "option_id": "22287",
+                "tag": "d",
+                "text": "\u20b525,000",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "76027": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Company Accounts",
+        "question_type": "Practical",
+        "exam_year": "2007",
+        "question_text": "<p>A company issued 10,000 ordinary shares of \u20b51 each at a premium of \u20b50.50 per share. What is the total amount received from the issue?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The nominal value of each share is \u20b51, and the premium is \u20b50.50.<br>Total amount received per share = \u20b51 + \u20b50.50 = \u20b51.50.<br>Total amount received = $10,000 \times \u20b51.50 = \u20b515,000$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "62097",
+                "tag": "a",
+                "text": "\u20b510,000",
+                "is_correct": false
+            },
+            {
+                "option_id": "48297",
+                "tag": "b",
+                "text": "\u20b512,500",
+                "is_correct": false
+            },
+            {
+                "option_id": "34712",
+                "tag": "c",
+                "text": "\u20b515,000",
+                "is_correct": true
+            },
+            {
+                "option_id": "22288",
+                "tag": "d",
+                "text": "\u20b520,000",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "76028": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Manufacturing Accounts",
+        "question_type": "Practical",
+        "exam_year": "2007",
+        "question_text": "<p>The following information relates to a manufacturing business:<br><i>Raw materials consumed: \u20b550,000</i><br><i>Direct wages: \u20b530,000</i><br><i>Factory overheads: \u20b520,000</i><br>Calculate the prime cost.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Prime cost is the sum of direct materials and direct labor.<br>$Prime\thinspace Cost = Raw\thinspace Materials\thinspace Consumed + Direct\thinspace Wages$.<br>$Prime\thinspace Cost = \u20b550,000 + \u20b530,000 = \u20b580,000$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "62098",
+                "tag": "a",
+                "text": "\u20b550,000",
+                "is_correct": false
+            },
+            {
+                "option_id": "48298",
+                "tag": "b",
+                "text": "\u20b580,000",
+                "is_correct": true
+            },
+            {
+                "option_id": "34713",
+                "tag": "c",
+                "text": "\u20b5100,000",
+                "is_correct": false
+            },
+            {
+                "option_id": "22289",
+                "tag": "d",
+                "text": "\u20b570,000",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "76029": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Financial Ratios",
+        "question_type": "Practical",
+        "exam_year": "2007",
+        "question_text": "<p>A company has current assets of \u20b560,000 and current liabilities of \u20b540,000. Calculate the current ratio.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The current ratio is calculated as:<br>$Current\thinspace Ratio = \frac{Current\thinspace Assets}{Current\thinspace Liabilities}$<br>Substitute the values: $Current\thinspace Ratio = \frac{\u20b560,000}{\u20b540,000} = 1.5:1$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "62099",
+                "tag": "a",
+                "text": "0.67:1",
+                "is_correct": false
+            },
+            {
+                "option_id": "48299",
+                "tag": "b",
+                "text": "1.5:1",
+                "is_correct": true
+            },
+            {
+                "option_id": "34714",
+                "tag": "c",
+                "text": "2:1",
+                "is_correct": false
+            },
+            {
+                "option_id": "22290",
+                "tag": "d",
+                "text": "2.5:1",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "76030": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Non-Profit Accounting",
+        "question_type": "Practical",
+        "exam_year": "2007",
+        "question_text": "<p>A non-profit organization received subscriptions of \u20b520,000 during the year. It was discovered that \u20b52,000 of this amount relates to the next accounting period. What is the amount to be shown as income in the income and expenditure account?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The subscriptions received include an amount of \u20b52,000 for the next period, which is a liability (deferred income).<br>The correct amount to be recognized as income is:<br>$\u20b520,000 - \u20b52,000 = \u20b518,000$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "62100",
+                "tag": "a",
+                "text": "\u20b52,000",
+                "is_correct": false
+            },
+            {
+                "option_id": "48300",
+                "tag": "b",
+                "text": "\u20b518,000",
+                "is_correct": true
+            },
+            {
+                "option_id": "34715",
+                "tag": "c",
+                "text": "\u20b520,000",
+                "is_correct": false
+            },
+            {
+                "option_id": "22291",
+                "tag": "d",
+                "text": "\u20b522,000",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

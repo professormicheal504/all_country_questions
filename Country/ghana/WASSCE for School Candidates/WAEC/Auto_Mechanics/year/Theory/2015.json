@@ -1,0 +1,306 @@
+{
+    "46891": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Internal Combustion Engine Cycles",
+        "question_type": "Theory",
+        "exam_year": "2015",
+        "question_text": "<p>Explain the four-stroke cycle of a petrol engine, clearly stating the events that occur in each stroke. Include a simple sketch or diagram to illustrate your answer.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The four-stroke cycle of a petrol engine consists of the following strokes:<br><br><b>1. Intake Stroke:</b> The piston moves downward, creating a vacuum that draws in a mixture of air and fuel through the open intake valve.<br><br><b>2. Compression Stroke:</b> The piston moves upward, compressing the air-fuel mixture. Both the intake and exhaust valves are closed during this stroke. The compression increases the temperature and pressure of the mixture.<br><br><b>3. Power Stroke:</b> The spark plug ignites the compressed air-fuel mixture, causing a rapid expansion of gases. This forces the piston downward, generating power that is transmitted to the crankshaft.<br><br><b>4. Exhaust Stroke:</b> The piston moves upward again, pushing the burnt gases out through the open exhaust valve.<br><br>The cycle then repeats. A simple diagram should show the piston positions and valve states for each stroke.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "46892": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Engine Components and Functions",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>Which of the following components is responsible for converting the linear motion of the pistons into rotational motion in an internal combustion engine?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>crankshaft</b> is the engine component that converts the linear (up-and-down) motion of the pistons into rotational motion. This rotational motion is then transmitted to the drivetrain to propel the vehicle.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "96638",
+                "tag": "a",
+                "text": "Camshaft",
+                "is_correct": false
+            },
+            {
+                "option_id": "17173",
+                "tag": "b",
+                "text": "Crankshaft",
+                "is_correct": true
+            },
+            {
+                "option_id": "37942",
+                "tag": "c",
+                "text": "Connecting rod",
+                "is_correct": false
+            },
+            {
+                "option_id": "49248",
+                "tag": "d",
+                "text": "Flywheel",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "46893": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Engine Lubrication Systems",
+        "question_type": "Theory",
+        "exam_year": "2015",
+        "question_text": "<p>Describe the function of the oil pump in an engine lubrication system. Explain how a <b>gear-type oil pump</b> operates to circulate oil throughout the engine.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>oil pump</b> is a critical component of the engine lubrication system. Its primary function is to circulate engine oil under pressure to lubricate moving parts, reduce friction, cool engine components, and remove contaminants.<br><br>A <b>gear-type oil pump</b> operates as follows:<br><br>1. It consists of two meshing gears (a drive gear and a driven gear) housed in a close-fitting casing.<br>2. As the engine runs, the drive gear (connected to the crankshaft or camshaft) rotates, causing the driven gear to rotate in the opposite direction.<br>3. Oil is drawn into the pump through the inlet port as the gears unmesh, creating a low-pressure area.<br>4. The oil is trapped between the gear teeth and the pump casing, then carried around the outer circumference of the gears.<br>5. As the gears remesh at the outlet side, the oil is forced out under pressure into the engine's oil galleries and passages, ensuring proper lubrication of all critical components.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "46894": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Cooling Systems Types",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>In a liquid cooling system, what is the primary function of the <b>thermostat</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>thermostat</b> in a liquid cooling system regulates the flow of coolant to maintain the engine at its optimal operating temperature. It remains closed when the engine is cold, allowing it to warm up quickly, and opens when the engine reaches the desired temperature to allow coolant circulation.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "96638",
+                "tag": "a",
+                "text": "To increase the boiling point of the coolant",
+                "is_correct": false
+            },
+            {
+                "option_id": "17173",
+                "tag": "b",
+                "text": "To regulate the flow of coolant based on engine temperature",
+                "is_correct": true
+            },
+            {
+                "option_id": "37942",
+                "tag": "c",
+                "text": "To filter impurities from the coolant",
+                "is_correct": false
+            },
+            {
+                "option_id": "49248",
+                "tag": "d",
+                "text": "To pump coolant through the engine",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "46895": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Fuel Supply Systems",
+        "question_type": "Theory",
+        "exam_year": "2015",
+        "question_text": "<p>Explain the difference between a <b>carburetor</b> and a <b>fuel injection system</b> in terms of their operation and efficiency. State <u>two advantages</u> of fuel injection over carburetion.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Carburetor:</b> A carburetor mixes air and fuel mechanically using a venturi effect. It relies on engine vacuum to draw fuel into the airstream. However, it is less precise in metering fuel, leading to inefficiencies, especially under varying engine conditions.<br><br><b>Fuel Injection System:</b> A fuel injection system delivers fuel directly into the intake manifold or combustion chamber using electronically controlled injectors. It provides precise fuel metering, improving efficiency and performance.<br><br><b>Advantages of Fuel Injection over Carburetion:</b><br>1. <b>Improved Fuel Efficiency:</b> Fuel injection systems deliver the exact amount of fuel needed, reducing waste.<br>2. <b>Better Engine Performance:</b> Fuel injection provides better throttle response, smoother acceleration, and optimized combustion under all operating conditions.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "46896": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Clutch Types and Operation",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>Which of the following clutch types uses a <b>diaphragm spring</b> to apply pressure to the pressure plate?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>diaphragm spring clutch</b> uses a diaphragm spring (a conical-shaped spring) to apply pressure to the pressure plate. This design is commonly used in modern vehicles due to its compact size and efficient operation.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "96638",
+                "tag": "a",
+                "text": "Coil spring clutch",
+                "is_correct": false
+            },
+            {
+                "option_id": "17173",
+                "tag": "b",
+                "text": "Diaphragm spring clutch",
+                "is_correct": true
+            },
+            {
+                "option_id": "37942",
+                "tag": "c",
+                "text": "Centrifugal clutch",
+                "is_correct": false
+            },
+            {
+                "option_id": "49248",
+                "tag": "d",
+                "text": "Hydraulic clutch",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "46897": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Manual Transmission Basics",
+        "question_type": "Theory",
+        "exam_year": "2015",
+        "question_text": "<p>Describe the function of the <b>synchromesh</b> in a manual transmission. Explain how it facilitates smooth gear engagement.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>synchromesh</b> is a device in a manual transmission that synchronizes the speeds of the gear and the shaft before engagement, preventing grinding or clashing of gears.<br><br>It operates as follows:<br>1. When the driver selects a gear, the synchromesh unit moves toward the gear.<br>2. A cone on the synchromesh unit contacts a cone on the gear, creating friction that matches their speeds.<br>3. Once the speeds are synchronized, the sleeve slides over the gear's dog teeth, locking the gear to the shaft.<br>4. This process ensures smooth and quiet gear engagement without damaging the transmission components.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "46898": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Suspension System Types",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>Which of the following suspension systems uses <b>air springs</b> to support the vehicle's weight?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>air suspension system</b> uses air springs (also called air bags) to support the vehicle's weight. These air springs can be inflated or deflated to adjust ride height and comfort.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "96638",
+                "tag": "a",
+                "text": "MacPherson strut suspension",
+                "is_correct": false
+            },
+            {
+                "option_id": "17173",
+                "tag": "b",
+                "text": "Air suspension",
+                "is_correct": true
+            },
+            {
+                "option_id": "37942",
+                "tag": "c",
+                "text": "Double wishbone suspension",
+                "is_correct": false
+            },
+            {
+                "option_id": "49248",
+                "tag": "d",
+                "text": "Leaf spring suspension",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "46899": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Brake System Principles",
+        "question_type": "Theory",
+        "exam_year": "2015",
+        "question_text": "<p>Explain the principle of operation of a <b>hydraulic brake system</b>. Include the role of the master cylinder and wheel cylinders in your explanation.</p>",
+        "question_image": null,
+        "explanation": "<p>A <b>hydraulic brake system</b> operates based on Pascal's Law, which states that pressure applied to a fluid in a closed system is transmitted equally in all directions.<br><br><b>Principle of Operation:</b><br>1. When the brake pedal is pressed, the <b>master cylinder</b> converts mechanical force into hydraulic pressure.<br>2. The master cylinder pushes brake fluid through the brake lines to the <b>wheel cylinders</b> (in drum brakes) or <b>caliper pistons</b> (in disc brakes).<br>3. The hydraulic pressure causes the wheel cylinders or caliper pistons to expand, forcing the brake shoes or pads against the drum or rotor.<br>4. Friction between the brake components slows or stops the vehicle.<br><br>The system ensures that braking force is distributed evenly to all wheels, providing effective and balanced stopping power.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "46900": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Vehicle Electrical Systems",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>What is the primary function of the <b>alternator</b> in a vehicle's electrical system?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>alternator</b> is responsible for generating electrical power to recharge the battery and supply electricity to the vehicle's electrical components while the engine is running. It converts mechanical energy from the engine into electrical energy.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "96638",
+                "tag": "a",
+                "text": "To start the engine",
+                "is_correct": false
+            },
+            {
+                "option_id": "17173",
+                "tag": "b",
+                "text": "To generate electrical power for the vehicle's systems and recharge the battery",
+                "is_correct": true
+            },
+            {
+                "option_id": "37942",
+                "tag": "c",
+                "text": "To regulate the fuel injection system",
+                "is_correct": false
+            },
+            {
+                "option_id": "49248",
+                "tag": "d",
+                "text": "To control the ignition timing",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

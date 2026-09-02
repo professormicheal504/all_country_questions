@@ -1,0 +1,306 @@
+{
+    "36547": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Internal Combustion Engine Cycles",
+        "question_type": "Theory",
+        "exam_year": "2023",
+        "question_text": "<p>Describe the <b>four-stroke cycle</b> of a petrol engine. Include the names of the strokes, the events that occur during each stroke, and the role of the valves in the process.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The four-stroke cycle of a petrol engine consists of the following strokes:<br><br><b>1. Intake Stroke:</b> The piston moves downward, creating a vacuum that draws in a mixture of air and fuel through the open <i>intake valve</i>. The <i>exhaust valve</i> remains closed.<br><br><b>2. Compression Stroke:</b> Both the intake and exhaust valves are closed. The piston moves upward, compressing the air-fuel mixture, increasing its temperature and pressure.<br><br><b>3. Power Stroke:</b> Near the end of the compression stroke, the spark plug ignites the compressed mixture, causing a rapid expansion of gases. This forces the piston downward, generating power. Both valves remain closed.<br><br><b>4. Exhaust Stroke:</b> The piston moves upward again, pushing the burnt gases out through the open <i>exhaust valve</i>. The <i>intake valve</i> remains closed.<br><br>The cycle then repeats. The valves are timed to open and close at specific points to ensure efficient engine operation.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "36548": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Engine Components and Functions",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>Which of the following engine components is responsible for converting the linear motion of the pistons into rotary motion?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>crankshaft</b> is the engine component that converts the linear (up-and-down) motion of the pistons into rotary motion. This rotary motion is then transmitted to the drivetrain to propel the vehicle.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "60466",
+                "tag": "a",
+                "text": "Camshaft",
+                "is_correct": false
+            },
+            {
+                "option_id": "64076",
+                "tag": "b",
+                "text": "Crankshaft",
+                "is_correct": true
+            },
+            {
+                "option_id": "34466",
+                "tag": "c",
+                "text": "Connecting rod",
+                "is_correct": false
+            },
+            {
+                "option_id": "44470",
+                "tag": "d",
+                "text": "Flywheel",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "36549": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Engine Lubrication Systems",
+        "question_type": "Theory",
+        "exam_year": "2023",
+        "question_text": "<p>Explain the <b>function of the oil pump</b> in an engine lubrication system. Describe the two common types of oil pumps used in automotive engines.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>oil pump</b> is a critical component of the engine lubrication system. Its primary function is to circulate engine oil under pressure to lubricate moving parts, reduce friction, cool engine components, and remove contaminants.<br><br>The two common types of oil pumps are:<br><br><b>1. Gear-Type Oil Pump:</b> This pump consists of two meshing gears (one driven by the engine and the other idler). As the gears rotate, oil is trapped between the gear teeth and the pump housing, then forced into the oil galleries.<br><br><b>2. Rotor-Type Oil Pump:</b> This pump uses an inner rotor with lobes that mesh with an outer rotor. As the inner rotor turns, it creates chambers that expand and contract, drawing in oil and forcing it out under pressure.<br><br>Both types ensure that oil reaches critical engine components such as bearings, pistons, and camshafts.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "36550": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Cooling Systems Types",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>In a liquid cooling system, what is the primary function of the <b>thermostat</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>thermostat</b> in a liquid cooling system regulates the flow of coolant to maintain the engine at its optimal operating temperature. It remains closed when the engine is cold, allowing it to warm up quickly, and opens when the engine reaches operating temperature to allow coolant circulation.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "60466",
+                "tag": "a",
+                "text": "To increase the boiling point of the coolant",
+                "is_correct": false
+            },
+            {
+                "option_id": "64076",
+                "tag": "b",
+                "text": "To regulate the flow of coolant based on engine temperature",
+                "is_correct": true
+            },
+            {
+                "option_id": "34466",
+                "tag": "c",
+                "text": "To filter impurities from the coolant",
+                "is_correct": false
+            },
+            {
+                "option_id": "44470",
+                "tag": "d",
+                "text": "To pump coolant through the engine",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "36551": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Fuel Supply Systems",
+        "question_type": "Theory",
+        "exam_year": "2023",
+        "question_text": "<p>Describe the <b>operation of a carburetor</b> in a petrol engine. Include the roles of the float chamber, venturi, and throttle valve.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>carburetor</b> is a device that mixes air and fuel in the correct ratio for combustion in a petrol engine. Its operation involves the following key components:<br><br><b>1. Float Chamber:</b> This chamber stores fuel at a constant level. A float and needle valve regulate the fuel level by controlling the flow from the fuel tank.<br><br><b>2. Venturi:</b> As air flows through the carburetor, it passes through a narrowed section called the venturi. The reduced pressure in the venturi draws fuel from the float chamber into the airstream, creating a combustible mixture.<br><br><b>3. Throttle Valve:</b> The throttle valve controls the amount of air-fuel mixture entering the engine. When the throttle is opened, more mixture flows in, increasing engine power. When closed, the mixture flow is restricted, reducing power.<br><br>The carburetor ensures the engine receives the correct air-fuel ratio for efficient combustion under varying load and speed conditions.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "36552": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Ignition System Types",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>Which component in a <b>conventional ignition system</b> is responsible for generating the high voltage required to produce a spark at the spark plug?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>ignition coil</b> in a conventional ignition system is responsible for transforming the low-voltage current from the battery into the high-voltage current needed to create a spark at the spark plug. This high voltage jumps the gap in the spark plug, igniting the air-fuel mixture.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "60466",
+                "tag": "a",
+                "text": "Distributor",
+                "is_correct": false
+            },
+            {
+                "option_id": "64076",
+                "tag": "b",
+                "text": "Ignition coil",
+                "is_correct": true
+            },
+            {
+                "option_id": "34466",
+                "tag": "c",
+                "text": "Condenser",
+                "is_correct": false
+            },
+            {
+                "option_id": "44470",
+                "tag": "d",
+                "text": "Spark plug",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "36553": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Clutch Types and Operation",
+        "question_type": "Theory",
+        "exam_year": "2023",
+        "question_text": "<p>Explain the <b>operation of a single-plate dry clutch</b> in a manual transmission vehicle. Include the roles of the flywheel, pressure plate, clutch disc, and release bearing.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>single-plate dry clutch</b> is used in manual transmission vehicles to engage and disengage the engine from the transmission. Its operation involves the following components:<br><br><b>1. Flywheel:</b> Mounted on the engine crankshaft, the flywheel provides a smooth surface for the clutch disc to contact and helps maintain engine momentum.<br><br><b>2. Clutch Disc:</b> Located between the flywheel and pressure plate, the clutch disc has friction material on both sides. When engaged, it transfers engine torque to the transmission input shaft.<br><br><b>3. Pressure Plate:</b> This component applies force to the clutch disc, pressing it against the flywheel. When the clutch pedal is depressed, the pressure plate releases the disc, disengaging the engine from the transmission.<br><br><b>4. Release Bearing:</b> Also called the throw-out bearing, it moves the pressure plate's diaphragm spring or fingers when the clutch pedal is pressed, allowing the clutch to disengage.<br><br>When the clutch pedal is released, the pressure plate clamps the clutch disc against the flywheel, enabling power transfer from the engine to the transmission.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "36554": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Suspension System Types",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>Which of the following suspension systems uses <b>air springs</b> instead of conventional coil or leaf springs?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>air suspension system</b> uses air springs (also called air bags) instead of conventional coil or leaf springs. These air springs are filled with compressed air to support the vehicle's weight and provide a smooth ride.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "60466",
+                "tag": "a",
+                "text": "MacPherson strut",
+                "is_correct": false
+            },
+            {
+                "option_id": "64076",
+                "tag": "b",
+                "text": "Air suspension",
+                "is_correct": true
+            },
+            {
+                "option_id": "34466",
+                "tag": "c",
+                "text": "Double wishbone",
+                "is_correct": false
+            },
+            {
+                "option_id": "44470",
+                "tag": "d",
+                "text": "Torsion bar",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "36555": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Brake System Principles",
+        "question_type": "Theory",
+        "exam_year": "2023",
+        "question_text": "<p>Describe the <b>principle of operation of a hydraulic brake system</b>. Include the roles of the master cylinder, brake lines, and wheel cylinders.</p>",
+        "question_image": null,
+        "explanation": "<p>A <b>hydraulic brake system</b> operates on the principle of <i>Pascal's Law</i>, which states that pressure applied to a fluid in a closed system is transmitted equally in all directions. The system consists of the following key components:<br><br><b>1. Master Cylinder:</b> When the brake pedal is pressed, the master cylinder converts mechanical force into hydraulic pressure. It contains a piston that pushes brake fluid into the brake lines.<br><br><b>2. Brake Lines:</b> These are rigid and flexible pipes that carry pressurized brake fluid from the master cylinder to the wheel cylinders or calipers.<br><br><b>3. Wheel Cylinders (or Calipers in disc brakes):</b> Located at each wheel, these components convert hydraulic pressure back into mechanical force. In drum brakes, the wheel cylinder pushes the brake shoes against the drum. In disc brakes, the caliper clamps the brake pads against the rotor.<br><br>The system ensures that braking force is distributed evenly to all wheels, allowing the vehicle to slow down or stop safely.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "36556": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Vehicle Electrical Systems",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>In a vehicle's electrical system, what is the primary function of the <b>alternator</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>alternator</b> is responsible for generating electrical power to recharge the battery and supply electricity to the vehicle's electrical systems while the engine is running. It converts mechanical energy from the engine into electrical energy.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "60466",
+                "tag": "a",
+                "text": "To start the engine",
+                "is_correct": false
+            },
+            {
+                "option_id": "64076",
+                "tag": "b",
+                "text": "To generate electrical power and recharge the battery",
+                "is_correct": true
+            },
+            {
+                "option_id": "34466",
+                "tag": "c",
+                "text": "To regulate fuel injection",
+                "is_correct": false
+            },
+            {
+                "option_id": "44470",
+                "tag": "d",
+                "text": "To control the ignition timing",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

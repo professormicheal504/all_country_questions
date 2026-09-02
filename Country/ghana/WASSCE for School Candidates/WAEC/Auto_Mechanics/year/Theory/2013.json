@@ -1,0 +1,305 @@
+{
+    "38235": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Internal Combustion Engine Cycles",
+        "question_type": "Theory",
+        "exam_year": "2013",
+        "question_text": "<p>Explain the four-stroke cycle of a petrol engine, clearly stating the events that occur in each stroke. Include a simple sketch or diagram if possible.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The four-stroke cycle of a petrol engine consists of the following strokes:<br><br><b>1. Intake Stroke:</b> The piston moves downward, creating a vacuum that draws a mixture of air and fuel into the cylinder through the open intake valve. The exhaust valve remains closed.<br><br><b>2. Compression Stroke:</b> Both the intake and exhaust valves are closed. The piston moves upward, compressing the air-fuel mixture. This increases the temperature and pressure of the mixture, preparing it for combustion.<br><br><b>3. Power Stroke:</b> Near the end of the compression stroke, the spark plug ignites the compressed air-fuel mixture. The resulting explosion forces the piston downward, generating mechanical power that is transferred to the crankshaft.<br><br><b>4. Exhaust Stroke:</b> The piston moves upward again, pushing the burnt gases out of the cylinder through the open exhaust valve. The intake valve remains closed. This completes the cycle, and the process repeats.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "38236": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Engine Components and Functions",
+        "question_type": "Objective",
+        "exam_year": "2013",
+        "question_text": "<p>Which of the following components is responsible for converting the linear motion of the pistons into rotational motion in an internal combustion engine?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>crankshaft</b> is the engine component that converts the linear (up-and-down) motion of the pistons into rotational motion. This rotational motion is then transferred to the drivetrain to propel the vehicle.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "64191",
+                "tag": "a",
+                "text": "Camshaft",
+                "is_correct": false
+            },
+            {
+                "option_id": "16272",
+                "tag": "b",
+                "text": "Crankshaft",
+                "is_correct": true
+            },
+            {
+                "option_id": "61684",
+                "tag": "c",
+                "text": "Connecting rod",
+                "is_correct": false
+            },
+            {
+                "option_id": "64341",
+                "tag": "d",
+                "text": "Flywheel",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "38237": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Engine Lubrication Systems",
+        "question_type": "Theory",
+        "exam_year": "2013",
+        "question_text": "<p>Describe the function of the oil pump in an engine lubrication system and explain how it contributes to the overall efficiency of the engine.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>oil pump</b> is a critical component of the engine lubrication system. Its primary function is to circulate engine oil under pressure to the moving parts of the engine, such as the crankshaft, camshaft, and bearings. This ensures that these components are adequately lubricated to reduce friction, minimize wear, and dissipate heat.<br><br>By maintaining a consistent flow of oil, the oil pump helps to:<br><br><b>1. Reduce Friction:</b> Oil forms a thin film between moving parts, preventing metal-to-metal contact.<br><br><b>2. Cool Engine Components:</b> Oil absorbs heat from engine parts and carries it away, helping to prevent overheating.<br><br><b>3. Clean the Engine:</b> Oil carries away contaminants and debris, which are then trapped by the oil filter.<br><br><b>4. Seal Gaps:</b> Oil helps to seal gaps between piston rings and cylinder walls, improving compression and engine efficiency.<br><br>Without the oil pump, the engine would quickly overheat, seize, or suffer catastrophic failure due to excessive friction and wear.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "38238": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Cooling Systems Types",
+        "question_type": "Objective",
+        "exam_year": "2013",
+        "question_text": "<p>In a liquid cooling system, what is the primary function of the <b>thermostat</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>thermostat</b> in a liquid cooling system regulates the flow of coolant between the engine and the radiator. It remains closed when the engine is cold, allowing the engine to warm up quickly. Once the engine reaches its optimal operating temperature, the thermostat opens, allowing coolant to circulate through the radiator to dissipate heat.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "64191",
+                "tag": "a",
+                "text": "To increase the boiling point of the coolant",
+                "is_correct": false
+            },
+            {
+                "option_id": "16272",
+                "tag": "b",
+                "text": "To regulate the flow of coolant based on engine temperature",
+                "is_correct": true
+            },
+            {
+                "option_id": "61684",
+                "tag": "c",
+                "text": "To filter impurities from the coolant",
+                "is_correct": false
+            },
+            {
+                "option_id": "64341",
+                "tag": "d",
+                "text": "To pump coolant through the engine",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "38239": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Fuel Supply Systems",
+        "question_type": "Theory",
+        "exam_year": "2013",
+        "question_text": "<p>Explain the difference between a carburetor and a fuel injection system in terms of their operation and efficiency.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Carburetor:</b><br><br>A carburetor is a mechanical device that mixes air and fuel in the correct ratio for combustion. It operates on the principle of the Venturi effect, where air flowing through a narrowed section of the carburetor creates a low-pressure area that draws fuel from a float chamber. The air-fuel mixture is then delivered to the engine cylinders.<br><br><b>Advantages:</b><br>- Simpler and cheaper to manufacture and maintain.<br>- Easier to diagnose and repair.<br><br><b>Disadvantages:</b><br>- Less precise control over the air-fuel mixture, leading to inefficiencies and higher emissions.<br>- Poor performance at high altitudes or extreme temperatures.<br>- Susceptible to vapor lock and icing.<br><br><b>Fuel Injection System:</b><br><br>A fuel injection system delivers fuel directly into the intake manifold or combustion chamber using electronically controlled injectors. The engine control unit (ECU) calculates the optimal air-fuel ratio based on inputs from various sensors (e.g., oxygen sensor, mass airflow sensor).<br><br><b>Advantages:</b><br>- More precise control over the air-fuel mixture, improving fuel efficiency and reducing emissions.<br>- Better engine performance and responsiveness.<br>- Adaptable to varying driving conditions and altitudes.<br><br><b>Disadvantages:</b><br>- More complex and expensive to manufacture and repair.<br>- Requires specialized diagnostic equipment for troubleshooting.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "38240": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Ignition System Types",
+        "question_type": "Objective",
+        "exam_year": "2013",
+        "question_text": "<p>Which of the following ignition systems uses a <b>distributor</b> to distribute high voltage to the spark plugs?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>conventional ignition system</b> (also known as the distributor-based ignition system) uses a distributor to route high voltage from the ignition coil to the spark plugs in the correct firing order. The distributor rotates and makes contact with each spark plug wire in sequence.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "64191",
+                "tag": "a",
+                "text": "Electronic ignition system",
+                "is_correct": false
+            },
+            {
+                "option_id": "16272",
+                "tag": "b",
+                "text": "Conventional ignition system",
+                "is_correct": true
+            },
+            {
+                "option_id": "61684",
+                "tag": "c",
+                "text": "Distributorless ignition system",
+                "is_correct": false
+            },
+            {
+                "option_id": "64341",
+                "tag": "d",
+                "text": "Coil-on-plug ignition system",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "38241": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Clutch Types and Operation",
+        "question_type": "Theory",
+        "question_text": "<p>Describe the operation of a <b>single-plate dry clutch</b> and explain how it engages and disengages the engine from the transmission.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>single-plate dry clutch</b> is a friction-based device used to engage and disengage the engine from the transmission. It consists of the following key components:<br><br><b>1. Flywheel:</b> Mounted on the engine crankshaft, it provides a smooth surface for the clutch disc to contact.<br><br><b>2. Clutch Disc:</b> Located between the flywheel and the pressure plate, it has friction material on both sides. The disc is splined to the transmission input shaft.<br><br><b>3. Pressure Plate:</b> A spring-loaded plate that applies force to clamp the clutch disc against the flywheel.<br><br><b>4. Release Bearing (Throw-out Bearing):</b> Connected to the clutch pedal via a linkage, it disengages the clutch when the pedal is pressed.<br><br><b>Operation:</b><br><br><b>Engagement:</b> When the clutch pedal is released, the pressure plate clamps the clutch disc against the flywheel. The friction between the disc and the flywheel allows the engine's power to be transmitted to the transmission input shaft, engaging the drivetrain.<br><br><b>Disengagement:</b> When the clutch pedal is pressed, the release bearing pushes against the pressure plate's diaphragm spring, relieving the clamping force. This separates the clutch disc from the flywheel, interrupting the power flow from the engine to the transmission and allowing the driver to change gears.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "38242": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Manual Transmission Basics",
+        "question_type": "Objective",
+        "exam_year": "2013",
+        "question_text": "<p>What is the primary function of the <b>synchromesh</b> in a manual transmission?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>synchromesh</b> in a manual transmission synchronizes the speeds of the gears before they engage, allowing for smooth and quiet gear shifts. It prevents grinding or clashing of gears by matching their rotational speeds using friction cones.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "64191",
+                "tag": "a",
+                "text": "To lock the gears in place",
+                "is_correct": false
+            },
+            {
+                "option_id": "16272",
+                "tag": "b",
+                "text": "To synchronize the speeds of gears before engagement",
+                "is_correct": true
+            },
+            {
+                "option_id": "61684",
+                "tag": "c",
+                "text": "To increase the torque output of the transmission",
+                "is_correct": false
+            },
+            {
+                "option_id": "64341",
+                "tag": "d",
+                "text": "To lubricate the gears",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "38243": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Brake System Principles",
+        "question_type": "Theory",
+        "question_text": "<p>Explain the principle of operation of a <b>hydraulic brake system</b> in a vehicle, including the role of the master cylinder and wheel cylinders.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>hydraulic brake system</b> uses brake fluid to transmit force from the brake pedal to the brake components at each wheel. The system operates based on Pascal's Law, which states that pressure applied to a fluid in a closed system is transmitted equally in all directions.<br><br><b>Key Components and Operation:</b><br><br><b>1. Master Cylinder:</b> When the brake pedal is pressed, it pushes a piston inside the master cylinder, pressurizing the brake fluid. The master cylinder contains two separate chambers (for dual-circuit braking systems) to ensure redundancy in case of a leak.<br><br><b>2. Brake Lines and Hoses:</b> The pressurized brake fluid is transmitted through brake lines and hoses to the wheel cylinders or calipers.<br><br><b>3. Wheel Cylinders (Drum Brakes) or Calipers (Disc Brakes):</b><br>- In drum brakes, the wheel cylinders use the hydraulic pressure to push brake shoes outward against the brake drum, creating friction and slowing the vehicle.<br>- In disc brakes, the calipers use the hydraulic pressure to clamp brake pads against the brake rotor, creating friction and stopping the vehicle.<br><br><b>4. Brake Fluid:</b> The fluid used in the system must have a high boiling point, low compressibility, and be compatible with rubber seals. It transmits the force applied at the pedal to the wheel cylinders or calipers.<br><br>The hydraulic system ensures that the force applied at the brake pedal is multiplied and evenly distributed to all wheels, providing effective and balanced braking.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "38244": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Vehicle Electrical Systems",
+        "question_type": "Objective",
+        "exam_year": "2013",
+        "question_text": "<p>Which of the following components is responsible for converting mechanical energy into electrical energy in a vehicle's charging system?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>alternator</b> is the component in a vehicle's charging system that converts mechanical energy (from the engine's rotation) into electrical energy. It charges the battery and powers the electrical system while the engine is running.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "64191",
+                "tag": "a",
+                "text": "Battery",
+                "is_correct": false
+            },
+            {
+                "option_id": "16272",
+                "tag": "b",
+                "text": "Alternator",
+                "is_correct": true
+            },
+            {
+                "option_id": "61684",
+                "tag": "c",
+                "text": "Starter motor",
+                "is_correct": false
+            },
+            {
+                "option_id": "64341",
+                "tag": "d",
+                "text": "Voltage regulator",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

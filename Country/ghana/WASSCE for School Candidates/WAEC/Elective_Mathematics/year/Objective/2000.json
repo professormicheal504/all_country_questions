@@ -1288,5 +1288,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "37699": {
+        "order_id": 31,
+        "exam_type": "WAEC",
+        "subject": "Elective Mathematics",
+        "topic": "Surds",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>Rationalize the denominator of <math><mfrac><mrow>5</mrow><mrow>3 + <msqrt>2</msqrt></mrow></mfrac></math> and simplify.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Multiply the numerator and denominator by the conjugate of the denominator, which is $3 - <msqrt>2</msqrt>$.<br>$<br><mfrac><mrow>5</mrow><mrow>3 + <msqrt>2</msqrt></mrow></mfrac> \\times <mfrac><mrow>3 - <msqrt>2</msqrt></mrow><mrow>3 - <msqrt>2</msqrt></mrow></mfrac> = <mfrac><mrow>5(3 - <msqrt>2</msqrt>)</mrow><mrow>9 - 2</mrow></mfrac> = <mfrac><mrow>15 - 5<msqrt>2</msqrt></mrow>7</mfrac>$.<br>The simplified form is $<mfrac><mrow>15 - 5<msqrt>2</msqrt></mrow>7</mfrac>$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "37821",
+                "tag": "a",
+                "text": "$<mfrac><mrow>15 + 5<msqrt>2</msqrt></mrow>7</mfrac>$",
+                "is_correct": false
+            },
+            {
+                "option_id": "18660",
+                "tag": "b",
+                "text": "$<mfrac><mrow>15 - 5<msqrt>2</msqrt></mrow>7</mfrac>$",
+                "is_correct": true
+            },
+            {
+                "option_id": "57679",
+                "tag": "c",
+                "text": "$<mfrac><mrow>5 - 15<msqrt>2</msqrt></mrow>7</mfrac>$",
+                "is_correct": false
+            },
+            {
+                "option_id": "97986",
+                "tag": "d",
+                "text": "$<mfrac><mrow>15 + <msqrt>2</msqrt></mrow>7</mfrac>$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "37700": {
+        "order_id": 32,
+        "exam_type": "WAEC",
+        "subject": "Elective Mathematics",
+        "topic": "Indices and Logarithms",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>If $2^{x+1} = 8^{2x-3}$, find the value of $x$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Express 8 as a power of 2: $8 = 2^3$.<br>Rewrite the equation: $2^{x+1} = (2^3)^{2x-3} = 2^{6x-9}$.<br>Since the bases are equal, equate the exponents: $x + 1 = 6x - 9$.<br>Solve for $x$: $1 + 9 = 6x - x$<br>$10 = 5x$<br>$x = 2$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "37822",
+                "tag": "a",
+                "text": "$1$",
+                "is_correct": false
+            },
+            {
+                "option_id": "18661",
+                "tag": "b",
+                "text": "$2$",
+                "is_correct": true
+            },
+            {
+                "option_id": "57680",
+                "tag": "c",
+                "text": "$3$",
+                "is_correct": false
+            },
+            {
+                "option_id": "97987",
+                "tag": "d",
+                "text": "$4$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "37701": {
+        "order_id": 33,
+        "exam_type": "WAEC",
+        "subject": "Elective Mathematics",
+        "topic": "Polynomials",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>Given that $x + 2$ is a factor of $x^3 + kx^2 - 4x - 8$, find the value of $k$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Since $x + 2$ is a factor, substitute $x = -2$ into the polynomial and set it to zero:<br>$(-2)^3 + k(-2)^2 - 4(-2) - 8 = 0$<br>$-8 + 4k + 8 - 8 = 0$<br>$4k - 8 = 0$<br>$4k = 8$<br>$k = 2$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "37823",
+                "tag": "a",
+                "text": "$-2$",
+                "is_correct": false
+            },
+            {
+                "option_id": "18662",
+                "tag": "b",
+                "text": "$2$",
+                "is_correct": true
+            },
+            {
+                "option_id": "57681",
+                "tag": "c",
+                "text": "$4$",
+                "is_correct": false
+            },
+            {
+                "option_id": "97988",
+                "tag": "d",
+                "text": "$-4$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "37702": {
+        "order_id": 34,
+        "exam_type": "WAEC",
+        "subject": "Elective Mathematics",
+        "topic": "Partial Fractions",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>Express <math><mfrac><mrow>3x + 5</mrow><mrow>(x - 1)(x + 2)</mrow></mfrac></math> in partial fractions.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Assume the form: <math><mfrac><mrow>3x + 5</mrow><mrow>(x - 1)(x + 2)</mrow></mfrac> = <mfrac>A<mrow>x - 1</mrow></mfrac> + <mfrac>B<mrow>x + 2</mrow></mfrac></math>.<br>Multiply through by $(x - 1)(x + 2)$: $3x + 5 = A(x + 2) + B(x - 1)$.<br>Solve for $A$ and $B$ by substituting $x = 1$ and $x = -2$:<br>For $x = 1$: $3(1) + 5 = A(3) + B(0)$ \u2192 $8 = 3A$ \u2192 $A = <mfrac>8 3</mfrac>$<br>For $x = -2$: $3(-2) + 5 = A(0) + B(-3)$ \u2192 $-1 = -3B$ \u2192 $B = <mfrac>1 3</mfrac>$<br>The partial fractions are $<mfrac>8<mrow>3(x - 1)</mrow></mfrac> + <mfrac>1<mrow>3(x + 2)</mrow></mfrac>$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "37824",
+                "tag": "a",
+                "text": "$<mfrac>2<mrow>x - 1</mrow></mfrac> + <mfrac>1<mrow>x + 2</mrow></mfrac>$",
+                "is_correct": false
+            },
+            {
+                "option_id": "18663",
+                "tag": "b",
+                "text": "$<mfrac>8<mrow>3(x - 1)</mrow></mfrac> + <mfrac>1<mrow>3(x + 2)</mrow></mfrac>$",
+                "is_correct": true
+            },
+            {
+                "option_id": "57682",
+                "tag": "c",
+                "text": "$<mfrac>1<mrow>x - 1</mrow></mfrac> + <mfrac>2<mrow>x + 2</mrow></mfrac>$",
+                "is_correct": false
+            },
+            {
+                "option_id": "97989",
+                "tag": "d",
+                "text": "$<mfrac>5<mrow>3(x - 1)</mrow></mfrac> - <mfrac>2<mrow>3(x + 2)</mrow></mfrac>$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "37703": {
+        "order_id": 35,
+        "exam_type": "WAEC",
+        "subject": "Elective Mathematics",
+        "topic": "Binomial Theorem",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>Find the coefficient of $x^3$ in the expansion of $(2x - 3)^5$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Use the binomial expansion formula: $(a + b)^n = \\sum_{k=0}^n \\binom{n}{k} a^{n-k} b^k$.<br>Here, $a = 2x$, $b = -3$, and $n = 5$.<br>The general term is $\\binom{5}{k} (2x)^{5-k} (-3)^k$.<br>For the coefficient of $x^3$, set $5 - k = 3$ \u2192 $k = 2$.<br>Substitute $k = 2$: $\\binom{5}{2} (2x)^3 (-3)^2 = 10 \\cdot 8x^3 \\cdot 9 = 720x^3$.<br>The coefficient is $720$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "37825",
+                "tag": "a",
+                "text": "$-270$",
+                "is_correct": false
+            },
+            {
+                "option_id": "18664",
+                "tag": "b",
+                "text": "$720$",
+                "is_correct": true
+            },
+            {
+                "option_id": "57683",
+                "tag": "c",
+                "text": "$-720$",
+                "is_correct": false
+            },
+            {
+                "option_id": "97990",
+                "tag": "d",
+                "text": "$270$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "37704": {
+        "order_id": 36,
+        "exam_type": "WAEC",
+        "subject": "Elective Mathematics",
+        "topic": "Permutations and Combinations",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>In how many ways can 5 students be seated in a row if two particular students must sit next to each other?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Treat the two particular students as a single entity. This gives $4$ entities to arrange: $(AB), C, D, E$.<br>The number of ways to arrange these $4$ entities is $4! = 24$.<br>The two students can switch places within their entity in $2! = 2$ ways.<br>Total arrangements: $4! \\times 2! = 24 \\times 2 = 48$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "37826",
+                "tag": "a",
+                "text": "$24$",
+                "is_correct": false
+            },
+            {
+                "option_id": "18665",
+                "tag": "b",
+                "text": "$48$",
+                "is_correct": true
+            },
+            {
+                "option_id": "57684",
+                "tag": "c",
+                "text": "$60$",
+                "is_correct": false
+            },
+            {
+                "option_id": "97991",
+                "tag": "d",
+                "text": "$120$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "37705": {
+        "order_id": 37,
+        "exam_type": "WAEC",
+        "subject": "Elective Mathematics",
+        "topic": "Probability",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>A bag contains 4 red balls and 6 blue balls. If two balls are drawn at random without replacement, what is the probability that both are blue?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The probability of drawing the first blue ball is $<mfrac>6<mrow>10</mrow></mfrac> = <mfrac>3 5</mfrac>$<br>The probability of drawing the second blue ball is $<mfrac>5 9</mfrac>$<br>The combined probability is $<mfrac>3 5</mfrac> \\times <mfrac>5 9</mfrac> = <mfrac>15 45</mfrac> = <mfrac>1 3</mfrac>$</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "37827",
+                "tag": "a",
+                "text": "$<mfrac>1 3</mfrac>$",
+                "is_correct": true
+            },
+            {
+                "option_id": "18666",
+                "tag": "b",
+                "text": "$<mfrac>2 5</mfrac>$",
+                "is_correct": false
+            },
+            {
+                "option_id": "57685",
+                "tag": "c",
+                "text": "$<mfrac>1 2</mfrac>$",
+                "is_correct": false
+            },
+            {
+                "option_id": "97992",
+                "tag": "d",
+                "text": "$<mfrac>3 5</mfrac>$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "37706": {
+        "order_id": 38,
+        "exam_type": "WAEC",
+        "subject": "Elective Mathematics",
+        "topic": "Matrices",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>Find the determinant of the matrix $A = \\begin{pmatrix} 3 & 1 \\ 2 & 4 \\ \\end{pmatrix}$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The determinant of a $2 \\times 2$ matrix $\\begin{pmatrix} a & b \\ c & d \\ \\end{pmatrix}$ is $ad - bc$.<br>For matrix $A$: $(3)(4) - (1)(2) = 12 - 2 = 10$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "37828",
+                "tag": "a",
+                "text": "$10$",
+                "is_correct": true
+            },
+            {
+                "option_id": "18667",
+                "tag": "b",
+                "text": "$14$",
+                "is_correct": false
+            },
+            {
+                "option_id": "57686",
+                "tag": "c",
+                "text": "$-2$",
+                "is_correct": false
+            },
+            {
+                "option_id": "97993",
+                "tag": "d",
+                "text": "$5$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "37707": {
+        "order_id": 39,
+        "exam_type": "WAEC",
+        "subject": "Elective Mathematics",
+        "topic": "Vectors",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>If $\\vec{a} = 2\\hat{i} + 3\\hat{j}$ and $\\vec{b} = \\hat{i} - 2\\hat{j}$, find $\\vec{a} \\cdot \\vec{b}$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The dot product of two vectors $\\vec{a} = a_1\\hat{i} + a_2\\hat{j}$ and $\\vec{b} = b_1\\hat{i} + b_2\\hat{j}$ is $a_1b_1 + a_2b_2$.<br>For $\\vec{a} = 2\\hat{i} + 3\\hat{j}$ and $\\vec{b} = \\hat{i} - 2\\hat{j}$:<br>$\\vec{a} \\cdot \\vec{b} = (2)(1) + (3)(-2) = 2 - 6 = -4$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "37829",
+                "tag": "a",
+                "text": "$-4$",
+                "is_correct": true
+            },
+            {
+                "option_id": "18668",
+                "tag": "b",
+                "text": "$4$",
+                "is_correct": false
+            },
+            {
+                "option_id": "57687",
+                "tag": "c",
+                "text": "$-1$",
+                "is_correct": false
+            },
+            {
+                "option_id": "97994",
+                "tag": "d",
+                "text": "$7$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "37708": {
+        "order_id": 40,
+        "exam_type": "WAEC",
+        "subject": "Elective Mathematics",
+        "topic": "Trigonometry",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>Solve the equation $2\\sin^2\\theta - \\sin\\theta - 1 = 0$ for $0^\\circ \\leq \\theta \\leq 360^\\circ$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Let $x = \\sin\\theta$. The equation becomes $2x^2 - x - 1 = 0$.<br>Solve the quadratic equation: $x = <mfrac>1 \\pm \\sqrt{1 + 8}<mrow>4</mrow></mfrac> = <mfrac>1 \\pm 3<mrow>4</mrow></mfrac>$<br>$x = 1$ or $x = -<mfrac>1 2</mfrac>$<br>For $\\sin\\theta = 1$, $\\theta = 90^\\circ$.<br>For $\\sin\\theta = -<mfrac>1 2</mfrac>$, $\\theta = 210^\\circ$ or $330^\\circ$.<br>The solutions are $\\theta = 90^\\circ, 210^\\circ, 330^\\circ$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "37830",
+                "tag": "a",
+                "text": "$90^\\circ, 210^\\circ$",
+                "is_correct": false
+            },
+            {
+                "option_id": "18669",
+                "tag": "b",
+                "text": "$90^\\circ, 210^\\circ, 330^\\circ$",
+                "is_correct": true
+            },
+            {
+                "option_id": "57688",
+                "tag": "c",
+                "text": "$210^\\circ, 330^\\circ$",
+                "is_correct": false
+            },
+            {
+                "option_id": "97995",
+                "tag": "d",
+                "text": "$90^\\circ, 330^\\circ$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

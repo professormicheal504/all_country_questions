@@ -1,0 +1,257 @@
+{
+    "95850": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Atomic Structure and Electron Blocks",
+        "question_type": "Theory",
+        "exam_year": "2011",
+        "question_text": "<p>Explain the concept of electron blocks in the periodic table. Describe how the <b>s</b>, <b>p</b>, <b>d</b>, and <b>f</b> blocks are arranged and give one example of an element in each block. Also, state the general electronic configuration for each block.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The periodic table is divided into blocks based on the type of atomic orbital that receives the last electron.<br><br><b>s-block:</b> Elements where the last electron enters an <i>s</i> orbital. Found in Groups 1 and 2 (and Helium). Example: Sodium ($Na$), with electronic configuration $1s^2 2s^2 2p^6 3s^1$. General configuration: $ns^{1-2}$.<br><br><b>p-block:</b> Elements where the last electron enters a <i>p</i> orbital. Found in Groups 13 to 18. Example: Carbon ($C$), with electronic configuration $1s^2 2s^2 2p^2$. General configuration: $ns^2 np^{1-6}$.<br><br><b>d-block:</b> Transition metals where the last electron enters a <i>d</i> orbital. Found in Groups 3 to 12. Example: Iron ($Fe$), with electronic configuration $1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^6$. General configuration: $(n-1)d^{1-10} ns^{0-2}$.<br><br><b>f-block:</b> Lanthanides and actinides where the last electron enters an <i>f</i> orbital. Example: Cerium ($Ce$), with electronic configuration $[Xe] 4f^1 5d^1 6s^2$. General configuration: $(n-2)f^{1-14} (n-1)d^{0-1} ns^2$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "95851": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Periodic Trends",
+        "question_type": "Theory",
+        "exam_year": "2011",
+        "question_text": "<p>Describe the trends in <b>atomic radius</b>, <b>ionization energy</b>, and <b>electronegativity</b> across a period and down a group in the periodic table. Explain the factors responsible for these trends.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Atomic Radius:</b><br>- <u>Across a period:</u> Decreases from left to right due to increasing nuclear charge, which pulls electrons closer to the nucleus.<br>- <u>Down a group:</u> Increases due to the addition of new electron shells, increasing shielding and distance from the nucleus.<br><br><b>Ionization Energy:</b><br>- <u>Across a period:</u> Increases because the increased nuclear charge holds electrons more tightly, making them harder to remove.<br>- <u>Down a group:</u> Decreases due to increased atomic size and shielding, reducing the attraction between the nucleus and outer electrons.<br><br><b>Electronegativity:</b><br>- <u>Across a period:</u> Increases as nuclear charge increases, enhancing the atom's ability to attract shared electrons.<br>- <u>Down a group:</u> Decreases due to increased atomic size and shielding, weakening the attraction for shared electrons.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "95852": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Chemical Bonding Types",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>Which of the following statements best describes a <b>coordinate covalent bond</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A coordinate covalent bond (or dative bond) is formed when one atom donates both electrons to another atom to form a bond. This is different from a typical covalent bond where each atom contributes one electron. Example: The bond between ammonia ($NH_3$) and boron trifluoride ($BF_3$) in $NH_3BF_3$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "59438",
+                "tag": "a",
+                "text": "A bond formed by the sharing of electrons between two atoms, each contributing one electron.",
+                "is_correct": false
+            },
+            {
+                "option_id": "63455",
+                "tag": "b",
+                "text": "A bond formed by the complete transfer of electrons from one atom to another.",
+                "is_correct": false
+            },
+            {
+                "option_id": "84033",
+                "tag": "c",
+                "text": "A bond formed when one atom donates both electrons to another atom to form a bond.",
+                "is_correct": true
+            },
+            {
+                "option_id": "71534",
+                "tag": "d",
+                "text": "A bond formed by the attraction between oppositely charged ions.",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "95853": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Gas Laws and Kinetic Theory",
+        "question_type": "Theory",
+        "exam_year": "2011",
+        "question_text": "<p>(a) State <b>Boyle's Law</b> and <b>Charles's Law</b>.<br>(b) Derive the <b>Ideal Gas Equation</b> from these laws.<br>(c) Explain why real gases deviate from ideal behavior at high pressures and low temperatures.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(a)<br>- <b>Boyle's Law:</b> For a fixed mass of gas at constant temperature, the pressure is inversely proportional to the volume: $P \\propto \\frac{1}{V}$ or $PV = k$.<br>- <b>Charles's Law:</b> For a fixed mass of gas at constant pressure, the volume is directly proportional to the absolute temperature: $V \\propto T$ or $\\frac{V}{T} = k$.<br><br>(b) Combining Boyle's and Charles's Laws:<br>$PV = k_1$ (Boyle's Law)<br>$\\frac{V}{T} = k_2$ (Charles's Law)<br>For a fixed mass of gas, $PV = nRT$, where $n$ is the number of moles, $R$ is the universal gas constant, and $T$ is the temperature in Kelvin.<br><br>(c) Real gases deviate from ideal behavior because:<br>- Gas molecules have finite volumes, which become significant at high pressures.<br>- Intermolecular forces (e.g., van der Waals forces) become significant at low temperatures, reducing the pressure and volume compared to ideal predictions.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "95854": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Solutions and Colligative Properties",
+        "question_type": "Theory",
+        "exam_year": "2011",
+        "question_text": "<p>(a) Define <b>colligative properties</b> and list two examples.<br>(b) Explain how the addition of a non-volatile solute affects the <b>boiling point</b> and <b>freezing point</b> of a solvent.<br>(c) Calculate the boiling point elevation for a solution containing 5.0 g of glucose ($C_6H_{12}O_6$) in 100 g of water. (Given: $K_b$ for water = $0.52 \\degree C \\cdot kg \\cdot mol^{-1}$, molar mass of glucose = $180 \\ g \\cdot mol^{-1}$).</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(a) Colligative properties are properties of solutions that depend on the number of solute particles, not their identity. Examples: Boiling point elevation, freezing point depression.<br><br>(b) Adding a non-volatile solute:<br>- <b>Boiling point elevation:</b> The solute particles reduce the vapor pressure of the solvent, requiring a higher temperature to reach boiling.<br>- <b>Freezing point depression:</b> The solute disrupts the formation of the solid phase, lowering the freezing point.<br><br>(c) Calculation:<br>Moles of glucose = $\\frac{5.0 \\ g}{180 \\ g \\cdot mol^{-1}} = 0.0278 \\ mol$.<br>Molality ($m$) = $\\frac{0.0278 \\ mol}{0.100 \\ kg} = 0.278 \\ mol \\cdot kg^{-1}$.<br>Boiling point elevation ($\\Delta T_b$) = $K_b \\cdot m = 0.52 \\degree C \\cdot kg \\cdot mol^{-1} \\times 0.278 \\ mol \\cdot kg^{-1} = 0.145 \\degree C$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "95855": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Thermochemistry",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>The enthalpy change for a reaction is $-890 \\ kJ \\cdot mol^{-1}$. Which of the following statements is correct?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A negative enthalpy change ($\\Delta H < 0$) indicates an exothermic reaction, where heat is released to the surroundings. The magnitude ($890 \\ kJ \\cdot mol^{-1}$) represents the amount of heat released per mole of reaction.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "59439",
+                "tag": "a",
+                "text": "The reaction is endothermic and absorbs $890 \\ kJ$ of heat.",
+                "is_correct": false
+            },
+            {
+                "option_id": "63456",
+                "tag": "b",
+                "text": "The reaction is exothermic and releases $890 \\ kJ$ of heat per mole.",
+                "is_correct": true
+            },
+            {
+                "option_id": "84034",
+                "tag": "c",
+                "text": "The reaction is exothermic and absorbs $890 \\ kJ$ of heat.",
+                "is_correct": false
+            },
+            {
+                "option_id": "71535",
+                "tag": "d",
+                "text": "The reaction is endothermic and releases $890 \\ kJ$ of heat per mole.",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "95856": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Chemical Equilibrium",
+        "question_type": "Theory",
+        "exam_year": "2011",
+        "question_text": "<p>(a) State <b>Le Chatelier's Principle</b>.<br>(b) For the reaction: $N_2(g) + 3H_2(g) \\rightleftharpoons 2NH_3(g)$, $\\Delta H = -92 \\ kJ \\cdot mol^{-1}$, predict the effect of the following changes on the position of equilibrium:<br>(i) Increasing the pressure.<br>(ii) Increasing the temperature.<br>(iii) Adding a catalyst.<br>(c) Write the expression for the equilibrium constant ($K_c$) for this reaction.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(a) Le Chatelier's Principle states that if a dynamic equilibrium is disturbed by changing the conditions (e.g., concentration, pressure, temperature), the system adjusts to counteract the change and restore equilibrium.<br><br>(b)<br>(i) Increasing the pressure shifts the equilibrium to the right (toward $NH_3$), as there are fewer moles of gas on the product side.<br>(ii) Increasing the temperature shifts the equilibrium to the left (toward reactants), as the reaction is exothermic.<br>(iii) Adding a catalyst has no effect on the position of equilibrium; it only speeds up the rate of both forward and reverse reactions.<br><br>(c) Equilibrium constant expression: $K_c = \\frac{[NH_3]^2}{[N_2][H_2]^3}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "95857": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Acid-Base Theories and pH",
+        "question_type": "Theory",
+        "exam_year": "2011",
+        "question_text": "<p>(a) Define a <b>buffer solution</b> and explain how it resists changes in pH.<br>(b) Calculate the pH of a buffer solution containing $0.10 \\ mol \\cdot dm^{-3}$ acetic acid ($CH_3COOH$) and $0.10 \\ mol \\cdot dm^{-3}$ sodium acetate ($CH_3COONa$). (Given: $K_a$ for acetic acid = $1.8 \\times 10^{-5}$).<br>(c) What would happen to the pH of this buffer if a small amount of $HCl$ is added?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(a) A buffer solution is a solution that resists changes in pH when small amounts of acid or base are added. It consists of a weak acid and its conjugate base (or a weak base and its conjugate acid). When $H^+$ is added, the conjugate base reacts with it; when $OH^-$ is added, the weak acid reacts with it.<br><br>(b) Using the Henderson-Hasselbalch equation:<br>$pH = pK_a + \\log \\frac{[A^-]}{[HA]}$<br>$pK_a = -\\log(1.8 \\times 10^{-5}) = 4.74$<br>$pH = 4.74 + \\log \\frac{0.10}{0.10} = 4.74 + 0 = 4.74$.<br><br>(c) Adding $HCl$ increases $[H^+]$, which reacts with $CH_3COO^-$ to form $CH_3COOH$. The ratio $\\frac{[CH_3COO^-]}{[CH_3COOH]}$ decreases slightly, but the pH remains nearly constant due to the buffer action.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "95858": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Organic Nomenclature and Isomerism",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>What is the IUPAC name of the compound with the structure $CH_3-CH_2-CH(CH_3)-CH_2-CH_3$?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The structure $CH_3-CH_2-CH(CH_3)-CH_2-CH_3$ is a 5-carbon chain with a methyl group on the third carbon. The longest chain is pentane, and the methyl substituent is on carbon 3. Thus, the IUPAC name is <b>3-methylpentane</b>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "59440",
+                "tag": "a",
+                "text": "2-methylpentane",
+                "is_correct": false
+            },
+            {
+                "option_id": "63457",
+                "tag": "b",
+                "text": "3-methylpentane",
+                "is_correct": true
+            },
+            {
+                "option_id": "84035",
+                "tag": "c",
+                "text": "2-ethylbutane",
+                "is_correct": false
+            },
+            {
+                "option_id": "71536",
+                "tag": "d",
+                "text": "Hexane",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "95859": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Electrochemistry and Redox Reactions",
+        "question_type": "Theory",
+        "exam_year": "2011",
+        "question_text": "<p>(a) Define <b>standard electrode potential</b> ($E^\\circ$).<br>(b) Write the cell notation for a galvanic cell consisting of a zinc electrode in $1.0 \\ mol \\cdot dm^{-3}$ $ZnSO_4$ solution and a copper electrode in $1.0 \\ mol \\cdot dm^{-3}$ $CuSO_4$ solution.<br>(c) Calculate the standard cell potential ($E^\\circ_{cell}$) for this cell. (Given: $E^\\circ_{Zn^{2+}/Zn} = -0.76 \\ V$, $E^\\circ_{Cu^{2+}/Cu} = +0.34 \\ V$).<br>(d) Write the overall redox reaction for this cell.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(a) Standard electrode potential ($E^\\circ$) is the potential difference between a half-cell and the standard hydrogen electrode (SHE) under standard conditions (1 mol/dm\u00b3, 298 K, 1 atm).<br><br>(b) Cell notation:<br>$Zn(s) | Zn^{2+}(1.0 \\ mol \\cdot dm^{-3}) || Cu^{2+}(1.0 \\ mol \\cdot dm^{-3}) | Cu(s)$.<br><br>(c) $E^\\circ_{cell} = E^\\circ_{cathode} - E^\\circ_{anode} = 0.34 \\ V - (-0.76 \\ V) = 1.10 \\ V$.<br><br>(d) Overall redox reaction:<br>$Zn(s) + Cu^{2+}(aq) \\rightarrow Zn^{2+}(aq) + Cu(s)$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

@@ -1,0 +1,305 @@
+{
+    "53646": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Internal Combustion Engine Cycles",
+        "question_type": "Practical",
+        "exam_year": "2002",
+        "question_text": "<p>In a four-stroke petrol engine, the <b>power stroke</b> occurs when:<br><i>Explain the sequence of events and the role of the spark plug.</i></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The power stroke in a four-stroke petrol engine is the third stroke, where the compressed air-fuel mixture is ignited by the spark plug. This causes a rapid expansion of gases, forcing the piston downward and generating mechanical work. The sequence is:<br>1. <b>Intake stroke</b>: Air-fuel mixture enters the cylinder.<br>2. <b>Compression stroke</b>: The mixture is compressed.<br>3. <b>Power stroke</b>: Spark plug ignites the mixture, driving the piston down.<br>4. <b>Exhaust stroke</b>: Burnt gases are expelled.<br>The spark plug initiates combustion, converting chemical energy into mechanical energy.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "53647": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Engine Components and Functions",
+        "question_type": "Objective",
+        "exam_year": "2002",
+        "question_text": "<p>Which of the following components is responsible for converting the linear motion of the pistons into rotary motion in an engine?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>crankshaft</b> converts the linear (up-and-down) motion of the pistons into rotary motion, which is then transmitted to the drivetrain. The connecting rods link the pistons to the crankshaft, facilitating this conversion.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "89647",
+                "tag": "a",
+                "text": "Camshaft",
+                "is_correct": false
+            },
+            {
+                "option_id": "26086",
+                "tag": "b",
+                "text": "Crankshaft",
+                "is_correct": true
+            },
+            {
+                "option_id": "87022",
+                "tag": "c",
+                "text": "Flywheel",
+                "is_correct": false
+            },
+            {
+                "option_id": "86018",
+                "tag": "d",
+                "text": "Timing belt",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "53648": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Engine Lubrication Systems",
+        "question_type": "Practical",
+        "exam_year": "2002",
+        "question_text": "<p>Describe the function of the <b>oil pump</b> in an engine lubrication system and explain how oil pressure is maintained.<br><i>Include the role of the oil filter and pressure relief valve.</i></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>oil pump</b> circulates engine oil under pressure to lubricate moving parts, reducing friction and wear. It draws oil from the sump and forces it through the oil filter to remove contaminants. The <b>pressure relief valve</b> prevents excessive pressure by diverting excess oil back to the sump. Proper oil pressure ensures adequate lubrication of bearings, pistons, and other components, while the filter traps debris to maintain oil cleanliness.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "53649": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Cooling Systems Types",
+        "question_type": "Objective",
+        "exam_year": "2002",
+        "question_text": "<p>In a liquid-cooled engine, what is the primary function of the <b>thermostat</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>thermostat</b> regulates the engine's operating temperature by controlling the flow of coolant. When the engine is cold, the thermostat remains closed, allowing the engine to warm up quickly. Once the optimal temperature is reached, it opens to permit coolant circulation, preventing overheating.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "89648",
+                "tag": "a",
+                "text": "To increase coolant flow at high speeds",
+                "is_correct": false
+            },
+            {
+                "option_id": "26087",
+                "tag": "b",
+                "text": "To regulate engine temperature by controlling coolant flow",
+                "is_correct": true
+            },
+            {
+                "option_id": "87023",
+                "tag": "c",
+                "text": "To filter contaminants from the coolant",
+                "is_correct": false
+            },
+            {
+                "option_id": "86019",
+                "tag": "d",
+                "text": "To mix air with coolant for better cooling",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "53650": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Fuel Supply Systems",
+        "question_type": "Practical",
+        "exam_year": "2002",
+        "question_text": "<p>Explain the difference between a <b>carburetor</b> and a <b>fuel injection system</b> in terms of fuel delivery and efficiency.<br><i>Include advantages of fuel injection over carburetors.</i></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>carburetor</b> mixes air and fuel mechanically using a venturi effect, while a <b>fuel injection system</b> delivers fuel directly into the intake manifold or cylinders via injectors controlled by an ECU. Fuel injection offers:<br>1. <b>Precise fuel metering</b>, improving efficiency and power.<br>2. <b>Better atomization</b>, leading to cleaner combustion.<br>3. <b>Reduced emissions</b> due to optimized air-fuel ratios.<br>4. <b>Adaptability</b> to varying engine conditions (e.g., cold starts, acceleration).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "53651": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Ignition System Types",
+        "question_type": "Objective",
+        "exam_year": "2002",
+        "question_text": "<p>Which component in a <b>distributor-based ignition system</b> is responsible for generating the high voltage required to fire the spark plugs?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>ignition coil</b> steps up the low-voltage current from the battery to the high voltage (typically 20,000\u201350,000 volts) needed to create a spark across the spark plug gap. The distributor then directs this high voltage to the correct spark plug.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "89649",
+                "tag": "a",
+                "text": "Distributor cap",
+                "is_correct": false
+            },
+            {
+                "option_id": "26088",
+                "tag": "b",
+                "text": "Ignition coil",
+                "is_correct": true
+            },
+            {
+                "option_id": "87024",
+                "tag": "c",
+                "text": "Condenser",
+                "is_correct": false
+            },
+            {
+                "option_id": "86020",
+                "tag": "d",
+                "text": "Rotor",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "53652": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Clutch Types and Operation",
+        "question_type": "Practical",
+        "question_text": "<p>Describe the operation of a <b>single-plate dry clutch</b> and explain how it engages and disengages.<br><i>Include the roles of the pressure plate, friction disc, and flywheel.</i></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>single-plate dry clutch</b> consists of:<br>1. <b>Friction disc</b>: Sandwiched between the flywheel and pressure plate, lined with friction material.<br>2. <b>Pressure plate</b>: Applies force to clamp the friction disc against the flywheel.<br>3. <b>Flywheel</b>: Connected to the engine crankshaft, providing a mating surface.<br><br>When the clutch pedal is pressed, the release bearing pushes against the pressure plate diaphragm, releasing clamping force. This disengages the friction disc, interrupting power flow. Releasing the pedal re-engages the clutch, allowing power transfer.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "53653": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Manual Transmission Basics",
+        "question_type": "Objective",
+        "exam_year": "2002",
+        "question_text": "<p>In a manual transmission, what is the purpose of the <b>synchromesh</b> mechanism?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>synchromesh</b> mechanism synchronizes the speeds of the gear and shaft before engagement, allowing smooth and quiet gear shifts. It uses friction cones to match rotational speeds, preventing gear clash and damage.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "89650",
+                "tag": "a",
+                "text": "To lock the gears in place",
+                "is_correct": false
+            },
+            {
+                "option_id": "26089",
+                "tag": "b",
+                "text": "To synchronize gear speeds before engagement",
+                "is_correct": true
+            },
+            {
+                "option_id": "87025",
+                "tag": "c",
+                "text": "To increase torque output",
+                "is_correct": false
+            },
+            {
+                "option_id": "86021",
+                "tag": "d",
+                "text": "To lubricate the gears",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "53654": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Brake System Principles",
+        "question_type": "Practical",
+        "question_text": "<p>Explain the principle of <b>hydraulic braking</b> and how force is transmitted from the brake pedal to the wheel cylinders.<br><i>Include Pascal's Law in your explanation.</i></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Hydraulic braking relies on <b>Pascal's Law</b>, which states that pressure applied to a confined fluid is transmitted equally in all directions ($P = F/A$). When the brake pedal is pressed, it pushes a piston in the <b>master cylinder</b>, generating hydraulic pressure. This pressure is transmitted through brake lines to the <b>wheel cylinders</b>, where it forces pistons to push brake pads/shoes against the rotors/drums, creating friction and slowing the vehicle. The system multiplies force, allowing light pedal pressure to generate significant braking force.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "53655": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Vehicle Electrical Systems",
+        "question_type": "Objective",
+        "exam_year": "2002",
+        "question_text": "<p>Which component in a vehicle's electrical system converts mechanical energy into electrical energy to charge the battery?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>alternator</b> converts mechanical energy (from the engine via a belt) into electrical energy using electromagnetic induction. It supplies power to the vehicle's electrical systems and recharges the battery while the engine is running.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "89651",
+                "tag": "a",
+                "text": "Starter motor",
+                "is_correct": false
+            },
+            {
+                "option_id": "26090",
+                "tag": "b",
+                "text": "Alternator",
+                "is_correct": true
+            },
+            {
+                "option_id": "87026",
+                "tag": "c",
+                "text": "Distributor",
+                "is_correct": false
+            },
+            {
+                "option_id": "86022",
+                "tag": "d",
+                "text": "Voltage regulator",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

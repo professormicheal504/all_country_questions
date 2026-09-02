@@ -1279,5 +1279,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "39741": {
+        "order_id": 31,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Atomic Structure",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>Which of the following particles determines the chemical properties of an element?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The chemical properties of an element are determined by the number and arrangement of <b>electrons</b> in its atoms, particularly the valence electrons. Protons determine the element's identity, while neutrons affect its mass but not its chemical behavior.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "62012",
+                "tag": "a",
+                "text": "Protons",
+                "is_correct": false
+            },
+            {
+                "option_id": "79545",
+                "tag": "b",
+                "text": "Electrons",
+                "is_correct": true
+            },
+            {
+                "option_id": "37255",
+                "tag": "c",
+                "text": "Neutrons",
+                "is_correct": false
+            },
+            {
+                "option_id": "42990",
+                "tag": "d",
+                "text": "Nucleons",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "39742": {
+        "order_id": 32,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Periodic Trends",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>Which of the following elements has the highest first ionization energy?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>First ionization energy generally increases across a period from left to right and decreases down a group. <b>Fluorine (F)</b> is the most electronegative element and has the highest first ionization energy among the given options.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "62013",
+                "tag": "a",
+                "text": "Sodium (Na)",
+                "is_correct": false
+            },
+            {
+                "option_id": "79546",
+                "tag": "b",
+                "text": "Magnesium (Mg)",
+                "is_correct": false
+            },
+            {
+                "option_id": "37256",
+                "tag": "c",
+                "text": "Fluorine (F)",
+                "is_correct": true
+            },
+            {
+                "option_id": "42991",
+                "tag": "d",
+                "text": "Chlorine (Cl)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "39743": {
+        "order_id": 33,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Chemical Bonding Types",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>What type of bond is formed between a metal and a non-metal?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A bond formed between a metal and a non-metal is an <b>ionic bond</b>, where electrons are transferred from the metal to the non-metal, resulting in the formation of oppositely charged ions that attract each other.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "62014",
+                "tag": "a",
+                "text": "Covalent bond",
+                "is_correct": false
+            },
+            {
+                "option_id": "79547",
+                "tag": "b",
+                "text": "Ionic bond",
+                "is_correct": true
+            },
+            {
+                "option_id": "37257",
+                "tag": "c",
+                "text": "Metallic bond",
+                "is_correct": false
+            },
+            {
+                "option_id": "42992",
+                "tag": "d",
+                "text": "Hydrogen bond",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "39744": {
+        "order_id": 34,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Gas Laws",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>According to Boyle's Law, what happens to the volume of a gas if its pressure is doubled at constant temperature?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Boyle's Law states that the volume of a gas is inversely proportional to its pressure at constant temperature, expressed as $P_1V_1 = P_2V_2$. If pressure is doubled, the volume is <b>halved</b>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "62015",
+                "tag": "a",
+                "text": "Volume doubles",
+                "is_correct": false
+            },
+            {
+                "option_id": "79548",
+                "tag": "b",
+                "text": "Volume remains the same",
+                "is_correct": false
+            },
+            {
+                "option_id": "37258",
+                "tag": "c",
+                "text": "Volume is halved",
+                "is_correct": true
+            },
+            {
+                "option_id": "42993",
+                "tag": "d",
+                "text": "Volume quadruples",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "39745": {
+        "order_id": 35,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Thermochemistry",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>The enthalpy change for a reaction is $+50 \text{ kJ/mol}$. What does this indicate about the reaction?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A positive enthalpy change ($+50 \text{ kJ/mol}$) indicates that the reaction is <b>endothermic</b>, meaning it absorbs heat from the surroundings.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "62016",
+                "tag": "a",
+                "text": "Exothermic",
+                "is_correct": false
+            },
+            {
+                "option_id": "79549",
+                "tag": "b",
+                "text": "Endothermic",
+                "is_correct": true
+            },
+            {
+                "option_id": "37259",
+                "tag": "c",
+                "text": "Isothermal",
+                "is_correct": false
+            },
+            {
+                "option_id": "42994",
+                "tag": "d",
+                "text": "Adiabatic",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "39746": {
+        "order_id": 36,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Chemical Equilibrium",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>For the reaction $N_2(g) + 3H_2(g) \rightleftharpoons 2NH_3(g)$, what is the effect of increasing the pressure on the equilibrium position?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>According to Le Chatelier's Principle, increasing the pressure shifts the equilibrium toward the side with fewer moles of gas. Here, the left side has 4 moles ($1N_2 + 3H_2$), and the right side has 2 moles ($2NH_3$). Thus, the equilibrium shifts to the <b>right</b> to produce more $NH_3$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "62017",
+                "tag": "a",
+                "text": "Shifts to the left",
+                "is_correct": false
+            },
+            {
+                "option_id": "79550",
+                "tag": "b",
+                "text": "Shifts to the right",
+                "is_correct": true
+            },
+            {
+                "option_id": "37260",
+                "tag": "c",
+                "text": "No effect",
+                "is_correct": false
+            },
+            {
+                "option_id": "42995",
+                "tag": "d",
+                "text": "Stops the reaction",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "39747": {
+        "order_id": 37,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Acid-Base Theories",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>Which of the following is a characteristic of a Lewis base?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>Lewis base</b> is a species that donates an electron pair to form a coordinate covalent bond. Examples include $NH_3$ and $OH^-$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "62018",
+                "tag": "a",
+                "text": "Accepts protons",
+                "is_correct": false
+            },
+            {
+                "option_id": "79551",
+                "tag": "b",
+                "text": "Donates an electron pair",
+                "is_correct": true
+            },
+            {
+                "option_id": "37261",
+                "tag": "c",
+                "text": "Accepts an electron pair",
+                "is_correct": false
+            },
+            {
+                "option_id": "42996",
+                "tag": "d",
+                "text": "Donates protons",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "39748": {
+        "order_id": 38,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Redox Reactions",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>In the reaction $Zn + Cu^{2+} \rightarrow Zn^{2+} + Cu$, which species is oxidized?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Oxidation involves the loss of electrons. In this reaction, <b>zinc (Zn)</b> loses electrons to form $Zn^{2+}$, so it is oxidized. Copper ($Cu^{2+}$) gains electrons and is reduced.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "62019",
+                "tag": "a",
+                "text": "$Cu^{2+}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "79552",
+                "tag": "b",
+                "text": "$Zn$",
+                "is_correct": true
+            },
+            {
+                "option_id": "37262",
+                "tag": "c",
+                "text": "$Cu$",
+                "is_correct": false
+            },
+            {
+                "option_id": "42997",
+                "tag": "d",
+                "text": "$Zn^{2+}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "39749": {
+        "order_id": 39,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Organic Nomenclature",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>What is the IUPAC name of the compound $CH_3CH_2CH(CH_3)CH_3$?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The compound $CH_3CH_2CH(CH_3)CH_3$ is a 5-carbon chain with a methyl group on the third carbon. Its IUPAC name is <b>2-methylbutane</b>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "62020",
+                "tag": "a",
+                "text": "Pentane",
+                "is_correct": false
+            },
+            {
+                "option_id": "79553",
+                "tag": "b",
+                "text": "2-methylbutane",
+                "is_correct": true
+            },
+            {
+                "option_id": "37263",
+                "tag": "c",
+                "text": "3-methylbutane",
+                "is_correct": false
+            },
+            {
+                "option_id": "42998",
+                "tag": "d",
+                "text": "2,2-dimethylpropane",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "39750": {
+        "order_id": 40,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Environmental Pollution",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>Which of the following gases is primarily responsible for acid rain?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Acid rain is primarily caused by the emission of <b>sulfur dioxide ($SO_2$)</b> and nitrogen oxides ($NO_x$), which react with water in the atmosphere to form sulfuric and nitric acids. Among the options, $SO_2$ is the most significant contributor.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "62021",
+                "tag": "a",
+                "text": "Carbon dioxide ($CO_2$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "79554",
+                "tag": "b",
+                "text": "Sulfur dioxide ($SO_2$)",
+                "is_correct": true
+            },
+            {
+                "option_id": "37264",
+                "tag": "c",
+                "text": "Methane ($CH_4$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "42999",
+                "tag": "d",
+                "text": "Ozone ($O_3$)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

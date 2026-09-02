@@ -1287,5 +1287,434 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "51313": {
+        "order_id": 31,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Atomic Structure",
+        "question_type": "Objective",
+        "exam_year": "2010",
+        "question_text": "<p>Which of the following particles determines the chemical properties of an element?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The chemical properties of an element are determined by the number and arrangement of electrons in its outermost shell (valence electrons). This is because electrons are involved in chemical bonding and reactions.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "63734",
+                "tag": "a",
+                "text": "Protons",
+                "is_correct": false
+            },
+            {
+                "option_id": "86826",
+                "tag": "b",
+                "text": "Electrons",
+                "is_correct": true
+            },
+            {
+                "option_id": "93617",
+                "tag": "c",
+                "text": "Neutrons",
+                "is_correct": false
+            },
+            {
+                "option_id": "71748",
+                "tag": "d",
+                "text": "Nucleons",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "51314": {
+        "order_id": 32,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Periodic Trends",
+        "question_type": "Objective",
+        "exam_year": "2010",
+        "question_text": "<p>Which of the following elements has the highest first ionization energy?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>First ionization energy generally increases across a period from left to right in the periodic table. Fluorine ($F$) is the most electronegative element and has the highest first ionization energy among the given options.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "63735",
+                "tag": "a",
+                "text": "Sodium ($Na$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "86827",
+                "tag": "b",
+                "text": "Magnesium ($Mg$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "93618",
+                "tag": "c",
+                "text": "Fluorine ($F$)",
+                "is_correct": true
+            },
+            {
+                "option_id": "71749",
+                "tag": "d",
+                "text": "Chlorine ($Cl$)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "51315": {
+        "order_id": 33,
+        "exam_type": "WAEC",
+        "subject": "Chemical Bonding Types",
+        "question_type": "Objective",
+        "exam_year": "2010",
+        "question_text": "<p>What type of bond is formed between a metal and a non-metal?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A bond formed between a metal and a non-metal is typically an ionic bond. This involves the transfer of electrons from the metal (which loses electrons) to the non-metal (which gains electrons).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "63736",
+                "tag": "a",
+                "text": "Covalent bond",
+                "is_correct": false
+            },
+            {
+                "option_id": "86828",
+                "tag": "b",
+                "text": "Metallic bond",
+                "is_correct": false
+            },
+            {
+                "option_id": "93619",
+                "tag": "c",
+                "text": "Ionic bond",
+                "is_correct": true
+            },
+            {
+                "option_id": "71750",
+                "tag": "d",
+                "text": "Hydrogen bond",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "51316": {
+        "order_id": 34,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Gas Laws",
+        "question_type": "Objective",
+        "exam_year": "2010",
+        "question_text": "<p>The volume of a fixed mass of gas is 400 cm<sup>3</sup> at 27\u00b0C. What will be its volume at 77\u00b0C if the pressure remains constant?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Using Charles's Law: $V_1/T_1 = V_2/T_2$. Convert temperatures to Kelvin: $T_1 = 27 + 273 = 300 K$, $T_2 = 77 + 273 = 350 K$.<br>So, $V_2 = V_1 \\times T_2 / T_1 = 400 \\times 350 / 300 = 466.67 \\text{ cm}^3$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "63737",
+                "tag": "a",
+                "text": "300 cm<sup>3</sup>",
+                "is_correct": false
+            },
+            {
+                "option_id": "86829",
+                "tag": "b",
+                "text": "467 cm<sup>3</sup>",
+                "is_correct": true
+            },
+            {
+                "option_id": "93620",
+                "tag": "c",
+                "text": "500 cm<sup>3</sup>",
+                "is_correct": false
+            },
+            {
+                "option_id": "71751",
+                "tag": "d",
+                "text": "600 cm<sup>3</sup>",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "51317": {
+        "order_id": 35,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Solutions and Solubility Factors",
+        "question_type": "Objective",
+        "exam_year": "2010",
+        "question_text": "<p>Which of the following factors does <b>not</b> affect the solubility of a solid in a liquid?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The solubility of a solid in a liquid is affected by temperature, pressure (for gases), and the nature of the solute and solvent. However, the <b>surface area</b> of the solute does not affect solubility, though it may affect the rate of dissolution.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "63738",
+                "tag": "a",
+                "text": "Temperature",
+                "is_correct": false
+            },
+            {
+                "option_id": "86830",
+                "tag": "b",
+                "text": "Pressure",
+                "is_correct": false
+            },
+            {
+                "option_id": "93621",
+                "tag": "c",
+                "text": "Surface area of the solute",
+                "is_correct": true
+            },
+            {
+                "option_id": "71752",
+                "tag": "d",
+                "text": "Nature of the solvent",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "51318": {
+        "order_id": 36,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Thermochemistry",
+        "question_type": "Objective",
+        "exam_year": "2010",
+        "question_text": "<p>The enthalpy change for the reaction $H_2(g) + \\frac{1}{2}O_2(g) \\rightarrow H_2O(l)$ is $-286 \\text{ kJ/mol}$. What is the enthalpy change for the formation of 2 moles of water?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The given enthalpy change is for the formation of 1 mole of water. For 2 moles of water, the enthalpy change is doubled: $-286 \\times 2 = -572 \\text{ kJ}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "63739",
+                "tag": "a",
+                "text": "-143 kJ",
+                "is_correct": false
+            },
+            {
+                "option_id": "86831",
+                "tag": "b",
+                "text": "-286 kJ",
+                "is_correct": false
+            },
+            {
+                "option_id": "93622",
+                "tag": "c",
+                "text": "-572 kJ",
+                "is_correct": true
+            },
+            {
+                "option_id": "71753",
+                "tag": "d",
+                "text": "-858 kJ",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "51319": {
+        "order_id": 37,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Chemical Equilibrium",
+        "question_type": "Objective",
+        "exam_year": "2010",
+        "question_text": "<p>For the reaction $N_2(g) + 3H_2(g) \\rightleftharpoons 2NH_3(g)$, what is the effect of increasing the pressure on the equilibrium position?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>According to Le Chatelier's Principle, increasing the pressure shifts the equilibrium to the side with fewer moles of gas. Here, the left side has 4 moles ($1 N_2 + 3 H_2$), and the right side has 2 moles ($2 NH_3$). Thus, the equilibrium shifts to the right, favoring the formation of $NH_3$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "63740",
+                "tag": "a",
+                "text": "Shifts to the left",
+                "is_correct": false
+            },
+            {
+                "option_id": "86832",
+                "tag": "b",
+                "text": "Shifts to the right",
+                "is_correct": true
+            },
+            {
+                "option_id": "93623",
+                "tag": "c",
+                "text": "No effect",
+                "is_correct": false
+            },
+            {
+                "option_id": "71754",
+                "tag": "d",
+                "text": "Increases the rate of the reverse reaction",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "51320": {
+        "order_id": 38,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Acid-Base Theories",
+        "question_type": "Objective",
+        "exam_year": "2010",
+        "question_text": "<p>Which of the following is a <b>weak</b> acid?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A weak acid is one that does not completely dissociate in water. Acetic acid ($CH_3COOH$) is a weak acid, while hydrochloric acid ($HCl$), sulfuric acid ($H_2SO_4$), and nitric acid ($HNO_3$) are strong acids.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "63741",
+                "tag": "a",
+                "text": "Hydrochloric acid ($HCl$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "86833",
+                "tag": "b",
+                "text": "Sulfuric acid ($H_2SO_4$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "93624",
+                "tag": "c",
+                "text": "Acetic acid ($CH_3COOH$)",
+                "is_correct": true
+            },
+            {
+                "option_id": "71755",
+                "tag": "d",
+                "text": "Nitric acid ($HNO_3$)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "51321": {
+        "order_id": 39,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Redox Reactions",
+        "question_type": "Objective",
+        "exam_year": "2010",
+        "question_text": "<p>In the reaction $Zn + Cu^{2+} \\rightarrow Zn^{2+} + Cu$, which species is oxidized?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Oxidation involves the loss of electrons. In this reaction, zinc ($Zn$) loses electrons to form $Zn^{2+}$, so it is oxidized. Copper ($Cu^{2+}$) gains electrons and is reduced.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "63742",
+                "tag": "a",
+                "text": "$Zn$",
+                "is_correct": true
+            },
+            {
+                "option_id": "86834",
+                "tag": "b",
+                "text": "$Cu^{2+}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "93625",
+                "tag": "c",
+                "text": "$Zn^{2+}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "71756",
+                "tag": "d",
+                "text": "$Cu$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "51322": {
+        "order_id": 40,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Organic Nomenclature",
+        "question_type": "Objective",
+        "exam_year": "2010",
+        "question_text": "<p>What is the IUPAC name of the compound $CH_3CH_2CH(CH_3)CH_3$?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The compound $CH_3CH_2CH(CH_3)CH_3$ is a 4-carbon chain with a methyl group on the second carbon. The longest chain is 4 carbons, so the base name is butane. The methyl group is on carbon 2, giving the name <b>2-methylbutane</b>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "63743",
+                "tag": "a",
+                "text": "Butane",
+                "is_correct": false
+            },
+            {
+                "option_id": "86835",
+                "tag": "b",
+                "text": "2-Methylbutane",
+                "is_correct": true
+            },
+            {
+                "option_id": "93626",
+                "tag": "c",
+                "text": "Pentane",
+                "is_correct": false
+            },
+            {
+                "option_id": "71757",
+                "tag": "d",
+                "text": "2-Methylpropane",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

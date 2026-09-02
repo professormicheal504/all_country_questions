@@ -1,0 +1,304 @@
+{
+    "80679": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Internal Combustion Engine Cycles",
+        "question_type": "Practical",
+        "exam_year": "2012",
+        "question_text": "<p>Examine the <b>four-stroke petrol engine</b> cycle and identify the stroke during which the <i>spark plug</i> ignites the air-fuel mixture. Describe the events that occur in the cylinder during this stroke.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>power stroke</b> (or expansion stroke) is when the spark plug ignites the compressed air-fuel mixture. The following events occur:<br><br>1. The spark plug fires, igniting the mixture.<br>2. Combustion rapidly increases pressure and temperature in the cylinder.<br>3. The expanding gases force the piston downward, converting thermal energy into mechanical work.<br>4. The crankshaft rotates, delivering power to the drivetrain.<br><br>The equation for pressure during combustion can be approximated as $P = \frac{nRT}{V}$, where $P$ is pressure, $n$ is the amount of gas, $R$ is the gas constant, $T$ is temperature, and $V$ is volume.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "80680": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Engine Components and Functions",
+        "question_type": "Objective",
+        "exam_year": "2012",
+        "question_text": "<p>Which of the following engine components is responsible for <u>controlling the opening and closing of the intake and exhaust valves</u> in a four-stroke engine?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>camshaft</b> is the component that controls the opening and closing of the intake and exhaust valves via lobes that push against valve lifters or rocker arms. The timing of valve operation is critical for engine performance and is synchronized with the crankshaft using a timing belt or chain.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "11114",
+                "tag": "a",
+                "text": "Crankshaft",
+                "is_correct": false
+            },
+            {
+                "option_id": "56072",
+                "tag": "b",
+                "text": "Camshaft",
+                "is_correct": true
+            },
+            {
+                "option_id": "40518",
+                "tag": "c",
+                "text": "Piston",
+                "is_correct": false
+            },
+            {
+                "option_id": "97511",
+                "tag": "d",
+                "text": "Connecting rod",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "80681": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Engine Lubrication Systems",
+        "question_type": "Practical",
+        "exam_year": "2012",
+        "question_text": "<p>During a routine inspection, you observe that the engine oil pressure gauge reads <b>abnormally low</b>. List <i>three possible causes</i> of low oil pressure and describe how you would diagnose each.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Possible causes and diagnostic steps:<br><br>1. <b>Low oil level</b>: Check the dipstick to confirm oil quantity. Top up if necessary.<br>2. <b>Worn oil pump</b>: Inspect the oil pump for wear or damage. Test pump pressure using a mechanical gauge.<br>3. <b>Clogged oil filter</b>: Replace the oil filter and check for improved pressure. A bypass valve may also be faulty.<br><br>Oil pressure is governed by the equation $P = \frac{F}{A}$, where $P$ is pressure, $F$ is force, and $A$ is the area of the oil passage.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "80682": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Cooling Systems Types",
+        "question_type": "Objective",
+        "exam_year": "2012",
+        "question_text": "<p>In a <b>liquid-cooled engine</b>, what is the primary function of the <u>thermostat</u>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>thermostat</b> regulates the flow of coolant to maintain optimal engine operating temperature. It remains closed during cold starts to allow rapid warm-up and opens when the engine reaches operating temperature to allow coolant circulation.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "11115",
+                "tag": "a",
+                "text": "To increase coolant flow at high speeds",
+                "is_correct": false
+            },
+            {
+                "option_id": "56073",
+                "tag": "b",
+                "text": "To regulate engine operating temperature",
+                "is_correct": true
+            },
+            {
+                "option_id": "40519",
+                "tag": "c",
+                "text": "To filter contaminants from the coolant",
+                "is_correct": false
+            },
+            {
+                "option_id": "97512",
+                "tag": "d",
+                "text": "To pressurize the cooling system",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "80683": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Fuel Supply Systems",
+        "question_type": "Practical",
+        "question_text": "<p>Explain the difference between a <b>carburetor</b> and a <b>fuel injection system</b> in terms of:<br><br>1. Air-fuel mixture preparation.<br>2. Fuel delivery efficiency.<br>3. Emissions control.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>1. <b>Air-fuel mixture preparation</b>:<br>- Carburetor: Uses a venturi effect to draw fuel into the airstream mechanically.<br>- Fuel injection: Precisely meters fuel using electronic sensors and injectors.<br><br>2. <b>Fuel delivery efficiency</b>:<br>- Carburetor: Less efficient due to uneven distribution and mechanical limitations.<br>- Fuel injection: More efficient, with better atomization and cylinder-specific delivery.<br><br>3. <b>Emissions control</b>:<br>- Carburetor: Higher emissions due to imprecise fuel metering.<br>- Fuel injection: Lower emissions due to precise control and catalytic converter compatibility.<br><br>The stoichiometric air-fuel ratio is $14.7:1$ for petrol engines, which fuel injection systems can maintain more accurately.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "80684": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Clutch Types and Operation",
+        "question_type": "Objective",
+        "exam_year": "2012",
+        "question_text": "<p>Which type of clutch uses <b>hydraulic pressure</b> to engage and disengage the clutch disc?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>hydraulic clutch</b> uses a master and slave cylinder system to transmit pedal force via hydraulic fluid, allowing smoother engagement and reduced driver effort.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "11116",
+                "tag": "a",
+                "text": "Mechanical clutch",
+                "is_correct": false
+            },
+            {
+                "option_id": "56074",
+                "tag": "b",
+                "text": "Hydraulic clutch",
+                "is_correct": true
+            },
+            {
+                "option_id": "40520",
+                "tag": "c",
+                "text": "Centrifugal clutch",
+                "is_correct": false
+            },
+            {
+                "option_id": "97513",
+                "tag": "d",
+                "text": "Electromagnetic clutch",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "80685": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Manual Transmission Basics",
+        "question_type": "Practical",
+        "question_text": "<p>You are diagnosing a vehicle with a <b>manual transmission</b> that jumps out of gear while driving. List <i>three possible causes</i> and describe the inspection procedure for each.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Possible causes and inspection procedures:<br><br>1. <b>Worn synchronizer rings</b>: Disassemble the transmission and inspect synchronizer rings for wear or damage.<br>2. <b>Misaligned shift linkage</b>: Check linkage for proper adjustment and wear. Ensure it engages fully.<br>3. <b>Weak or broken detent springs</b>: Inspect detent springs for tension and replace if necessary.<br><br>The gear ratio for a manual transmission is calculated as $GR = \frac{\text{Driven gear teeth}}{\text{Drive gear teeth}}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "80686": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Brake System Principles",
+        "question_type": "Objective",
+        "exam_year": "2012",
+        "question_text": "<p>What is the primary function of the <b>brake master cylinder</b> in a hydraulic brake system?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>brake master cylinder</b> converts mechanical force from the brake pedal into hydraulic pressure, which is then transmitted to the wheel cylinders or calipers to actuate the brakes.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "11117",
+                "tag": "a",
+                "text": "To store brake fluid",
+                "is_correct": false
+            },
+            {
+                "option_id": "56075",
+                "tag": "b",
+                "text": "To convert pedal force into hydraulic pressure",
+                "is_correct": true
+            },
+            {
+                "option_id": "40521",
+                "tag": "c",
+                "text": "To cool the brake system",
+                "is_correct": false
+            },
+            {
+                "option_id": "97514",
+                "tag": "d",
+                "text": "To filter contaminants from brake fluid",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "80687": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Wheel Alignment Basics",
+        "question_type": "Practical",
+        "question_text": "<p>Explain the terms <b>camber</b>, <b>caster</b>, and <b>toe</b> in wheel alignment. Describe how improper alignment affects tire wear and vehicle handling.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>1. <b>Camber</b>: The angle of the wheel when viewed from the front. Positive camber tilts outward; negative camber tilts inward.<br>2. <b>Caster</b>: The angle of the steering pivot when viewed from the side. Positive caster improves stability.<br>3. <b>Toe</b>: The difference in distance between the front and rear of the tires. Toe-in points inward; toe-out points outward.<br><br>Improper alignment causes:<br>- Uneven tire wear (e.g., feathering, cupping).<br>- Poor handling (e.g., pulling to one side, wandering).<br><br>The camber angle $\\theta$ is calculated as $\\theta = \\arctan(\\frac{\\text{tilt}}{\\text{wheel width}})$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "80688": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Vehicle Electrical Systems",
+        "question_type": "Objective",
+        "exam_year": "2012",
+        "question_text": "<p>Which component in a vehicle's electrical system is responsible for <b>regulating the voltage output</b> of the alternator?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>voltage regulator</b> ensures the alternator produces a consistent voltage (typically 13.8\u201314.4V) to charge the battery and power electrical systems, preventing overcharging or undercharging.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "11118",
+                "tag": "a",
+                "text": "Battery",
+                "is_correct": false
+            },
+            {
+                "option_id": "56076",
+                "tag": "b",
+                "text": "Voltage regulator",
+                "is_correct": true
+            },
+            {
+                "option_id": "40522",
+                "tag": "c",
+                "text": "Starter motor",
+                "is_correct": false
+            },
+            {
+                "option_id": "97515",
+                "tag": "d",
+                "text": "Ignition coil",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

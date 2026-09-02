@@ -1288,5 +1288,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "43384": {
+        "order_id": 31,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Accounting Basics",
+        "question_type": "Objective",
+        "exam_year": "2024",
+        "question_text": "<p>Which of the following is <b>NOT</b> a fundamental accounting concept?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The fundamental accounting concepts include <i>Going Concern</i>, <i>Consistency</i>, <i>Accruals</i>, and <i>Prudence</i>. <b>Materiality</b> is an accounting principle but not a fundamental concept.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "98043",
+                "tag": "a",
+                "text": "Going Concern",
+                "is_correct": false
+            },
+            {
+                "option_id": "10981",
+                "tag": "b",
+                "text": "Materiality",
+                "is_correct": true
+            },
+            {
+                "option_id": "55189",
+                "tag": "c",
+                "text": "Consistency",
+                "is_correct": false
+            },
+            {
+                "option_id": "33502",
+                "tag": "d",
+                "text": "Accruals",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "43385": {
+        "order_id": 32,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Accounting Equation",
+        "question_type": "Objective",
+        "exam_year": "2024",
+        "question_text": "<p>If assets are $50,000 and liabilities are $20,000, what is the owner's equity?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The accounting equation is: <b>Assets = Liabilities + Owner's Equity</b>. Rearranged, <b>Owner's Equity = Assets - Liabilities</b>. Thus, $50,000 - $20,000 = $30,000.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "98044",
+                "tag": "a",
+                "text": "$20,000",
+                "is_correct": false
+            },
+            {
+                "option_id": "10982",
+                "tag": "b",
+                "text": "$30,000",
+                "is_correct": true
+            },
+            {
+                "option_id": "55190",
+                "tag": "c",
+                "text": "$50,000",
+                "is_correct": false
+            },
+            {
+                "option_id": "33503",
+                "tag": "d",
+                "text": "$70,000",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "43386": {
+        "order_id": 33,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Double-Entry Rules",
+        "question_type": "Objective",
+        "exam_year": "2024",
+        "question_text": "<p>Which of the following accounts is <b>credited</b> when cash is received?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Under double-entry rules, cash received is recorded as a <b>debit</b> to the Cash Account and a <b>credit</b> to the relevant income or liability account (e.g., Sales or Accounts Receivable). The correct answer is <i>Sales Account</i>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "98045",
+                "tag": "a",
+                "text": "Cash Account",
+                "is_correct": false
+            },
+            {
+                "option_id": "10983",
+                "tag": "b",
+                "text": "Sales Account",
+                "is_correct": true
+            },
+            {
+                "option_id": "55191",
+                "tag": "c",
+                "text": "Purchases Account",
+                "is_correct": false
+            },
+            {
+                "option_id": "33504",
+                "tag": "d",
+                "text": "Rent Account",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "43387": {
+        "order_id": 34,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Source Documents",
+        "question_type": "Objective",
+        "exam_year": "2024",
+        "question_text": "<p>A <b>credit note</b> is issued by a seller to correct which of the following errors?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>credit note</b> is issued by a seller to correct an <i>overcharge</i> or to acknowledge the return of goods by the buyer. It reduces the amount owed by the buyer.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "98046",
+                "tag": "a",
+                "text": "Undercharging a customer",
+                "is_correct": false
+            },
+            {
+                "option_id": "10984",
+                "tag": "b",
+                "text": "Overcharging a customer",
+                "is_correct": true
+            },
+            {
+                "option_id": "55192",
+                "tag": "c",
+                "text": "Issuing a duplicate invoice",
+                "is_correct": false
+            },
+            {
+                "option_id": "33505",
+                "tag": "d",
+                "text": "Failing to record a sale",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "43388": {
+        "order_id": 35,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Bank Reconciliation",
+        "question_type": "Objective",
+        "exam_year": "2024",
+        "question_text": "<p>Which of the following items would <b>increase</b> the bank balance in a bank reconciliation statement?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Unpresented cheques are deducted from the bank statement balance, while <b>uncredited deposits</b> (deposits not yet recorded by the bank) increase the bank balance in the reconciliation statement.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "98047",
+                "tag": "a",
+                "text": "Unpresented cheques",
+                "is_correct": false
+            },
+            {
+                "option_id": "10985",
+                "tag": "b",
+                "text": "Bank charges",
+                "is_correct": false
+            },
+            {
+                "option_id": "55193",
+                "tag": "c",
+                "text": "Uncredited deposits",
+                "is_correct": true
+            },
+            {
+                "option_id": "33506",
+                "tag": "d",
+                "text": "Dishonoured cheques",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "43389": {
+        "order_id": 36,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Depreciation Methods",
+        "question_type": "Objective",
+        "exam_year": "2024",
+        "question_text": "<p>Under the <b>straight-line method</b> of depreciation, which formula correctly calculates annual depreciation?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The straight-line method calculates annual depreciation as: <br><b>(Cost - Residual Value) / Useful Life</b>. This spreads the depreciation evenly over the asset's useful life.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "98048",
+                "tag": "a",
+                "text": "$(Cost \\times Residual\\ Value) / Useful\\ Life$",
+                "is_correct": false
+            },
+            {
+                "option_id": "10986",
+                "tag": "b",
+                "text": "$(Cost - Residual\\ Value) / Useful\\ Life$",
+                "is_correct": true
+            },
+            {
+                "option_id": "55194",
+                "tag": "c",
+                "text": "$Cost / Useful\\ Life$",
+                "is_correct": false
+            },
+            {
+                "option_id": "33507",
+                "tag": "d",
+                "text": "$Residual\\ Value / Useful\\ Life$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "43390": {
+        "order_id": 37,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Partnership Accounts",
+        "question_type": "Objective",
+        "exam_year": "2024",
+        "question_text": "<p>In partnership accounts, <b>interest on drawings</b> is treated as:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Interest on drawings</b> is charged to partners to discourage excessive withdrawals. It is <b>credited</b> to the Profit and Loss Appropriation Account, increasing the distributable profit.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "98049",
+                "tag": "a",
+                "text": "An expense in the Profit and Loss Account",
+                "is_correct": false
+            },
+            {
+                "option_id": "10987",
+                "tag": "b",
+                "text": "A credit to the Profit and Loss Appropriation Account",
+                "is_correct": true
+            },
+            {
+                "option_id": "55195",
+                "tag": "c",
+                "text": "A debit to the Partners' Current Accounts",
+                "is_correct": false
+            },
+            {
+                "option_id": "33508",
+                "tag": "d",
+                "text": "A reduction in the partnership capital",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "43391": {
+        "order_id": 38,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Company Accounts",
+        "question_type": "Objective",
+        "exam_year": "2024",
+        "question_text": "<p>Which of the following is <b>NOT</b> a feature of a <i>private limited company</i>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <i>private limited company</i> restricts the transfer of shares, limits the number of shareholders to 50, and prohibits public subscription. <b>Issuing shares to the public</b> is a feature of a <i>public limited company</i>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "98050",
+                "tag": "a",
+                "text": "Restricted transfer of shares",
+                "is_correct": false
+            },
+            {
+                "option_id": "10988",
+                "tag": "b",
+                "text": "Issuing shares to the public",
+                "is_correct": true
+            },
+            {
+                "option_id": "55196",
+                "tag": "c",
+                "text": "Limited liability for shareholders",
+                "is_correct": false
+            },
+            {
+                "option_id": "33509",
+                "tag": "d",
+                "text": "Maximum of 50 shareholders",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "43392": {
+        "order_id": 39,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Financial Ratios",
+        "question_type": "Objective",
+        "exam_year": "2024",
+        "question_text": "<p>The formula for calculating the <b>current ratio</b> is:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>current ratio</b> measures liquidity by comparing current assets to current liabilities. The formula is: <br><b>Current Assets / Current Liabilities</b>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "98051",
+                "tag": "a",
+                "text": "$Current\\ Assets \\times Current\\ Liabilities$",
+                "is_correct": false
+            },
+            {
+                "option_id": "10989",
+                "tag": "b",
+                "text": "$Current\\ Assets / Current\\ Liabilities$",
+                "is_correct": true
+            },
+            {
+                "option_id": "55197",
+                "tag": "c",
+                "text": "$(Current\\ Assets - Current\\ Liabilities) / Total\\ Assets$",
+                "is_correct": false
+            },
+            {
+                "option_id": "33510",
+                "tag": "d",
+                "text": "$Current\\ Liabilities / Current\\ Assets$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "43393": {
+        "order_id": 40,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "IFRS Overview",
+        "question_type": "Objective",
+        "exam_year": "2024",
+        "question_text": "<p>Which <b>International Financial Reporting Standard (IFRS)</b> deals with the presentation of financial statements?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>IFRS 1</b> deals with the first-time adoption of IFRS, while <b>IAS 1</b> (now part of IFRS) governs the <i>presentation of financial statements</i>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "98052",
+                "tag": "a",
+                "text": "IFRS 1",
+                "is_correct": false
+            },
+            {
+                "option_id": "10990",
+                "tag": "b",
+                "text": "IAS 1",
+                "is_correct": true
+            },
+            {
+                "option_id": "55198",
+                "tag": "c",
+                "text": "IFRS 15",
+                "is_correct": false
+            },
+            {
+                "option_id": "33511",
+                "tag": "d",
+                "text": "IAS 16",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

@@ -1288,5 +1288,434 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "30081": {
+        "order_id": 31,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Accounting Basics",
+        "question_type": "Objective",
+        "exam_year": "2006",
+        "question_text": "<p>Which of the following is <b>NOT</b> a branch of accounting?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The main branches of accounting include Financial Accounting, Cost Accounting, Management Accounting, and Auditing. <i>Taxation</i> is a related field but not strictly a branch of accounting.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "14226",
+                "tag": "a",
+                "text": "Financial Accounting",
+                "is_correct": false
+            },
+            {
+                "option_id": "97805",
+                "tag": "b",
+                "text": "Taxation",
+                "is_correct": true
+            },
+            {
+                "option_id": "78846",
+                "tag": "c",
+                "text": "Cost Accounting",
+                "is_correct": false
+            },
+            {
+                "option_id": "45457",
+                "tag": "d",
+                "text": "Management Accounting",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "30082": {
+        "order_id": 32,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Accounting Principles",
+        "question_type": "Objective",
+        "exam_year": "2006",
+        "question_text": "<p>The principle that states that revenue should be recognized when it is earned, not necessarily when cash is received, is known as the:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <i>Realization Principle</i> (or Revenue Recognition Principle) states that revenue should be recognized when it is earned, regardless of when cash is received.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "14227",
+                "tag": "a",
+                "text": "Matching Principle",
+                "is_correct": false
+            },
+            {
+                "option_id": "97806",
+                "tag": "b",
+                "text": "Realization Principle",
+                "is_correct": true
+            },
+            {
+                "option_id": "78847",
+                "tag": "c",
+                "text": "Consistency Principle",
+                "is_correct": false
+            },
+            {
+                "option_id": "45458",
+                "tag": "d",
+                "text": "Materiality Principle",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "30083": {
+        "order_id": 33,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Accounting Equation",
+        "question_type": "Objective",
+        "exam_year": "2006",
+        "question_text": "<p>If assets are $50,000 and liabilities are $20,000, what is the owner's equity?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The accounting equation is: <b>Assets = Liabilities + Owner's Equity</b>. Rearranged, <b>Owner's Equity = Assets - Liabilities</b>. Thus, $50,000 - $20,000 = $30,000.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "14228",
+                "tag": "a",
+                "text": "$20,000",
+                "is_correct": false
+            },
+            {
+                "option_id": "97807",
+                "tag": "b",
+                "text": "$30,000",
+                "is_correct": true
+            },
+            {
+                "option_id": "78848",
+                "tag": "c",
+                "text": "$50,000",
+                "is_correct": false
+            },
+            {
+                "option_id": "45459",
+                "tag": "d",
+                "text": "$70,000",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "30084": {
+        "order_id": 34,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Double-Entry Rules",
+        "question_type": "Objective",
+        "exam_year": "2006",
+        "question_text": "<p>In double-entry accounting, which of the following accounts is <b>credited</b> when cash is received?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>When cash is received, the <i>Cash Account</i> (an asset) is debited, and the corresponding account (e.g., Revenue or a Debtor's Account) is credited.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "14229",
+                "tag": "a",
+                "text": "Cash Account",
+                "is_correct": false
+            },
+            {
+                "option_id": "97808",
+                "tag": "b",
+                "text": "Revenue Account",
+                "is_correct": true
+            },
+            {
+                "option_id": "78849",
+                "tag": "c",
+                "text": "Expense Account",
+                "is_correct": false
+            },
+            {
+                "option_id": "45460",
+                "tag": "d",
+                "text": "Capital Account",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "30085": {
+        "order_id": 35,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Source Documents",
+        "question_type": "Objective",
+        "exam_year": "2006",
+        "question_text": "<p>Which of the following is <b>NOT</b> a source document in accounting?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Source documents include invoices, receipts, credit notes, and debit notes. A <i>Trial Balance</i> is a summary of ledger balances, not a source document.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "14230",
+                "tag": "a",
+                "text": "Invoice",
+                "is_correct": false
+            },
+            {
+                "option_id": "97809",
+                "tag": "b",
+                "text": "Receipt",
+                "is_correct": false
+            },
+            {
+                "option_id": "78850",
+                "tag": "c",
+                "text": "Trial Balance",
+                "is_correct": true
+            },
+            {
+                "option_id": "45461",
+                "tag": "d",
+                "text": "Credit Note",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "30086": {
+        "order_id": 36,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Ledger Posting",
+        "question_type": "Objective",
+        "exam_year": "2006",
+        "question_text": "<p>A credit balance in the Sales Ledger indicates:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A credit balance in the Sales Ledger typically indicates an <i>overpayment by a customer</i> or a refund due to the customer.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "14231",
+                "tag": "a",
+                "text": "An amount receivable from a customer",
+                "is_correct": false
+            },
+            {
+                "option_id": "97810",
+                "tag": "b",
+                "text": "An overpayment by a customer",
+                "is_correct": true
+            },
+            {
+                "option_id": "78851",
+                "tag": "c",
+                "text": "A discount allowed to a customer",
+                "is_correct": false
+            },
+            {
+                "option_id": "45462",
+                "tag": "d",
+                "text": "A bad debt written off",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "30087": {
+        "order_id": 37,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Bank Reconciliation",
+        "question_type": "Objective",
+        "exam_year": "2006",
+        "question_text": "<p>Which of the following items would <b>NOT</b> appear in a bank reconciliation statement?</p>",
+        "question_image": null,
+        "explanation": "<p>A bank reconciliation statement includes unpresented cheques, outstanding lodgments, bank errors, and bank charges. <i>Cash sales</i> are recorded directly in the cash book and do not appear in the bank reconciliation.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "14232",
+                "tag": "a",
+                "text": "Unpresented cheques",
+                "is_correct": false
+            },
+            {
+                "option_id": "97811",
+                "tag": "b",
+                "text": "Outstanding lodgments",
+                "is_correct": false
+            },
+            {
+                "option_id": "78852",
+                "tag": "c",
+                "text": "Cash sales",
+                "is_correct": true
+            },
+            {
+                "option_id": "45463",
+                "tag": "d",
+                "text": "Bank charges",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "30088": {
+        "order_id": 38,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Depreciation Methods",
+        "question_type": "Objective",
+        "exam_year": "2006",
+        "question_text": "<p>The method of depreciation that allocates an equal amount of depreciation each year is called:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <i>Straight-Line Method</i> allocates an equal amount of depreciation expense each year over the useful life of the asset.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "14233",
+                "tag": "a",
+                "text": "Reducing Balance Method",
+                "is_correct": false
+            },
+            {
+                "option_id": "97812",
+                "tag": "b",
+                "text": "Straight-Line Method",
+                "is_correct": true
+            },
+            {
+                "option_id": "78853",
+                "tag": "c",
+                "text": "Sum of the Years' Digits Method",
+                "is_correct": false
+            },
+            {
+                "option_id": "45464",
+                "tag": "d",
+                "text": "Revaluation Method",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "30089": {
+        "order_id": 39,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Partnership Accounts",
+        "question_type": "Objective",
+        "exam_year": "2006",
+        "question_text": "<p>In partnership accounts, interest on drawings is treated as:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Interest on drawings is an <i>income to the partnership</i> because it represents a reduction in the partner's capital and is added to the partnership's profit.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "14234",
+                "tag": "a",
+                "text": "An expense to the partnership",
+                "is_correct": false
+            },
+            {
+                "option_id": "97813",
+                "tag": "b",
+                "text": "An income to the partnership",
+                "is_correct": true
+            },
+            {
+                "option_id": "78854",
+                "tag": "c",
+                "text": "A reduction in capital",
+                "is_correct": false
+            },
+            {
+                "option_id": "45465",
+                "tag": "d",
+                "text": "A liability to the partnership",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "30090": {
+        "order_id": 40,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Final Accounts",
+        "question_type": "Objective",
+        "exam_year": "2006",
+        "question_text": "<p>Which of the following is <b>NOT</b> included in the Trading Account?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The Trading Account includes sales, cost of goods sold, and gross profit. <i>Salaries and wages</i> are included in the Profit and Loss Account, not the Trading Account.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "14235",
+                "tag": "a",
+                "text": "Sales",
+                "is_correct": false
+            },
+            {
+                "option_id": "97814",
+                "tag": "b",
+                "text": "Cost of Goods Sold",
+                "is_correct": false
+            },
+            {
+                "option_id": "78855",
+                "tag": "c",
+                "text": "Salaries and Wages",
+                "is_correct": true
+            },
+            {
+                "option_id": "45466",
+                "tag": "d",
+                "text": "Gross Profit",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

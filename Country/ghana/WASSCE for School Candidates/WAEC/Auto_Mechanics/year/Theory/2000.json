@@ -1,0 +1,307 @@
+{
+    "14705": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Internal Combustion Engine Cycles",
+        "question_type": "Theory",
+        "exam_year": "2000",
+        "question_text": "<p>Explain the four-stroke cycle of a petrol engine, clearly stating the events that occur in each stroke. Include a simple sketch if possible, labeling the strokes.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The four-stroke cycle of a petrol engine consists of the following strokes:<br><br><b>1. Intake Stroke:</b> The piston moves downward, creating a partial vacuum. The intake valve opens, allowing a mixture of air and fuel to enter the cylinder.<br><br><b>2. Compression Stroke:</b> The piston moves upward, compressing the air-fuel mixture. Both the intake and exhaust valves are closed. The compression increases the temperature and pressure of the mixture.<br><br><b>3. Power Stroke:</b> The spark plug ignites the compressed air-fuel mixture, causing an explosion. The force of this explosion drives the piston downward, generating power.<br><br><b>4. Exhaust Stroke:</b> The piston moves upward again, pushing the burnt gases out of the cylinder through the open exhaust valve.<br><br>This cycle repeats continuously to keep the engine running.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "14706": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Engine Components and Functions",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>Which of the following engine components is responsible for converting the linear motion of the pistons into rotary motion?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>crankshaft</b> is the engine component that converts the linear (up-and-down) motion of the pistons into rotary motion, which is then transmitted to the drivetrain of the vehicle.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "26836",
+                "tag": "a",
+                "text": "Camshaft",
+                "is_correct": false
+            },
+            {
+                "option_id": "50960",
+                "tag": "b",
+                "text": "Crankshaft",
+                "is_correct": true
+            },
+            {
+                "option_id": "93469",
+                "tag": "c",
+                "text": "Connecting rod",
+                "is_correct": false
+            },
+            {
+                "option_id": "68731",
+                "tag": "d",
+                "text": "Flywheel",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "14707": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Engine Lubrication Systems",
+        "question_type": "Theory",
+        "exam_year": "2000",
+        "question_text": "<p>Describe the function of the oil pump in an engine lubrication system. What are the possible consequences of a faulty oil pump?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>oil pump</b> in an engine lubrication system is responsible for circulating oil under pressure to all moving parts of the engine, such as the crankshaft, camshaft, and bearings. This ensures proper lubrication, reduces friction, and helps dissipate heat.<br><br>If the oil pump is faulty, the following consequences may occur:<br><br><b>1. Inadequate Lubrication:</b> Moving parts may not receive sufficient oil, leading to increased friction and wear.<br><b>2. Overheating:</b> Poor lubrication can cause excessive heat buildup, potentially leading to engine seizure.<br><b>3. Engine Damage:</b> Prolonged operation with a faulty oil pump can result in catastrophic engine failure due to metal-to-metal contact.<br><b>4. Increased Oil Consumption:</b> The engine may burn more oil, leading to frequent top-ups and potential oil starvation.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "14708": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Cooling Systems Types",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>Which of the following is <b>NOT</b> a component of a liquid cooling system in an internal combustion engine?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>thermostat</b>, <b>radiator</b>, and <b>water pump</b> are all components of a liquid cooling system. The <b>oil cooler</b>, however, is not part of the primary liquid cooling system but is sometimes used as an auxiliary cooling component for engine oil.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "26836",
+                "tag": "a",
+                "text": "Thermostat",
+                "is_correct": false
+            },
+            {
+                "option_id": "50960",
+                "tag": "b",
+                "text": "Radiator",
+                "is_correct": false
+            },
+            {
+                "option_id": "93469",
+                "tag": "c",
+                "text": "Oil cooler",
+                "is_correct": true
+            },
+            {
+                "option_id": "68731",
+                "tag": "d",
+                "text": "Water pump",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "14709": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Fuel Supply Systems",
+        "question_type": "Theory",
+        "exam_year": "2000",
+        "question_text": "<p>Explain the difference between a carburetor and a fuel injection system in terms of their operation and efficiency.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Carburetor:</b><br><br>A carburetor is a mechanical device that mixes air and fuel in the correct ratio before delivering it to the engine cylinders. It operates on the principle of a venturi, where airflow through a narrow passage creates a pressure drop that draws fuel into the airstream. Carburetors are simpler and less expensive but are less precise in fuel metering, leading to lower efficiency and higher emissions.<br><br><b>Fuel Injection System:</b><br><br>A fuel injection system delivers fuel directly into the intake manifold or combustion chamber using electronically controlled injectors. It provides precise fuel metering, better atomization, and improved combustion efficiency. Fuel injection systems are more complex and expensive but offer better fuel economy, lower emissions, and improved engine performance compared to carburetors.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "14710": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Ignition System Types",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>In a conventional ignition system, what is the function of the <b>distributor</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>distributor</b> in a conventional ignition system is responsible for distributing the high-voltage current from the ignition coil to the spark plugs in the correct firing order. It also houses the breaker points or electronic trigger that controls the timing of the spark.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "26836",
+                "tag": "a",
+                "text": "To generate high-voltage current for the spark plugs",
+                "is_correct": false
+            },
+            {
+                "option_id": "50960",
+                "tag": "b",
+                "text": "To distribute high-voltage current to the spark plugs in the correct firing order",
+                "is_correct": true
+            },
+            {
+                "option_id": "93469",
+                "tag": "c",
+                "text": "To mix air and fuel in the correct ratio",
+                "is_correct": false
+            },
+            {
+                "option_id": "68731",
+                "tag": "d",
+                "text": "To regulate the engine's cooling system",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "14711": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Clutch Types and Operation",
+        "question_type": "Theory",
+        "exam_year": "2000",
+        "question_text": "<p>Describe the operation of a single-plate dry clutch. Include a labeled diagram if possible.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>single-plate dry clutch</b> consists of the following main components:<br><br><b>1. Flywheel:</b> Mounted on the engine crankshaft, it provides a smooth surface for the clutch plate to engage.<br><b>2. Clutch Plate (Friction Disc):</b> Located between the flywheel and the pressure plate, it has friction material on both sides to transmit torque.<br><b>3. Pressure Plate:</b> Connected to the clutch cover, it applies force to the clutch plate, pressing it against the flywheel.<br><b>4. Release Bearing (Throw-out Bearing):</b> Operated by the clutch pedal, it disengages the clutch by pushing against the pressure plate diaphragm.<br><br><b>Operation:</b><br><br>When the clutch pedal is released, the pressure plate clamps the clutch plate against the flywheel, allowing torque to be transmitted from the engine to the gearbox. When the clutch pedal is pressed, the release bearing pushes against the pressure plate, releasing the clamping force and disconnecting the engine from the gearbox.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "14712": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Manual Transmission Basics",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>What is the primary function of the <b>synchromesh</b> in a manual transmission?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>synchromesh</b> in a manual transmission is designed to synchronize the speeds of the gear and the shaft before engagement, allowing for smooth and quiet gear shifts without grinding or clashing.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "26836",
+                "tag": "a",
+                "text": "To lock the gears in place",
+                "is_correct": false
+            },
+            {
+                "option_id": "50960",
+                "tag": "b",
+                "text": "To synchronize the speeds of the gear and shaft before engagement",
+                "is_correct": true
+            },
+            {
+                "option_id": "93469",
+                "tag": "c",
+                "text": "To increase the torque output of the transmission",
+                "is_correct": false
+            },
+            {
+                "option_id": "68731",
+                "tag": "d",
+                "text": "To lubricate the gears and bearings",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "14713": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Suspension System Types",
+        "question_type": "Theory",
+        "exam_year": "2000",
+        "question_text": "<p>Compare and contrast the <b>independent suspension</b> system with the <b>rigid axle suspension</b> system in terms of their construction and application.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Independent Suspension:</b><br><br><b>Construction:</b> In an independent suspension system, each wheel is attached to the vehicle's frame or body independently, allowing it to move up and down without affecting the opposite wheel. Common types include MacPherson strut and double wishbone suspensions.<br><br><b>Advantages:</b> Provides better ride comfort, improved handling, and reduced unsprung weight. It is commonly used in modern passenger cars.<br><br><b>Disadvantages:</b> More complex and expensive to manufacture and maintain.<br><br><b>Rigid Axle Suspension:</b><br><br><b>Construction:</b> In a rigid axle suspension system, both wheels on an axle are connected by a solid beam, meaning the movement of one wheel affects the other. Common types include leaf spring and coil spring rigid axles.<br><br><b>Advantages:</b> Simpler and more robust, making it suitable for heavy-duty applications such as trucks and off-road vehicles.<br><br><b>Disadvantages:</b> Reduced ride comfort and handling compared to independent suspension, as the movement of one wheel affects the other.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "14714": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Brake System Principles",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>Which of the following principles explains how a hydraulic brake system multiplies the force applied by the driver?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A hydraulic brake system operates based on <b>Pascal's Law</b>, which states that pressure applied to a confined fluid is transmitted undiminished in all directions. This allows the force applied by the driver on the brake pedal to be multiplied and transmitted to the brake calipers or wheel cylinders.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "26836",
+                "tag": "a",
+                "text": "Newton's First Law",
+                "is_correct": false
+            },
+            {
+                "option_id": "50960",
+                "tag": "b",
+                "text": "Pascal's Law",
+                "is_correct": true
+            },
+            {
+                "option_id": "93469",
+                "tag": "c",
+                "text": "Bernoulli's Principle",
+                "is_correct": false
+            },
+            {
+                "option_id": "68731",
+                "tag": "d",
+                "text": "Archimedes' Principle",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

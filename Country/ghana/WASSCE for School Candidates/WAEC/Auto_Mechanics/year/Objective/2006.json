@@ -428,5 +428,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "98207": {
+        "order_id": 11,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Internal combustion engine cycles",
+        "question_type": "Objective",
+        "exam_year": "2006",
+        "question_text": "<p>Which of the following strokes in a four-stroke petrol engine is responsible for drawing the air-fuel mixture into the cylinder?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>intake stroke</b> is the first stroke in the four-stroke cycle where the piston moves downward, creating a vacuum that draws the air-fuel mixture into the cylinder through the open intake valve.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "93178",
+                "tag": "a",
+                "text": "Compression stroke",
+                "is_correct": false
+            },
+            {
+                "option_id": "76770",
+                "tag": "b",
+                "text": "Intake stroke",
+                "is_correct": true
+            },
+            {
+                "option_id": "29680",
+                "tag": "c",
+                "text": "Power stroke",
+                "is_correct": false
+            },
+            {
+                "option_id": "10268",
+                "tag": "d",
+                "text": "Exhaust stroke",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "98208": {
+        "order_id": 12,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Engine components and functions",
+        "question_type": "Objective",
+        "exam_year": "2006",
+        "question_text": "<p>What is the primary function of the <b>crankshaft</b> in an internal combustion engine?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>crankshaft</b> converts the linear (up-and-down) motion of the pistons into rotational motion, which is then transmitted to the drivetrain to propel the vehicle.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "93179",
+                "tag": "a",
+                "text": "To control valve timing",
+                "is_correct": false
+            },
+            {
+                "option_id": "76771",
+                "tag": "b",
+                "text": "To convert linear piston motion into rotational motion",
+                "is_correct": true
+            },
+            {
+                "option_id": "29681",
+                "tag": "c",
+                "text": "To mix air and fuel",
+                "is_correct": false
+            },
+            {
+                "option_id": "10269",
+                "tag": "d",
+                "text": "To cool the engine",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "98209": {
+        "order_id": 13,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Engine lubrication systems",
+        "question_type": "Objective",
+        "exam_year": "2006",
+        "question_text": "<p>Which component in an engine lubrication system is responsible for filtering contaminants from the engine oil?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>oil filter</b> traps contaminants such as dirt, metal particles, and sludge, preventing them from circulating through the engine and causing wear.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "93180",
+                "tag": "a",
+                "text": "Oil pump",
+                "is_correct": false
+            },
+            {
+                "option_id": "76772",
+                "tag": "b",
+                "text": "Oil filter",
+                "is_correct": true
+            },
+            {
+                "option_id": "29682",
+                "tag": "c",
+                "text": "Oil pan",
+                "is_correct": false
+            },
+            {
+                "option_id": "10270",
+                "tag": "d",
+                "text": "Oil cooler",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "98210": {
+        "order_id": 14,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Cooling systems types",
+        "question_type": "Objective",
+        "exam_year": "2006",
+        "question_text": "<p>In a liquid-cooled engine, what is the function of the <b>thermostat</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>thermostat</b> regulates the flow of coolant between the engine and the radiator. It remains closed when the engine is cold to allow it to warm up quickly and opens when the engine reaches operating temperature to maintain optimal cooling.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "93181",
+                "tag": "a",
+                "text": "To increase engine temperature",
+                "is_correct": false
+            },
+            {
+                "option_id": "76773",
+                "tag": "b",
+                "text": "To regulate coolant flow based on engine temperature",
+                "is_correct": true
+            },
+            {
+                "option_id": "29683",
+                "tag": "c",
+                "text": "To mix air and fuel",
+                "is_correct": false
+            },
+            {
+                "option_id": "10271",
+                "tag": "d",
+                "text": "To filter contaminants from coolant",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "98211": {
+        "order_id": 15,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Fuel supply systems",
+        "question_type": "Objective",
+        "exam_year": "2006",
+        "question_text": "<p>Which component in a carbureted fuel system is responsible for atomizing the fuel and mixing it with air?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>carburetor</b> atomizes the fuel and mixes it with air in the correct ratio before it enters the engine cylinders for combustion.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "93182",
+                "tag": "a",
+                "text": "Fuel pump",
+                "is_correct": false
+            },
+            {
+                "option_id": "76774",
+                "tag": "b",
+                "text": "Carburetor",
+                "is_correct": true
+            },
+            {
+                "option_id": "29684",
+                "tag": "c",
+                "text": "Fuel filter",
+                "is_correct": false
+            },
+            {
+                "option_id": "10272",
+                "tag": "d",
+                "text": "Fuel injector",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "98212": {
+        "order_id": 16,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Ignition system types",
+        "question_type": "Objective",
+        "exam_year": "2006",
+        "question_text": "<p>In a conventional ignition system, which component is responsible for generating the high voltage required to produce a spark at the spark plug?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>ignition coil</b> transforms the low-voltage current from the battery into the high-voltage current needed to create a spark at the spark plug, igniting the air-fuel mixture.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "93183",
+                "tag": "a",
+                "text": "Distributor",
+                "is_correct": false
+            },
+            {
+                "option_id": "76775",
+                "tag": "b",
+                "text": "Ignition coil",
+                "is_correct": true
+            },
+            {
+                "option_id": "29685",
+                "tag": "c",
+                "text": "Spark plug",
+                "is_correct": false
+            },
+            {
+                "option_id": "10273",
+                "tag": "d",
+                "text": "Battery",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "98213": {
+        "order_id": 17,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Clutch types and operation",
+        "question_type": "Objective",
+        "exam_year": "2006",
+        "question_text": "<p>What is the primary function of the <b>clutch</b> in a manual transmission vehicle?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>clutch</b> disengages the engine from the transmission temporarily, allowing the driver to change gears smoothly without damaging the transmission components.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "93184",
+                "tag": "a",
+                "text": "To increase engine power",
+                "is_correct": false
+            },
+            {
+                "option_id": "76776",
+                "tag": "b",
+                "text": "To disengage the engine from the transmission for gear changes",
+                "is_correct": true
+            },
+            {
+                "option_id": "29686",
+                "tag": "c",
+                "text": "To cool the engine",
+                "is_correct": false
+            },
+            {
+                "option_id": "10274",
+                "tag": "d",
+                "text": "To filter engine oil",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "98214": {
+        "order_id": 18,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Manual transmission basics",
+        "question_type": "Objective",
+        "exam_year": "2006",
+        "question_text": "<p>Which component in a manual transmission is responsible for selecting and engaging the desired gear ratio?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>shift fork</b> moves the synchronizer sleeve, which engages the selected gear to the output shaft, allowing the desired gear ratio to be achieved.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "93185",
+                "tag": "a",
+                "text": "Clutch disc",
+                "is_correct": false
+            },
+            {
+                "option_id": "76777",
+                "tag": "b",
+                "text": "Shift fork",
+                "is_correct": true
+            },
+            {
+                "option_id": "29687",
+                "tag": "c",
+                "text": "Flywheel",
+                "is_correct": false
+            },
+            {
+                "option_id": "10275",
+                "tag": "d",
+                "text": "Differential",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "98215": {
+        "order_id": 19,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Brake system principles",
+        "question_type": "Objective",
+        "exam_year": "2006",
+        "question_text": "<p>In a hydraulic brake system, what principle explains the transmission of force from the brake pedal to the brake pads?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Pascal's Law states that when pressure is applied to a confined fluid, the pressure change is transmitted equally in all directions. This principle allows the force applied to the brake pedal to be multiplied and transmitted to the brake pads.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "93186",
+                "tag": "a",
+                "text": "Newton's First Law",
+                "is_correct": false
+            },
+            {
+                "option_id": "76778",
+                "tag": "b",
+                "text": "Pascal's Law",
+                "is_correct": true
+            },
+            {
+                "option_id": "29688",
+                "tag": "c",
+                "text": "Ohm's Law",
+                "is_correct": false
+            },
+            {
+                "option_id": "10276",
+                "tag": "d",
+                "text": "Boyle's Law",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "98216": {
+        "order_id": 20,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Wheel alignment basics",
+        "question_type": "Objective",
+        "exam_year": "2006",
+        "question_text": "<p>Which of the following wheel alignment angles is primarily responsible for ensuring that the tires make even contact with the road surface?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>camber angle</b> is the tilt of the wheel from the vertical when viewed from the front of the vehicle. Proper camber ensures even tire contact with the road, preventing uneven tire wear.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "93187",
+                "tag": "a",
+                "text": "Toe",
+                "is_correct": false
+            },
+            {
+                "option_id": "76779",
+                "tag": "b",
+                "text": "Camber",
+                "is_correct": true
+            },
+            {
+                "option_id": "29689",
+                "tag": "c",
+                "text": "Caster",
+                "is_correct": false
+            },
+            {
+                "option_id": "10277",
+                "tag": "d",
+                "text": "Kingpin inclination",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

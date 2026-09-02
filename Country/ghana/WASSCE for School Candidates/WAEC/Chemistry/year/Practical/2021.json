@@ -1,0 +1,307 @@
+{
+    "91015": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Qualitative Analysis Tests",
+        "question_type": "Practical",
+        "exam_year": "2021",
+        "question_text": "<p>You are provided with a mixture of two salts, <b>X</b> and <b>Y</b>. Carry out the following tests and record your observations and inferences.<br><br><b>Test 1:</b> Heat a portion of the mixture gently in a dry test tube.<br><b>Observation:</b> A gas with a pungent smell is evolved which turns moist red litmus paper blue.<br><br><b>Test 2:</b> Dissolve the remaining portion of the mixture in distilled water and divide the solution into two parts.<br><br><b>Test 2a:</b> To the first part, add a few drops of silver nitrate solution.<br><b>Observation:</b> A white precipitate is formed which dissolves in dilute ammonia solution.<br><br><b>Test 2b:</b> To the second part, add sodium hydroxide solution dropwise until in excess.<br><b>Observation:</b> A white precipitate is formed which dissolves in excess sodium hydroxide solution.<br><br><b>Identify the cations and anions present in salts <b>X</b> and <b>Y</b>.</b></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Test 1 Inference:</b><br>The gas evolved is ammonia ($NH_3$), indicating the presence of the ammonium ion ($NH_4^+$) in one of the salts. The pungent smell and the effect on litmus paper confirm this.<br><br><b>Test 2a Inference:</b><br>The white precipitate formed with silver nitrate ($AgNO_3$) that dissolves in dilute ammonia ($NH_3$) indicates the presence of the chloride ion ($Cl^-$). The reaction is:<br>$Ag^+ + Cl^- \\rightarrow AgCl$<br>$AgCl + 2NH_3 \\rightarrow [Ag(NH_3)_2]^+ + Cl^-$.<br><br><b>Test 2b Inference:</b><br>The white precipitate formed with sodium hydroxide ($NaOH$) that dissolves in excess $NaOH$ indicates the presence of the zinc ion ($Zn^{2+}$) or aluminum ion ($Al^{3+}$). However, since $Al^{3+}$ forms a precipitate that does not dissolve in excess $NaOH$, the cation is likely $Zn^{2+}$. The reaction is:<br>$Zn^{2+} + 2OH^- \\rightarrow Zn(OH)_2$<br>$Zn(OH)_2 + 2OH^- \\rightarrow [Zn(OH)_4]^{2-}$.<br><br><b>Conclusion:</b><br>Salt <b>X</b> is likely ammonium chloride ($NH_4Cl$), containing $NH_4^+$ and $Cl^-$.<br>Salt <b>Y</b> is likely zinc chloride ($ZnCl_2$), but since $Cl^-$ is already accounted for in <b>X</b>, <b>Y</b> must be zinc sulfate ($ZnSO_4$) or another zinc salt. However, based on the tests, the most plausible identification is:<br>- <b>X</b>: $NH_4Cl$ (Ammonium chloride)<br>- <b>Y</b>: $ZnCl_2$ (Zinc chloride), but this would duplicate $Cl^-$. Therefore, <b>Y</b> is more likely $ZnSO_4$ (Zinc sulfate), but the anion test did not confirm $SO_4^{2-}$. Thus, the correct identification based on the given tests is:<br>- <b>X</b>: $NH_4Cl$<br>- <b>Y</b>: $ZnCl_2$ (with the understanding that the mixture contains two sources of $Cl^-$).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "91016": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Volumetric Titrations",
+        "question_type": "Practical",
+        "exam_year": "2021",
+        "question_text": "<p>You are provided with a solution of sodium hydroxide ($NaOH$) of unknown concentration and a standard solution of hydrochloric acid ($HCl$) of concentration $0.100 \\ mol/dm^3$.<br><br><b>Procedure:</b><br>1. Pipette $25.0 \\ cm^3$ of the $NaOH$ solution into a conical flask.<br>2. Add 2-3 drops of phenolphthalein indicator.<br>3. Titrate the $NaOH$ solution with the $HCl$ solution until the endpoint is reached.<br>4. Record the volume of $HCl$ used.<br><br>The following data were obtained:<br>- Burette reading before titration: $0.00 \\ cm^3$<br>- Burette reading after titration: $24.50 \\ cm^3$<br><br><b>Calculate:</b><br>(a) The concentration of the $NaOH$ solution in $mol/dm^3$.<br>(b) The mass of $NaOH$ in $1 \\ dm^3$ of the solution. ($Na = 23, O = 16, H = 1$)</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>(a) Concentration of $NaOH$:</b><br>The reaction between $NaOH$ and $HCl$ is:<br>$NaOH + HCl \\rightarrow NaCl + H_2O$.<br>From the titration, the volume of $HCl$ used is $24.50 \\ cm^3$.<br>The number of moles of $HCl$ used is:<br>$n(HCl) = C \\times V = 0.100 \\ mol/dm^3 \\times 0.0245 \\ dm^3 = 0.00245 \\ mol$.<br>Since the reaction is 1:1, the moles of $NaOH$ are also $0.00245 \\ mol$.<br>The concentration of $NaOH$ is:<br>$C(NaOH) = \\frac{n}{V} = \\frac{0.00245 \\ mol}{0.025 \\ dm^3} = 0.098 \\ mol/dm^3$.<br><br><b>(b) Mass of $NaOH$ in $1 \\ dm^3$:</b><br>The molar mass of $NaOH$ is:<br>$23 + 16 + 1 = 40 \\ g/mol$.<br>The mass of $NaOH$ in $1 \\ dm^3$ is:<br>$mass = C \\times M \\times V = 0.098 \\ mol/dm^3 \\times 40 \\ g/mol \\times 1 \\ dm^3 = 3.92 \\ g$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "91017": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Gravimetric Analysis",
+        "question_type": "Practical",
+        "exam_year": "2021",
+        "question_text": "<p>You are provided with a solution containing barium chloride ($BaCl_2$). You are required to determine the mass of barium ($Ba$) in the solution using gravimetric analysis.<br><br><b>Procedure:</b><br>1. Pipette $25.0 \\ cm^3$ of the $BaCl_2$ solution into a beaker.<br>2. Add excess dilute sulfuric acid ($H_2SO_4$) to precipitate barium sulfate ($BaSO_4$).<br>3. Filter the precipitate using a pre-weighed filter paper.<br>4. Wash the precipitate with distilled water and dry it in an oven.<br>5. Weigh the dry precipitate and filter paper.<br><br>The following data were obtained:<br>- Mass of empty filter paper: $1.200 \\ g$<br>- Mass of filter paper + $BaSO_4$: $2.850 \\ g$<br><br><b>Calculate:</b><br>(a) The mass of $BaSO_4$ precipitated.<br>(b) The mass of barium ($Ba$) in the $25.0 \\ cm^3$ solution. ($Ba = 137, S = 32, O = 16$)</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>(a) Mass of $BaSO_4$ precipitated:</b><br>The mass of $BaSO_4$ is the difference between the mass of the filter paper + $BaSO_4$ and the empty filter paper:<br>$mass(BaSO_4) = 2.850 \\ g - 1.200 \\ g = 1.650 \\ g$.<br><br><b>(b) Mass of barium ($Ba$) in the solution:</b><br>The molar mass of $BaSO_4$ is:<br>$137 + 32 + (4 \\times 16) = 233 \\ g/mol$.<br>The number of moles of $BaSO_4$ is:<br>$n(BaSO_4) = \\frac{mass}{M} = \\frac{1.650 \\ g}{233 \\ g/mol} = 0.00708 \\ mol$.<br>Since each mole of $BaSO_4$ contains one mole of $Ba$, the moles of $Ba$ are also $0.00708 \\ mol$.<br>The mass of $Ba$ is:<br>$mass(Ba) = n \\times M = 0.00708 \\ mol \\times 137 \\ g/mol = 0.970 \\ g$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "91018": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Gas Laws",
+        "question_type": "Objective",
+        "exam_year": "2021",
+        "question_text": "<p>A fixed mass of gas occupies a volume of $400 \\ cm^3$ at a pressure of $760 \\ mmHg$. What will be its volume if the pressure is increased to $1140 \\ mmHg$ at constant temperature?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Using Boyle's Law, which states that for a fixed mass of gas at constant temperature, the pressure is inversely proportional to the volume:<br>$P_1V_1 = P_2V_2$.<br>Given:<br>$P_1 = 760 \\ mmHg$, $V_1 = 400 \\ cm^3$, $P_2 = 1140 \\ mmHg$.<br>Rearranging to find $V_2$:<br>$V_2 = \\frac{P_1V_1}{P_2} = \\frac{760 \\ mmHg \\times 400 \\ cm^3}{1140 \\ mmHg} = 266.67 \\ cm^3$.<br>The volume of the gas decreases to $266.67 \\ cm^3$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "18250",
+                "tag": "a",
+                "text": "$200 \\ cm^3$",
+                "is_correct": false
+            },
+            {
+                "option_id": "21933",
+                "tag": "b",
+                "text": "$266.67 \\ cm^3$",
+                "is_correct": true
+            },
+            {
+                "option_id": "89887",
+                "tag": "c",
+                "text": "$600 \\ cm^3$",
+                "is_correct": false
+            },
+            {
+                "option_id": "12486",
+                "tag": "d",
+                "text": "$800 \\ cm^3$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "91019": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Thermochemistry",
+        "question_type": "Objective",
+        "exam_year": "2021",
+        "question_text": "<p>The combustion of $1 \\ mol$ of methane ($CH_4$) releases $890 \\ kJ$ of energy. What is the enthalpy change for the reaction:<br>$CH_4(g) + 2O_2(g) \\rightarrow CO_2(g) + 2H_2O(l)$?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The enthalpy change ($\\Delta H$) for the combustion of methane is given as the energy released per mole of methane burned. Since the reaction releases energy, the enthalpy change is negative.<br>Thus, $\\Delta H = -890 \\ kJ/mol$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "18251",
+                "tag": "a",
+                "text": "$+890 \\ kJ/mol$",
+                "is_correct": false
+            },
+            {
+                "option_id": "21934",
+                "tag": "b",
+                "text": "$-890 \\ kJ/mol$",
+                "is_correct": true
+            },
+            {
+                "option_id": "89888",
+                "tag": "c",
+                "text": "$+445 \\ kJ/mol$",
+                "is_correct": false
+            },
+            {
+                "option_id": "12487",
+                "tag": "d",
+                "text": "$-445 \\ kJ/mol$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "91020": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Chemical Equilibrium",
+        "question_type": "Objective",
+        "exam_year": "2021",
+        "question_text": "<p>For the equilibrium reaction:<br>$N_2(g) + 3H_2(g) \\rightleftharpoons 2NH_3(g)$, $K_c = 0.5$ at a certain temperature.<br>If the concentrations at equilibrium are:<br>$[N_2] = 0.2 \\ mol/dm^3$, $[H_2] = 0.3 \\ mol/dm^3$, what is the equilibrium concentration of $NH_3$?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The equilibrium constant expression for the reaction is:<br>$K_c = \\frac{[NH_3]^2}{[N_2][H_2]^3}$.<br>Given $K_c = 0.5$, $[N_2] = 0.2 \\ mol/dm^3$, and $[H_2] = 0.3 \\ mol/dm^3$, substitute the values into the expression:<br>$0.5 = \\frac{[NH_3]^2}{0.2 \\times (0.3)^3}$.<br>Solving for $[NH_3]^2$:<br>$[NH_3]^2 = 0.5 \\times 0.2 \\times 0.027 = 0.0027$.<br>$[NH_3] = \\sqrt{0.0027} = 0.052 \\ mol/dm^3$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "18252",
+                "tag": "a",
+                "text": "$0.026 \\ mol/dm^3$",
+                "is_correct": false
+            },
+            {
+                "option_id": "21935",
+                "tag": "b",
+                "text": "$0.052 \\ mol/dm^3$",
+                "is_correct": true
+            },
+            {
+                "option_id": "89889",
+                "tag": "c",
+                "text": "$0.104 \\ mol/dm^3$",
+                "is_correct": false
+            },
+            {
+                "option_id": "12488",
+                "tag": "d",
+                "text": "$0.208 \\ mol/dm^3$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "91021": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Electrochemistry",
+        "question_type": "Practical",
+        "exam_year": "2021",
+        "question_text": "<p>You are provided with a zinc electrode, a copper electrode, zinc sulfate solution ($ZnSO_4$), copper(II) sulfate solution ($CuSO_4$), and a salt bridge. Set up a galvanic cell using these materials.<br><br><b>Tasks:</b><br>(a) Draw a labeled diagram of the galvanic cell.<br>(b) Write the half-reactions occurring at the anode and cathode.<br>(c) Calculate the standard cell potential ($E^\\circ_{cell}$) for the cell. ($E^\\circ_{Zn^{2+}/Zn} = -0.76 \\ V$, $E^\\circ_{Cu^{2+}/Cu} = +0.34 \\ V$)</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>(a) Labeled Diagram:</b><br>The galvanic cell consists of:<br>- Anode: Zinc electrode immersed in $ZnSO_4$ solution.<br>- Cathode: Copper electrode immersed in $CuSO_4$ solution.<br>- Salt bridge connecting the two solutions.<br>- External circuit with a voltmeter.<br><br><b>(b) Half-reactions:</b><br><b>Anode (Oxidation):</b><br>$Zn(s) \\rightarrow Zn^{2+}(aq) + 2e^-$.<br><b>Cathode (Reduction):</b><br>$Cu^{2+}(aq) + 2e^- \\rightarrow Cu(s)$.<br><br><b>(c) Standard Cell Potential:</b><br>The standard cell potential is calculated as:<br>$E^\\circ_{cell} = E^\\circ_{cathode} - E^\\circ_{anode}$.<br>$E^\\circ_{cell} = 0.34 \\ V - (-0.76 \\ V) = 1.10 \\ V$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "91022": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Organic Nomenclature and Isomerism",
+        "question_type": "Objective",
+        "exam_year": "2021",
+        "question_text": "<p>Which of the following compounds is an isomer of butane ($C_4H_{10}$)?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Butane ($C_4H_{10}$) has two structural isomers:<br>1. <i>n</i>-Butane: A straight-chain alkane with the structure $CH_3-CH_2-CH_2-CH_3$.<br>2. Isobutane (2-methylpropane): A branched-chain alkane with the structure $CH_3-CH(CH_3)-CH_3$.<br>The correct isomer is 2-methylpropane.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "18253",
+                "tag": "a",
+                "text": "Propane ($C_3H_8$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "21936",
+                "tag": "b",
+                "text": "2-Methylpropane ($C_4H_{10}$)",
+                "is_correct": true
+            },
+            {
+                "option_id": "89890",
+                "tag": "c",
+                "text": "Pentane ($C_5H_{12}$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "12489",
+                "tag": "d",
+                "text": "Cyclobutane ($C_4H_8$)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "91023": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Environmental Pollution",
+        "question_type": "Objective",
+        "exam_year": "2021",
+        "question_text": "<p>Which of the following gases is primarily responsible for acid rain?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Acid rain is primarily caused by the emission of sulfur dioxide ($SO_2$) and nitrogen oxides ($NO_x$), which react with water in the atmosphere to form sulfuric acid ($H_2SO_4$) and nitric acid ($HNO_3$). Among the options, sulfur dioxide is the primary contributor.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "18254",
+                "tag": "a",
+                "text": "Carbon monoxide ($CO$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "21937",
+                "tag": "b",
+                "text": "Sulfur dioxide ($SO_2$)",
+                "is_correct": true
+            },
+            {
+                "option_id": "89891",
+                "tag": "c",
+                "text": "Methane ($CH_4$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "12490",
+                "tag": "d",
+                "text": "Ozone ($O_3$)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "91024": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Industrial Metal Extraction",
+        "question_type": "Practical",
+        "exam_year": "2021",
+        "question_text": "<p>Describe the industrial extraction of aluminum from bauxite ore. Include the following in your answer:<br>(a) The name of the process.<br>(b) The role of cryolite in the process.<br>(c) The half-reactions occurring at the anode and cathode.<br>(d) Why the anode needs to be replaced periodically.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>(a) Name of the Process:</b><br>The industrial extraction of aluminum from bauxite is called the <b>Hall-H\u00e9roult process</b>.<br><br><b>(b) Role of Cryolite:</b><br>Cryolite ($Na_3AlF_6$) is added to lower the melting point of alumina ($Al_2O_3$) from about $2000^\\circ C$ to around $950^\\circ C$, making the process more energy-efficient and economically viable.<br><br><b>(c) Half-Reactions:</b><br><b>Cathode (Reduction):</b><br>$Al^{3+} + 3e^- \\rightarrow Al(l)$.<br><b>Anode (Oxidation):</b><br>$2O^{2-} \\rightarrow O_2(g) + 4e^-$.<br>The oxygen produced at the anode reacts with the carbon anode to form carbon dioxide ($CO_2$).<br><br><b>(d) Anode Replacement:</b><br>The anode is made of carbon, which reacts with the oxygen produced during the electrolysis to form $CO_2$. This causes the anode to gradually wear away and necessitates periodic replacement.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

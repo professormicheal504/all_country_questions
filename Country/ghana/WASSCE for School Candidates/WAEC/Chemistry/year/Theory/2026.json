@@ -1,0 +1,257 @@
+{
+    "64514": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Atomic Structure and Electron Blocks",
+        "question_type": "Theory",
+        "exam_year": "2026",
+        "question_text": "<p>Explain the significance of the <b>Aufbau principle</b>, <b>Pauli exclusion principle</b>, and <b>Hund's rule</b> in determining the electronic configuration of the element with atomic number 24 ($_{24}Cr$).<br>Write the electronic configuration of chromium and justify any deviation from the expected pattern.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>Aufbau principle</b> states that electrons fill atomic orbitals in order of increasing energy levels. The <b>Pauli exclusion principle</b> states that no two electrons in an atom can have the same set of four quantum numbers, meaning each orbital can hold a maximum of two electrons with opposite spins. <b>Hund's rule</b> states that electrons occupy degenerate orbitals (orbitals of the same energy) singly before pairing up to maximize spin multiplicity.<br><br>The expected electronic configuration for chromium ($_{24}Cr$) based on the Aufbau principle is:<br>$1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^4$.<br><br>However, the actual electronic configuration of chromium is:<br>$1s^2 2s^2 2p^6 3s^2 3p^6 4s^1 3d^5$.<br><br>This deviation occurs because a half-filled $d$-subshell ($3d^5$) and a half-filled $4s$ subshell ($4s^1$) provide extra stability to the atom due to the symmetrical distribution of electrons and reduced electron-electron repulsion. The energy difference between the $4s$ and $3d$ orbitals is small, making this configuration more favorable.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "64515": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Periodic Trends",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Which of the following elements has the <b>highest first ionization energy</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The first ionization energy is the energy required to remove the most loosely bound electron from a neutral gaseous atom. Ionization energy generally increases across a period from left to right due to increasing nuclear charge and decreasing atomic radius. It decreases down a group due to increased shielding and larger atomic size.<br><br>Among the given options, <b>fluorine (F)</b> is the smallest atom with the highest effective nuclear charge in its period, making it the element with the highest first ionization energy.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "89002",
+                "tag": "a",
+                "text": "Sodium ($Na$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "48337",
+                "tag": "b",
+                "text": "Fluorine ($F$)",
+                "is_correct": true
+            },
+            {
+                "option_id": "33149",
+                "tag": "c",
+                "text": "Oxygen ($O$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "54458",
+                "tag": "d",
+                "text": "Chlorine ($Cl$)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "64516": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Chemical Bonding and Intermolecular Forces",
+        "question_type": "Theory",
+        "exam_year": "2026",
+        "question_text": "<p>Describe the types of chemical bonds present in the following compounds:<br>(i) Sodium chloride ($NaCl$)<br>(ii) Methane ($CH_4$)<br>(iii) Ammonia ($NH_3$)<br><br>Explain the nature of the intermolecular forces in each compound and how they influence their physical properties such as boiling points.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) <b>Sodium chloride ($NaCl$)</b>:<br>Sodium chloride is an ionic compound formed by the transfer of an electron from sodium (a metal) to chlorine (a non-metal). The electrostatic attraction between the positively charged sodium ion ($Na^+$) and the negatively charged chloride ion ($Cl^-$) constitutes the ionic bond.<br>The intermolecular forces in solid $NaCl$ are strong ionic bonds, resulting in a high melting and boiling point.<br><br>(ii) <b>Methane ($CH_4$)</b>:<br>Methane is a covalent compound where carbon shares its four valence electrons with four hydrogen atoms, forming four single covalent bonds.<br>The intermolecular forces in methane are weak <b>London dispersion forces</b> (a type of van der Waals force) due to its non-polar nature. These weak forces result in low boiling and melting points.<br><br>(iii) <b>Ammonia ($NH_3$)</b>:<br>Ammonia is a covalent compound where nitrogen forms three single covalent bonds with three hydrogen atoms and has one lone pair of electrons.<br>The intermolecular forces in ammonia are <b>hydrogen bonds</b> due to the presence of highly electronegative nitrogen bonded to hydrogen. Hydrogen bonding is stronger than London dispersion forces but weaker than ionic bonds, giving ammonia a higher boiling point than methane but lower than sodium chloride.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "64517": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Gas Laws and Kinetic Theory",
+        "question_type": "Theory",
+        "exam_year": "2026",
+        "question_text": "<p>A gas occupies a volume of $500 cm^3$ at a pressure of $760 mmHg$ and a temperature of $27^\\circ C$.<br>Calculate the volume of the gas when the pressure is increased to $1520 mmHg$ and the temperature is raised to $127^\\circ C$.<br>State the gas law(s) applied in your calculation.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The problem involves a change in both pressure and temperature, so the <b>Combined Gas Law</b> is applied:<br>$\frac{P_1 V_1}{T_1} = \frac{P_2 V_2}{T_2}$<br><br>Where:<br>$P_1 = 760 mmHg$, $V_1 = 500 cm^3$, $T_1 = 27^\\circ C = 300 K$ (converted to Kelvin),<br>$P_2 = 1520 mmHg$, $T_2 = 127^\\circ C = 400 K$.<br><br>Rearranging the equation to solve for $V_2$:<br>$V_2 = \frac{P_1 V_1 T_2}{P_2 T_1}$<br><br>Substituting the values:<br>$V_2 = \frac{760 \times 500 \times 400}{1520 \times 300}$<br>$V_2 = \frac{152,000,000}{456,000}$<br>$V_2 = 333.33 cm^3$<br><br>The volume of the gas decreases to $333.33 cm^3$ due to the increase in pressure, which has a greater effect than the increase in temperature.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "64518": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Solutions and Colligative Properties",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Which of the following statements correctly describes the effect of adding a non-volatile solute to a solvent?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Adding a non-volatile solute to a solvent lowers the vapor pressure of the solvent (Raoult's Law), elevates the boiling point, and depresses the freezing point of the solution. These are known as <b>colligative properties</b>, which depend on the number of solute particles in the solution, not their identity.<br><br>The correct statement is that the <b>freezing point of the solution decreases</b>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "89002",
+                "tag": "a",
+                "text": "The vapor pressure of the solvent increases.",
+                "is_correct": false
+            },
+            {
+                "option_id": "48337",
+                "tag": "b",
+                "text": "The boiling point of the solution decreases.",
+                "is_correct": false
+            },
+            {
+                "option_id": "33149",
+                "tag": "c",
+                "text": "The freezing point of the solution decreases.",
+                "is_correct": true
+            },
+            {
+                "option_id": "54458",
+                "tag": "d",
+                "text": "The osmotic pressure of the solution remains unchanged.",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "64519": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Thermochemistry and Enthalpy",
+        "question_type": "Theory",
+        "exam_year": "2026",
+        "question_text": "<p>The combustion of $1.0 g$ of ethanol ($C_2H_5OH$) releases $29.7 kJ$ of heat.<br>(i) Write the balanced thermochemical equation for the combustion of ethanol.<br>(ii) Calculate the standard enthalpy change of combustion ($\\Delta H_c^\theta$) for ethanol in $kJ mol^{-1}$.<br>(iii) Is the reaction exothermic or endothermic? Explain your answer.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) The balanced thermochemical equation for the combustion of ethanol is:<br>$C_2H_5OH(l) + 3O_2(g) \\rightarrow 2CO_2(g) + 3H_2O(l)$ $\\Delta H_c^\theta = ?$<br><br>(ii) The molar mass of ethanol ($C_2H_5OH$) is:<br>$2(12) + 6(1) + 16 = 46 g mol^{-1}$<br><br>Heat released per mole of ethanol:<br>$\\Delta H_c^\theta = -29.7 kJ g^{-1} \\times 46 g mol^{-1} = -1366.2 kJ mol^{-1}$<br>(Negative sign indicates heat is released.)<br><br>(iii) The reaction is <b>exothermic</b> because the enthalpy change ($\\Delta H_c^\theta$) is negative, meaning heat is released to the surroundings during the combustion process.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "64520": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Chemical Equilibrium and Le Chatelier's Principle",
+        "question_type": "Theory",
+        "exam_year": "2026",
+        "question_text": "<p>Consider the following equilibrium reaction:<br>$N_2(g) + 3H_2(g) \\rightleftharpoons 2NH_3(g)$ $\\Delta H = -92 kJ mol^{-1}$<br><br>Explain the effect of the following changes on the position of equilibrium:<br>(i) Increasing the pressure.<br>(ii) Increasing the temperature.<br>(iii) Adding a catalyst.<br>(iv) Removing ammonia ($NH_3$) as it forms.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) <b>Increasing the pressure</b>:<br>The equilibrium shifts to the right (toward the formation of $NH_3$) because there are fewer moles of gas on the product side (2 moles) compared to the reactant side (4 moles). This reduces the volume and counteracts the increased pressure.<br><br>(ii) <b>Increasing the temperature</b>:<br>The equilibrium shifts to the left (toward the reactants) because the forward reaction is exothermic ($\\Delta H = -92 kJ mol^{-1}$). Increasing the temperature favors the endothermic direction to absorb the added heat.<br><br>(iii) <b>Adding a catalyst</b>:<br>A catalyst does not affect the position of equilibrium. It only speeds up the rate at which equilibrium is reached by lowering the activation energy for both the forward and reverse reactions.<br><br>(iv) <b>Removing ammonia ($NH_3$) as it forms</b>:<br>The equilibrium shifts to the right to replace the removed $NH_3$, favoring the forward reaction and increasing the yield of ammonia.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "64521": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Acid-Base Theories and pH",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Which of the following solutions will have the <b>lowest pH</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The pH of a solution is a measure of its hydrogen ion concentration ($[H^+]$). A lower pH indicates a higher $[H^+]$ and greater acidity.<br><br>Among the given options, <b>$0.1 mol dm^{-3}$ hydrochloric acid ($HCl$)</b> is a strong acid that fully dissociates in water, producing the highest concentration of $H^+$ ions and thus the lowest pH.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "89002",
+                "tag": "a",
+                "text": "$0.1 mol dm^{-3}$ acetic acid ($CH_3COOH$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "48337",
+                "tag": "b",
+                "text": "$0.1 mol dm^{-3}$ hydrochloric acid ($HCl$)",
+                "is_correct": true
+            },
+            {
+                "option_id": "33149",
+                "tag": "c",
+                "text": "$0.1 mol dm^{-3}$ sodium hydroxide ($NaOH$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "54458",
+                "tag": "d",
+                "text": "$0.1 mol dm^{-3}$ ammonia ($NH_3$)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "64522": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Redox Reactions and Electrochemistry",
+        "question_type": "Theory",
+        "exam_year": "2026",
+        "question_text": "<p>(i) Define <b>oxidation</b> and <b>reduction</b> in terms of electron transfer.<br>(ii) For the reaction:<br>$Zn(s) + Cu^{2+}(aq) \\rightarrow Zn^{2+}(aq) + Cu(s)$<br>Identify the oxidizing agent and the reducing agent.<br>(iii) Calculate the standard cell potential ($E^\theta_{cell}$) for the reaction given the following standard reduction potentials:<br>$Zn^{2+}(aq) + 2e^- \\rightarrow Zn(s)$ $E^\theta = -0.76 V$<br>$Cu^{2+}(aq) + 2e^- \\rightarrow Cu(s)$ $E^\theta = +0.34 V$<br>(iv) Is the reaction spontaneous? Explain your answer.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) <b>Oxidation</b> is the loss of electrons, while <b>reduction</b> is the gain of electrons.<br><br>(ii) In the reaction:<br>$Zn(s) + Cu^{2+}(aq) \\rightarrow Zn^{2+}(aq) + Cu(s)$<br><b>Zinc ($Zn$)</b> is oxidized (loses electrons) and acts as the <b>reducing agent</b>.<br><b>Copper ions ($Cu^{2+}$)</b> are reduced (gain electrons) and act as the <b>oxidizing agent</b>.<br><br>(iii) The standard cell potential ($E^\theta_{cell}$) is calculated as:<br>$E^\theta_{cell} = E^\theta_{cathode} - E^\theta_{anode}$<br>$E^\theta_{cell} = 0.34 V - (-0.76 V) = 1.10 V$<br><br>(iv) The reaction is <b>spontaneous</b> because the standard cell potential ($E^\theta_{cell}$) is positive ($1.10 V$), indicating that the reaction proceeds in the forward direction under standard conditions.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "64523": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Organic Chemistry: Hydrocarbons and Reaction Types",
+        "question_type": "Theory",
+        "exam_year": "2026",
+        "question_text": "<p>(i) Write the structural formula of <b>benzene</b> and explain why it undergoes <b>electrophilic substitution</b> rather than addition reactions.<br>(ii) Describe the mechanism of the <b>nitration of benzene</b>, including the role of the nitrating mixture.<br>(iii) Give the name and structure of the product formed when benzene reacts with bromine in the presence of a catalyst such as iron(III) bromide ($FeBr_3$).</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) The structural formula of benzene is a hexagonal ring with alternating double bonds (or a delocalized $\\pi$-electron system), often represented as:<br><br><center><img src=\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAiIGhlaWdodD0iMTAwIj4KICA8cG9seWdvbiBwb2ludHM9IjYwLDIwIDkwLDUwIDYwLDgwIDMwLDUwIiBzdHlsZT0iZmlsbDpub25lO3N0cm9rZTpibGFjaztzdHJva2Utd2lkdGg6MiIgLz4KICA8Y2lyY2xlIGN4PSI2MCIgY3k9IjUwIiByPSIyNSIgc3R5bGU9ImZpbGw6bm9uZTtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjIiIC8+CiAgPHRleHQgeD0iNjAiIHk9IjU1IiBmb250LXNpemU9IjE0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSJibGFjayI+QzZIMjwvdGV4dD4KPC9zdmc+\" /></center><br><br>Benzene undergoes <b>electrophilic substitution</b> rather than addition reactions because its delocalized $\\pi$-electron system provides exceptional stability. Addition reactions would disrupt this stable aromatic system, whereas substitution reactions preserve the aromaticity.<br><br>(ii) The <b>nitration of benzene</b> involves the following steps:<br>1. Generation of the electrophile: The nitrating mixture (concentrated $HNO_3$ and $H_2SO_4$) produces the nitronium ion ($NO_2^+$):<br>$HNO_3 + 2H_2SO_4 \\rightarrow NO_2^+ + H_3O^+ + 2HSO_4^-$<br>2. Electrophilic attack: The $NO_2^+$ ion attacks the benzene ring, forming a sigma complex (arenium ion).<br>3. Loss of a proton: The sigma complex loses a proton ($H^+$) to restore the aromatic system, yielding nitrobenzene.<br><br>(iii) The product formed when benzene reacts with bromine in the presence of $FeBr_3$ is <b>bromobenzene</b>. The structure is:<br><br><center><img src=\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjAiIGhlaWdodD0iMTAwIj4KICA8cG9seWdvbiBwb2ludHM9IjYwLDIwIDkwLDUwIDYwLDgwIDMwLDUwIiBzdHlsZT0iZmlsbDpub25lO3N0cm9rZTpibGFjaztzdHJva2Utd2lkdGg6MiIgLz4KICA8Y2lyY2xlIGN4PSI2MCIgY3k9IjUwIiByPSIyNSIgc3R5bGU9ImZpbGw6bm9uZTtzdHJva2U6YmxhY2s7c3Ryb2tlLXdpZHRoOjIiIC8+CiAgPHRleHQgeD0iNjAiIHk9IjU1IiBmb250LXNpemU9IjE0IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSJibGFjayI+QzZIMjVCcjwvdGV4dD4KPC9zdmc+\" /></center></p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

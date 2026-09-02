@@ -1,0 +1,307 @@
+{
+    "52423": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Internal Combustion Engine Cycles",
+        "question_type": "Theory",
+        "exam_year": "2005",
+        "question_text": "<p>Describe the four strokes of a four-stroke petrol engine and explain the events that occur in each stroke. Include a simple diagram to illustrate your answer.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The four strokes of a four-stroke petrol engine are:<br><br><b>1. Intake Stroke:</b> The piston moves downward, creating a partial vacuum. The intake valve opens, allowing a mixture of air and fuel to enter the cylinder.<br><br><b>2. Compression Stroke:</b> The piston moves upward, compressing the air-fuel mixture. Both the intake and exhaust valves are closed. The compression increases the temperature and pressure of the mixture.<br><br><b>3. Power Stroke:</b> The spark plug ignites the compressed air-fuel mixture, causing a rapid expansion of gases. This forces the piston downward, generating power.<br><br><b>4. Exhaust Stroke:</b> The piston moves upward again, pushing the burnt gases out through the open exhaust valve.<br><br>The cycle then repeats. A simple diagram should show the piston positions and valve states for each stroke.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "52424": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Engine Components and Functions",
+        "question_type": "Objective",
+        "exam_year": "2005",
+        "question_text": "<p>Which of the following components is responsible for converting the reciprocating motion of the piston into rotary motion?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>crankshaft</b> is the engine component that converts the reciprocating (up-and-down) motion of the pistons into rotary motion, which is then transmitted to the drivetrain.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "76157",
+                "tag": "a",
+                "text": "Camshaft",
+                "is_correct": false
+            },
+            {
+                "option_id": "43568",
+                "tag": "b",
+                "text": "Crankshaft",
+                "is_correct": true
+            },
+            {
+                "option_id": "84862",
+                "tag": "c",
+                "text": "Connecting rod",
+                "is_correct": false
+            },
+            {
+                "option_id": "26711",
+                "tag": "d",
+                "text": "Flywheel",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "52425": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Engine Lubrication Systems",
+        "question_type": "Theory",
+        "exam_year": "2005",
+        "question_text": "<p>Explain the purpose of engine lubrication and describe the operation of a wet sump lubrication system.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The purpose of engine lubrication is to:<br><br>- Reduce friction between moving parts.<br>- Cool engine components by carrying away heat.<br>- Clean the engine by suspending contaminants in the oil.<br>- Seal gaps between pistons and cylinder walls.<br>- Prevent corrosion.<br><br>A <b>wet sump lubrication system</b> stores oil in the oil pan (sump) at the bottom of the engine. The oil pump draws oil from the sump and circulates it through the engine. After lubricating the components, the oil drains back into the sump by gravity, where it is cooled and recirculated.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "52426": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Cooling Systems Types",
+        "question_type": "Objective",
+        "exam_year": "2005",
+        "question_text": "<p>In a liquid cooling system, what is the function of the <b>thermostat</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>thermostat</b> regulates the flow of coolant to maintain the engine at its optimal operating temperature. It remains closed when the engine is cold, allowing it to warm up quickly, and opens when the engine reaches operating temperature to allow coolant circulation.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "76157",
+                "tag": "a",
+                "text": "To increase the boiling point of the coolant",
+                "is_correct": false
+            },
+            {
+                "option_id": "43568",
+                "tag": "b",
+                "text": "To regulate the flow of coolant based on engine temperature",
+                "is_correct": true
+            },
+            {
+                "option_id": "84862",
+                "tag": "c",
+                "text": "To filter impurities from the coolant",
+                "is_correct": false
+            },
+            {
+                "option_id": "26711",
+                "tag": "d",
+                "text": "To pressurize the cooling system",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "52427": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Fuel Supply Systems",
+        "question_type": "Theory",
+        "exam_year": "2005",
+        "question_text": "<p>Describe the operation of a <b>carburetor</b> in a petrol engine and explain how it mixes air and fuel.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>carburetor</b> mixes air and fuel in the correct ratio for combustion. Its operation involves:<br><br>- <b>Airflow:</b> As the engine runs, air is drawn through the carburetor venturi, creating a low-pressure area.<br>- <b>Fuel Delivery:</b> The low pressure draws fuel from the float bowl through the main jet into the airstream.<br>- <b>Mixing:</b> The fuel atomizes and mixes with the air in the venturi.<br>- <b>Throttle Control:</b> The throttle valve regulates the amount of air-fuel mixture entering the engine, controlling engine speed.<br><br>The carburetor uses various circuits (e.g., idle, main, acceleration) to adjust the mixture under different operating conditions.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "52428": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Ignition System Types",
+        "question_type": "Objective",
+        "exam_year": "2005",
+        "question_text": "<p>Which component in a <b>conventional ignition system</b> is responsible for generating the high voltage required to produce a spark?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>ignition coil</b> is a step-up transformer that converts the low-voltage current from the battery into the high-voltage current needed to create a spark at the spark plugs.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "76157",
+                "tag": "a",
+                "text": "Distributor",
+                "is_correct": false
+            },
+            {
+                "option_id": "43568",
+                "tag": "b",
+                "text": "Ignition coil",
+                "is_correct": true
+            },
+            {
+                "option_id": "84862",
+                "tag": "c",
+                "text": "Spark plug",
+                "is_correct": false
+            },
+            {
+                "option_id": "26711",
+                "tag": "d",
+                "text": "Condenser",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "52429": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Clutch Types and Operation",
+        "question_type": "Theory",
+        "exam_year": "2005",
+        "question_text": "<p>Explain the operation of a <b>single-plate dry clutch</b> and describe the role of the pressure plate, clutch disc, and flywheel.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>single-plate dry clutch</b> transmits engine power to the transmission while allowing for smooth engagement and disengagement. Its components and roles are:<br><br>- <b>Flywheel:</b> Mounted on the engine crankshaft, it provides a smooth surface for the clutch disc to engage and helps maintain rotational inertia.<br>- <b>Clutch Disc:</b> Located between the flywheel and pressure plate, it has friction material on both sides. When engaged, it transmits power from the flywheel to the transmission input shaft.<br>- <b>Pressure Plate:</b> Applies force to clamp the clutch disc against the flywheel. When the clutch pedal is pressed, the pressure plate releases the disc, disconnecting the engine from the transmission.<br><br>The clutch is engaged when the pedal is released, allowing power transfer, and disengaged when the pedal is pressed, interrupting power transfer.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "52430": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Manual Transmission Basics",
+        "question_type": "Objective",
+        "exam_year": "2005",
+        "question_text": "<p>What is the primary function of the <b>synchromesh</b> in a manual transmission?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>synchromesh</b> synchronizes the speeds of the gears before engagement, allowing for smooth and quiet gear shifts without grinding.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "76157",
+                "tag": "a",
+                "text": "To increase torque output",
+                "is_correct": false
+            },
+            {
+                "option_id": "43568",
+                "tag": "b",
+                "text": "To synchronize gear speeds before engagement",
+                "is_correct": true
+            },
+            {
+                "option_id": "84862",
+                "tag": "c",
+                "text": "To lock the gears in place",
+                "is_correct": false
+            },
+            {
+                "option_id": "26711",
+                "tag": "d",
+                "text": "To reduce friction between gears",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "52431": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Brake System Principles",
+        "question_type": "Theory",
+        "exam_year": "2005",
+        "question_text": "<p>Describe the operation of a <b>hydraulic brake system</b> and explain the role of the master cylinder, brake lines, and wheel cylinders.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>hydraulic brake system</b> uses brake fluid to transmit force from the brake pedal to the brake components at each wheel. Its operation involves:<br><br>- <b>Master Cylinder:</b> When the brake pedal is pressed, the master cylinder converts mechanical force into hydraulic pressure, pushing brake fluid through the brake lines.<br>- <b>Brake Lines:</b> These carry the pressurized brake fluid from the master cylinder to the wheel cylinders or calipers.<br>- <b>Wheel Cylinders (Drum Brakes):</b> The hydraulic pressure forces the wheel cylinder pistons outward, pushing the brake shoes against the drum to create friction and slow the vehicle.<br>- <b>Calipers (Disc Brakes):</b> The hydraulic pressure forces the caliper pistons to clamp the brake pads against the rotor, creating friction.<br><br>The system relies on Pascal's Law, where pressure applied at one point is transmitted equally throughout the fluid.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "52432": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Vehicle Electrical Systems",
+        "question_type": "Objective",
+        "exam_year": "2005",
+        "question_text": "<p>In a vehicle's electrical system, what is the function of the <b>alternator</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>alternator</b> converts mechanical energy from the engine into electrical energy to recharge the battery and power the vehicle's electrical systems while the engine is running.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "76157",
+                "tag": "a",
+                "text": "To start the engine",
+                "is_correct": false
+            },
+            {
+                "option_id": "43568",
+                "tag": "b",
+                "text": "To recharge the battery and power electrical systems",
+                "is_correct": true
+            },
+            {
+                "option_id": "84862",
+                "tag": "c",
+                "text": "To regulate fuel injection",
+                "is_correct": false
+            },
+            {
+                "option_id": "26711",
+                "tag": "d",
+                "text": "To control the ignition timing",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

@@ -858,5 +858,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "25610": {
+        "order_id": 21,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Accounting Basics",
+        "question_type": "Objective",
+        "exam_year": "2019",
+        "question_text": "<p>Which of the following is <b>not</b> a branch of accounting?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The main branches of accounting include Financial Accounting, Cost Accounting, Management Accounting, Tax Accounting, and Auditing. <i>Forensic Accounting</i> is a specialized field but not traditionally listed as a primary branch in basic accounting.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "33674",
+                "tag": "a",
+                "text": "Financial Accounting",
+                "is_correct": false
+            },
+            {
+                "option_id": "33910",
+                "tag": "b",
+                "text": "Forensic Accounting",
+                "is_correct": true
+            },
+            {
+                "option_id": "19677",
+                "tag": "c",
+                "text": "Cost Accounting",
+                "is_correct": false
+            },
+            {
+                "option_id": "14576",
+                "tag": "d",
+                "text": "Management Accounting",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "25611": {
+        "order_id": 22,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Accounting Principles",
+        "question_type": "Objective",
+        "exam_year": "2019",
+        "question_text": "<p>The principle that states that revenue should be recognized when it is earned, not necessarily when cash is received, is known as the:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>Accrual Principle</b> requires that revenue be recorded when earned, regardless of when payment is received. This ensures accurate matching of revenues and expenses in the same accounting period.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "33675",
+                "tag": "a",
+                "text": "Consistency Principle",
+                "is_correct": false
+            },
+            {
+                "option_id": "33911",
+                "tag": "b",
+                "text": "Accrual Principle",
+                "is_correct": true
+            },
+            {
+                "option_id": "19678",
+                "tag": "c",
+                "text": "Matching Principle",
+                "is_correct": false
+            },
+            {
+                "option_id": "14577",
+                "tag": "d",
+                "text": "Materiality Principle",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "25612": {
+        "order_id": 23,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Accounting Equation",
+        "question_type": "Objective",
+        "exam_year": "2019",
+        "question_text": "<p>If the assets of a business are $20,000 and the liabilities are $8,000, what is the owner's equity?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The accounting equation is: <b>Assets = Liabilities + Owner's Equity</b>. Rearranged, <b>Owner's Equity = Assets - Liabilities</b>. Thus, $20,000 - $8,000 = $12,000.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "33676",
+                "tag": "a",
+                "text": "$8,000",
+                "is_correct": false
+            },
+            {
+                "option_id": "33912",
+                "tag": "b",
+                "text": "$12,000",
+                "is_correct": true
+            },
+            {
+                "option_id": "19679",
+                "tag": "c",
+                "text": "$20,000",
+                "is_correct": false
+            },
+            {
+                "option_id": "14578",
+                "tag": "d",
+                "text": "$28,000",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "25613": {
+        "order_id": 24,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Double-Entry Rules",
+        "question_type": "Objective",
+        "exam_year": "2019",
+        "question_text": "<p>In double-entry accounting, which of the following accounts is <b>credited</b> when cash is received from a debtor?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>When cash is received from a debtor, the <b>Cash Account</b> (an asset) increases and is <b>debited</b>, while the <b>Debtors Account</b> (also an asset) decreases and is <b>credited</b>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "33677",
+                "tag": "a",
+                "text": "Cash Account",
+                "is_correct": false
+            },
+            {
+                "option_id": "33913",
+                "tag": "b",
+                "text": "Debtors Account",
+                "is_correct": true
+            },
+            {
+                "option_id": "19680",
+                "tag": "c",
+                "text": "Sales Account",
+                "is_correct": false
+            },
+            {
+                "option_id": "14579",
+                "tag": "d",
+                "text": "Capital Account",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "25614": {
+        "order_id": 25,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Source Documents",
+        "question_type": "Objective",
+        "exam_year": "2019",
+        "question_text": "<p>Which of the following source documents is used to record the return of goods by a customer?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>Credit Note</b> is issued by the seller to the buyer to acknowledge the return of goods and to adjust the amount owed by the buyer.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "33678",
+                "tag": "a",
+                "text": "Invoice",
+                "is_correct": false
+            },
+            {
+                "option_id": "33914",
+                "tag": "b",
+                "text": "Credit Note",
+                "is_correct": true
+            },
+            {
+                "option_id": "19681",
+                "tag": "c",
+                "text": "Debit Note",
+                "is_correct": false
+            },
+            {
+                "option_id": "14580",
+                "tag": "d",
+                "text": "Receipt",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "25615": {
+        "order_id": 26,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Trial Balance",
+        "question_type": "Objective",
+        "exam_year": "2019",
+        "question_text": "<p>A trial balance is prepared to:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A trial balance is prepared to <b>check the arithmetical accuracy</b> of the ledger accounts by ensuring that total debits equal total credits.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "33679",
+                "tag": "a",
+                "text": "Determine the profit or loss for the period",
+                "is_correct": false
+            },
+            {
+                "option_id": "33915",
+                "tag": "b",
+                "text": "Check the arithmetical accuracy of the ledger accounts",
+                "is_correct": true
+            },
+            {
+                "option_id": "19682",
+                "tag": "c",
+                "text": "Prepare the balance sheet",
+                "is_correct": false
+            },
+            {
+                "option_id": "14581",
+                "tag": "d",
+                "text": "Record transactions in the ledger",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "25616": {
+        "order_id": 27,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Bank Reconciliation",
+        "question_type": "Objective",
+        "exam_year": "2019",
+        "question_text": "<p>Which of the following items would <b>not</b> appear in a bank reconciliation statement?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A bank reconciliation statement includes items such as unpresented cheques, bank errors, and outstanding lodgments. <b>Cash sales</b> are recorded directly in the cash book and do not affect the bank reconciliation.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "33680",
+                "tag": "a",
+                "text": "Unpresented cheques",
+                "is_correct": false
+            },
+            {
+                "option_id": "33916",
+                "tag": "b",
+                "text": "Cash sales",
+                "is_correct": true
+            },
+            {
+                "option_id": "19683",
+                "tag": "c",
+                "text": "Bank errors",
+                "is_correct": false
+            },
+            {
+                "option_id": "14582",
+                "tag": "d",
+                "text": "Outstanding lodgments",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "25617": {
+        "order_id": 28,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Depreciation Methods",
+        "question_type": "Objective",
+        "exam_year": "2019",
+        "question_text": "<p>Under the <b>reducing balance method</b> of depreciation, the depreciation charge for an asset:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>reducing balance method</b> applies a fixed percentage rate to the <i>net book value</i> of the asset each year, resulting in a decreasing depreciation charge over time.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "33681",
+                "tag": "a",
+                "text": "Remains constant each year",
+                "is_correct": false
+            },
+            {
+                "option_id": "33917",
+                "tag": "b",
+                "text": "Decreases each year",
+                "is_correct": true
+            },
+            {
+                "option_id": "19684",
+                "tag": "c",
+                "text": "Increases each year",
+                "is_correct": false
+            },
+            {
+                "option_id": "14583",
+                "tag": "d",
+                "text": "Is calculated based on the asset's residual value only",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "25618": {
+        "order_id": 29,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Partnership Accounts",
+        "question_type": "Objective",
+        "exam_year": "2019",
+        "question_text": "<p>In partnership accounts, the <b>profit and loss appropriation account</b> is used to:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>profit and loss appropriation account</b> is used to distribute the net profit or loss among partners according to their profit-sharing ratio, after adjusting for interest on capital, salaries, and other appropriations.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "33682",
+                "tag": "a",
+                "text": "Record the initial capital contributions of partners",
+                "is_correct": false
+            },
+            {
+                "option_id": "33918",
+                "tag": "b",
+                "text": "Distribute the net profit or loss among partners",
+                "is_correct": true
+            },
+            {
+                "option_id": "19685",
+                "tag": "c",
+                "text": "Calculate the interest on drawings",
+                "is_correct": false
+            },
+            {
+                "option_id": "14584",
+                "tag": "d",
+                "text": "Determine the value of goodwill",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "25619": {
+        "order_id": 30,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Financial Ratios",
+        "question_type": "Objective",
+        "exam_year": "2019",
+        "question_text": "<p>The formula for calculating the <b>current ratio</b> is:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>current ratio</b> measures a company's ability to pay short-term obligations and is calculated as: $ \text{Current Ratio} = \frac{\text{Current Assets}}{\text{Current Liabilities}} $.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "33683",
+                "tag": "a",
+                "text": "$ \frac{\text{Current Liabilities}}{\text{Current Assets}} $",
+                "is_correct": false
+            },
+            {
+                "option_id": "33919",
+                "tag": "b",
+                "text": "$ \frac{\text{Current Assets}}{\text{Current Liabilities}} $",
+                "is_correct": true
+            },
+            {
+                "option_id": "19686",
+                "tag": "c",
+                "text": "$ \frac{\text{Total Assets}}{\text{Total Liabilities}} $",
+                "is_correct": false
+            },
+            {
+                "option_id": "14585",
+                "tag": "d",
+                "text": "$ \frac{\text{Net Profit}}{\text{Total Assets}} $",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

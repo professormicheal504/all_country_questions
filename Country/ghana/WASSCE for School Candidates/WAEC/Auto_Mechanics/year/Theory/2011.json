@@ -1,0 +1,304 @@
+{
+    "56095": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Internal Combustion Engine Cycles",
+        "question_type": "Theory",
+        "exam_year": "2011",
+        "question_text": "<p>Explain the <b>four-stroke cycle</b> of a petrol engine, naming each stroke and describing the events that occur during each stroke. Include a simple sketch or diagram if possible.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The four-stroke cycle of a petrol engine consists of the following strokes:<br><br><b>1. Intake Stroke:</b> The piston moves downward, creating a vacuum that draws a mixture of air and fuel into the cylinder through the open intake valve. The exhaust valve remains closed.<br><br><b>2. Compression Stroke:</b> Both the intake and exhaust valves are closed. The piston moves upward, compressing the air-fuel mixture. This increases the temperature and pressure of the mixture, preparing it for combustion.<br><br><b>3. Power Stroke:</b> Near the end of the compression stroke, the spark plug ignites the compressed air-fuel mixture. The resulting explosion forces the piston downward, generating mechanical power. Both valves remain closed during this stroke.<br><br><b>4. Exhaust Stroke:</b> The piston moves upward again, pushing the burnt gases out of the cylinder through the open exhaust valve. The intake valve remains closed. This completes the cycle, and the process repeats.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "56096": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Engine Components and Functions",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>Which of the following engine components is responsible for <b>converting the reciprocating motion of the piston into rotary motion</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>crankshaft</b> is the engine component that converts the linear (reciprocating) motion of the pistons into rotary motion. This rotary motion is then transmitted to the drivetrain to propel the vehicle.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "15001",
+                "tag": "a",
+                "text": "Camshaft",
+                "is_correct": false
+            },
+            {
+                "option_id": "32547",
+                "tag": "b",
+                "text": "Crankshaft",
+                "is_correct": true
+            },
+            {
+                "option_id": "45534",
+                "tag": "c",
+                "text": "Connecting rod",
+                "is_correct": false
+            },
+            {
+                "option_id": "49969",
+                "tag": "d",
+                "text": "Flywheel",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "56097": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Engine Lubrication Systems",
+        "question_type": "Theory",
+        "exam_year": "2011",
+        "question_text": "<p>Describe the <b>function of the oil pump</b> in an engine lubrication system and explain how it operates in a typical wet-sump lubrication system.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>oil pump</b> in an engine lubrication system is responsible for circulating oil under pressure to critical engine components such as the crankshaft, camshaft, bearings, and other moving parts. This ensures proper lubrication, reduces friction, and helps dissipate heat.<br><br>In a <b>wet-sump lubrication system</b>, the oil pump draws oil from the oil pan (sump) through a pickup tube. The pump, typically driven by the camshaft or crankshaft, pressurizes the oil and sends it through the oil filter to remove contaminants. The filtered oil is then distributed via oil galleries to lubricate engine components. After lubricating the parts, the oil drains back into the oil pan, completing the cycle.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "56098": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Cooling Systems Types",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>In a liquid cooling system, what is the primary function of the <b>thermostat</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>thermostat</b> in a liquid cooling system regulates the flow of coolant to maintain the engine at its optimal operating temperature. It remains closed when the engine is cold, allowing it to warm up quickly, and opens when the engine reaches operating temperature to allow coolant circulation.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "15001",
+                "tag": "a",
+                "text": "To increase the boiling point of the coolant",
+                "is_correct": false
+            },
+            {
+                "option_id": "32547",
+                "tag": "b",
+                "text": "To regulate the flow of coolant based on engine temperature",
+                "is_correct": true
+            },
+            {
+                "option_id": "45534",
+                "tag": "c",
+                "text": "To filter impurities from the coolant",
+                "is_correct": false
+            },
+            {
+                "option_id": "49969",
+                "tag": "d",
+                "text": "To pump coolant through the engine",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "56099": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Fuel Supply Systems",
+        "question_type": "Theory",
+        "question_text": "<p>Explain the difference between a <b>carburetor</b> and a <b>fuel injection system</b> in terms of their operation and efficiency.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Carburetor:</b><br>- A carburetor mixes air and fuel mechanically using a venturi effect. It relies on the pressure difference created by airflow to draw fuel into the engine.<br>- It is less precise in fuel metering, leading to less efficient combustion and higher emissions.<br>- Carburetors are simpler and cheaper but are sensitive to altitude and temperature changes.<br><br><b>Fuel Injection System:</b><br>- A fuel injection system uses electronic controls to spray fuel directly into the intake manifold or combustion chamber.<br>- It provides precise fuel metering, improving combustion efficiency, power output, and fuel economy.<br>- Fuel injection systems are more complex and expensive but offer better performance, lower emissions, and adaptability to varying conditions.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "56100": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Ignition System Types",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>Which component in a <b>conventional ignition system</b> is responsible for generating the high voltage required to produce a spark at the spark plug?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>ignition coil</b> in a conventional ignition system is responsible for transforming the low voltage from the battery (typically 12V) into the high voltage (thousands of volts) needed to create a spark at the spark plug.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "15001",
+                "tag": "a",
+                "text": "Distributor",
+                "is_correct": false
+            },
+            {
+                "option_id": "32547",
+                "tag": "b",
+                "text": "Ignition coil",
+                "is_correct": true
+            },
+            {
+                "option_id": "45534",
+                "tag": "c",
+                "text": "Spark plug",
+                "is_correct": false
+            },
+            {
+                "option_id": "49969",
+                "tag": "d",
+                "text": "Condenser",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "56101": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Clutch Types and Operation",
+        "question_type": "Theory",
+        "question_text": "<p>Describe the operation of a <b>single-plate dry clutch</b> and explain how it engages and disengages the engine from the transmission.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>single-plate dry clutch</b> consists of a clutch disc, pressure plate, flywheel, and release bearing. Its operation is as follows:<br><br><b>Engagement:</b><br>- When the clutch pedal is released, the pressure plate clamps the clutch disc against the flywheel, creating friction.<br>- This friction allows the engine's power to be transmitted from the flywheel to the clutch disc, which is connected to the transmission input shaft.<br><br><b>Disengagement:</b><br>- When the clutch pedal is pressed, the release bearing pushes against the pressure plate's diaphragm spring, relieving the clamping force.<br>- This separates the clutch disc from the flywheel, interrupting the power flow from the engine to the transmission, allowing gear changes to occur smoothly.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "56102": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Manual Transmission Basics",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>What is the primary function of the <b>synchromesh</b> in a manual transmission?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>synchromesh</b> in a manual transmission synchronizes the speeds of the gears before they engage, allowing for smooth and quiet gear shifts without grinding.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "15001",
+                "tag": "a",
+                "text": "To increase the torque output of the transmission",
+                "is_correct": false
+            },
+            {
+                "option_id": "32547",
+                "tag": "b",
+                "text": "To match the speeds of gears before engagement",
+                "is_correct": true
+            },
+            {
+                "option_id": "45534",
+                "tag": "c",
+                "text": "To lock the gears in place",
+                "is_correct": false
+            },
+            {
+                "option_id": "49969",
+                "tag": "d",
+                "text": "To lubricate the transmission components",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "56103": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Suspension System Types",
+        "question_type": "Theory",
+        "question_text": "<p>Compare and contrast the <b>independent suspension system</b> and the <b>dependent suspension system</b> in terms of their design and advantages.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Independent Suspension System:</b><br>- Each wheel is attached to its own suspension unit, allowing it to move independently of the other wheels.<br>- Provides better handling, comfort, and road-holding capabilities.<br>- More complex and expensive to manufacture and maintain.<br><br><b>Dependent Suspension System:</b><br>- Both wheels on an axle are connected, so the movement of one wheel affects the other.<br>- Simpler and more robust, making it cheaper to manufacture and maintain.<br>- Offers less comfort and handling precision compared to independent suspension, often used in heavy-duty or off-road vehicles.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "56104": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Brake System Principles",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>In a hydraulic brake system, what principle explains how force applied at the brake pedal is transmitted to the brake calipers or wheel cylinders?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>Pascal's Law</b> explains how force applied at the brake pedal is transmitted through the brake fluid to the brake calipers or wheel cylinders. Pascal's Law states that pressure applied to a confined fluid is transmitted undiminished throughout the fluid.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "15001",
+                "tag": "a",
+                "text": "Bernoulli's Principle",
+                "is_correct": false
+            },
+            {
+                "option_id": "32547",
+                "tag": "b",
+                "text": "Pascal's Law",
+                "is_correct": true
+            },
+            {
+                "option_id": "45534",
+                "tag": "c",
+                "text": "Newton's Third Law",
+                "is_correct": false
+            },
+            {
+                "option_id": "49969",
+                "tag": "d",
+                "text": "Archimedes' Principle",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

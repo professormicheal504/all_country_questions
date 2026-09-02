@@ -428,5 +428,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "95891": {
+        "order_id": 11,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Internal Combustion Engine Cycles",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>Which of the following strokes in a four-stroke petrol engine is responsible for drawing the air-fuel mixture into the cylinder?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>intake stroke</b> is the first stroke in the four-stroke cycle where the piston moves downward, creating a vacuum that draws the air-fuel mixture into the cylinder through the open intake valve.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "55293",
+                "tag": "a",
+                "text": "Compression stroke",
+                "is_correct": false
+            },
+            {
+                "option_id": "74154",
+                "tag": "b",
+                "text": "Intake stroke",
+                "is_correct": true
+            },
+            {
+                "option_id": "58324",
+                "tag": "c",
+                "text": "Power stroke",
+                "is_correct": false
+            },
+            {
+                "option_id": "37262",
+                "tag": "d",
+                "text": "Exhaust stroke",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "95892": {
+        "order_id": 12,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Engine Components and Functions",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>What is the primary function of the <b>crankshaft</b> in an internal combustion engine?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>crankshaft</b> converts the linear (reciprocating) motion of the pistons into rotational motion, which is then transmitted to the drivetrain to propel the vehicle.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "55294",
+                "tag": "a",
+                "text": "To control valve timing",
+                "is_correct": false
+            },
+            {
+                "option_id": "74155",
+                "tag": "b",
+                "text": "To convert linear motion of pistons into rotational motion",
+                "is_correct": true
+            },
+            {
+                "option_id": "58325",
+                "tag": "c",
+                "text": "To mix air and fuel",
+                "is_correct": false
+            },
+            {
+                "option_id": "37263",
+                "tag": "d",
+                "text": "To ignite the air-fuel mixture",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "95893": {
+        "order_id": 13,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Engine Lubrication Systems",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>Which component in the engine lubrication system is responsible for filtering contaminants from the engine oil?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>oil filter</b> removes contaminants such as dirt, metal particles, and sludge from the engine oil, ensuring clean oil circulates through the engine to reduce wear.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "55295",
+                "tag": "a",
+                "text": "Oil pump",
+                "is_correct": false
+            },
+            {
+                "option_id": "74156",
+                "tag": "b",
+                "text": "Oil filter",
+                "is_correct": true
+            },
+            {
+                "option_id": "58326",
+                "tag": "c",
+                "text": "Oil pan",
+                "is_correct": false
+            },
+            {
+                "option_id": "37264",
+                "tag": "d",
+                "text": "Oil cooler",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "95894": {
+        "order_id": 14,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Cooling Systems Types",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>In a liquid cooling system, what is the function of the <b>thermostat</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>thermostat</b> regulates the flow of coolant between the engine and the radiator. It remains closed when the engine is cold to allow quick warm-up and opens when the engine reaches operating temperature to maintain optimal cooling.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "55296",
+                "tag": "a",
+                "text": "To circulate coolant through the engine",
+                "is_correct": false
+            },
+            {
+                "option_id": "74157",
+                "tag": "b",
+                "text": "To regulate coolant flow based on engine temperature",
+                "is_correct": true
+            },
+            {
+                "option_id": "58327",
+                "tag": "c",
+                "text": "To filter contaminants from the coolant",
+                "is_correct": false
+            },
+            {
+                "option_id": "37265",
+                "tag": "d",
+                "text": "To pressurize the cooling system",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "95895": {
+        "order_id": 15,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Fuel Supply Systems",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>Which component in a carbureted fuel system is responsible for atomizing the fuel and mixing it with air?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>carburetor</b> atomizes the fuel and mixes it with air in the correct ratio before it enters the engine cylinders. This mixture is essential for combustion.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "55297",
+                "tag": "a",
+                "text": "Fuel pump",
+                "is_correct": false
+            },
+            {
+                "option_id": "74158",
+                "tag": "b",
+                "text": "Carburetor",
+                "is_correct": true
+            },
+            {
+                "option_id": "58328",
+                "tag": "c",
+                "text": "Fuel filter",
+                "is_correct": false
+            },
+            {
+                "option_id": "37266",
+                "tag": "d",
+                "text": "Fuel injector",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "95896": {
+        "order_id": 16,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Ignition System Types",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>In a conventional ignition system, what is the function of the <b>distributor</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>distributor</b> distributes high-voltage current from the ignition coil to the spark plugs in the correct firing order, ensuring timely ignition of the air-fuel mixture in each cylinder.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "55298",
+                "tag": "a",
+                "text": "To generate high-voltage current",
+                "is_correct": false
+            },
+            {
+                "option_id": "74159",
+                "tag": "b",
+                "text": "To distribute high-voltage current to spark plugs",
+                "is_correct": true
+            },
+            {
+                "option_id": "58329",
+                "tag": "c",
+                "text": "To regulate fuel injection timing",
+                "is_correct": false
+            },
+            {
+                "option_id": "37267",
+                "tag": "d",
+                "text": "To control engine idle speed",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "95897": {
+        "order_id": 17,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Clutch Types and Operation",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>Which type of clutch uses a fluid coupling to transmit power between the engine and the transmission?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>hydraulic clutch</b> (or torque converter in automatic transmissions) uses a fluid coupling to transmit power smoothly between the engine and the transmission without mechanical friction.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "55299",
+                "tag": "a",
+                "text": "Single-plate clutch",
+                "is_correct": false
+            },
+            {
+                "option_id": "74160",
+                "tag": "b",
+                "text": "Hydraulic clutch",
+                "is_correct": true
+            },
+            {
+                "option_id": "58330",
+                "tag": "c",
+                "text": "Multi-plate clutch",
+                "is_correct": false
+            },
+            {
+                "option_id": "37268",
+                "tag": "d",
+                "text": "Centrifugal clutch",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "95898": {
+        "order_id": 18,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Manual Transmission Basics",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>What is the primary purpose of the <b>synchromesh</b> in a manual transmission?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>synchromesh</b> synchronizes the speeds of the gears before engagement, allowing smooth and quiet gear shifts without grinding or clashing.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "55300",
+                "tag": "a",
+                "text": "To lock the gears in place",
+                "is_correct": false
+            },
+            {
+                "option_id": "74161",
+                "tag": "b",
+                "text": "To synchronize gear speeds before engagement",
+                "is_correct": true
+            },
+            {
+                "option_id": "58331",
+                "tag": "c",
+                "text": "To increase torque output",
+                "is_correct": false
+            },
+            {
+                "option_id": "37269",
+                "tag": "d",
+                "text": "To reverse the direction of rotation",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "95899": {
+        "order_id": 19,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Suspension System Types",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>Which type of suspension system uses a single control arm and a strut to support the wheel assembly?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>MacPherson strut</b> suspension system uses a single control arm and a strut to support the wheel assembly, providing a compact and efficient design commonly used in modern vehicles.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "55301",
+                "tag": "a",
+                "text": "Double wishbone",
+                "is_correct": false
+            },
+            {
+                "option_id": "74162",
+                "tag": "b",
+                "text": "MacPherson strut",
+                "is_correct": true
+            },
+            {
+                "option_id": "58332",
+                "tag": "c",
+                "text": "Torsion beam",
+                "is_correct": false
+            },
+            {
+                "option_id": "37270",
+                "tag": "d",
+                "text": "Leaf spring",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "95900": {
+        "order_id": 20,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Brake System Principles",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>In a hydraulic brake system, what principle explains the transmission of force from the brake pedal to the wheel cylinders?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The hydraulic brake system operates on <b>Pascal's Law</b>, which states that pressure applied to a confined fluid is transmitted equally in all directions. This allows force from the brake pedal to be multiplied and transmitted to the wheel cylinders.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "55302",
+                "tag": "a",
+                "text": "Bernoulli's Principle",
+                "is_correct": false
+            },
+            {
+                "option_id": "74163",
+                "tag": "b",
+                "text": "Pascal's Law",
+                "is_correct": true
+            },
+            {
+                "option_id": "58333",
+                "tag": "c",
+                "text": "Newton's Third Law",
+                "is_correct": false
+            },
+            {
+                "option_id": "37271",
+                "tag": "d",
+                "text": "Archimedes' Principle",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

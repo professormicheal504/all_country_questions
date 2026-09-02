@@ -1,0 +1,307 @@
+{
+    "19362": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Atomic Structure and Electron Blocks",
+        "question_type": "Practical",
+        "exam_year": "2013",
+        "question_text": "<p>An element <b>X</b> has the electronic configuration $1s^2 2s^2 2p^6 3s^2 3p^5$.<br>What is the block, group, and period of this element in the periodic table?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The element <b>X</b> has the electronic configuration $1s^2 2s^2 2p^6 3s^2 3p^5$.<br>The highest energy subshell is $3p$, which means it belongs to the <b>p-block</b>.<br>The total number of electrons in the outermost shell ($3s^2 3p^5$) is $7$, placing it in <b>Group 7</b>.<br>The highest principal quantum number is $3$, so it is in <b>Period 3</b>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "19363": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Periodic Trends",
+        "question_type": "Objective",
+        "exam_year": "2013",
+        "question_text": "<p>Which of the following elements has the <b>highest first ionization energy</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>First ionization energy generally increases across a period from left to right and decreases down a group.<br><b>Fluorine (F)</b> is the most electronegative element and has the highest first ionization energy among the given options.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "26398",
+                "tag": "a",
+                "text": "Sodium ($Na$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "25178",
+                "tag": "b",
+                "text": "Fluorine ($F$)",
+                "is_correct": true
+            },
+            {
+                "option_id": "25233",
+                "tag": "c",
+                "text": "Oxygen ($O$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "67808",
+                "tag": "d",
+                "text": "Chlorine ($Cl$)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "19364": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Chemical Bonding Types",
+        "question_type": "Practical",
+        "exam_year": "2013",
+        "question_text": "<p>Explain the type of bonding present in the following compounds:<br>(i) Sodium chloride ($NaCl$)<br>(ii) Methane ($CH_4$)<br>(iii) Magnesium oxide ($MgO$)</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) <b>Sodium chloride ($NaCl$)</b>: Ionic bonding due to the transfer of electrons from sodium to chlorine.<br>(ii) <b>Methane ($CH_4$)</b>: Covalent bonding due to the sharing of electrons between carbon and hydrogen.<br>(iii) <b>Magnesium oxide ($MgO$)</b>: Ionic bonding due to the transfer of electrons from magnesium to oxygen.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "19365": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Gas Laws and Kinetic Theory",
+        "question_type": "Objective",
+        "exam_year": "2013",
+        "question_text": "<p>The volume of a gas is $200 cm^3$ at $27^\text{o}C$ and $700 mmHg$. What will be its volume at <b>Standard Temperature and Pressure (STP)</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Using the combined gas law:<br>$\frac{P_1 V_1}{T_1} = \frac{P_2 V_2}{T_2}$<br>Given:<br>$P_1 = 700 mmHg$, $V_1 = 200 cm^3$, $T_1 = 300 K$<br>$P_2 = 760 mmHg$, $T_2 = 273 K$<br>Solving for $V_2$:<br>$V_2 = \frac{P_1 V_1 T_2}{P_2 T_1} = \frac{700 \times 200 \times 273}{760 \times 300} = 168.42 cm^3$</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "26398",
+                "tag": "a",
+                "text": "$150 cm^3$",
+                "is_correct": false
+            },
+            {
+                "option_id": "25178",
+                "tag": "b",
+                "text": "$168 cm^3$",
+                "is_correct": true
+            },
+            {
+                "option_id": "25233",
+                "tag": "c",
+                "text": "$180 cm^3$",
+                "is_correct": false
+            },
+            {
+                "option_id": "67808",
+                "tag": "d",
+                "text": "$200 cm^3$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "19366": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Solutions and Colligative Properties",
+        "question_type": "Practical",
+        "exam_year": "2013",
+        "question_text": "<p>Calculate the <b>freezing point depression</b> when $5.0 g$ of glucose ($C_6H_{12}O_6$) is dissolved in $100 g$ of water. (Given: $K_f$ for water = $1.86 K kg mol^{-1}$, Molar mass of glucose = $180 g mol^{-1}$)</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>First, calculate the number of moles of glucose:<br>$n = \frac{mass}{molar mass} = \frac{5.0}{180} = 0.0278 mol$<br>Molality ($m$) = $\frac{moles}{mass of solvent (kg)} = \frac{0.0278}{0.1} = 0.278 mol kg^{-1}$<br>Freezing point depression ($\\Delta T_f$) = $K_f \times m = 1.86 \times 0.278 = 0.517 K$</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "19367": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Thermochemistry",
+        "question_type": "Objective",
+        "exam_year": "2013",
+        "question_text": "<p>The combustion of $1 mole$ of methane ($CH_4$) releases $890 kJ$ of energy. What is the <b>enthalpy change</b> for the reaction:<br>$CH_4 (g) + 2O_2 (g) \rightarrow CO_2 (g) + 2H_2O (l)$?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The enthalpy change ($\\Delta H$) for an exothermic reaction is negative.<br>Since $890 kJ$ of energy is released, $\\Delta H = -890 kJ mol^{-1}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "26398",
+                "tag": "a",
+                "text": "$+890 kJ mol^{-1}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "25178",
+                "tag": "b",
+                "text": "$-890 kJ mol^{-1}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "25233",
+                "tag": "c",
+                "text": "$+445 kJ mol^{-1}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "67808",
+                "tag": "d",
+                "text": "$-445 kJ mol^{-1}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "19368": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Chemical Equilibrium",
+        "question_type": "Practical",
+        "exam_year": "2013",
+        "question_text": "<p>For the reaction:<br>$N_2 (g) + 3H_2 (g) \rightleftharpoons 2NH_3 (g)$<br>Write the expression for the <b>equilibrium constant ($K_c$)</b> and explain how the equilibrium position shifts when:<br>(i) Pressure is increased<br>(ii) Temperature is increased (Given: The reaction is exothermic)</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The equilibrium constant expression is:<br>$K_c = \frac{[NH_3]^2}{[N_2][H_2]^3}$<br>(i) Increasing pressure shifts the equilibrium to the right (fewer moles of gas).<br>(ii) Increasing temperature shifts the equilibrium to the left (endothermic direction).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "19369": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Acid-Base Theories and pH",
+        "question_type": "Objective",
+        "exam_year": "2013",
+        "question_text": "<p>What is the <b>pH</b> of a $0.01 mol dm^{-3}$ solution of hydrochloric acid ($HCl$)?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>$HCl$ is a strong acid and dissociates completely in water.<br>$[H^+] = 0.01 mol dm^{-3}$<br>$pH = -\text{log}[H^+] = -\text{log}(0.01) = 2$</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "26398",
+                "tag": "a",
+                "text": "$1$",
+                "is_correct": false
+            },
+            {
+                "option_id": "25178",
+                "tag": "b",
+                "text": "$2$",
+                "is_correct": true
+            },
+            {
+                "option_id": "25233",
+                "tag": "c",
+                "text": "$12$",
+                "is_correct": false
+            },
+            {
+                "option_id": "67808",
+                "tag": "d",
+                "text": "$13$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "19370": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Redox Reactions and Electrochemistry",
+        "question_type": "Practical",
+        "exam_year": "2013",
+        "question_text": "<p>Write the <b>half-reactions</b> and the overall balanced equation for the reaction between zinc and copper(II) sulfate solution:<br>$Zn (s) + CuSO_4 (aq) \rightarrow ZnSO_4 (aq) + Cu (s)$</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Oxidation half-reaction:<br>$Zn (s) \rightarrow Zn^{2+} (aq) + 2e^-$<br>Reduction half-reaction:<br>$Cu^{2+} (aq) + 2e^- \rightarrow Cu (s)$<br>Overall balanced equation:<br>$Zn (s) + Cu^{2+} (aq) \rightarrow Zn^{2+} (aq) + Cu (s)$</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "19371": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Organic Nomenclature and Isomerism",
+        "question_type": "Objective",
+        "exam_year": "2013",
+        "question_text": "<p>Which of the following compounds exhibits <b>geometric isomerism</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Geometric isomerism occurs in alkenes with different groups attached to the double-bonded carbons.<br><b>But-2-ene ($CH_3-CH=CH-CH_3$)</b> exhibits geometric isomerism (cis-trans).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "26398",
+                "tag": "a",
+                "text": "Ethane ($C_2H_6$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "25178",
+                "tag": "b",
+                "text": "But-2-ene ($C_4H_8$)",
+                "is_correct": true
+            },
+            {
+                "option_id": "25233",
+                "tag": "c",
+                "text": "Benzene ($C_6H_6$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "67808",
+                "tag": "d",
+                "text": "Propane ($C_3H_8$)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

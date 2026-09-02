@@ -428,5 +428,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "20021": {
+        "order_id": 11,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Accounting Basics",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>Which of the following is <b>NOT</b> a branch of accounting?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The main branches of accounting include Financial Accounting, Cost Accounting, Management Accounting, Tax Accounting, and Auditing. <i>Forensic Accounting</i> is a specialized field but not traditionally listed as a primary branch in basic accounting.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "27001",
+                "tag": "a",
+                "text": "Financial Accounting",
+                "is_correct": false
+            },
+            {
+                "option_id": "23932",
+                "tag": "b",
+                "text": "Forensic Accounting",
+                "is_correct": true
+            },
+            {
+                "option_id": "88259",
+                "tag": "c",
+                "text": "Cost Accounting",
+                "is_correct": false
+            },
+            {
+                "option_id": "63812",
+                "tag": "d",
+                "text": "Management Accounting",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "20022": {
+        "order_id": 12,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Accounting Principles",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>The principle that states that revenue should be recognized when it is earned, not necessarily when cash is received, is known as the:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>Accrual Principle</b> requires that revenue be recorded when earned, regardless of when payment is received. This ensures accurate matching of revenues and expenses in the same accounting period.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "27002",
+                "tag": "a",
+                "text": "Matching Principle",
+                "is_correct": false
+            },
+            {
+                "option_id": "23933",
+                "tag": "b",
+                "text": "Accrual Principle",
+                "is_correct": true
+            },
+            {
+                "option_id": "88260",
+                "tag": "c",
+                "text": "Consistency Principle",
+                "is_correct": false
+            },
+            {
+                "option_id": "63813",
+                "tag": "d",
+                "text": "Materiality Principle",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "20023": {
+        "order_id": 13,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Accounting Equation",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>If assets are $50,000 and liabilities are $20,000, what is the owner's equity?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The accounting equation is: <b>$Assets = Liabilities + Owner's\thinspace Equity$</b>. Rearranged, <b>$Owner's\thinspace Equity = Assets - Liabilities$</b>. Thus, $50,000 - $20,000 = $30,000.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "27003",
+                "tag": "a",
+                "text": "$20,000",
+                "is_correct": false
+            },
+            {
+                "option_id": "23934",
+                "tag": "b",
+                "text": "$30,000",
+                "is_correct": true
+            },
+            {
+                "option_id": "88261",
+                "tag": "c",
+                "text": "$50,000",
+                "is_correct": false
+            },
+            {
+                "option_id": "63814",
+                "tag": "d",
+                "text": "$70,000",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "20024": {
+        "order_id": 14,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Double-Entry Rules",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>In double-entry accounting, which of the following accounts is <u>credited</u> when cash is received from a debtor?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>When cash is received from a debtor, the <b>Cash Account</b> (an asset) is debited, and the <b>Debtors Account</b> (also an asset) is credited to reduce the amount owed.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "27004",
+                "tag": "a",
+                "text": "Cash Account",
+                "is_correct": false
+            },
+            {
+                "option_id": "23935",
+                "tag": "b",
+                "text": "Debtors Account",
+                "is_correct": true
+            },
+            {
+                "option_id": "88262",
+                "tag": "c",
+                "text": "Sales Account",
+                "is_correct": false
+            },
+            {
+                "option_id": "63815",
+                "tag": "d",
+                "text": "Capital Account",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "20025": {
+        "order_id": 15,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Source Documents",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>Which source document is used to record the return of goods by a customer?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>Credit Note</b> is issued by the seller to the buyer to acknowledge the return of goods and adjust the amount owed by the buyer.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "27005",
+                "tag": "a",
+                "text": "Invoice",
+                "is_correct": false
+            },
+            {
+                "option_id": "23936",
+                "tag": "b",
+                "text": "Credit Note",
+                "is_correct": true
+            },
+            {
+                "option_id": "88263",
+                "tag": "c",
+                "text": "Debit Note",
+                "is_correct": false
+            },
+            {
+                "option_id": "63816",
+                "tag": "d",
+                "text": "Receipt",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "20026": {
+        "order_id": 16,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Bank Reconciliation",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>A bank statement shows a balance of $10,000, while the cash book shows $8,000. Unpresented cheques amount to $3,000, and bank charges of $500 are not yet recorded in the cash book. What is the adjusted cash book balance?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The adjusted cash book balance is calculated as:<br>$8,000 (cash book) - $500 (bank charges) = $7,500$.<br>Unpresented cheques are adjusted in the bank statement, not the cash book.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "27006",
+                "tag": "a",
+                "text": "$7,000",
+                "is_correct": false
+            },
+            {
+                "option_id": "23937",
+                "tag": "b",
+                "text": "$7,500",
+                "is_correct": true
+            },
+            {
+                "option_id": "88264",
+                "tag": "c",
+                "text": "$8,000",
+                "is_correct": false
+            },
+            {
+                "option_id": "63817",
+                "tag": "d",
+                "text": "$10,500",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "20027": {
+        "order_id": 17,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Depreciation Methods",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>An asset costing $20,000 has a residual value of $2,000 and a useful life of 5 years. What is the annual depreciation charge using the straight-line method?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The straight-line depreciation formula is:<br>$\frac{Cost - Residual\thinspace Value}{Useful\thinspace Life}$<br>$\frac{$20,000 - $2,000}{5} = $3,600$ per year.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "27007",
+                "tag": "a",
+                "text": "$3,000",
+                "is_correct": false
+            },
+            {
+                "option_id": "23938",
+                "tag": "b",
+                "text": "$3,600",
+                "is_correct": true
+            },
+            {
+                "option_id": "88265",
+                "tag": "c",
+                "text": "$4,000",
+                "is_correct": false
+            },
+            {
+                "option_id": "63818",
+                "tag": "d",
+                "text": "$5,000",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "20028": {
+        "order_id": 18,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Partnership Accounts",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>In partnership accounts, interest on drawings is treated as:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Interest on drawings is an <b>income</b> to the partnership because it represents a charge levied on partners for withdrawing funds, thereby increasing the partnership's capital.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "27008",
+                "tag": "a",
+                "text": "An expense",
+                "is_correct": false
+            },
+            {
+                "option_id": "23939",
+                "tag": "b",
+                "text": "An income",
+                "is_correct": true
+            },
+            {
+                "option_id": "88266",
+                "tag": "c",
+                "text": "A liability",
+                "is_correct": false
+            },
+            {
+                "option_id": "63819",
+                "tag": "d",
+                "text": "An asset",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "20029": {
+        "order_id": 19,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Financial Ratios",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>If a company's current assets are $50,000 and current liabilities are $25,000, what is its current ratio?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The current ratio is calculated as:<br>$\frac{Current\thinspace Assets}{Current\thinspace Liabilities}$<br>$\frac{$50,000}{$25,000} = 2:1$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "27009",
+                "tag": "a",
+                "text": "1:1",
+                "is_correct": false
+            },
+            {
+                "option_id": "23940",
+                "tag": "b",
+                "text": "2:1",
+                "is_correct": true
+            },
+            {
+                "option_id": "88267",
+                "tag": "c",
+                "text": "0.5:1",
+                "is_correct": false
+            },
+            {
+                "option_id": "63820",
+                "tag": "d",
+                "text": "1.5:1",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "20030": {
+        "order_id": 20,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Non-Profit Accounting",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>In non-profit accounting, the excess of income over expenditure is called:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In non-profit organizations, the excess of income over expenditure is referred to as a <b>Surplus</b>, not profit, as these entities are not profit-driven.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "27010",
+                "tag": "a",
+                "text": "Profit",
+                "is_correct": false
+            },
+            {
+                "option_id": "23941",
+                "tag": "b",
+                "text": "Surplus",
+                "is_correct": true
+            },
+            {
+                "option_id": "88268",
+                "tag": "c",
+                "text": "Deficit",
+                "is_correct": false
+            },
+            {
+                "option_id": "63821",
+                "tag": "d",
+                "text": "Reserve",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

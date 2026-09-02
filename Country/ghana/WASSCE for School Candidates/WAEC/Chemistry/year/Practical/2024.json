@@ -1,0 +1,307 @@
+{
+    "82526": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Atomic Structure and Electron Blocks",
+        "question_type": "Objective",
+        "exam_year": "2024",
+        "question_text": "<p>Which of the following elements has the electronic configuration $1s^2 2s^2 2p^6 3s^2 3p^6 4s^1$?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The given electronic configuration corresponds to an element with 19 electrons. The element with atomic number 19 is potassium (K), which belongs to the <i>s-block</i> of the periodic table.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "23537",
+                "tag": "a",
+                "text": "Calcium (Ca)",
+                "is_correct": false
+            },
+            {
+                "option_id": "12440",
+                "tag": "b",
+                "text": "Potassium (K)",
+                "is_correct": true
+            },
+            {
+                "option_id": "78251",
+                "tag": "c",
+                "text": "Argon (Ar)",
+                "is_correct": false
+            },
+            {
+                "option_id": "73584",
+                "tag": "d",
+                "text": "Sodium (Na)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "82527": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Periodic Trends",
+        "question_type": "Objective",
+        "exam_year": "2024",
+        "question_text": "<p>Which of the following elements has the <b>highest</b> first ionization energy?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>First ionization energy generally increases across a period from left to right and decreases down a group. Fluorine (F) is the most electronegative element and has the highest first ionization energy among the given options.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "23538",
+                "tag": "a",
+                "text": "Sodium (Na)",
+                "is_correct": false
+            },
+            {
+                "option_id": "12441",
+                "tag": "b",
+                "text": "Magnesium (Mg)",
+                "is_correct": false
+            },
+            {
+                "option_id": "78252",
+                "tag": "c",
+                "text": "Fluorine (F)",
+                "is_correct": true
+            },
+            {
+                "option_id": "73585",
+                "tag": "d",
+                "text": "Chlorine (Cl)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "82528": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Chemical Bonding Types",
+        "question_type": "Practical",
+        "exam_year": "2024",
+        "question_text": "<p>Describe the type of chemical bonding present in the following compounds:<br>(i) Sodium chloride (NaCl)<br>(ii) Methane ($CH_4$)<br>(iii) Magnesium oxide (MgO)</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) Sodium chloride (NaCl) exhibits <b>ionic bonding</b> due to the transfer of electrons from sodium to chlorine.<br>(ii) Methane ($CH_4$) exhibits <b>covalent bonding</b> due to the sharing of electrons between carbon and hydrogen atoms.<br>(iii) Magnesium oxide (MgO) exhibits <b>ionic bonding</b> due to the transfer of electrons from magnesium to oxygen.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "82529": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Gas Laws and Kinetic Theory",
+        "question_type": "Objective",
+        "exam_year": "2024",
+        "question_text": "<p>According to the kinetic theory of gases, which of the following statements is <b>not</b> true?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The kinetic theory of gases assumes that gas particles are in constant random motion and that the volume of the gas particles themselves is negligible compared to the volume of the container. However, it does <b>not</b> assume that gas particles attract each other.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "23539",
+                "tag": "a",
+                "text": "Gas particles are in constant random motion.",
+                "is_correct": false
+            },
+            {
+                "option_id": "12442",
+                "tag": "b",
+                "text": "The volume of gas particles is negligible compared to the container.",
+                "is_correct": false
+            },
+            {
+                "option_id": "78253",
+                "tag": "c",
+                "text": "Gas particles attract each other.",
+                "is_correct": true
+            },
+            {
+                "option_id": "73586",
+                "tag": "d",
+                "text": "Collisions between gas particles are elastic.",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "82530": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Solutions and Colligative Properties",
+        "question_type": "Practical",
+        "exam_year": "2024",
+        "question_text": "<p>Explain how the addition of a non-volatile solute to a solvent affects:<br>(i) The boiling point of the solvent<br>(ii) The freezing point of the solvent<br>Include relevant equations in your explanation.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) The boiling point of the solvent <b>increases</b> because the solute particles reduce the vapor pressure of the solvent. The elevation in boiling point is given by the equation: $\\Delta T_b = iK_b m$, where $i$ is the van't Hoff factor, $K_b$ is the ebullioscopic constant, and $m$ is the molality.<br>(ii) The freezing point of the solvent <b>decreases</b> because the solute disrupts the formation of the solid phase. The depression in freezing point is given by the equation: $\\Delta T_f = iK_f m$, where $K_f$ is the cryoscopic constant.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "82531": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Thermochemistry and Enthalpy",
+        "question_type": "Objective",
+        "exam_year": "2024",
+        "question_text": "<p>The enthalpy change for a reaction is $-890 \\text{ kJ/mol}$. What does the negative sign indicate?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A negative enthalpy change ($\\Delta H < 0$) indicates that the reaction is <b>exothermic</b>, meaning it releases heat to the surroundings.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "23540",
+                "tag": "a",
+                "text": "The reaction is endothermic.",
+                "is_correct": false
+            },
+            {
+                "option_id": "12443",
+                "tag": "b",
+                "text": "The reaction is exothermic.",
+                "is_correct": true
+            },
+            {
+                "option_id": "78254",
+                "tag": "c",
+                "text": "The reaction absorbs heat.",
+                "is_correct": false
+            },
+            {
+                "option_id": "73587",
+                "tag": "d",
+                "text": "The reaction has no heat change.",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "82532": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Acid-Base Theories and pH",
+        "question_type": "Practical",
+        "exam_year": "2024",
+        "question_text": "<p>Calculate the pH of a $0.01 \\text{ mol/dm}^3$ solution of hydrochloric acid (HCl). Show your working.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Hydrochloric acid (HCl) is a strong acid and dissociates completely in water: $HCl \\rightarrow H^+ + Cl^-$.<br>The concentration of $H^+$ ions is $0.01 \\text{ mol/dm}^3$.<br>The pH is calculated using the formula: $pH = -\\log[H^+]$.<br>Thus, $pH = -\\log(0.01) = 2$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "82533": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Redox Reactions and Electrochemistry",
+        "question_type": "Objective",
+        "exam_year": "2024",
+        "question_text": "<p>In the reaction: $Zn + Cu^{2+} \\rightarrow Zn^{2+} + Cu$, which species is oxidized?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In the given reaction, zinc (Zn) loses electrons to form $Zn^{2+}$, meaning it is <b>oxidized</b>. Copper ($Cu^{2+}$) gains electrons to form copper metal, meaning it is reduced.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "23541",
+                "tag": "a",
+                "text": "$Cu^{2+}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "12444",
+                "tag": "b",
+                "text": "Zn",
+                "is_correct": true
+            },
+            {
+                "option_id": "78255",
+                "tag": "c",
+                "text": "$Zn^{2+}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "73588",
+                "tag": "d",
+                "text": "Cu",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "82534": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Organic Nomenclature and Isomerism",
+        "question_type": "Practical",
+        "exam_year": "2024",
+        "question_text": "<p>Draw the structural isomers of $C_4H_8$ and name each isomer.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The structural isomers of $C_4H_8$ are:<br>(i) But-1-ene: $CH_2=CH-CH_2-CH_3$<br>(ii) But-2-ene: $CH_3-CH=CH-CH_3$ (exists as <i>cis</i> and <i>trans</i> isomers)<br>(iii) 2-Methylpropene: $CH_2=C(CH_3)-CH_3$</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "82535": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Qualitative Analysis Tests",
+        "question_type": "Practical",
+        "exam_year": "2024",
+        "question_text": "<p>Describe the test for the presence of the following ions in a solution:<br>(i) $Cl^-$<br>(ii) $SO_4^{2-}$<br>(iii) $Fe^{3+}$</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) For $Cl^-$: Add a few drops of silver nitrate ($AgNO_3$) solution. A white precipitate of silver chloride ($AgCl$) forms, which is soluble in dilute ammonia.<br>(ii) For $SO_4^{2-}$: Add barium chloride ($BaCl_2$) solution. A white precipitate of barium sulfate ($BaSO_4$) forms, which is insoluble in dilute acids.<br>(iii) For $Fe^{3+}$: Add potassium thiocyanate ($KSCN$) solution. A blood-red coloration indicates the presence of $Fe^{3+}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

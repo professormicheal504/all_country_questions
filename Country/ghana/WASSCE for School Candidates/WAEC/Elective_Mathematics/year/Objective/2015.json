@@ -1288,5 +1288,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "55717": {
+        "order_id": 31,
+        "exam_type": "WAEC",
+        "subject": "Elective Mathematics",
+        "topic": "Surds",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>Rationalize the denominator of <math><mfrac><mn>5</mn><mrow><mn>3</mn><mo>+</mo><msqrt><mn>2</mn></msqrt></mrow></mfrac></math> and simplify.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Multiply the numerator and denominator by the conjugate of the denominator, which is <math>$3 - \\sqrt{2}$</math>.<br><math>$\frac{5}{3 + \\sqrt{2}} \times \frac{3 - \\sqrt{2}}{3 - \\sqrt{2}} = \frac{5(3 - \\sqrt{2})}{(3)^2 - (\\sqrt{2})^2} = \frac{15 - 5\\sqrt{2}}{9 - 2} = \frac{15 - 5\\sqrt{2}}{7}$</math>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "47909",
+                "tag": "a",
+                "text": "<math>$\frac{15 + 5\\sqrt{2}}{7}$</math>",
+                "is_correct": false
+            },
+            {
+                "option_id": "51613",
+                "tag": "b",
+                "text": "<math>$\frac{15 - 5\\sqrt{2}}{7}$</math>",
+                "is_correct": true
+            },
+            {
+                "option_id": "12403",
+                "tag": "c",
+                "text": "<math>$\frac{15 - 5\\sqrt{2}}{11}$</math>",
+                "is_correct": false
+            },
+            {
+                "option_id": "70333",
+                "tag": "d",
+                "text": "<math>$\frac{15 + 5\\sqrt{2}}{11}$</math>",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "55718": {
+        "order_id": 32,
+        "exam_type": "WAEC",
+        "subject": "Elective Mathematics",
+        "topic": "Indices and Logarithms",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>If <math>$\text{log}_5 x = 3$</math>, find the value of <math>$x$</math>.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Convert the logarithmic equation to its exponential form: <math>$x = 5^3 = 125$</math>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "47910",
+                "tag": "a",
+                "text": "15",
+                "is_correct": false
+            },
+            {
+                "option_id": "51614",
+                "tag": "b",
+                "text": "125",
+                "is_correct": true
+            },
+            {
+                "option_id": "12404",
+                "tag": "c",
+                "text": "25",
+                "is_correct": false
+            },
+            {
+                "option_id": "70334",
+                "tag": "d",
+                "text": "625",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "55719": {
+        "order_id": 33,
+        "exam_type": "WAEC",
+        "subject": "Elective Mathematics",
+        "topic": "Polynomials",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>Given that <math>$x + 2$</math> is a factor of <math>$x^3 + 4x^2 + x - 6$</math>, find the other factors.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Using polynomial division or the factor theorem, divide <math>$x^3 + 4x^2 + x - 6$</math> by <math>$x + 2$</math> to get <math>$x^2 + 2x - 3$</math>. Factorize the quadratic: <math>$(x + 3)(x - 1)$</math>. Thus, the factors are <math>$(x + 2)(x + 3)(x - 1)$</math>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "47911",
+                "tag": "a",
+                "text": "<math>$(x - 2)(x + 3)$</math>",
+                "is_correct": false
+            },
+            {
+                "option_id": "51615",
+                "tag": "b",
+                "text": "<math>$(x + 3)(x - 1)$</math>",
+                "is_correct": true
+            },
+            {
+                "option_id": "12405",
+                "tag": "c",
+                "text": "<math>$(x - 3)(x + 1)$</math>",
+                "is_correct": false
+            },
+            {
+                "option_id": "70335",
+                "tag": "d",
+                "text": "<math>$(x + 2)(x - 3)$</math>",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "55720": {
+        "order_id": 34,
+        "exam_type": "WAEC",
+        "subject": "Elective Mathematics",
+        "topic": "Partial Fractions",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>Express <math>$\frac{3x + 5}{(x + 1)(x - 2)}$</math> in partial fractions.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Assume <math>$\frac{3x + 5}{(x + 1)(x - 2)} = \frac{A}{x + 1} + \frac{B}{x - 2}$</math>. Solve for <math>$A$</math> and <math>$B$</math>: <math>$3x + 5 = A(x - 2) + B(x + 1)$</math>. Equate coefficients to find <math>$A = -2$</math> and <math>$B = 5$</math>. Thus, the partial fractions are <math>$\frac{-2}{x + 1} + \frac{5}{x - 2}$</math>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "47912",
+                "tag": "a",
+                "text": "<math>$\frac{2}{x + 1} + \frac{1}{x - 2}$</math>",
+                "is_correct": false
+            },
+            {
+                "option_id": "51616",
+                "tag": "b",
+                "text": "<math>$\frac{-2}{x + 1} + \frac{5}{x - 2}$</math>",
+                "is_correct": true
+            },
+            {
+                "option_id": "12406",
+                "tag": "c",
+                "text": "<math>$\frac{1}{x + 1} + \frac{2}{x - 2}$</math>",
+                "is_correct": false
+            },
+            {
+                "option_id": "70336",
+                "tag": "d",
+                "text": "<math>$\frac{5}{x + 1} - \frac{2}{x - 2}$</math>",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "55721": {
+        "order_id": 35,
+        "exam_type": "WAEC",
+        "subject": "Elective Mathematics",
+        "topic": "Binomial Theorem",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>Find the coefficient of <math>$x^3$</math> in the expansion of <math>$(2x - 3)^5$</math>.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Use the binomial expansion formula: <math>$(a + b)^n = \\sum_{k=0}^n \binom{n}{k} a^{n-k} b^k$</math>. Here, <math>$a = 2x$</math>, <math>$b = -3$</math>, and <math>$n = 5$</math>. The term with <math>$x^3$</math> occurs when <math>$k = 2$</math>: <math>$\binom{5}{2} (2x)^{3} (-3)^2 = 10 \times 8x^3 \times 9 = 720x^3$</math>. Thus, the coefficient is <math>$720$</math>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "47913",
+                "tag": "a",
+                "text": "1080",
+                "is_correct": false
+            },
+            {
+                "option_id": "51617",
+                "tag": "b",
+                "text": "720",
+                "is_correct": true
+            },
+            {
+                "option_id": "12407",
+                "tag": "c",
+                "text": "360",
+                "is_correct": false
+            },
+            {
+                "option_id": "70337",
+                "tag": "d",
+                "text": "240",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "55722": {
+        "order_id": 36,
+        "exam_type": "WAEC",
+        "subject": "Elective Mathematics",
+        "topic": "Permutations and Combinations",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>In how many ways can 5 students be seated in a row of 7 chairs?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>This is a permutation problem where we select and arrange 5 students out of 7 chairs. The number of ways is <math>$P(7, 5) = \frac{7!}{(7-5)!} = 7 \times 6 \times 5 \times 4 \times 3 = 2520$</math>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "47914",
+                "tag": "a",
+                "text": "21",
+                "is_correct": false
+            },
+            {
+                "option_id": "51618",
+                "tag": "b",
+                "text": "2520",
+                "is_correct": true
+            },
+            {
+                "option_id": "12408",
+                "tag": "c",
+                "text": "210",
+                "is_correct": false
+            },
+            {
+                "option_id": "70338",
+                "tag": "d",
+                "text": "42",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "55723": {
+        "order_id": 37,
+        "exam_type": "WAEC",
+        "subject": "Elective Mathematics",
+        "topic": "Matrices",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>Find the determinant of the matrix <math>$\begin{pmatrix} 3 & 1 \\ 4 & 2 \\end{pmatrix}$</math>.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The determinant of a 2x2 matrix <math>$\begin{pmatrix} a & b \\ c & d \\end{pmatrix}$</math> is <math>$ad - bc$</math>. Thus, the determinant is <math>$3 \times 2 - 1 \times 4 = 6 - 4 = 2$</math>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "47915",
+                "tag": "a",
+                "text": "2",
+                "is_correct": true
+            },
+            {
+                "option_id": "51619",
+                "tag": "b",
+                "text": "10",
+                "is_correct": false
+            },
+            {
+                "option_id": "12409",
+                "tag": "c",
+                "text": "-2",
+                "is_correct": false
+            },
+            {
+                "option_id": "70339",
+                "tag": "d",
+                "text": "5",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "55724": {
+        "order_id": 38,
+        "exam_type": "WAEC",
+        "subject": "Elective Mathematics",
+        "topic": "Vectors",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>Find the dot product of the vectors <math>$\textbf{a} = 2\textbf{i} + 3\textbf{j}$</math> and <math>$\textbf{b} = \textbf{i} - 4\textbf{j}$</math>.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The dot product of two vectors <math>$\textbf{a} = a_1\textbf{i} + a_2\textbf{j}$</math> and <math>$\textbf{b} = b_1\textbf{i} + b_2\textbf{j}$</math> is <math>$a_1b_1 + a_2b_2$</math>. Thus, the dot product is <math>$2 \times 1 + 3 \times (-4) = 2 - 12 = -10$</math>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "47916",
+                "tag": "a",
+                "text": "10",
+                "is_correct": false
+            },
+            {
+                "option_id": "51620",
+                "tag": "b",
+                "text": "-10",
+                "is_correct": true
+            },
+            {
+                "option_id": "12410",
+                "tag": "c",
+                "text": "5",
+                "is_correct": false
+            },
+            {
+                "option_id": "70340",
+                "tag": "d",
+                "text": "-5",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "55725": {
+        "order_id": 39,
+        "exam_type": "WAEC",
+        "subject": "Elective Mathematics",
+        "topic": "Trigonometry",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>Solve the equation <math>$2 \text{sin} \theta + \text{cos} \theta = 0$</math> for <math>$0 \\leq \theta \textless 2 \text{\u03c0}$</math>.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Rewrite the equation as <math>$2 \text{sin} \theta = -\text{cos} \theta$</math>. Divide both sides by <math>$\text{cos} \theta$</math> (assuming <math>$\text{cos} \theta \neq 0$</math>): <math>$2 \text{tan} \theta = -1$</math>. Thus, <math>$\text{tan} \theta = -\frac{1}{2}$</math>. The solutions in the interval <math>$0 \textless \theta \textless 2 \text{\u03c0}$</math> are <math>$\theta = \text{\u03c0} - \text{arctan}(\frac{1}{2})$</math> and <math>$\theta = 2\text{\u03c0} - \text{arctan}(\frac{1}{2})$</math>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "47917",
+                "tag": "a",
+                "text": "<math>$\theta = \frac{\text{\u03c0}}{4}, \frac{5\text{\u03c0}}{4}$</math>",
+                "is_correct": false
+            },
+            {
+                "option_id": "51621",
+                "tag": "b",
+                "text": "<math>$\theta = \text{\u03c0} - \text{arctan}(\frac{1}{2}), 2\text{\u03c0} - \text{arctan}(\frac{1}{2})$</math>",
+                "is_correct": true
+            },
+            {
+                "option_id": "12411",
+                "tag": "c",
+                "text": "<math>$\theta = \frac{3\text{\u03c0}}{4}, \frac{7\text{\u03c0}}{4}$</math>",
+                "is_correct": false
+            },
+            {
+                "option_id": "70341",
+                "tag": "d",
+                "text": "<math>$\theta = \frac{\text{\u03c0}}{6}, \frac{7\text{\u03c0}}{6}$</math>",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "55726": {
+        "order_id": 40,
+        "exam_type": "WAEC",
+        "subject": "Elective Mathematics",
+        "topic": "Differentiation",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>Find the derivative of <math>$y = x^3 \text{ln} x$</math> with respect to <math>$x$</math>.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Use the product rule: <math>$\frac{dy}{dx} = \frac{d}{dx}(x^3) \text{ln} x + x^3 \frac{d}{dx}(\text{ln} x) = 3x^2 \text{ln} x + x^3 \times \frac{1}{x} = 3x^2 \text{ln} x + x^2$</math>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "47918",
+                "tag": "a",
+                "text": "<math>$3x^2 \text{ln} x$</math>",
+                "is_correct": false
+            },
+            {
+                "option_id": "51622",
+                "tag": "b",
+                "text": "<math>$3x^2 \text{ln} x + x^2$</math>",
+                "is_correct": true
+            },
+            {
+                "option_id": "12412",
+                "tag": "c",
+                "text": "<math>$x^2 (3 \text{ln} x + 1)$</math>",
+                "is_correct": false
+            },
+            {
+                "option_id": "70342",
+                "tag": "d",
+                "text": "<math>$x^3 + \text{ln} x$</math>",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

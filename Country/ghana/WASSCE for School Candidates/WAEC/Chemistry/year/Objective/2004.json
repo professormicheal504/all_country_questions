@@ -849,5 +849,434 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "47568": {
+        "order_id": 21,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Atomic Structure",
+        "question_type": "Objective",
+        "exam_year": "2004",
+        "question_text": "<p>Which of the following particles determines the chemical properties of an element?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The chemical properties of an element are determined by the number and arrangement of electrons in its outermost shell (valence electrons). This is because electrons are involved in chemical bonding and reactions.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "94662",
+                "tag": "a",
+                "text": "Protons",
+                "is_correct": false
+            },
+            {
+                "option_id": "39197",
+                "tag": "b",
+                "text": "Electrons",
+                "is_correct": true
+            },
+            {
+                "option_id": "14220",
+                "tag": "c",
+                "text": "Neutrons",
+                "is_correct": false
+            },
+            {
+                "option_id": "72242",
+                "tag": "d",
+                "text": "Nucleons",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "47569": {
+        "order_id": 22,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Periodic Trends",
+        "question_type": "Objective",
+        "exam_year": "2004",
+        "question_text": "<p>Which of the following elements has the highest first ionization energy?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>First ionization energy generally increases across a period from left to right in the periodic table. Fluorine, being the most electronegative element and located at the top right of the periodic table, has the highest first ionization energy among the given options.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "94663",
+                "tag": "a",
+                "text": "Sodium ($Na$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "39198",
+                "tag": "b",
+                "text": "Magnesium ($Mg$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "14221",
+                "tag": "c",
+                "text": "Oxygen ($O$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "72243",
+                "tag": "d",
+                "text": "Fluorine ($F$)",
+                "is_correct": true
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "47570": {
+        "order_id": 23,
+        "exam_type": "WAEC",
+        "subject": "Chemical Bonding Types",
+        "question_type": "Objective",
+        "exam_year": "2004",
+        "question_text": "<p>What type of bond is formed between a metal and a non-metal?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A bond formed between a metal and a non-metal is typically an ionic bond. This involves the transfer of electrons from the metal (which loses electrons) to the non-metal (which gains electrons).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "94664",
+                "tag": "a",
+                "text": "Covalent bond",
+                "is_correct": false
+            },
+            {
+                "option_id": "39199",
+                "tag": "b",
+                "text": "Ionic bond",
+                "is_correct": true
+            },
+            {
+                "option_id": "14222",
+                "tag": "c",
+                "text": "Metallic bond",
+                "is_correct": false
+            },
+            {
+                "option_id": "72244",
+                "tag": "d",
+                "text": "Hydrogen bond",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "47571": {
+        "order_id": 24,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Gas Laws",
+        "question_type": "Objective",
+        "exam_year": "2004",
+        "question_text": "<p>The volume of a given mass of gas is 200 cm<sup>3</sup> at 27\u00b0C. What will be its volume at 127\u00b0C if the pressure remains constant?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Using Charles's Law: $V_1/T_1 = V_2/T_2$. Convert temperatures to Kelvin: $T_1 = 27 + 273 = 300 K$, $T_2 = 127 + 273 = 400 K$. Solving for $V_2$: $V_2 = (V_1 \\times T_2) / T_1 = (200 \\times 400) / 300 = 266.67$ cm<sup>3</sup>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "94665",
+                "tag": "a",
+                "text": "150 cm<sup>3</sup>",
+                "is_correct": false
+            },
+            {
+                "option_id": "39200",
+                "tag": "b",
+                "text": "267 cm<sup>3</sup>",
+                "is_correct": true
+            },
+            {
+                "option_id": "14223",
+                "tag": "c",
+                "text": "300 cm<sup>3</sup>",
+                "is_correct": false
+            },
+            {
+                "option_id": "72245",
+                "tag": "d",
+                "text": "400 cm<sup>3</sup>",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "47572": {
+        "order_id": 25,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Thermochemistry",
+        "question_type": "Objective",
+        "exam_year": "2004",
+        "question_text": "<p>The enthalpy change for a reaction is $+50 kJ/mol$. What does this indicate about the reaction?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A positive enthalpy change ($+50 kJ/mol$) indicates that the reaction is endothermic. This means the reaction absorbs heat from the surroundings.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "94666",
+                "tag": "a",
+                "text": "The reaction is exothermic.",
+                "is_correct": false
+            },
+            {
+                "option_id": "39201",
+                "tag": "b",
+                "text": "The reaction is endothermic.",
+                "is_correct": true
+            },
+            {
+                "option_id": "14224",
+                "tag": "c",
+                "text": "The reaction is at equilibrium.",
+                "is_correct": false
+            },
+            {
+                "option_id": "72246",
+                "tag": "d",
+                "text": "The reaction is spontaneous.",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "47573": {
+        "order_id": 26,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Acid-Base Theories",
+        "question_type": "Objective",
+        "exam_year": "2004",
+        "question_text": "<p>According to the Br\u00f8nsted-Lowry theory, an acid is a substance that:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The Br\u00f8nsted-Lowry theory defines an acid as a proton ($H^+$) donor. This means it can release a hydrogen ion in a chemical reaction.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "94667",
+                "tag": "a",
+                "text": "Accepts protons",
+                "is_correct": false
+            },
+            {
+                "option_id": "39202",
+                "tag": "b",
+                "text": "Donates protons",
+                "is_correct": true
+            },
+            {
+                "option_id": "14225",
+                "tag": "c",
+                "text": "Accepts electrons",
+                "is_correct": false
+            },
+            {
+                "option_id": "72247",
+                "tag": "d",
+                "text": "Donates electrons",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "47574": {
+        "order_id": 27,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Redox Reactions",
+        "question_type": "Objective",
+        "exam_year": "2004",
+        "question_text": "<p>In the reaction: $Zn + Cu^{2+} \\rightarrow Zn^{2+} + Cu$, which species is oxidized?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In this reaction, zinc ($Zn$) loses electrons to form $Zn^{2+}$, which means it is oxidized. Oxidation involves the loss of electrons.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "94668",
+                "tag": "a",
+                "text": "$Cu^{2+}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "39203",
+                "tag": "b",
+                "text": "$Zn$",
+                "is_correct": true
+            },
+            {
+                "option_id": "14226",
+                "tag": "c",
+                "text": "$Cu$",
+                "is_correct": false
+            },
+            {
+                "option_id": "72248",
+                "tag": "d",
+                "text": "$Zn^{2+}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "47575": {
+        "order_id": 28,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Organic Nomenclature",
+        "question_type": "Objective",
+        "exam_year": "2004",
+        "question_text": "<p>What is the IUPAC name of the compound $CH_3CH_2CH(CH_3)CH_3$?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The compound $CH_3CH_2CH(CH_3)CH_3$ has a longest carbon chain of 4 carbons with a methyl group attached to the second carbon. Its IUPAC name is 2-methylbutane.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "94669",
+                "tag": "a",
+                "text": "Butane",
+                "is_correct": false
+            },
+            {
+                "option_id": "39204",
+                "tag": "b",
+                "text": "2-Methylbutane",
+                "is_correct": true
+            },
+            {
+                "option_id": "14227",
+                "tag": "c",
+                "text": "Pentane",
+                "is_correct": false
+            },
+            {
+                "option_id": "72249",
+                "tag": "d",
+                "text": "2-Methylpropane",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "47576": {
+        "order_id": 29,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Solutions and Solubility",
+        "question_type": "Objective",
+        "exam_year": "2004",
+        "question_text": "<p>Which of the following factors does <b>not</b> affect the solubility of a solid in a liquid?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The solubility of a solid in a liquid is affected by temperature, pressure (for gases), and the nature of the solute and solvent. However, the surface area of the solid does not affect its solubility.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "94670",
+                "tag": "a",
+                "text": "Temperature",
+                "is_correct": false
+            },
+            {
+                "option_id": "39205",
+                "tag": "b",
+                "text": "Pressure",
+                "is_correct": false
+            },
+            {
+                "option_id": "14228",
+                "tag": "c",
+                "text": "Surface area of the solid",
+                "is_correct": true
+            },
+            {
+                "option_id": "72250",
+                "tag": "d",
+                "text": "Nature of the solvent",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "47577": {
+        "order_id": 30,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Electrochemistry",
+        "question_type": "Objective",
+        "exam_year": "2004",
+        "question_text": "<p>What is the standard electrode potential ($E\u00b0$) for the reduction of $Zn^{2+}$ to $Zn$ if the cell potential for $Zn|Zn^{2+}||Cu^{2+}|Cu$ is $+1.10 V$ and $E\u00b0$ for $Cu^{2+}/Cu$ is $+0.34 V$?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The standard cell potential ($E\u00b0_{cell}$) is given by $E\u00b0_{cell} = E\u00b0_{cathode} - E\u00b0_{anode}$. Here, $E\u00b0_{cell} = 1.10 V$ and $E\u00b0_{cathode} (Cu^{2+}/Cu) = +0.34 V$. Solving for $E\u00b0_{anode} (Zn^{2+}/Zn)$: $1.10 = 0.34 - E\u00b0_{anode}$, so $E\u00b0_{anode} = 0.34 - 1.10 = -0.76 V$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "94671",
+                "tag": "a",
+                "text": "$+0.76 V$",
+                "is_correct": false
+            },
+            {
+                "option_id": "39206",
+                "tag": "b",
+                "text": "$-0.76 V$",
+                "is_correct": true
+            },
+            {
+                "option_id": "14229",
+                "tag": "c",
+                "text": "$+1.44 V$",
+                "is_correct": false
+            },
+            {
+                "option_id": "72251",
+                "tag": "d",
+                "text": "$-1.44 V$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

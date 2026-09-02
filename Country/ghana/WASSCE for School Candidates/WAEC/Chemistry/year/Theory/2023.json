@@ -1,0 +1,257 @@
+{
+    "91577": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Atomic Structure and Electron Blocks",
+        "question_type": "Theory",
+        "exam_year": "2023",
+        "question_text": "<p>Explain the significance of the <b>Aufbau principle</b>, <b>Pauli exclusion principle</b>, and <b>Hund's rule</b> in determining the electronic configuration of atoms. Write the electronic configuration of a chlorine atom ($Z = 17$) and identify its electron blocks in the periodic table.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Aufbau Principle:</b> Electrons fill atomic orbitals in order of increasing energy levels, starting from the lowest energy orbital.<br><b>Pauli Exclusion Principle:</b> No two electrons in an atom can have the same set of four quantum numbers; each orbital can hold a maximum of two electrons with opposite spins.<br><b>Hund's Rule:</b> Electrons occupy degenerate orbitals (orbitals of the same energy) singly before pairing up to maximize spin multiplicity.<br><br>The electronic configuration of chlorine ($Z = 17$) is:<br>$1s^2 2s^2 2p^6 3s^2 3p^5$.<br>Chlorine belongs to the <b>p-block</b> of the periodic table because its valence electrons are in the <i>p</i> orbital.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "91578": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Periodic Trends",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>Which of the following elements has the <b>highest first ionization energy</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>First ionization energy generally increases across a period from left to right due to increasing nuclear charge and decreasing atomic radius. Among the given options, <b>fluorine</b> is the farthest to the right in the second period, hence it has the highest first ionization energy.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "27321",
+                "tag": "a",
+                "text": "Sodium ($Na$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "89771",
+                "tag": "b",
+                "text": "Magnesium ($Mg$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "34024",
+                "tag": "c",
+                "text": "Fluorine ($F$)",
+                "is_correct": true
+            },
+            {
+                "option_id": "88090",
+                "tag": "d",
+                "text": "Oxygen ($O$)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "91579": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Chemical Bonding Types",
+        "question_type": "Theory",
+        "exam_year": "2023",
+        "question_text": "<p>Describe the formation of an <b>ionic bond</b> between sodium ($Na$) and chlorine ($Cl$). Include:<br>(i) The electronic configurations of the atoms before and after bond formation.<br>(ii) The type of ions formed.<br>(iii) The role of lattice energy in the stability of the compound formed.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) <b>Electronic Configurations:</b><br>Sodium ($Na$): $1s^2 2s^2 2p^6 3s^1$ \u2192 $Na^+$: $1s^2 2s^2 2p^6$ (loses 1 electron).<br>Chlorine ($Cl$): $1s^2 2s^2 2p^6 3s^2 3p^5$ \u2192 $Cl^-$: $1s^2 2s^2 2p^6 3s^2 3p^6$ (gains 1 electron).<br><br>(ii) <b>Ions Formed:</b><br>$Na^+$ (cation) and $Cl^-$ (anion).<br><br>(iii) <b>Lattice Energy:</b><br>Lattice energy is the energy released when gaseous ions combine to form a solid ionic lattice. It stabilizes the ionic compound ($NaCl$) by overcoming the endothermic steps in its formation.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "91580": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Gas Laws and Kinetic Theory",
+        "question_type": "Theory",
+        "exam_year": "2023",
+        "question_text": "<p>A gas occupies a volume of $500 cm^3$ at a pressure of $760 mmHg$ and a temperature of $27\u00b0C$. Calculate its volume when the pressure is increased to $1140 mmHg$ at a temperature of $127\u00b0C$. State the gas law applied.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>Combined Gas Law</b> is applied:<br>$\frac{P_1 V_1}{T_1} = \frac{P_2 V_2}{T_2}$<br>Convert temperatures to Kelvin:<br>$T_1 = 27\u00b0C + 273 = 300 K$<br>$T_2 = 127\u00b0C + 273 = 400 K$<br><br>Substitute values:<br>$\frac{760 \times 500}{300} = \frac{1140 \times V_2}{400}$<br>$V_2 = \frac{760 \times 500 \times 400}{300 \times 1140} = 444.44 cm^3$ (to 2 decimal places).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "91581": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Solutions and Colligative Properties",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>Which of the following colligative properties is <b>independent</b> of the nature of the solute?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Colligative properties depend only on the number of solute particles in a solution, not their identity. <b>Osmotic pressure</b> is one such property and is independent of the solute's nature.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "27322",
+                "tag": "a",
+                "text": "Boiling point elevation",
+                "is_correct": false
+            },
+            {
+                "option_id": "89772",
+                "tag": "b",
+                "text": "Freezing point depression",
+                "is_correct": false
+            },
+            {
+                "option_id": "34025",
+                "tag": "c",
+                "text": "Osmotic pressure",
+                "is_correct": true
+            },
+            {
+                "option_id": "88091",
+                "tag": "d",
+                "text": "Vapour pressure lowering",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "91582": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Thermochemistry",
+        "question_type": "Theory",
+        "exam_year": "2023",
+        "question_text": "<p>Define <b>standard enthalpy of formation</b> ($\u0394H_f\u00b0$). Calculate the enthalpy change for the reaction:<br>$2Al (s) + Fe_2O_3 (s) \u2192 Al_2O_3 (s) + 2Fe (s)$<br>Given:<br>$\u0394H_f\u00b0 [Fe_2O_3 (s)] = -824 kJ/mol$<br>$\u0394H_f\u00b0 [Al_2O_3 (s)] = -1676 kJ/mol$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Standard Enthalpy of Formation ($\u0394H_f\u00b0$):</b> The enthalpy change when one mole of a compound is formed from its constituent elements in their standard states.<br><br>For the reaction:<br>$\u0394H_{reaction} = \u03a3 \u0394H_f\u00b0 (products) - \u03a3 \u0394H_f\u00b0 (reactants)$<br>$\u0394H_{reaction} = [\u0394H_f\u00b0 (Al_2O_3) + 2\u0394H_f\u00b0 (Fe)] - [2\u0394H_f\u00b0 (Al) + \u0394H_f\u00b0 (Fe_2O_3)]$<br>Since $\u0394H_f\u00b0$ for elements ($Al$ and $Fe$) is zero:<br>$\u0394H_{reaction} = -1676 - (-824) = -852 kJ/mol$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "91583": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Chemical Equilibrium",
+        "question_type": "Theory",
+        "exam_year": "2023",
+        "question_text": "<p>For the equilibrium reaction:<br>$N_2 (g) + 3H_2 (g) \u21cc 2NH_3 (g) \text{ } \u0394H = -92 kJ/mol$<br>Explain the effect of the following changes on the position of equilibrium:<br>(i) Increasing the pressure.<br>(ii) Increasing the temperature.<br>(iii) Adding a catalyst.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) <b>Increasing Pressure:</b> Shifts equilibrium to the right (toward $NH_3$) because there are fewer moles of gas on the product side (4 moles \u2192 2 moles).<br><br>(ii) <b>Increasing Temperature:</b> Shifts equilibrium to the left (toward reactants) because the forward reaction is exothermic ($\u0394H = -92 kJ/mol$).<br><br>(iii) <b>Adding a Catalyst:</b> No effect on the position of equilibrium; it only speeds up the rate of both forward and reverse reactions equally.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "91584": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Acid-Base Theories and pH",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>Which of the following is a <b>weak base</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>weak base</b> is one that does not fully dissociate in water. <b>Ammonia ($NH_3$)</b> is a classic example of a weak base, as it only partially reacts with water to form $NH_4^+$ and $OH^-$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "27323",
+                "tag": "a",
+                "text": "Sodium hydroxide ($NaOH$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "89773",
+                "tag": "b",
+                "text": "Potassium hydroxide ($KOH$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "34026",
+                "tag": "c",
+                "text": "Ammonia ($NH_3$)",
+                "is_correct": true
+            },
+            {
+                "option_id": "88092",
+                "tag": "d",
+                "text": "Calcium hydroxide ($Ca(OH)_2$)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "91585": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Redox Reactions and Electrochemistry",
+        "question_type": "Theory",
+        "exam_year": "2023",
+        "question_text": "<p>Write the half-reactions and the overall balanced equation for the reaction between <b>zinc</b> and <b>copper(II) sulfate</b> solution. Calculate the standard cell potential ($E\u00b0_{cell}$) for the reaction.<br>Given:<br>$E\u00b0 (Zn^{2+} / Zn) = -0.76 V$<br>$E\u00b0 (Cu^{2+} / Cu) = +0.34 V$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Half-Reactions:</b><br>Oxidation: $Zn (s) \u2192 Zn^{2+} (aq) + 2e^-$ (Anode)<br>Reduction: $Cu^{2+} (aq) + 2e^- \u2192 Cu (s)$ (Cathode)<br><br><b>Overall Reaction:</b><br>$Zn (s) + Cu^{2+} (aq) \u2192 Zn^{2+} (aq) + Cu (s)$<br><br><b>Standard Cell Potential:</b><br>$E\u00b0_{cell} = E\u00b0_{cathode} - E\u00b0_{anode} = 0.34 V - (-0.76 V) = +1.10 V$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "91586": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Organic Chemistry: Hydrocarbons and Isomerism",
+        "question_type": "Theory",
+        "exam_year": "2023",
+        "question_text": "<p>(i) Define <b>structural isomerism</b> and give an example using the molecular formula $C_4H_{10}$.<br>(ii) Write the IUPAC names of the isomers.<br>(iii) Explain why benzene ($C_6H_6$) undergoes <b>electrophilic substitution</b> rather than addition reactions.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) <b>Structural Isomerism:</b> Compounds with the same molecular formula but different structural arrangements of atoms.<br>Example for $C_4H_{10}$:<br>1. $CH_3-CH_2-CH_2-CH_3$ (Butane)<br>2. $CH_3-CH(CH_3)-CH_3$ (2-Methylpropane).<br><br>(ii) <b>IUPAC Names:</b><br>1. Butane<br>2. 2-Methylpropane.<br><br>(iii) <b>Benzene Reactions:</b><br>Benzene undergoes electrophilic substitution because its delocalized \u03c0-electron system (aromaticity) is highly stable. Addition reactions would disrupt this stability, making substitution the preferred pathway.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

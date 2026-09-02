@@ -1,0 +1,307 @@
+{
+    "40602": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Internal Combustion Engine Cycles",
+        "question_type": "Practical",
+        "exam_year": "2026",
+        "question_text": "<p>In a four-stroke petrol engine, the process where the piston moves from Top Dead Centre (TDC) to Bottom Dead Centre (BDC) with both intake and exhaust valves closed is known as:<br><i>Identify the stroke and explain its significance in the engine cycle.</i></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The stroke described is the <b>Power Stroke</b> (or Expansion Stroke).<br><br>During this stroke:<br>- The spark plug ignites the air-fuel mixture, causing a rapid combustion.<br>- The expanding gases force the piston downward from TDC to BDC, generating mechanical work.<br>- This stroke is critical as it converts chemical energy from fuel into mechanical energy, driving the crankshaft and propelling the vehicle.<br><br>Key points for marking:<br>1. Correct identification of the stroke (Power/Expansion Stroke).<br>2. Explanation of valve positions (both closed).<br>3. Role of combustion and energy conversion.<br>4. Impact on crankshaft rotation and vehicle movement.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "40603": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Engine Components and Functions",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Which of the following engine components is responsible for converting the reciprocating motion of the piston into rotary motion?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>crankshaft</b> is the engine component that converts the linear (reciprocating) motion of the pistons into rotary motion. This rotary motion is then transmitted to the drivetrain to propel the vehicle.<br><br>The other options:<br>- <b>Camshaft</b>: Controls valve operation via lobes.<br>- <b>Connecting rod</b>: Transfers motion from the piston to the crankshaft but does not convert it.<br>- <b>Flywheel</b>: Smoothens engine output but does not perform the conversion.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "50764",
+                "tag": "a",
+                "text": "Camshaft",
+                "is_correct": false
+            },
+            {
+                "option_id": "53084",
+                "tag": "b",
+                "text": "Crankshaft",
+                "is_correct": true
+            },
+            {
+                "option_id": "44284",
+                "tag": "c",
+                "text": "Connecting rod",
+                "is_correct": false
+            },
+            {
+                "option_id": "24362",
+                "tag": "d",
+                "text": "Flywheel",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "40604": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Engine Lubrication Systems",
+        "question_type": "Practical",
+        "exam_year": "2026",
+        "question_text": "<p>A vehicle's oil pressure gauge indicates abnormally low pressure. List <b>three possible causes</b> of this issue and describe <b>one diagnostic procedure</b> to confirm the root cause.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Possible Causes:</b><br>1. <b>Low engine oil level</b>: Insufficient oil reduces pressure.<br>2. <b>Worn oil pump</b>: A degraded pump fails to circulate oil effectively.<br>3. <b>Clogged oil filter or passages</b>: Restricts oil flow, reducing pressure.<br><br><b>Diagnostic Procedure:</b><br>1. <b>Check oil level</b>: Use the dipstick to verify oil quantity. If low, top up and recheck pressure.<br>2. <b>Inspect oil filter</b>: Remove and check for clogs or damage. Replace if necessary.<br>3. <b>Test oil pump pressure</b>: Use a mechanical oil pressure gauge to measure actual pressure. Compare readings with manufacturer specifications.<br><br>Marking scheme:<br>- 1 mark for each valid cause (max 3).<br>- 2 marks for a clear, step-by-step diagnostic procedure.<br>- 1 mark for logical reasoning and safety considerations.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "40605": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Cooling Systems Types",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>In a liquid-cooled engine, the component that circulates coolant through the engine block and radiator is the:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>water pump</b> is responsible for circulating coolant through the engine block, cylinder head, and radiator in a liquid-cooled system. It ensures efficient heat transfer from the engine to the radiator for dissipation.<br><br>The other options:<br>- <b>Thermostat</b>: Regulates coolant flow based on temperature but does not circulate it.<br>- <b>Radiator</b>: Dissipates heat but does not circulate coolant.<br>- <b>Fan</b>: Enhances airflow through the radiator but does not circulate coolant.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "50765",
+                "tag": "a",
+                "text": "Thermostat",
+                "is_correct": false
+            },
+            {
+                "option_id": "53085",
+                "tag": "b",
+                "text": "Water pump",
+                "is_correct": true
+            },
+            {
+                "option_id": "44285",
+                "tag": "c",
+                "text": "Radiator",
+                "is_correct": false
+            },
+            {
+                "option_id": "24363",
+                "tag": "d",
+                "text": "Fan",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "40606": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Fuel Supply Systems",
+        "question_type": "Practical",
+        "exam_year": "2026",
+        "question_text": "<p>Explain the function of the <b>fuel injector</b> in a modern electronic fuel injection (EFI) system. Include:<br>1. How it differs from a carburetor.<br>2. The role of the Engine Control Unit (ECU) in its operation.<br>3. One symptom of a faulty fuel injector.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Function of the Fuel Injector:</b><br>The fuel injector atomizes and sprays fuel directly into the intake manifold or combustion chamber in precise quantities, ensuring optimal air-fuel mixture for combustion.<br><br><b>Differences from a Carburetor:</b><br>- <b>Precision</b>: Injectors deliver fuel electronically in precise pulses, while carburetors rely on mechanical airflow.<br>- <b>Efficiency</b>: EFI systems improve fuel economy and reduce emissions compared to carburetors.<br><br><b>Role of the ECU:</b><br>The ECU processes data from sensors (e.g., oxygen, throttle position) to determine the optimal fuel quantity and timing for injection, adjusting in real-time for performance and efficiency.<br><br><b>Symptom of a Faulty Injector:</b><br>- <b>Rough idling or misfires</b>: Caused by clogged or leaking injectors disrupting the air-fuel ratio.<br><br>Marking scheme:<br>- 2 marks for injector function.<br>- 2 marks for carburetor comparison.<br>- 2 marks for ECU role.<br>- 1 mark for symptom identification.<br>- 1 mark for clarity and technical accuracy.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "40607": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Clutch Types and Operation",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>The <b>diaphragm spring clutch</b> uses a:<br><i>Select the correct component that applies pressure to the pressure plate.</i></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>diaphragm spring</b> in a diaphragm spring clutch applies pressure to the pressure plate, clamping the clutch disc between the flywheel and pressure plate. This design is lighter and more compact than coil-spring clutches.<br><br>The other options:<br>- <b>Coil springs</b>: Used in older clutch designs.<br>- <b>Release bearing</b>: Facilitates disengagement but does not apply pressure.<br>- <b>Pilot bearing</b>: Supports the transmission input shaft but does not engage the clutch.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "50766",
+                "tag": "a",
+                "text": "Coil springs",
+                "is_correct": false
+            },
+            {
+                "option_id": "53086",
+                "tag": "b",
+                "text": "Diaphragm spring",
+                "is_correct": true
+            },
+            {
+                "option_id": "44286",
+                "tag": "c",
+                "text": "Release bearing",
+                "is_correct": false
+            },
+            {
+                "option_id": "24364",
+                "tag": "d",
+                "text": "Pilot bearing",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "40608": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Manual Transmission Basics",
+        "question_type": "Practical",
+        "exam_year": "2026",
+        "question_text": "<p>Describe the process of <b>double-clutching</b> when downshifting a manual transmission. Include:<br>1. The purpose of double-clutching.<br>2. Step-by-step procedure.<br>3. Why it is less common in modern vehicles.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Purpose of Double-Clutching:</b><br>Double-clutching synchronizes the speeds of the transmission gears and input shaft, reducing wear and tear during downshifting, especially in non-synchronized or older transmissions.<br><br><b>Step-by-Step Procedure:</b><br>1. <b>Depress the clutch pedal</b> and shift to neutral.<br>2. <b>Release the clutch pedal</b> and blip the throttle to increase engine RPM.<br>3. <b>Depress the clutch pedal again</b> and shift into the lower gear.<br>4. <b>Release the clutch pedal smoothly</b> to engage the gear.<br><br><b>Why Less Common Today:</b><br>Modern vehicles use <b>synchronized transmissions</b>, which automatically match gear speeds, eliminating the need for double-clutching. This simplifies driving and reduces driver error.<br><br>Marking scheme:<br>- 2 marks for purpose.<br>- 3 marks for procedure (1 per step).<br>- 2 marks for modern relevance.<br>- 1 mark for clarity and technical accuracy.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "40609": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Brake System Principles",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>The <b>master cylinder</b> in a hydraulic brake system converts:<br><i>Select the correct conversion process.</i></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>master cylinder</b> converts <b>mechanical force (from the brake pedal)</b> into <b>hydraulic pressure</b>, which is then transmitted through brake lines to actuate the wheel cylinders or calipers.<br><br>The other options are incorrect because:<br>- It does not convert hydraulic pressure to mechanical force (this is the role of wheel cylinders/calipers).<br>- It does not generate vacuum or electrical signals.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "50767",
+                "tag": "a",
+                "text": "Hydraulic pressure to mechanical force",
+                "is_correct": false
+            },
+            {
+                "option_id": "53087",
+                "tag": "b",
+                "text": "Mechanical force to hydraulic pressure",
+                "is_correct": true
+            },
+            {
+                "option_id": "44287",
+                "tag": "c",
+                "text": "Vacuum to mechanical force",
+                "is_correct": false
+            },
+            {
+                "option_id": "24365",
+                "tag": "d",
+                "text": "Electrical signals to hydraulic pressure",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "40610": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Wheel Alignment Basics",
+        "question_type": "Practical",
+        "exam_year": "2026",
+        "question_text": "<p>A vehicle pulls to the left while driving on a straight, level road. Identify <b>three possible alignment-related causes</b> and describe <b>one method</b> to diagnose the issue.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Possible Alignment-Related Causes:</b><br>1. <b>Excessive positive camber on the right wheel</b>: Causes the right wheel to tilt outward, pulling the vehicle left.<br>2. <b>Uneven toe settings</b>: Incorrect toe-in or toe-out on one side can cause pulling.<br>3. <b>Worn or damaged suspension components</b>: E.g., bent control arms or worn bushings affecting alignment.<br><br><b>Diagnostic Method:</b><br>1. <b>Visual Inspection</b>: Check for uneven tire wear, damaged suspension parts, or misaligned wheels.<br>2. <b>Alignment Check</b>: Use a wheel alignment machine to measure camber, caster, and toe angles. Compare readings with manufacturer specifications.<br><br>Marking scheme:<br>- 1 mark for each valid cause (max 3).<br>- 2 marks for a clear diagnostic method.<br>- 1 mark for logical reasoning and safety considerations.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "40611": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Emerging Auto Tech Trends",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Which of the following technologies is primarily used to improve fuel efficiency and reduce emissions in modern vehicles by automatically stopping and restarting the engine when idle?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>Start-Stop System</b> automatically shuts off the engine when the vehicle is idle (e.g., at traffic lights) and restarts it when the driver engages the clutch or releases the brake. This reduces fuel consumption and emissions.<br><br>The other options:<br>- <b>Adaptive Cruise Control</b>: Maintains a set distance from the vehicle ahead.<br>- <b>Lane-Keeping Assist</b>: Helps steer the vehicle within lane markings.<br>- <b>Regenerative Braking</b>: Recovers kinetic energy during braking (used in hybrids/EVs).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "50768",
+                "tag": "a",
+                "text": "Adaptive Cruise Control",
+                "is_correct": false
+            },
+            {
+                "option_id": "53088",
+                "tag": "b",
+                "text": "Start-Stop System",
+                "is_correct": true
+            },
+            {
+                "option_id": "44288",
+                "tag": "c",
+                "text": "Lane-Keeping Assist",
+                "is_correct": false
+            },
+            {
+                "option_id": "24366",
+                "tag": "d",
+                "text": "Regenerative Braking",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

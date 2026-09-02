@@ -1288,5 +1288,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "48535": {
+        "order_id": 31,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Internal Combustion Engine Cycles",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>Which of the following strokes in a four-stroke petrol engine is responsible for drawing the air-fuel mixture into the cylinder?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>intake stroke</b> is the first stroke in the four-stroke cycle where the piston moves downward, creating a vacuum that draws the air-fuel mixture into the cylinder through the open intake valve.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "71667",
+                "tag": "a",
+                "text": "Compression stroke",
+                "is_correct": false
+            },
+            {
+                "option_id": "16893",
+                "tag": "b",
+                "text": "Intake stroke",
+                "is_correct": true
+            },
+            {
+                "option_id": "43873",
+                "tag": "c",
+                "text": "Power stroke",
+                "is_correct": false
+            },
+            {
+                "option_id": "17954",
+                "tag": "d",
+                "text": "Exhaust stroke",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "48536": {
+        "order_id": 32,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Engine Components and Functions",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>The <b>connecting rod</b> in an internal combustion engine transmits motion from the piston to the:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The connecting rod connects the piston to the <b>crankshaft</b>, converting the linear motion of the piston into rotational motion of the crankshaft.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "71668",
+                "tag": "a",
+                "text": "Camshaft",
+                "is_correct": false
+            },
+            {
+                "option_id": "16894",
+                "tag": "b",
+                "text": "Crankshaft",
+                "is_correct": true
+            },
+            {
+                "option_id": "43874",
+                "tag": "c",
+                "text": "Flywheel",
+                "is_correct": false
+            },
+            {
+                "option_id": "17955",
+                "tag": "d",
+                "text": "Valvetrain",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "48537": {
+        "order_id": 33,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Engine Lubrication Systems",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>Which component in an engine lubrication system ensures that oil is filtered before being circulated to engine parts?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>oil filter</b> removes contaminants from the engine oil before it is pumped to critical engine components, ensuring proper lubrication and reducing wear.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "71669",
+                "tag": "a",
+                "text": "Oil pump",
+                "is_correct": false
+            },
+            {
+                "option_id": "16895",
+                "tag": "b",
+                "text": "Oil filter",
+                "is_correct": true
+            },
+            {
+                "option_id": "43875",
+                "tag": "c",
+                "text": "Oil pan",
+                "is_correct": false
+            },
+            {
+                "option_id": "17956",
+                "tag": "d",
+                "text": "Oil cooler",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "48538": {
+        "order_id": 34,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Cooling Systems Types",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>In a liquid-cooled engine, which component circulates the coolant through the engine block and radiator?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>water pump</b> is driven by the engine and circulates coolant through the engine block and radiator to maintain optimal operating temperature.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "71670",
+                "tag": "a",
+                "text": "Thermostat",
+                "is_correct": false
+            },
+            {
+                "option_id": "16896",
+                "tag": "b",
+                "text": "Water pump",
+                "is_correct": true
+            },
+            {
+                "option_id": "43876",
+                "tag": "c",
+                "text": "Radiator",
+                "is_correct": false
+            },
+            {
+                "option_id": "17957",
+                "tag": "d",
+                "text": "Expansion tank",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "48539": {
+        "order_id": 35,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Fuel Supply Systems",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>Which of the following is <b>NOT</b> a function of the fuel injector in a modern petrol engine?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The fuel injector atomizes and delivers fuel into the intake manifold or combustion chamber but does <b>not</b> filter fuel. Fuel filtration is handled by the fuel filter.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "71671",
+                "tag": "a",
+                "text": "Atomizing fuel",
+                "is_correct": false
+            },
+            {
+                "option_id": "16897",
+                "tag": "b",
+                "text": "Filtering fuel",
+                "is_correct": true
+            },
+            {
+                "option_id": "43877",
+                "tag": "c",
+                "text": "Delivering fuel in precise quantities",
+                "is_correct": false
+            },
+            {
+                "option_id": "17958",
+                "tag": "d",
+                "text": "Spraying fuel into the intake manifold",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "48540": {
+        "order_id": 36,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Ignition System Types",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>In a conventional ignition system, which component generates the high voltage required to produce a spark at the spark plug?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>ignition coil</b> steps up the low voltage from the battery to a high voltage (typically 20,000\u201345,000 volts) required to create a spark at the spark plug.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "71672",
+                "tag": "a",
+                "text": "Distributor",
+                "is_correct": false
+            },
+            {
+                "option_id": "16898",
+                "tag": "b",
+                "text": "Ignition coil",
+                "is_correct": true
+            },
+            {
+                "option_id": "43878",
+                "tag": "c",
+                "text": "Spark plug",
+                "is_correct": false
+            },
+            {
+                "option_id": "17959",
+                "tag": "d",
+                "text": "Battery",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "48541": {
+        "order_id": 37,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Clutch Types and Operation",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>In a manual transmission vehicle, the clutch is disengaged when the clutch pedal is:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>When the clutch pedal is <b>depressed</b>, the clutch is disengaged, separating the engine from the transmission to allow gear changes without grinding.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "71673",
+                "tag": "a",
+                "text": "Released",
+                "is_correct": false
+            },
+            {
+                "option_id": "16899",
+                "tag": "b",
+                "text": "Depressed",
+                "is_correct": true
+            },
+            {
+                "option_id": "43879",
+                "tag": "c",
+                "text": "Held halfway",
+                "is_correct": false
+            },
+            {
+                "option_id": "17960",
+                "tag": "d",
+                "text": "Pumped rapidly",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "48542": {
+        "order_id": 38,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Suspension System Types",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>Which of the following suspension systems uses a torsion bar as its primary spring element?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>torsion bar suspension</b> uses a long metal bar that twists to provide spring action, commonly found in some trucks and older vehicles.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "71674",
+                "tag": "a",
+                "text": "MacPherson strut",
+                "is_correct": false
+            },
+            {
+                "option_id": "16900",
+                "tag": "b",
+                "text": "Torsion bar",
+                "is_correct": true
+            },
+            {
+                "option_id": "43880",
+                "tag": "c",
+                "text": "Leaf spring",
+                "is_correct": false
+            },
+            {
+                "option_id": "17961",
+                "tag": "d",
+                "text": "Air suspension",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "48543": {
+        "order_id": 39,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Brake System Principles",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>The primary function of the <b>master cylinder</b> in a hydraulic brake system is to:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The master cylinder converts the mechanical force from the brake pedal into hydraulic pressure, which is then transmitted to the brake calipers or wheel cylinders to apply the brakes.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "71675",
+                "tag": "a",
+                "text": "Store brake fluid",
+                "is_correct": false
+            },
+            {
+                "option_id": "16901",
+                "tag": "b",
+                "text": "Convert mechanical force into hydraulic pressure",
+                "is_correct": true
+            },
+            {
+                "option_id": "43881",
+                "tag": "c",
+                "text": "Cool the brake pads",
+                "is_correct": false
+            },
+            {
+                "option_id": "17962",
+                "tag": "d",
+                "text": "Adjust brake shoe clearance",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "48544": {
+        "order_id": 40,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Vehicle Electrical Systems",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>Which component in a vehicle's electrical system regulates the voltage output of the alternator to prevent overcharging the battery?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>voltage regulator</b> ensures that the alternator produces a consistent voltage (typically 13.5\u201314.5 volts) to charge the battery without overcharging it.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "71676",
+                "tag": "a",
+                "text": "Starter motor",
+                "is_correct": false
+            },
+            {
+                "option_id": "16902",
+                "tag": "b",
+                "text": "Voltage regulator",
+                "is_correct": true
+            },
+            {
+                "option_id": "43882",
+                "tag": "c",
+                "text": "Fusible link",
+                "is_correct": false
+            },
+            {
+                "option_id": "17963",
+                "tag": "d",
+                "text": "Ignition switch",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

@@ -1,0 +1,304 @@
+{
+    "42841": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Internal Combustion Engine Cycles",
+        "question_type": "Practical",
+        "exam_year": "2003",
+        "question_text": "<p>In a four-stroke petrol engine, the <b>power stroke</b> occurs when:<br><i>Explain the sequence of events and the role of the spark plug in this stroke.</i></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The power stroke in a four-stroke petrol engine begins after the <b>compression stroke</b>, where the air-fuel mixture is compressed. The spark plug ignites the mixture, causing a rapid expansion of gases that forces the piston downward, generating mechanical work. This stroke converts chemical energy from the fuel into mechanical energy, driving the crankshaft. The sequence is:<br>1. Intake stroke (mixture enters),<br>2. Compression stroke (mixture compressed),<br>3. Power stroke (ignition and expansion),<br>4. Exhaust stroke (burnt gases expelled).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "42842": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Engine Components and Functions",
+        "question_type": "Objective",
+        "exam_year": "2003",
+        "question_text": "<p>Which of the following components is responsible for converting the reciprocating motion of the piston into rotary motion in an engine?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>crankshaft</b> converts the linear (reciprocating) motion of the pistons into rotary motion, which is then transmitted to the drivetrain. The connecting rod links the piston to the crankshaft, facilitating this conversion.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "14977",
+                "tag": "a",
+                "text": "Camshaft",
+                "is_correct": false
+            },
+            {
+                "option_id": "89668",
+                "tag": "b",
+                "text": "Crankshaft",
+                "is_correct": true
+            },
+            {
+                "option_id": "29059",
+                "tag": "c",
+                "text": "Flywheel",
+                "is_correct": false
+            },
+            {
+                "option_id": "74400",
+                "tag": "d",
+                "text": "Connecting rod",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "42843": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Engine Lubrication Systems",
+        "question_type": "Practical",
+        "exam_year": "2003",
+        "question_text": "<p>Describe the <b>wet sump lubrication system</b> used in most automotive engines. Include:<br>- The role of the oil pump,<br>- The flow path of the oil,<br>- Two advantages of this system.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>wet sump lubrication system</b> stores oil in the oil pan (sump) at the bottom of the engine. The oil pump draws oil from the sump and circulates it under pressure to critical engine components (e.g., crankshaft bearings, camshaft, pistons). The oil then drains back to the sump by gravity.<br><br><b>Flow path:</b> Sump \u2192 Oil pump \u2192 Oil filter \u2192 Engine components \u2192 Sump.<br><br><b>Advantages:</b><br>1. Simpler and more compact design,<br>2. Lower manufacturing and maintenance costs compared to dry sump systems.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "42844": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Cooling Systems Types",
+        "question_type": "Objective",
+        "exam_year": "2003",
+        "question_text": "<p>In a liquid-cooled engine, the thermostat regulates the flow of coolant to maintain optimal operating temperature. Where is the thermostat typically located?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The thermostat is usually located in the <b>coolant outlet housing</b> (or thermostat housing) between the engine and the radiator. It controls coolant flow to the radiator based on temperature, ensuring the engine warms up quickly and maintains a stable temperature.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "14977",
+                "tag": "a",
+                "text": "Inside the radiator",
+                "is_correct": false
+            },
+            {
+                "option_id": "89668",
+                "tag": "b",
+                "text": "Between the engine and radiator",
+                "is_correct": true
+            },
+            {
+                "option_id": "29059",
+                "tag": "c",
+                "text": "Inside the engine block",
+                "is_correct": false
+            },
+            {
+                "option_id": "74400",
+                "tag": "d",
+                "text": "In the coolant reservoir",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "42845": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Fuel Supply Systems",
+        "question_type": "Practical",
+        "question_text": "<p>A carbureted engine is experiencing <b>fuel starvation</b> at high speeds. List <i>three possible causes</i> and explain how each affects fuel delivery.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Possible causes of fuel starvation:</b><br>1. <b>Clogged fuel filter:</b> Restricts fuel flow to the carburetor, reducing fuel supply at high demand.<br>2. <b>Faulty fuel pump:</b> Weak or failing pump cannot deliver adequate fuel pressure, especially at high RPM.<br>3. <b>Vapor lock:</b> Fuel vaporizes in the fuel line due to heat, creating bubbles that disrupt liquid fuel flow to the carburetor.<br><br>Each issue reduces the volume or pressure of fuel reaching the carburetor, leading to lean mixtures and poor engine performance.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "42846": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Clutch Types and Operation",
+        "question_type": "Objective",
+        "exam_year": "2003",
+        "question_text": "<p>Which type of clutch uses a <b>diaphragm spring</b> to apply pressure to the pressure plate?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>diaphragm spring clutch</b> uses a single diaphragm spring (instead of coil springs) to apply even pressure to the pressure plate. This design is lighter, more compact, and requires less pedal effort compared to coil spring clutches.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "14977",
+                "tag": "a",
+                "text": "Coil spring clutch",
+                "is_correct": false
+            },
+            {
+                "option_id": "89668",
+                "tag": "b",
+                "text": "Diaphragm spring clutch",
+                "is_correct": true
+            },
+            {
+                "option_id": "29059",
+                "tag": "c",
+                "text": "Centrifugal clutch",
+                "is_correct": false
+            },
+            {
+                "option_id": "74400",
+                "tag": "d",
+                "text": "Multi-plate clutch",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "42847": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Manual Transmission Basics",
+        "question_type": "Practical",
+        "question_text": "<p>Explain the function of the <b>synchromesh</b> in a manual transmission. Include:<br>- How it works,<br>- Why it is necessary,<br>- One symptom of a failing synchromesh.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>synchromesh</b> equalizes the speeds of the gear and shaft before engagement, allowing smooth shifting without grinding.<br><br><b>How it works:</b> The synchromesh uses a cone clutch to match the speed of the gear to the shaft before the dog clutch engages.<br><br><b>Why necessary:</b> Prevents gear clash and damage by ensuring smooth engagement.<br><br><b>Symptom of failure:</b> Grinding noise during gear shifts, especially when downshifting.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "42848": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Brake System Principles",
+        "question_type": "Objective",
+        "exam_year": "2003",
+        "question_text": "<p>In a hydraulic brake system, the <b>master cylinder</b> converts:<br><i>Mechanical force into hydraulic pressure.</i></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The master cylinder converts the <b>mechanical force</b> applied to the brake pedal into <b>hydraulic pressure</b>, which is then transmitted through brake lines to the wheel cylinders or calipers, actuating the brakes.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "14977",
+                "tag": "a",
+                "text": "Hydraulic pressure into mechanical force",
+                "is_correct": false
+            },
+            {
+                "option_id": "89668",
+                "tag": "b",
+                "text": "Mechanical force into hydraulic pressure",
+                "is_correct": true
+            },
+            {
+                "option_id": "29059",
+                "tag": "c",
+                "text": "Electrical energy into hydraulic pressure",
+                "is_correct": false
+            },
+            {
+                "option_id": "74400",
+                "tag": "d",
+                "text": "Hydraulic pressure into electrical energy",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "42849": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Wheel Alignment Basics",
+        "question_type": "Practical",
+        "question_text": "<p>Define <b>camber angle</b> and explain:<br>- How positive and negative camber affect tire wear,<br>- One scenario where negative camber might be intentionally used.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Camber angle</b> is the tilt of the wheel from vertical when viewed from the front.<br><br><b>Positive camber:</b> Top of the wheel tilts outward; causes outer tire wear.<br><b>Negative camber:</b> Top of the wheel tilts inward; causes inner tire wear.<br><br><b>Scenario for negative camber:</b> Performance vehicles use negative camber to improve cornering grip by keeping the tire perpendicular to the road during hard turns.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "42850": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Vehicle Electrical Systems",
+        "question_type": "Objective",
+        "exam_year": "2003",
+        "question_text": "<p>The <b>alternator</b> in a vehicle is driven by the engine via a:<br><i>Select the correct drive mechanism.</i></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The alternator is driven by the engine via a <b>serpentine or V-belt</b>, which connects the crankshaft pulley to the alternator pulley. This belt transfers mechanical energy to generate electrical power for the vehicle's systems and recharge the battery.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "14977",
+                "tag": "a",
+                "text": "Timing belt",
+                "is_correct": false
+            },
+            {
+                "option_id": "89668",
+                "tag": "b",
+                "text": "Serpentine or V-belt",
+                "is_correct": true
+            },
+            {
+                "option_id": "29059",
+                "tag": "c",
+                "text": "Chain drive",
+                "is_correct": false
+            },
+            {
+                "option_id": "74400",
+                "tag": "d",
+                "text": "Gear drive",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

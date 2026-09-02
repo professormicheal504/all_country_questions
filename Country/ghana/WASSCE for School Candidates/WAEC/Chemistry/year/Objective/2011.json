@@ -1287,5 +1287,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "84509": {
+        "order_id": 31,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Atomic Structure",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>Which of the following particles determines the chemical properties of an element?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The chemical properties of an element are determined by the number and arrangement of electrons in its outermost shell (valence electrons). This is because electrons are involved in chemical bonding and reactions.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "60306",
+                "tag": "a",
+                "text": "Protons",
+                "is_correct": false
+            },
+            {
+                "option_id": "62837",
+                "tag": "b",
+                "text": "Electrons",
+                "is_correct": true
+            },
+            {
+                "option_id": "72730",
+                "tag": "c",
+                "text": "Neutrons",
+                "is_correct": false
+            },
+            {
+                "option_id": "20644",
+                "tag": "d",
+                "text": "Nucleons",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "84510": {
+        "order_id": 32,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Periodic Trends",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>Which of the following elements has the highest first ionization energy?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>First ionization energy generally increases across a period from left to right in the periodic table. Fluorine, being the most electronegative element and located at the top right of the periodic table, has the highest first ionization energy among the given options.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "60307",
+                "tag": "a",
+                "text": "Sodium ($Na$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "62838",
+                "tag": "b",
+                "text": "Magnesium ($Mg$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "72731",
+                "tag": "c",
+                "text": "Oxygen ($O$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "20645",
+                "tag": "d",
+                "text": "Fluorine ($F$)",
+                "is_correct": true
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "84511": {
+        "order_id": 33,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Chemical Bonding Types",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>What type of bond is formed between a metal and a non-metal?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A bond formed between a metal and a non-metal is typically an ionic bond. This involves the transfer of electrons from the metal (which loses electrons) to the non-metal (which gains electrons), resulting in the formation of oppositely charged ions that attract each other.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "60308",
+                "tag": "a",
+                "text": "Covalent bond",
+                "is_correct": false
+            },
+            {
+                "option_id": "62839",
+                "tag": "b",
+                "text": "Ionic bond",
+                "is_correct": true
+            },
+            {
+                "option_id": "72732",
+                "tag": "c",
+                "text": "Metallic bond",
+                "is_correct": false
+            },
+            {
+                "option_id": "20646",
+                "tag": "d",
+                "text": "Hydrogen bond",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "84512": {
+        "order_id": 34,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Gas Laws",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>According to Boyle's Law, the pressure of a given mass of gas is inversely proportional to its volume at constant temperature. Which of the following equations represents Boyle's Law?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Boyle's Law states that the pressure ($P$) of a given mass of gas is inversely proportional to its volume ($V$) at constant temperature. This relationship is mathematically represented as $P \\propto \\frac{1}{V}$ or $PV = k$, where $k$ is a constant.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "60309",
+                "tag": "a",
+                "text": "$P \\propto V$",
+                "is_correct": false
+            },
+            {
+                "option_id": "62840",
+                "tag": "b",
+                "text": "$PV = k$",
+                "is_correct": true
+            },
+            {
+                "option_id": "72733",
+                "tag": "c",
+                "text": "$P \\propto T$",
+                "is_correct": false
+            },
+            {
+                "option_id": "20647",
+                "tag": "d",
+                "text": "$V \\propto T$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "84513": {
+        "order_id": 35,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Thermochemistry",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>The enthalpy change for a reaction is $-890 \\ kJ \\ mol^{-1}$. What does the negative sign indicate?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A negative enthalpy change ($\\Delta H$) indicates that the reaction is exothermic. This means that the reaction releases heat to the surroundings.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "60310",
+                "tag": "a",
+                "text": "The reaction is endothermic.",
+                "is_correct": false
+            },
+            {
+                "option_id": "62841",
+                "tag": "b",
+                "text": "The reaction is exothermic.",
+                "is_correct": true
+            },
+            {
+                "option_id": "72734",
+                "tag": "c",
+                "text": "The reaction absorbs heat.",
+                "is_correct": false
+            },
+            {
+                "option_id": "20648",
+                "tag": "d",
+                "text": "The reaction has no heat change.",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "84514": {
+        "order_id": 36,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Reaction Rates and Kinetics",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>Which of the following factors does <b>not</b> affect the rate of a chemical reaction?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The rate of a chemical reaction is affected by factors such as concentration, temperature, surface area, and the presence of a catalyst. The total mass of the reactants, however, does not affect the rate of the reaction.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "60311",
+                "tag": "a",
+                "text": "Concentration of reactants",
+                "is_correct": false
+            },
+            {
+                "option_id": "62842",
+                "tag": "b",
+                "text": "Temperature",
+                "is_correct": false
+            },
+            {
+                "option_id": "72735",
+                "tag": "c",
+                "text": "Total mass of reactants",
+                "is_correct": true
+            },
+            {
+                "option_id": "20649",
+                "tag": "d",
+                "text": "Presence of a catalyst",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "84515": {
+        "order_id": 37,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Acid-Base Theories",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>According to the Br\u00f8nsted-Lowry theory, an acid is defined as a:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The Br\u00f8nsted-Lowry theory defines an acid as a proton ($H^+$) donor. This means that an acid is a substance that can lose or donate a proton in a chemical reaction.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "60312",
+                "tag": "a",
+                "text": "Proton acceptor",
+                "is_correct": false
+            },
+            {
+                "option_id": "62843",
+                "tag": "b",
+                "text": "Proton donor",
+                "is_correct": true
+            },
+            {
+                "option_id": "72736",
+                "tag": "c",
+                "text": "Electron acceptor",
+                "is_correct": false
+            },
+            {
+                "option_id": "20650",
+                "tag": "d",
+                "text": "Electron donor",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "84516": {
+        "order_id": 38,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Redox Reactions",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>In the reaction: $Zn + Cu^{2+} \\rightarrow Zn^{2+} + Cu$, which species is oxidized?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In the given reaction, zinc ($Zn$) loses electrons to form $Zn^{2+}$, which means it is oxidized. Oxidation involves the loss of electrons, while reduction involves the gain of electrons.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "60313",
+                "tag": "a",
+                "text": "$Cu^{2+}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "62844",
+                "tag": "b",
+                "text": "$Zn$",
+                "is_correct": true
+            },
+            {
+                "option_id": "72737",
+                "tag": "c",
+                "text": "$Cu$",
+                "is_correct": false
+            },
+            {
+                "option_id": "20651",
+                "tag": "d",
+                "text": "$Zn^{2+}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "84517": {
+        "order_id": 39,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Organic Nomenclature",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>What is the IUPAC name of the compound $CH_3CH_2CH(CH_3)CH_3$?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The compound $CH_3CH_2CH(CH_3)CH_3$ has a longest carbon chain of 4 carbons with a methyl group attached to the second carbon. According to IUPAC nomenclature, it is named 2-methylbutane.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "60314",
+                "tag": "a",
+                "text": "Butane",
+                "is_correct": false
+            },
+            {
+                "option_id": "62845",
+                "tag": "b",
+                "text": "2-Methylbutane",
+                "is_correct": true
+            },
+            {
+                "option_id": "72738",
+                "tag": "c",
+                "text": "Pentane",
+                "is_correct": false
+            },
+            {
+                "option_id": "20652",
+                "tag": "d",
+                "text": "2-Methylpropane",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "84518": {
+        "order_id": 40,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Environmental Pollution",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>Which of the following gases is primarily responsible for acid rain?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Sulfur dioxide ($SO_2$) is one of the primary gases responsible for acid rain. It reacts with water vapor in the atmosphere to form sulfuric acid ($H_2SO_4$), which falls as acid rain.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "60315",
+                "tag": "a",
+                "text": "Carbon monoxide ($CO$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "62846",
+                "tag": "b",
+                "text": "Sulfur dioxide ($SO_2$)",
+                "is_correct": true
+            },
+            {
+                "option_id": "72739",
+                "tag": "c",
+                "text": "Methane ($CH_4$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "20653",
+                "tag": "d",
+                "text": "Nitrogen ($N_2$)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

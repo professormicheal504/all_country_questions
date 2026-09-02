@@ -858,5 +858,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "74466": {
+        "order_id": 21,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Accounting Equation",
+        "question_type": "Objective",
+        "exam_year": "2018",
+        "question_text": "<p>Which of the following correctly represents the accounting equation?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The accounting equation is the foundation of double-entry accounting and is represented as:<br>$Assets = Liabilities + Capital$.<br>This equation must always balance in any financial transaction.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "53620",
+                "tag": "a",
+                "text": "$Assets + Liabilities = Capital$",
+                "is_correct": false
+            },
+            {
+                "option_id": "39006",
+                "tag": "b",
+                "text": "$Assets = Liabilities + Capital$",
+                "is_correct": true
+            },
+            {
+                "option_id": "58633",
+                "tag": "c",
+                "text": "$Assets + Capital = Liabilities$",
+                "is_correct": false
+            },
+            {
+                "option_id": "15207",
+                "tag": "d",
+                "text": "$Capital = Assets + Liabilities$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "74467": {
+        "order_id": 22,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Double-Entry Rules",
+        "question_type": "Objective",
+        "exam_year": "2018",
+        "question_text": "<p>In double-entry accounting, which of the following accounts is <b>credited</b> when cash is received from a debtor?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>When cash is received from a debtor, the <b>Cash Account</b> (an asset) increases and is debited, while the <b>Debtor's Account</b> (also an asset) decreases and is credited.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "53621",
+                "tag": "a",
+                "text": "Cash Account",
+                "is_correct": false
+            },
+            {
+                "option_id": "39007",
+                "tag": "b",
+                "text": "Debtor's Account",
+                "is_correct": true
+            },
+            {
+                "option_id": "58634",
+                "tag": "c",
+                "text": "Sales Account",
+                "is_correct": false
+            },
+            {
+                "option_id": "15208",
+                "tag": "d",
+                "text": "Capital Account",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "74468": {
+        "order_id": 23,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Source Documents",
+        "question_type": "Objective",
+        "exam_year": "2018",
+        "question_text": "<p>Which of the following source documents is used to record the return of goods by a customer?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>Credit Note</b> is issued by the seller to the buyer when goods are returned, indicating a reduction in the amount owed by the buyer.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "53622",
+                "tag": "a",
+                "text": "Invoice",
+                "is_correct": false
+            },
+            {
+                "option_id": "39008",
+                "tag": "b",
+                "text": "Credit Note",
+                "is_correct": true
+            },
+            {
+                "option_id": "58635",
+                "tag": "c",
+                "text": "Debit Note",
+                "is_correct": false
+            },
+            {
+                "option_id": "15209",
+                "tag": "d",
+                "text": "Receipt",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "74469": {
+        "order_id": 24,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Bank Reconciliation",
+        "question_type": "Objective",
+        "exam_year": "2018",
+        "question_text": "<p>A cheque for GH\u00a2500 issued to a supplier was recorded in the cash book as GH\u00a250. What is the effect of this error on the bank reconciliation statement?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The cash book balance is <b>overstated</b> by GH\u00a2450 (GH\u00a2500 - GH\u00a250). To reconcile, this amount must be <b>deducted</b> from the cash book balance to match the bank statement.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "53623",
+                "tag": "a",
+                "text": "Add GH\u00a2450 to the cash book balance",
+                "is_correct": false
+            },
+            {
+                "option_id": "39009",
+                "tag": "b",
+                "text": "Deduct GH\u00a2450 from the cash book balance",
+                "is_correct": true
+            },
+            {
+                "option_id": "58636",
+                "tag": "c",
+                "text": "Add GH\u00a2500 to the bank statement balance",
+                "is_correct": false
+            },
+            {
+                "option_id": "15210",
+                "tag": "d",
+                "text": "Deduct GH\u00a250 from the bank statement balance",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "74470": {
+        "order_id": 25,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Depreciation Methods",
+        "question_type": "Objective",
+        "exam_year": "2018",
+        "question_text": "<p>A machine costing GH\u00a210,000 with a residual value of GH\u00a22,000 has an estimated useful life of 4 years. What is the annual depreciation charge using the <b>straight-line method</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The straight-line depreciation formula is:<br>$\frac{Cost - Residual\thinspace Value}{Useful\thinspace Life}$<br>$\frac{GH\u00a210,000 - GH\u00a22,000}{4} = GH\u00a22,000$ per year.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "53624",
+                "tag": "a",
+                "text": "GH\u00a21,500",
+                "is_correct": false
+            },
+            {
+                "option_id": "39010",
+                "tag": "b",
+                "text": "GH\u00a22,000",
+                "is_correct": true
+            },
+            {
+                "option_id": "58637",
+                "tag": "c",
+                "text": "GH\u00a22,500",
+                "is_correct": false
+            },
+            {
+                "option_id": "15211",
+                "tag": "d",
+                "text": "GH\u00a23,000",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "74471": {
+        "order_id": 26,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Partnership Accounts",
+        "question_type": "Objective",
+        "exam_year": "2018",
+        "question_text": "<p>In partnership accounts, interest on drawings is treated as:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Interest on drawings is an <b>income</b> to the partnership because it represents a charge levied on partners for withdrawing funds, thereby increasing the partnership's capital.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "53625",
+                "tag": "a",
+                "text": "An expense",
+                "is_correct": false
+            },
+            {
+                "option_id": "39011",
+                "tag": "b",
+                "text": "An income",
+                "is_correct": true
+            },
+            {
+                "option_id": "58638",
+                "tag": "c",
+                "text": "A liability",
+                "is_correct": false
+            },
+            {
+                "option_id": "15212",
+                "tag": "d",
+                "text": "An asset",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "74472": {
+        "order_id": 27,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Final Accounts Adjustments",
+        "question_type": "Objective",
+        "exam_year": "2018",
+        "question_text": "<p>At the end of the financial year, it was discovered that GH\u00a21,000 of rent paid in advance was not recorded. What is the effect of this error on the financial statements?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The rent paid in advance is a <b>prepayment</b> and should be recorded as an asset. Omitting it understates assets and overstates expenses, leading to an understatement of profit.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "53626",
+                "tag": "a",
+                "text": "Assets are overstated, profit is overstated",
+                "is_correct": false
+            },
+            {
+                "option_id": "39012",
+                "tag": "b",
+                "text": "Assets are understated, profit is understated",
+                "is_correct": true
+            },
+            {
+                "option_id": "58639",
+                "tag": "c",
+                "text": "Liabilities are overstated, profit is understated",
+                "is_correct": false
+            },
+            {
+                "option_id": "15213",
+                "tag": "d",
+                "text": "No effect on assets or profit",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "74473": {
+        "order_id": 28,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Non-Profit Accounting",
+        "question_type": "Objective",
+        "exam_year": "2018",
+        "question_text": "<p>In non-profit organizations, the excess of income over expenditure is called:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In non-profit organizations, the excess of income over expenditure is referred to as a <b>surplus</b>, as these entities do not aim to generate profits but to cover costs and reinvest in their mission.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "53627",
+                "tag": "a",
+                "text": "Profit",
+                "is_correct": false
+            },
+            {
+                "option_id": "39013",
+                "tag": "b",
+                "text": "Surplus",
+                "is_correct": true
+            },
+            {
+                "option_id": "58640",
+                "tag": "c",
+                "text": "Deficit",
+                "is_correct": false
+            },
+            {
+                "option_id": "15214",
+                "tag": "d",
+                "text": "Reserve",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "74474": {
+        "order_id": 29,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Financial Ratios",
+        "question_type": "Objective",
+        "exam_year": "2018",
+        "question_text": "<p>A company has current assets of GH\u00a250,000 and current liabilities of GH\u00a220,000. What is its <b>current ratio</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The current ratio is calculated as:<br>$\frac{Current\thinspace Assets}{Current\thinspace Liabilities}$<br>$\frac{GH\u00a250,000}{GH\u00a220,000} = 2.5:1$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "53628",
+                "tag": "a",
+                "text": "1.5:1",
+                "is_correct": false
+            },
+            {
+                "option_id": "39014",
+                "tag": "b",
+                "text": "2.0:1",
+                "is_correct": false
+            },
+            {
+                "option_id": "58641",
+                "tag": "c",
+                "text": "2.5:1",
+                "is_correct": true
+            },
+            {
+                "option_id": "15215",
+                "tag": "d",
+                "text": "3.0:1",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "74475": {
+        "order_id": 30,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Inventory Accounting",
+        "question_type": "Objective",
+        "exam_year": "2018",
+        "question_text": "<p>Under the <b>FIFO (First-In, First-Out)</b> method of inventory valuation, which of the following is true?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Under FIFO, the <b>first goods purchased</b> are assumed to be the first sold. This means closing inventory is valued at the most recent purchase prices.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "53629",
+                "tag": "a",
+                "text": "Closing inventory is valued at the oldest purchase prices",
+                "is_correct": false
+            },
+            {
+                "option_id": "39015",
+                "tag": "b",
+                "text": "Closing inventory is valued at the most recent purchase prices",
+                "is_correct": true
+            },
+            {
+                "option_id": "58642",
+                "tag": "c",
+                "text": "Cost of goods sold is valued at the most recent purchase prices",
+                "is_correct": false
+            },
+            {
+                "option_id": "15216",
+                "tag": "d",
+                "text": "Inventory is valued at the average cost of purchases",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

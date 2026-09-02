@@ -1,0 +1,307 @@
+{
+    "73716": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Internal Combustion Engine Cycles",
+        "question_type": "Practical",
+        "exam_year": "2009",
+        "question_text": "<p>Examine the <b>four-stroke petrol engine</b> cycle and identify the stroke during which the <i>spark plug</i> ignites the air-fuel mixture. Using a labeled diagram, describe the events that occur in each of the four strokes.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The four strokes of a petrol engine are:<br><br><b>1. Intake Stroke:</b> The piston moves downward, creating a vacuum that draws in the air-fuel mixture through the open intake valve.<br><br><b>2. Compression Stroke:</b> The piston moves upward, compressing the air-fuel mixture. Both intake and exhaust valves are closed.<br><br><b>3. Power Stroke:</b> The <i>spark plug ignites</i> the compressed mixture, causing an explosion that forces the piston downward. This is the stroke where work is done.<br><br><b>4. Exhaust Stroke:</b> The piston moves upward, pushing out the burnt gases through the open exhaust valve.<br><br>The spark plug ignites the mixture at the end of the <u>compression stroke</u>, initiating the power stroke.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "73717": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Engine Components and Functions",
+        "question_type": "Objective",
+        "exam_year": "2009",
+        "question_text": "<p>Which of the following engine components is responsible for <b>converting the linear motion of the pistons into rotary motion</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>crankshaft</b> is the engine component that converts the linear (up-and-down) motion of the pistons into rotary motion, which is then transmitted to the drivetrain. The connecting rods link the pistons to the crankshaft, enabling this conversion.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "40655",
+                "tag": "a",
+                "text": "Camshaft",
+                "is_correct": false
+            },
+            {
+                "option_id": "16440",
+                "tag": "b",
+                "text": "Crankshaft",
+                "is_correct": true
+            },
+            {
+                "option_id": "99724",
+                "tag": "c",
+                "text": "Flywheel",
+                "is_correct": false
+            },
+            {
+                "option_id": "80505",
+                "tag": "d",
+                "text": "Connecting rod",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "73718": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Engine Lubrication Systems",
+        "question_type": "Practical",
+        "exam_year": "2009",
+        "question_text": "<p>Describe the <b>wet sump lubrication system</b> used in most internal combustion engines. Include a labeled diagram showing the flow of oil from the sump to the engine components.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>wet sump lubrication system</b> stores engine oil in a reservoir called the <i>oil sump</i>, located at the bottom of the engine. The system operates as follows:<br><br><b>1. Oil Pickup:</b> The oil pump draws oil from the sump through a strainer.<br><br><b>2. Oil Pump:</b> The pump pressurizes the oil and sends it through the oil filter to remove contaminants.<br><br><b>3. Oil Galleries:</b> The filtered oil is distributed via passages (galleries) to critical components such as the crankshaft bearings, camshaft, and valve train.<br><br><b>4. Lubrication:</b> Oil lubricates moving parts, reducing friction and dissipating heat.<br><br><b>5. Drain Back:</b> Oil drains back to the sump by gravity, completing the cycle.<br><br>The wet sump system is simple and cost-effective but may suffer from oil starvation during high-speed cornering or steep inclines.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "73719": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Cooling Systems Types",
+        "question_type": "Objective",
+        "exam_year": "2009",
+        "question_text": "<p>In a <b>liquid cooling system</b>, what is the primary function of the <i>thermostat</i>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>thermostat</b> in a liquid cooling system regulates the flow of coolant to maintain the engine at its optimal operating temperature. It remains closed when the engine is cold, allowing it to warm up quickly, and opens when the engine reaches operating temperature to allow coolant circulation.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "40655",
+                "tag": "a",
+                "text": "To increase the boiling point of the coolant",
+                "is_correct": false
+            },
+            {
+                "option_id": "16440",
+                "tag": "b",
+                "text": "To regulate the flow of coolant based on engine temperature",
+                "is_correct": true
+            },
+            {
+                "option_id": "99724",
+                "tag": "c",
+                "text": "To filter contaminants from the coolant",
+                "is_correct": false
+            },
+            {
+                "option_id": "80505",
+                "tag": "d",
+                "text": "To pressurize the cooling system",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "73720": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Fuel Supply Systems",
+        "question_type": "Practical",
+        "exam_year": "2009",
+        "question_text": "<p>Explain the operation of a <b>carburetor</b> in a petrol engine. Include a diagram showing the main components and describe how the air-fuel mixture is formed and delivered to the engine.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>carburetor</b> mixes air and fuel in the correct ratio for combustion in a petrol engine. Its operation involves the following components and processes:<br><br><b>1. Air Intake:</b> Air enters the carburetor through the <i>air filter</i> and passes through the <i>venturi</i>, a narrowed section that increases air velocity and creates a low-pressure zone.<br><br><b>2. Fuel Delivery:</b> The low pressure in the venturi draws fuel from the <i>float chamber</i> through the <i>main jet</i>. The float chamber maintains a constant fuel level using a float and needle valve.<br><br><b>3. Mixing:</b> Fuel is atomized and mixed with air in the venturi, forming a combustible mixture.<br><br><b>4. Throttle Control:</b> The <i>throttle valve</i> (butterfly valve) regulates the amount of air-fuel mixture entering the engine, controlling engine speed.<br><br><b>5. Idle System:</b> At low speeds, the idle system supplies a rich mixture through the <i>idle jet</i> to maintain smooth engine operation.<br><br>The carburetor ensures the correct air-fuel ratio ($$A/F \text{ ratio} \thickapprox 14.7:1$$) for efficient combustion.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "73721": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Clutch Types and Operation",
+        "question_type": "Objective",
+        "exam_year": "2009",
+        "question_text": "<p>Which type of clutch uses <b>friction discs</b> to transmit torque between the engine and the transmission?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>friction clutch</b> uses friction discs (clutch plates) to transmit torque. The clutch plate is sandwiched between the flywheel (engine side) and the pressure plate (transmission side). When the clutch pedal is released, the pressure plate clamps the clutch plate against the flywheel, allowing torque transfer.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "40655",
+                "tag": "a",
+                "text": "Hydraulic clutch",
+                "is_correct": false
+            },
+            {
+                "option_id": "16440",
+                "tag": "b",
+                "text": "Friction clutch",
+                "is_correct": true
+            },
+            {
+                "option_id": "99724",
+                "tag": "c",
+                "text": "Centrifugal clutch",
+                "is_correct": false
+            },
+            {
+                "option_id": "80505",
+                "tag": "d",
+                "text": "Electromagnetic clutch",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "73722": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Manual Transmission Basics",
+        "question_type": "Practical",
+        "exam_year": "2009",
+        "question_text": "<p>Describe the function of the <b>synchromesh mechanism</b> in a manual transmission. Include a diagram showing its components and explain how it facilitates smooth gear engagement.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>synchromesh mechanism</b> ensures smooth and quiet gear engagement by matching the speeds of the gear and the shaft before locking them together. It consists of the following components:<br><br><b>1. Synchronizer Hub:</b> Splined to the transmission shaft and connected to the shift fork.<br><br><b>2. Synchronizer Sleeve:</b> Slides over the hub and engages with the gear.<br><br><b>3. Blocking Ring (Synchronizer Ring):</b> Made of brass, it contacts the gear cone to create friction and match speeds.<br><br><b>4. Gear Cone:</b> Located on the gear, it mates with the blocking ring.<br><br><b>Operation:</b><br><br>When the driver selects a gear, the shift fork moves the synchronizer sleeve toward the gear. The blocking ring contacts the gear cone, creating friction that synchronizes their speeds. Once synchronized, the sleeve slides over the gear teeth, locking the gear to the shaft. This prevents grinding and ensures smooth engagement.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "73723": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Suspension System Types",
+        "question_type": "Objective",
+        "exam_year": "2009",
+        "question_text": "<p>Which of the following suspension systems uses <b>air springs</b> to support the vehicle's weight?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>air suspension system</b> uses air springs (airbags) filled with compressed air to support the vehicle's weight. It provides a smooth ride and can adjust the vehicle's height based on load or road conditions.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "40655",
+                "tag": "a",
+                "text": "MacPherson strut",
+                "is_correct": false
+            },
+            {
+                "option_id": "16440",
+                "tag": "b",
+                "text": "Air suspension",
+                "is_correct": true
+            },
+            {
+                "option_id": "99724",
+                "tag": "c",
+                "text": "Double wishbone",
+                "is_correct": false
+            },
+            {
+                "option_id": "80505",
+                "tag": "d",
+                "text": "Leaf spring",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "73724": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Brake System Principles",
+        "question_type": "Practical",
+        "exam_year": "2009",
+        "question_text": "<p>Explain the operation of a <b>hydraulic brake system</b> in a vehicle. Include a diagram showing the main components and describe how force is transmitted from the brake pedal to the wheels.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>hydraulic brake system</b> uses brake fluid to transmit force from the brake pedal to the wheels. The system operates as follows:<br><br><b>1. Brake Pedal:</b> When the driver presses the brake pedal, it pushes the <i>master cylinder piston</i>.<br><br><b>2. Master Cylinder:</b> The master cylinder pressurizes the brake fluid, sending it through the brake lines.<br><br><b>3. Brake Lines:</b> The pressurized fluid travels through metal brake lines and flexible hoses to the wheel cylinders or calipers.<br><br><b>4. Wheel Cylinders/Calipers:</b><br><ul><li><b>Drum Brakes:</b> The wheel cylinder pushes the brake shoes against the drum, creating friction.</li><li><b>Disc Brakes:</b> The caliper clamps the brake pads against the rotor, creating friction.</li></ul><br><b>5. Friction and Stopping:</b> The friction between the brake components converts kinetic energy into heat, slowing or stopping the vehicle.<br><br>The system relies on Pascal's Law ($$P = \frac{F}{A}$$), where force applied at the master cylinder is multiplied at the wheel cylinders due to the difference in piston areas.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "73725": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Vehicle Electrical Systems",
+        "question_type": "Objective",
+        "exam_year": "2009",
+        "question_text": "<p>Which component in a vehicle's electrical system is responsible for <b>converting mechanical energy into electrical energy</b> to charge the battery?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>alternator</b> is the component that converts mechanical energy (from the engine's crankshaft via a belt) into electrical energy. It charges the battery and powers the vehicle's electrical systems while the engine is running.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "40655",
+                "tag": "a",
+                "text": "Starter motor",
+                "is_correct": false
+            },
+            {
+                "option_id": "16440",
+                "tag": "b",
+                "text": "Alternator",
+                "is_correct": true
+            },
+            {
+                "option_id": "99724",
+                "tag": "c",
+                "text": "Distributor",
+                "is_correct": false
+            },
+            {
+                "option_id": "80505",
+                "tag": "d",
+                "text": "Ignition coil",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

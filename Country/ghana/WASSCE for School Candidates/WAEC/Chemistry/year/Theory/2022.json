@@ -1,0 +1,257 @@
+{
+    "38053": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Atomic Structure and Electron Blocks",
+        "question_type": "Theory",
+        "exam_year": "2022",
+        "question_text": "<p>Explain the significance of the electron configuration of an element in determining its position in the Periodic Table. Using the element with atomic number 24 as an example, write its full electron configuration and identify its block, group, and period.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The electron configuration of an element determines its chemical properties and position in the Periodic Table. The block is determined by the subshell (s, p, d, or f) that receives the last electron. The group is determined by the number of valence electrons, and the period corresponds to the highest principal quantum number (n).<br><br>For the element with atomic number 24 (Chromium, Cr):<br><br>Electron configuration: $1s^2 2s^2 2p^6 3s^2 3p^6 4s^1 3d^5$ (exception due to half-filled stability).<br><br>Block: <b>d-block</b> (last electron enters the 3d subshell).<br>Group: <b>6</b> (6 valence electrons: $4s^1 3d^5$).<br>Period: <b>4</b> (highest principal quantum number is 4).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "38054": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Periodic Trends",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>Which of the following elements has the highest first ionization energy?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>First ionization energy generally increases across a period from left to right due to increasing nuclear charge and decreasing atomic radius. It decreases down a group due to increased shielding and larger atomic size.<br><br>Among the given options, <b>Neon (Ne)</b> is a noble gas in Period 2, Group 18, and has the highest first ionization energy due to its stable, fully filled electron configuration ($1s^2 2s^2 2p^6$).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "41847",
+                "tag": "a",
+                "text": "Sodium ($Na$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "39481",
+                "tag": "b",
+                "text": "Magnesium ($Mg$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "68273",
+                "tag": "c",
+                "text": "Neon ($Ne$)",
+                "is_correct": true
+            },
+            {
+                "option_id": "40818",
+                "tag": "d",
+                "text": "Fluorine ($F$)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "38055": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Chemical Bonding Types",
+        "question_type": "Theory",
+        "exam_year": "2022",
+        "question_text": "<p>Describe the types of chemical bonding present in the following compounds:<br>(i) Sodium chloride ($NaCl$)<br>(ii) Methane ($CH_4$)<br>(iii) Ammonia ($NH_3$)<br><br>Explain how the bonding in each compound influences its physical properties such as melting point, solubility, and electrical conductivity.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) <b>Sodium chloride ($NaCl$)</b>: Ionic bonding (transfer of electrons from $Na$ to $Cl$).<br>Properties: High melting point due to strong electrostatic forces, soluble in polar solvents like water, conducts electricity in molten or aqueous state.<br><br>(ii) <b>Methane ($CH_4$)</b>: Covalent bonding (sharing of electrons between $C$ and $H$).<br>Properties: Low melting point due to weak intermolecular forces (van der Waals), insoluble in water, non-conductive.<br><br>(iii) <b>Ammonia ($NH_3$)</b>: Covalent bonding with hydrogen bonding (due to $N-H$ bonds).<br>Properties: Moderate melting point due to hydrogen bonding, soluble in water, non-conductive in pure form but conductive in aqueous solution due to ionization.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "38056": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Gas Laws and Kinetic Theory",
+        "question_type": "Theory",
+        "exam_year": "2022",
+        "question_text": "<p>A gas occupies a volume of $500 cm^3$ at a pressure of $760 mmHg$ and a temperature of $27^\\circ C$. Calculate the volume of the gas at standard temperature and pressure (STP).<br><br>Explain the assumptions of the kinetic theory of gases that justify the use of the ideal gas law in this calculation.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Using the combined gas law: $\\frac{P_1 V_1}{T_1} = \\frac{P_2 V_2}{T_2}$<br><br>Given:<br>$P_1 = 760 mmHg$, $V_1 = 500 cm^3$, $T_1 = 27^\\circ C = 300 K$<br>$P_2 = 760 mmHg$ (STP), $T_2 = 273 K$ (STP)<br><br>Solving for $V_2$:<br>$V_2 = \\frac{P_1 V_1 T_2}{P_2 T_1} = \\frac{760 \\times 500 \\times 273}{760 \\times 300} = 455 cm^3$<br><br><b>Assumptions of the kinetic theory of gases:</b><br>(i) Gases consist of tiny particles in constant random motion.<br>(ii) Collisions between gas particles and container walls are elastic.<br>(iii) The volume of gas particles is negligible compared to the container volume.<br>(iv) No intermolecular forces exist between gas particles.<br>(v) The average kinetic energy of gas particles is proportional to the absolute temperature.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "38057": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Thermochemistry and Enthalpy",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>The combustion of $1 mole$ of methane ($CH_4$) releases $890 kJ$ of heat. What is the enthalpy change for the reaction:<br>$CH_4 (g) + 2O_2 (g) \\rightarrow CO_2 (g) + 2H_2O (l)$?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The enthalpy change ($\\Delta H$) for an exothermic reaction is negative because heat is released to the surroundings.<br><br>Given that the combustion of $1 mole$ of $CH_4$ releases $890 kJ$, the enthalpy change is $\\Delta H = -890 kJ/mol$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "41847",
+                "tag": "a",
+                "text": "$+890 kJ/mol$",
+                "is_correct": false
+            },
+            {
+                "option_id": "39481",
+                "tag": "b",
+                "text": "$-890 kJ/mol$",
+                "is_correct": true
+            },
+            {
+                "option_id": "68273",
+                "tag": "c",
+                "text": "$+445 kJ/mol$",
+                "is_correct": false
+            },
+            {
+                "option_id": "40818",
+                "tag": "d",
+                "text": "$-445 kJ/mol$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "38058": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Chemical Equilibrium",
+        "question_type": "Theory",
+        "exam_year": "2022",
+        "question_text": "<p>Consider the equilibrium reaction:<br>$N_2 (g) + 3H_2 (g) \\rightleftharpoons 2NH_3 (g) \\quad \\Delta H = -92 kJ/mol$<br><br>(i) Write the expression for the equilibrium constant ($K_c$) for this reaction.<br>(ii) Explain the effect of the following changes on the position of equilibrium:<br>&nbsp;&nbsp;- Increasing the pressure<br>&nbsp;&nbsp;- Increasing the temperature<br>&nbsp;&nbsp;- Adding a catalyst<br>(iii) How would the value of $K_c$ change if the temperature is increased?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) Equilibrium constant expression:<br>$K_c = \\frac{[NH_3]^2}{[N_2][H_2]^3}$<br><br>(ii) Effects on equilibrium:<br>- <b>Increasing pressure</b>: Shifts equilibrium to the right (fewer moles of gas).<br>- <b>Increasing temperature</b>: Shifts equilibrium to the left (endothermic direction) because the forward reaction is exothermic.<br>- <b>Adding a catalyst</b>: No effect on equilibrium position; only speeds up the rate of attainment of equilibrium.<br><br>(iii) <b>Value of $K_c$</b>: Decreases with increasing temperature because the equilibrium shifts left, reducing $[NH_3]$ and increasing $[N_2]$ and $[H_2]$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "38059": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Acid-Base Theories and pH",
+        "question_type": "Theory",
+        "exam_year": "2022",
+        "question_text": "<p>(i) Define a <b>buffer solution</b> and explain how it resists changes in pH.<br>(ii) A buffer solution is prepared by mixing $0.10 mol$ of acetic acid ($CH_3COOH$) and $0.10 mol$ of sodium acetate ($CH_3COONa$) in $1.0 dm^3$ of solution. Calculate the pH of this buffer.<br>(Given: $K_a$ for acetic acid = $1.8 \\times 10^{-5} mol/dm^3$).<br>(iii) What would be the effect on the pH of this buffer if a small amount of $HCl$ is added?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) A <b>buffer solution</b> is a solution that resists changes in pH when small amounts of acid or base are added. It consists of a weak acid and its conjugate base (or a weak base and its conjugate acid). The buffer neutralizes added $H^+$ or $OH^-$ ions.<br><br>(ii) Using the Henderson-Hasselbalch equation:<br>$pH = pK_a + \\log \\frac{[A^-]}{[HA]}$<br>Given: $[CH_3COOH] = 0.10 mol/dm^3$, $[CH_3COO^-] = 0.10 mol/dm^3$, $K_a = 1.8 \\times 10^{-5}$<br>$pK_a = -\\log (1.8 \\times 10^{-5}) = 4.74$<br>$pH = 4.74 + \\log \\frac{0.10}{0.10} = 4.74 + 0 = 4.74$<br><br>(iii) Adding $HCl$ (a strong acid) increases $[H^+]$, which reacts with $CH_3COO^-$ to form $CH_3COOH$. The ratio $\\frac{[CH_3COO^-]}{[CH_3COOH]}$ decreases slightly, but the pH remains nearly constant due to the buffer action.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "38060": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Organic Nomenclature and Isomerism",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>What is the IUPAC name of the following compound?<br><br><img src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMDAiIGhlaWdodD0iMTAwIj48cmVjdCB4PSIyMCIgeT0iMjAiIHdpZHRoPSIxNjAiIGhlaWdodD0iNjAiIHN0cm9rZT0iYmxhY2siIHN0cm9rZS13aWR0aD0iMiIgZmlsbD0ibm9uZSIvPjx0ZXh0IHg9IjEwMCIgeT0iNTAiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC1zaXplPSIxNCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+Q0gzLUNIKENIMikzLUNIPC90ZXh0Pjwvc3ZnPg==' alt='2-methylbutane structure'/></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The structure represents a 5-carbon chain with a methyl group attached to the second carbon. The longest continuous carbon chain is 4 carbons (butane), and the methyl group is on carbon 2. Thus, the IUPAC name is <b>2-methylbutane</b>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "41847",
+                "tag": "a",
+                "text": "Pentane",
+                "is_correct": false
+            },
+            {
+                "option_id": "39481",
+                "tag": "b",
+                "text": "2-methylbutane",
+                "is_correct": true
+            },
+            {
+                "option_id": "68273",
+                "tag": "c",
+                "text": "2,2-dimethylpropane",
+                "is_correct": false
+            },
+            {
+                "option_id": "40818",
+                "tag": "d",
+                "text": "3-methylbutane",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "38061": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Electrochemistry and Nernst Equation",
+        "question_type": "Theory",
+        "exam_year": "2022",
+        "question_text": "<p>(i) Write the half-reactions and the overall cell reaction for the electrochemical cell represented by:<br>$Zn (s) | Zn^{2+} (aq) || Cu^{2+} (aq) | Cu (s)$<br>(ii) Calculate the standard cell potential ($E^\\circ_{cell}$) for this cell.<br>(Given: $E^\\circ_{Zn^{2+}/Zn} = -0.76 V$, $E^\\circ_{Cu^{2+}/Cu} = +0.34 V$)<br>(iii) Using the Nernst equation, calculate the cell potential ($E_{cell}$) when $[Zn^{2+}] = 0.10 mol/dm^3$ and $[Cu^{2+}] = 0.010 mol/dm^3$ at $25^\\circ C$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) Half-reactions:<br>Oxidation: $Zn (s) \\rightarrow Zn^{2+} (aq) + 2e^-$<br>Reduction: $Cu^{2+} (aq) + 2e^- \\rightarrow Cu (s)$<br>Overall cell reaction: $Zn (s) + Cu^{2+} (aq) \\rightarrow Zn^{2+} (aq) + Cu (s)$<br><br>(ii) Standard cell potential:<br>$E^\\circ_{cell} = E^\\circ_{cathode} - E^\\circ_{anode} = 0.34 V - (-0.76 V) = +1.10 V$<br><br>(iii) Nernst equation:<br>$E_{cell} = E^\\circ_{cell} - \\frac{RT}{nF} \\ln Q$<br>Where $Q = \\frac{[Zn^{2+}]}{[Cu^{2+}]}$, $R = 8.314 J/mol \\cdot K$, $T = 298 K$, $n = 2$, $F = 96,485 C/mol$<br>$E_{cell} = 1.10 V - \\frac{8.314 \\times 298}{2 \\times 96,485} \\ln \\frac{0.10}{0.010}$<br>$E_{cell} = 1.10 V - 0.0128 \\ln 10 = 1.10 V - 0.0296 V = 1.07 V$</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "38062": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Environmental Pollution and Qualitative Analysis",
+        "question_type": "Theory",
+        "exam_year": "2022",
+        "question_text": "<p>(i) Describe the environmental effects of <b>acid rain</b> and explain how it is formed.<br>(ii) Outline a qualitative analysis test to distinguish between the following anions in aqueous solution:<br>&nbsp;&nbsp;- Chloride ($Cl^-$)<br>&nbsp;&nbsp;- Sulphate ($SO_4^{2-}$)<br>&nbsp;&nbsp;- Carbonate ($CO_3^{2-}$)<br>Include the reagents used and the observations expected for each test.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) <b>Acid rain</b> is formed when sulfur dioxide ($SO_2$) and nitrogen oxides ($NO_x$) react with water vapor in the atmosphere to produce sulfuric acid ($H_2SO_4$) and nitric acid ($HNO_3$).<br>Environmental effects:<br>- Corrodes buildings and monuments.<br>- Acidifies soil and water bodies, harming aquatic life and vegetation.<br>- Leaches essential nutrients from soil, reducing agricultural productivity.<br><br>(ii) Qualitative analysis tests:<br>- <b>Chloride ($Cl^-$)</b>: Add silver nitrate ($AgNO_3$) solution. Observation: White precipitate of $AgCl$ forms, soluble in dilute ammonia.<br>- <b>Sulphate ($SO_4^{2-}$)</b>: Add barium chloride ($BaCl_2$) solution. Observation: White precipitate of $BaSO_4$ forms, insoluble in dilute acids.<br>- <b>Carbonate ($CO_3^{2-}$)</b>: Add dilute hydrochloric acid ($HCl$). Observation: Effervescence occurs, producing carbon dioxide ($CO_2$) gas, which turns limewater milky.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

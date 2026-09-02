@@ -1,0 +1,307 @@
+{
+    "80520": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Internal combustion engine cycles",
+        "question_type": "Theory",
+        "exam_year": "2025",
+        "question_text": "<p>Explain the four strokes of the <b>Otto cycle</b> in a four-stroke petrol engine. Include the following in your answer:<br><br>(i) The name of each stroke.<br>(ii) The movement of the piston during each stroke.<br>(iii) The state of the inlet and exhaust valves during each stroke.<br>(iv) The occurrence of ignition and power generation.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The four strokes of the <b>Otto cycle</b> in a four-stroke petrol engine are as follows:<br><br><b>(i) Intake Stroke:</b><br>- <b>Piston movement:</b> The piston moves downward from Top Dead Centre (TDC) to Bottom Dead Centre (BDC).<br>- <b>Valves:</b> The inlet valve is open, and the exhaust valve is closed.<br>- <b>Process:</b> A mixture of air and fuel is drawn into the cylinder due to the low pressure created by the downward movement of the piston.<br><br><b>(ii) Compression Stroke:</b><br>- <b>Piston movement:</b> The piston moves upward from BDC to TDC.<br>- <b>Valves:</b> Both the inlet and exhaust valves are closed.<br>- <b>Process:</b> The air-fuel mixture is compressed, increasing its temperature and pressure. Near the end of this stroke, the spark plug ignites the mixture.<br><br><b>(iii) Power (Expansion) Stroke:</b><br>- <b>Piston movement:</b> The piston is forced downward from TDC to BDC.<br>- <b>Valves:</b> Both the inlet and exhaust valves remain closed.<br>- <b>Process:</b> The ignited air-fuel mixture burns rapidly, generating high pressure that forces the piston downward, producing mechanical work.<br><br><b>(iv) Exhaust Stroke:</b><br>- <b>Piston movement:</b> The piston moves upward from BDC to TDC.<br>- <b>Valves:</b> The exhaust valve is open, and the inlet valve is closed.<br>- <b>Process:</b> The burned gases are expelled from the cylinder through the exhaust valve.<br><br>The cycle then repeats.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "80521": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Engine components and functions",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>Which of the following engine components is responsible for converting the linear motion of the pistons into rotary motion?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>crankshaft</b> is the engine component that converts the linear (up-and-down) motion of the pistons into rotary motion. This rotary motion is then transmitted to the drivetrain to propel the vehicle.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "51262",
+                "tag": "a",
+                "text": "Camshaft",
+                "is_correct": false
+            },
+            {
+                "option_id": "71520",
+                "tag": "b",
+                "text": "Crankshaft",
+                "is_correct": true
+            },
+            {
+                "option_id": "85309",
+                "tag": "c",
+                "text": "Connecting rod",
+                "is_correct": false
+            },
+            {
+                "option_id": "99037",
+                "tag": "d",
+                "text": "Flywheel",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "80522": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Engine lubrication systems",
+        "question_type": "Theory",
+        "exam_year": "2025",
+        "question_text": "<p>Describe the <b>wet sump lubrication system</b> used in most internal combustion engines. Include the following in your answer:<br><br>(i) The main components of the system.<br>(ii) The flow path of the lubricating oil.<br>(iii) Two advantages and two disadvantages of this system.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>(i) Main Components of the Wet Sump Lubrication System:</b><br>- <b>Oil pan (sump):</b> Stores the engine oil.<br>- <b>Oil pump:</b> Circulates oil through the engine.<br>- <b>Oil filter:</b> Removes contaminants from the oil.<br>- <b>Oil galleries:</b> Channels that distribute oil to engine components.<br>- <b>Pressure relief valve:</b> Regulates oil pressure to prevent damage.<br><br><b>(ii) Flow Path of Lubricating Oil:</b><br>1. The oil pump draws oil from the oil pan.<br>2. The oil is forced through the oil filter to remove impurities.<br>3. The filtered oil is distributed via oil galleries to critical engine components such as the crankshaft, camshaft, and bearings.<br>4. After lubricating the components, the oil drains back into the oil pan by gravity.<br><br><b>(iii) Advantages and Disadvantages:</b><br><b>Advantages:</b><br>- <b>Simplicity:</b> Fewer components compared to dry sump systems, making it easier to maintain.<br>- <b>Cost-effective:</b> Lower manufacturing and maintenance costs.<br><br><b>Disadvantages:</b><br>- <b>Oil starvation:</b> During high-speed cornering or acceleration, oil may slosh away from the pickup tube, leading to temporary oil starvation.<br>- <b>Limited oil capacity:</b> Smaller oil capacity compared to dry sump systems, which can lead to faster oil degradation.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "80523": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Cooling systems types",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>In a liquid cooling system, what is the primary function of the <b>thermostat</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>thermostat</b> in a liquid cooling system regulates the flow of coolant to maintain the engine at its optimal operating temperature. It remains closed when the engine is cold, allowing it to warm up quickly, and opens when the engine reaches operating temperature to allow coolant flow.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "51263",
+                "tag": "a",
+                "text": "To increase the boiling point of the coolant",
+                "is_correct": false
+            },
+            {
+                "option_id": "71521",
+                "tag": "b",
+                "text": "To regulate the flow of coolant based on engine temperature",
+                "is_correct": true
+            },
+            {
+                "option_id": "85310",
+                "tag": "c",
+                "text": "To filter impurities from the coolant",
+                "is_correct": false
+            },
+            {
+                "option_id": "99038",
+                "tag": "d",
+                "text": "To pump coolant through the engine",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "80524": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Fuel supply systems",
+        "question_type": "Theory",
+        "exam_year": "2025",
+        "question_text": "<p>Explain the operation of a <b>carburetor</b> in a petrol engine. Include the following in your answer:<br><br>(i) The basic principle of operation.<br>(ii) The function of the float chamber.<br>(iii) The role of the venturi.<br>(iv) Two disadvantages of carburetors compared to fuel injection systems.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>(i) Basic Principle of Operation:</b><br>A carburetor mixes air and fuel in the correct ratio for combustion in a petrol engine. It operates on the principle of <b>Bernoulli\u2019s theorem</b>, where the pressure difference created by airflow through a venturi draws fuel into the airstream.<br><br><b>(ii) Function of the Float Chamber:</b><br>The float chamber maintains a constant level of fuel in the carburetor. A float and needle valve regulate the fuel level, ensuring a steady supply of fuel to the venturi.<br><br><b>(iii) Role of the Venturi:</b><br>The venturi is a narrowed section in the carburetor\u2019s air passage. As air flows through the venturi, its speed increases, creating a low-pressure area that draws fuel from the float chamber into the airstream.<br><br><b>(iv) Disadvantages of Carburetors:</b><br>- <b>Inconsistent air-fuel mixture:</b> Carburetors struggle to maintain an optimal air-fuel ratio under varying engine conditions (e.g., altitude, temperature).<br>- <b>Poor fuel efficiency:</b> Carburetors are less precise than fuel injection systems, leading to higher fuel consumption and emissions.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "80525": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Clutch types and operation",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>Which type of clutch uses a <b>diaphragm spring</b> to apply pressure to the pressure plate?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>diaphragm spring clutch</b> uses a diaphragm spring to apply pressure to the pressure plate. This design is commonly used in modern vehicles due to its compact size and efficient operation.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "51264",
+                "tag": "a",
+                "text": "Cone clutch",
+                "is_correct": false
+            },
+            {
+                "option_id": "71522",
+                "tag": "b",
+                "text": "Diaphragm spring clutch",
+                "is_correct": true
+            },
+            {
+                "option_id": "85311",
+                "tag": "c",
+                "text": "Multi-plate clutch",
+                "is_correct": false
+            },
+            {
+                "option_id": "99039",
+                "tag": "d",
+                "text": "Centrifugal clutch",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "80526": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Manual transmission basics",
+        "question_type": "Theory",
+        "exam_year": "2025",
+        "question_text": "<p>Describe the operation of a <b>synchromesh mechanism</b> in a manual transmission. Include the following in your answer:<br><br>(i) The purpose of the synchromesh mechanism.<br>(ii) The main components involved.<br>(iii) The sequence of events during gear engagement.<br>(iv) One advantage of using a synchromesh mechanism.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>(i) Purpose of the Synchromesh Mechanism:</b><br>The synchromesh mechanism synchronizes the speeds of the gear and the shaft before engagement, allowing smooth and quiet gear shifts without grinding.<br><br><b>(ii) Main Components Involved:</b><br>- <b>Sleeve:</b> Slides axially to engage the gear.<br>- <b>Blocking ring (synchro ring):</b> Matches the speeds of the gear and shaft.<br>- <b>Hub:</b> Splined to the shaft and holds the sleeve.<br>- <b>Keys and springs:</b> Assist in the synchronization process.<br><br><b>(iii) Sequence of Events During Gear Engagement:</b><br>1. The driver moves the gear lever, causing the sleeve to move toward the target gear.<br>2. The sleeve contacts the blocking ring, which begins to rotate at the speed of the gear.<br>3. Friction between the blocking ring and the gear cone synchronizes their speeds.<br>4. Once synchronized, the sleeve slides over the blocking ring and locks into the gear.<br><br><b>(iv) Advantage of Synchromesh Mechanism:</b><br>- <b>Smooth gear shifts:</b> Eliminates grinding and reduces wear on gears, improving driver comfort and transmission longevity.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "80527": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Suspension system types",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>Which of the following suspension systems uses <b>air springs</b> to support the vehicle\u2019s weight?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>air suspension system</b> uses air springs (also called air bags) to support the vehicle\u2019s weight. This system provides a smooth ride and can adjust the vehicle\u2019s height automatically.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "51265",
+                "tag": "a",
+                "text": "MacPherson strut suspension",
+                "is_correct": false
+            },
+            {
+                "option_id": "71523",
+                "tag": "b",
+                "text": "Double wishbone suspension",
+                "is_correct": false
+            },
+            {
+                "option_id": "85312",
+                "tag": "c",
+                "text": "Air suspension",
+                "is_correct": true
+            },
+            {
+                "option_id": "99040",
+                "tag": "d",
+                "text": "Torsion bar suspension",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "80528": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Brake system principles",
+        "question_type": "Theory",
+        "exam_year": "2025",
+        "question_text": "<p>Explain the operation of a <b>hydraulic brake system</b> in a vehicle. Include the following in your answer:<br><br>(i) The basic principle of hydraulic braking.<br>(ii) The main components of the system.<br>(iii) The sequence of events when the brake pedal is pressed.<br>(iv) One advantage and one disadvantage of hydraulic brake systems.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>(i) Basic Principle of Hydraulic Braking:</b><br>A hydraulic brake system uses <b>Pascal\u2019s Law</b>, which states that pressure applied to a fluid in a closed system is transmitted equally in all directions. This allows force applied at the brake pedal to be multiplied and transmitted to the brake components at each wheel.<br><br><b>(ii) Main Components of the System:</b><br>- <b>Brake pedal:</b> The driver\u2019s input device.<br>- <b>Master cylinder:</b> Converts mechanical force into hydraulic pressure.<br>- <b>Brake lines and hoses:</b> Transmit hydraulic pressure to the wheels.<br>- <b>Wheel cylinders (drum brakes) or calipers (disc brakes):</b> Convert hydraulic pressure into mechanical force to apply the brakes.<br>- <b>Brake pads/shoes:</b> Create friction to slow or stop the vehicle.<br>- <b>Brake fluid:</b> The hydraulic medium.<br><br><b>(iii) Sequence of Events When the Brake Pedal is Pressed:</b><br>1. The driver presses the brake pedal, pushing the piston in the master cylinder.<br>2. The master cylinder pressurizes the brake fluid, sending it through the brake lines.<br>3. The pressurized fluid reaches the wheel cylinders or calipers, forcing the brake pads/shoes against the rotors or drums.<br>4. Friction between the pads/shoes and rotors/drums slows or stops the vehicle.<br><br><b>(iv) Advantage and Disadvantage of Hydraulic Brake Systems:</b><br><b>Advantage:</b><br>- <b>Efficient force multiplication:</b> Allows for strong braking force with minimal pedal effort.<br><br><b>Disadvantage:</b><br>- <b>Risk of fluid leaks:</b> Leaks in the system can lead to brake failure.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "80529": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Auto Mechanics",
+        "topic": "Vehicle electrical systems",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>What is the primary function of the <b>alternator</b> in a vehicle\u2019s electrical system?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>alternator</b> converts mechanical energy from the engine into electrical energy to recharge the battery and power the vehicle\u2019s electrical systems while the engine is running.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "51266",
+                "tag": "a",
+                "text": "To start the engine",
+                "is_correct": false
+            },
+            {
+                "option_id": "71524",
+                "tag": "b",
+                "text": "To convert mechanical energy into electrical energy",
+                "is_correct": true
+            },
+            {
+                "option_id": "85313",
+                "tag": "c",
+                "text": "To regulate the engine\u2019s fuel injection",
+                "is_correct": false
+            },
+            {
+                "option_id": "99041",
+                "tag": "d",
+                "text": "To control the vehicle\u2019s lighting system",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

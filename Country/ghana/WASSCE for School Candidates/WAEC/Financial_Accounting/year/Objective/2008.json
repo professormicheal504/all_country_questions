@@ -1288,5 +1288,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "33829": {
+        "order_id": 31,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Accounting Basics",
+        "question_type": "Objective",
+        "exam_year": "2008",
+        "question_text": "<p>Which of the following is <b>not</b> a branch of accounting?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The main branches of accounting include Financial Accounting, Cost Accounting, Management Accounting, and Auditing. <i>Taxation</i> is a related field but not a branch of accounting.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "13668",
+                "tag": "a",
+                "text": "Financial Accounting",
+                "is_correct": false
+            },
+            {
+                "option_id": "45077",
+                "tag": "b",
+                "text": "Taxation",
+                "is_correct": true
+            },
+            {
+                "option_id": "24343",
+                "tag": "c",
+                "text": "Cost Accounting",
+                "is_correct": false
+            },
+            {
+                "option_id": "19974",
+                "tag": "d",
+                "text": "Management Accounting",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "33830": {
+        "order_id": 32,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Accounting Principles",
+        "question_type": "Objective",
+        "exam_year": "2008",
+        "question_text": "<p>The principle that states that revenue should be recognized when it is earned, not necessarily when cash is received, is known as the:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>Realization Principle</b> (or Revenue Recognition Principle) states that revenue should be recognized when it is earned, regardless of when cash is received. This ensures accurate financial reporting.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "13669",
+                "tag": "a",
+                "text": "Matching Principle",
+                "is_correct": false
+            },
+            {
+                "option_id": "45078",
+                "tag": "b",
+                "text": "Realization Principle",
+                "is_correct": true
+            },
+            {
+                "option_id": "24344",
+                "tag": "c",
+                "text": "Consistency Principle",
+                "is_correct": false
+            },
+            {
+                "option_id": "19975",
+                "tag": "d",
+                "text": "Materiality Principle",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "33831": {
+        "order_id": 33,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Accounting Equation",
+        "question_type": "Objective",
+        "exam_year": "2008",
+        "question_text": "<p>If assets are $50,000 and liabilities are $20,000, what is the owner's equity?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The accounting equation is: <b>Assets = Liabilities + Owner's Equity</b>. Rearranged, <b>Owner's Equity = Assets - Liabilities</b>. Thus, $50,000 - $20,000 = $30,000.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "13670",
+                "tag": "a",
+                "text": "$20,000",
+                "is_correct": false
+            },
+            {
+                "option_id": "45079",
+                "tag": "b",
+                "text": "$30,000",
+                "is_correct": true
+            },
+            {
+                "option_id": "24345",
+                "tag": "c",
+                "text": "$50,000",
+                "is_correct": false
+            },
+            {
+                "option_id": "19976",
+                "tag": "d",
+                "text": "$70,000",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "33832": {
+        "order_id": 34,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Double-Entry Rules",
+        "question_type": "Objective",
+        "exam_year": "2008",
+        "question_text": "<p>In double-entry accounting, which of the following accounts is <b>credited</b> when cash is received?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Under double-entry rules, when cash is received, the <b>Cash Account</b> is debited (increase in asset), and the corresponding account (e.g., Revenue) is <b>credited</b>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "13671",
+                "tag": "a",
+                "text": "Cash Account",
+                "is_correct": false
+            },
+            {
+                "option_id": "45080",
+                "tag": "b",
+                "text": "Revenue Account",
+                "is_correct": true
+            },
+            {
+                "option_id": "24346",
+                "tag": "c",
+                "text": "Expense Account",
+                "is_correct": false
+            },
+            {
+                "option_id": "19977",
+                "tag": "d",
+                "text": "Capital Account",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "33833": {
+        "order_id": 35,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Source Documents",
+        "question_type": "Objective",
+        "exam_year": "2008",
+        "question_text": "<p>Which of the following is <b>not</b> a source document in accounting?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Source documents provide evidence of transactions. Common examples include invoices, receipts, and credit notes. A <b>Trial Balance</b> is not a source document but a summary of ledger balances.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "13672",
+                "tag": "a",
+                "text": "Invoice",
+                "is_correct": false
+            },
+            {
+                "option_id": "45081",
+                "tag": "b",
+                "text": "Receipt",
+                "is_correct": false
+            },
+            {
+                "option_id": "24347",
+                "tag": "c",
+                "text": "Trial Balance",
+                "is_correct": true
+            },
+            {
+                "option_id": "19978",
+                "tag": "d",
+                "text": "Credit Note",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "33834": {
+        "order_id": 36,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Bank Reconciliation",
+        "question_type": "Objective",
+        "exam_year": "2008",
+        "question_text": "<p>A cheque issued for $1,000 but not yet presented for payment will appear in the bank reconciliation statement as:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>An unpresented cheque is a cheque issued by the business but not yet cleared by the bank. It is <b>deducted from the bank statement balance</b> in the reconciliation process.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "13673",
+                "tag": "a",
+                "text": "Added to the cash book balance",
+                "is_correct": false
+            },
+            {
+                "option_id": "45082",
+                "tag": "b",
+                "text": "Deducted from the bank statement balance",
+                "is_correct": true
+            },
+            {
+                "option_id": "24348",
+                "tag": "c",
+                "text": "Added to the bank statement balance",
+                "is_correct": false
+            },
+            {
+                "option_id": "19979",
+                "tag": "d",
+                "text": "Deducted from the cash book balance",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "33835": {
+        "order_id": 37,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Depreciation Methods",
+        "question_type": "Objective",
+        "exam_year": "2008",
+        "question_text": "<p>Under the <b>straight-line method</b> of depreciation, if an asset costs $20,000, has a residual value of $2,000, and a useful life of 5 years, what is the annual depreciation expense?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The straight-line depreciation formula is:<br><b>Annual Depreciation = (Cost - Residual Value) / Useful Life</b>.<br>Thus, ($20,000 - $2,000) / 5 = $3,600.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "13674",
+                "tag": "a",
+                "text": "$3,000",
+                "is_correct": false
+            },
+            {
+                "option_id": "45083",
+                "tag": "b",
+                "text": "$3,600",
+                "is_correct": true
+            },
+            {
+                "option_id": "24349",
+                "tag": "c",
+                "text": "$4,000",
+                "is_correct": false
+            },
+            {
+                "option_id": "19980",
+                "tag": "d",
+                "text": "$5,000",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "33836": {
+        "order_id": 38,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Partnership Accounts",
+        "question_type": "Objective",
+        "exam_year": "2008",
+        "question_text": "<p>In partnership accounts, the <b>profit and loss appropriation account</b> is used to:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>Profit and Loss Appropriation Account</b> is used to distribute profits among partners according to the partnership agreement, including salaries, interest on capital, and residual profit shares.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "13675",
+                "tag": "a",
+                "text": "Record daily transactions",
+                "is_correct": false
+            },
+            {
+                "option_id": "45084",
+                "tag": "b",
+                "text": "Distribute profits among partners",
+                "is_correct": true
+            },
+            {
+                "option_id": "24350",
+                "tag": "c",
+                "text": "Calculate depreciation",
+                "is_correct": false
+            },
+            {
+                "option_id": "19981",
+                "tag": "d",
+                "text": "Prepare the trial balance",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "33837": {
+        "order_id": 39,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Final Accounts",
+        "question_type": "Objective",
+        "exam_year": "2008",
+        "question_text": "<p>Which of the following is <b>not</b> included in the <b>Trading Account</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>Trading Account</b> includes items related to the calculation of gross profit, such as sales, cost of goods sold, and opening/closing inventory. <b>Salaries</b> are an expense recorded in the Profit and Loss Account.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "13676",
+                "tag": "a",
+                "text": "Sales",
+                "is_correct": false
+            },
+            {
+                "option_id": "45085",
+                "tag": "b",
+                "text": "Salaries",
+                "is_correct": true
+            },
+            {
+                "option_id": "24351",
+                "tag": "c",
+                "text": "Opening Inventory",
+                "is_correct": false
+            },
+            {
+                "option_id": "19982",
+                "tag": "d",
+                "text": "Purchases",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "33838": {
+        "order_id": 40,
+        "exam_type": "WAEC",
+        "subject": "Financial Accounting",
+        "topic": "Non-Profit Accounting",
+        "question_type": "Objective",
+        "exam_year": "2008",
+        "question_text": "<p>In non-profit organizations, the excess of income over expenditure is called:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In non-profit accounting, the excess of income over expenditure is referred to as a <b>Surplus</b>, not profit, as the organization is not profit-oriented.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "13677",
+                "tag": "a",
+                "text": "Profit",
+                "is_correct": false
+            },
+            {
+                "option_id": "45086",
+                "tag": "b",
+                "text": "Surplus",
+                "is_correct": true
+            },
+            {
+                "option_id": "24352",
+                "tag": "c",
+                "text": "Deficit",
+                "is_correct": false
+            },
+            {
+                "option_id": "19983",
+                "tag": "d",
+                "text": "Revenue",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

@@ -1,0 +1,307 @@
+{
+    "52545": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Atomic Structure and Electron Blocks",
+        "question_type": "Practical",
+        "exam_year": "2016",
+        "question_text": "<p>An element <b>X</b> has the electronic configuration $1s^2 2s^2 2p^6 3s^2 3p^4$.<br>Identify the block to which element <b>X</b> belongs and write the formula of its most stable ion.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Element <b>X</b> has the electronic configuration $1s^2 2s^2 2p^6 3s^2 3p^4$, which corresponds to sulfur (S).<br>The outermost electrons are in the <i>p</i>-orbital, so it belongs to the <b>p-block</b>.<br>Sulfur tends to gain 2 electrons to achieve a stable noble gas configuration, forming the ion $S^{2-}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "52546": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Periodic Trends",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>Which of the following elements has the <b>highest</b> first ionization energy?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>First ionization energy increases across a period from left to right and decreases down a group.<br>Among the given options, <b>fluorine (F)</b> is the farthest to the right in the second period, giving it the highest first ionization energy.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "51218",
+                "tag": "a",
+                "text": "Sodium ($Na$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "11351",
+                "tag": "b",
+                "text": "Fluorine ($F$)",
+                "is_correct": true
+            },
+            {
+                "option_id": "42429",
+                "tag": "c",
+                "text": "Oxygen ($O$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "10675",
+                "tag": "d",
+                "text": "Chlorine ($Cl$)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "52547": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Chemical Bonding Types",
+        "question_type": "Practical",
+        "exam_year": "2016",
+        "question_text": "<p>Explain why <b>magnesium chloride ($MgCl_2$)</b> has a higher melting point than <b>carbon tetrachloride ($CCl_4$)</b>.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Magnesium chloride ($MgCl_2$)</b> is an ionic compound with strong electrostatic forces between $Mg^{2+}$ and $Cl^-$ ions, requiring significant energy to break.<br><b>Carbon tetrachloride ($CCl_4$)</b> is a covalent molecule with weak van der Waals forces, resulting in a much lower melting point.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "52548": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Gas Laws and Kinetic Theory",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>A gas occupies a volume of $2.0 dm^3$ at a pressure of $1.0 atm$. If the pressure is increased to $2.0 atm$ at constant temperature, what is the new volume? (Assume ideal behavior.)</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Using Boyle's Law: $P_1V_1 = P_2V_2$.<br>Given $P_1 = 1.0 atm$, $V_1 = 2.0 dm^3$, and $P_2 = 2.0 atm$, solving for $V_2$ gives:<br>$V_2 = \frac{P_1V_1}{P_2} = \frac{1.0 \times 2.0}{2.0} = 1.0 dm^3$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "51218",
+                "tag": "a",
+                "text": "$0.5 dm^3$",
+                "is_correct": false
+            },
+            {
+                "option_id": "11351",
+                "tag": "b",
+                "text": "$1.0 dm^3$",
+                "is_correct": true
+            },
+            {
+                "option_id": "42429",
+                "tag": "c",
+                "text": "$2.0 dm^3$",
+                "is_correct": false
+            },
+            {
+                "option_id": "10675",
+                "tag": "d",
+                "text": "$4.0 dm^3$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "52549": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Solutions and Colligative Properties",
+        "question_type": "Practical",
+        "exam_year": "2016",
+        "question_text": "<p>Calculate the boiling point elevation of a solution containing $0.5 mol$ of glucose ($C_6H_{12}O_6$) dissolved in $1000 g$ of water. (Given: $K_b$ for water = $0.52 \u00b0C kg/mol$.)</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The formula for boiling point elevation is:<br>$\\Delta T_b = i K_b m$, where $i = 1$ (glucose is non-electrolyte), $K_b = 0.52 \u00b0C kg/mol$, and $m = \frac{0.5 mol}{1 kg} = 0.5 mol/kg$.<br>Thus, $\\Delta T_b = 1 \times 0.52 \times 0.5 = 0.26 \u00b0C$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "52550": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Thermochemistry and Enthalpy",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>The combustion of methane is represented by:<br>$CH_4 (g) + 2O_2 (g) \\rightarrow CO_2 (g) + 2H_2O (l)$<br>Given $\\Delta H = -890 kJ/mol$, what is the enthalpy change for the combustion of $2 mol$ of methane?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The enthalpy change for $1 mol$ of methane is $-890 kJ$.<br>For $2 mol$, the enthalpy change is $2 \times -890 kJ = -1780 kJ$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "51218",
+                "tag": "a",
+                "text": "$-445 kJ$",
+                "is_correct": false
+            },
+            {
+                "option_id": "11351",
+                "tag": "b",
+                "text": "$-890 kJ$",
+                "is_correct": false
+            },
+            {
+                "option_id": "42429",
+                "tag": "c",
+                "text": "$-1780 kJ$",
+                "is_correct": true
+            },
+            {
+                "option_id": "10675",
+                "tag": "d",
+                "text": "$+1780 kJ$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "52551": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Reaction Rates and Kinetics",
+        "question_type": "Practical",
+        "exam_year": "2016",
+        "question_text": "<p>Explain how the following factors affect the rate of a chemical reaction:<br>(i) Concentration of reactants<br>(ii) Temperature<br>(iii) Catalyst</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) <b>Concentration of reactants:</b> Increasing concentration increases the frequency of collisions, thus increasing the reaction rate.<br>(ii) <b>Temperature:</b> Higher temperature increases kinetic energy, leading to more frequent and energetic collisions, increasing the rate.<br>(iii) <b>Catalyst:</b> A catalyst provides an alternative reaction pathway with lower activation energy, increasing the rate without being consumed.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "52552": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Acid-Base Theories and pH",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>What is the $pH$ of a $0.01 mol/dm^3$ solution of hydrochloric acid ($HCl$)?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>$HCl$ is a strong acid and dissociates completely in water:<br>$[H^+] = 0.01 mol/dm^3 = 10^{-2} mol/dm^3$.<br>$pH = -\\log[H^+] = -\\log(10^{-2}) = 2$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "51218",
+                "tag": "a",
+                "text": "$1$",
+                "is_correct": false
+            },
+            {
+                "option_id": "11351",
+                "tag": "b",
+                "text": "$2$",
+                "is_correct": true
+            },
+            {
+                "option_id": "42429",
+                "tag": "c",
+                "text": "$12$",
+                "is_correct": false
+            },
+            {
+                "option_id": "10675",
+                "tag": "d",
+                "text": "$13$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "52553": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Redox Reactions and Electrochemistry",
+        "question_type": "Practical",
+        "exam_year": "2016",
+        "question_text": "<p>Write the half-reactions and the overall balanced equation for the reaction between zinc and copper(II) sulfate solution.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Oxidation half-reaction:</b> $Zn (s) \\rightarrow Zn^{2+} (aq) + 2e^-$.<br><b>Reduction half-reaction:</b> $Cu^{2+} (aq) + 2e^- \\rightarrow Cu (s)$.<br><b>Overall reaction:</b> $Zn (s) + Cu^{2+} (aq) \\rightarrow Zn^{2+} (aq) + Cu (s)$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "52554": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Organic Nomenclature and Isomerism",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>Which of the following compounds exhibits <b>geometric isomerism</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Geometric isomerism occurs in alkenes with different groups attached to the double-bonded carbons.<br><b>2-Butene ($CH_3-CH=CH-CH_3$)</b> exhibits <i>cis-trans</i> isomerism due to restricted rotation around the double bond.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "51218",
+                "tag": "a",
+                "text": "Ethane ($C_2H_6$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "11351",
+                "tag": "b",
+                "text": "2-Butene ($C_4H_8$)",
+                "is_correct": true
+            },
+            {
+                "option_id": "42429",
+                "tag": "c",
+                "text": "Benzene ($C_6H_6$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "10675",
+                "tag": "d",
+                "text": "Methane ($CH_4$)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

@@ -1,0 +1,257 @@
+{
+    "10846": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "ICT Basics",
+        "question_type": "Theory",
+        "exam_year": "2014",
+        "question_text": "<p>Explain the term <b>Information and Communication Technology (ICT)</b> and state <u>three</u> areas where ICT is applied in modern society.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Information and Communication Technology (ICT)</b> refers to the use of digital technology to handle information and facilitate communication. It encompasses hardware, software, networks, and media for collecting, storing, processing, transmitting, and presenting information.<br><br><b>Areas of application:</b><br>1. <i>Education:</i> E-learning platforms, digital libraries, and virtual classrooms.<br>2. <i>Healthcare:</i> Electronic health records, telemedicine, and medical imaging.<br>3. <i>Business:</i> E-commerce, digital marketing, and automated customer service.<br>4. <i>Government:</i> E-governance, online tax filing, and digital voting systems.<br>5. <i>Entertainment:</i> Streaming services, gaming, and social media.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "10847": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Computer Types",
+        "question_type": "Objective",
+        "exam_year": "2014",
+        "question_text": "<p>Which of the following is an example of a <b>supercomputer</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Supercomputers are high-performance computing machines designed for complex calculations and data processing. <b>IBM Summit</b> is a well-known supercomputer used for scientific research, weather forecasting, and nuclear simulations.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "31505",
+                "tag": "a",
+                "text": "Dell Inspiron",
+                "is_correct": false
+            },
+            {
+                "option_id": "30040",
+                "tag": "b",
+                "text": "IBM Summit",
+                "is_correct": true
+            },
+            {
+                "option_id": "79978",
+                "tag": "c",
+                "text": "Apple MacBook Pro",
+                "is_correct": false
+            },
+            {
+                "option_id": "40546",
+                "tag": "d",
+                "text": "HP Pavilion",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "10848": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Hardware Components",
+        "question_type": "Theory",
+        "exam_year": "2014",
+        "question_text": "<p>Describe the functions of the following hardware components:<br>(i) <b>Central Processing Unit (CPU)</b><br>(ii) <b>Random Access Memory (RAM)</b><br>(iii) <b>Hard Disk Drive (HDD)</b></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) <b>Central Processing Unit (CPU):</b> The CPU is the brain of the computer. It performs arithmetic and logical operations, executes instructions, and manages data flow between components.<br><br>(ii) <b>Random Access Memory (RAM):</b> RAM is volatile memory that temporarily stores data and instructions for quick access by the CPU. It speeds up processing by reducing the time taken to retrieve data from storage.<br><br>(iii) <b>Hard Disk Drive (HDD):</b> The HDD is non-volatile storage that permanently stores data, programs, and the operating system. It uses magnetic storage to read and write data.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "10849": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Number System Conversion",
+        "question_type": "Theory",
+        "exam_year": "2014",
+        "question_text": "<p>Convert the binary number <b>$110101_2$</b> to its decimal equivalent. Show all working steps.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>To convert $110101_2$ to decimal:<br><br>$1 \\times 2^5 + 1 \\times 2^4 + 0 \\times 2^3 + 1 \\times 2^2 + 0 \\times 2^1 + 1 \\times 2^0$<br><br>$= 1 \\times 32 + 1 \\times 16 + 0 \\times 8 + 1 \\times 4 + 0 \\times 2 + 1 \\times 1$<br><br>$= 32 + 16 + 0 + 4 + 0 + 1$<br><br>$= 53_{10}$</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "10850": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Operating Systems",
+        "question_type": "Objective",
+        "exam_year": "2014",
+        "question_text": "<p>Which of the following is <b>NOT</b> a function of an operating system?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>An operating system manages hardware resources, provides a user interface, runs applications, and handles file management. <b>Compiling source code</b> is a function of a compiler, not an operating system.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "31505",
+                "tag": "a",
+                "text": "Memory management",
+                "is_correct": false
+            },
+            {
+                "option_id": "30040",
+                "tag": "b",
+                "text": "User interface provision",
+                "is_correct": false
+            },
+            {
+                "option_id": "79978",
+                "tag": "c",
+                "text": "Compiling source code",
+                "is_correct": true
+            },
+            {
+                "option_id": "40546",
+                "tag": "d",
+                "text": "File management",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "10851": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Network Types",
+        "question_type": "Theory",
+        "exam_year": "2014",
+        "question_text": "<p>Differentiate between a <b>Local Area Network (LAN)</b> and a <b>Wide Area Network (WAN)</b>. Give <u>one example</u> of each.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Local Area Network (LAN):</b> A LAN covers a small geographic area, such as a school, office, or building. It is privately owned and offers high-speed data transfer.<br><i>Example:</i> A network connecting computers in a school computer lab.<br><br><b>Wide Area Network (WAN):</b> A WAN spans a large geographic area, such as a country or continent. It connects multiple LANs and is often publicly or commercially owned.<br><i>Example:</i> The internet, which connects networks worldwide.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "10852": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Cybersecurity Threats",
+        "question_type": "Objective",
+        "exam_year": "2014",
+        "question_text": "<p>Which of the following is an example of a <b>social engineering attack</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Social engineering attacks manipulate individuals into divulging confidential information. <b>Phishing</b> is a common example where attackers impersonate legitimate entities to trick users into revealing sensitive data.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "31505",
+                "tag": "a",
+                "text": "Malware",
+                "is_correct": false
+            },
+            {
+                "option_id": "30040",
+                "tag": "b",
+                "text": "Phishing",
+                "is_correct": true
+            },
+            {
+                "option_id": "79978",
+                "tag": "c",
+                "text": "Denial of Service (DoS)",
+                "is_correct": false
+            },
+            {
+                "option_id": "40546",
+                "tag": "d",
+                "text": "Brute force attack",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "10853": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Spreadsheet Tools",
+        "question_type": "Theory",
+        "exam_year": "2014",
+        "question_text": "<p>Explain the use of the following functions in a spreadsheet:<br>(i) <b>SUM</b><br>(ii) <b>AVERAGE</b><br>(iii) <b>IF</b></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) <b>SUM:</b> Adds all the numbers in a range of cells. Example: <code>=SUM(A1:A10)</code> adds values from A1 to A10.<br><br>(ii) <b>AVERAGE:</b> Calculates the arithmetic mean of numbers in a range. Example: <code>=AVERAGE(B1:B5)</code> finds the average of values in B1 to B5.<br><br>(iii) <b>IF:</b> Performs a logical test and returns one value if true and another if false. Example: <code>=IF(C1>50, \"Pass\", \"Fail\")</code> returns \"Pass\" if C1 is greater than 50, otherwise \"Fail\".</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "10854": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Logic Gates",
+        "question_type": "Theory",
+        "exam_year": "2014",
+        "question_text": "<p>Draw the truth table for a <b>NAND gate</b> and explain its operation.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>NAND gate</b> is a combination of an AND gate followed by a NOT gate. It outputs <i>false</i> only when all inputs are <i>true</i>.<br><br><b>Truth Table:</b><br><table border=\"1\"><tr><th>A</th><th>B</th><th>A NAND B</th></tr><tr><td>0</td><td>0</td><td>1</td></tr><tr><td>0</td><td>1</td><td>1</td></tr><tr><td>1</td><td>0</td><td>1</td></tr><tr><td>1</td><td>1</td><td>0</td></tr></table></p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "10855": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "ICT in Society",
+        "question_type": "Theory",
+        "exam_year": "2014",
+        "question_text": "<p>Discuss <u>three</u> positive impacts and <u>two</u> negative impacts of ICT on society.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Positive Impacts:</b><br>1. <i>Improved Communication:</i> ICT enables instant communication through emails, social media, and video calls.<br>2. <i>Access to Information:</i> The internet provides vast knowledge resources, enhancing education and research.<br>3. <i>Economic Growth:</i> ICT drives innovation, creates jobs, and boosts productivity in industries.<br><br><b>Negative Impacts:</b><br>1. <i>Digital Divide:</i> Unequal access to ICT widens the gap between developed and developing regions.<br>2. <i>Cybercrime:</i> Increased online activity leads to fraud, hacking, and identity theft.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

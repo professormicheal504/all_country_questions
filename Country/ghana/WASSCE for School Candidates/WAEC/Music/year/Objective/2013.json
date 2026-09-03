@@ -1288,5 +1288,478 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "15342": {
+        "order_id": 31,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Music Elements",
+        "question_type": "Objective",
+        "exam_year": "2013",
+        "question_text": "<p>Which of the following is <b>NOT</b> a fundamental element of music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The fundamental elements of music include pitch, rhythm, dynamics, timbre, texture, and form. <i>Harmony</i> is a derived element, not a fundamental one.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "56677",
+                "tag": "a",
+                "text": "Pitch",
+                "is_correct": false
+            },
+            {
+                "option_id": "88894",
+                "tag": "b",
+                "text": "Harmony",
+                "is_correct": true
+            },
+            {
+                "option_id": "25956",
+                "tag": "c",
+                "text": "Rhythm",
+                "is_correct": false
+            },
+            {
+                "option_id": "91450",
+                "tag": "d",
+                "text": "Timbre",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "15343": {
+        "order_id": 32,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Music Notation Basics",
+        "question_type": "Objective",
+        "exam_year": "2013",
+        "question_text": "<p>What does a <b>dot</b> after a note in music notation indicate?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A dot after a note increases its duration by half of its original value. For example, a dotted quarter note equals a quarter note plus an eighth note.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "56678",
+                "tag": "a",
+                "text": "It shortens the note by half",
+                "is_correct": false
+            },
+            {
+                "option_id": "88895",
+                "tag": "b",
+                "text": "It increases the note's duration by half",
+                "is_correct": true
+            },
+            {
+                "option_id": "25957",
+                "tag": "c",
+                "text": "It indicates a rest",
+                "is_correct": false
+            },
+            {
+                "option_id": "91451",
+                "tag": "d",
+                "text": "It raises the pitch by a semitone",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "15344": {
+        "order_id": 33,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Types of Scales",
+        "question_type": "Objective",
+        "exam_year": "2013",
+        "question_text": "<p>Which scale consists of five notes per octave and is commonly used in traditional Ghanaian music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <i>pentatonic scale</i> has five notes per octave and is widely used in Ghanaian traditional music, such as in <i>Highlife</i> and <i>Adowa</i>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "56679",
+                "tag": "a",
+                "text": "Chromatic scale",
+                "is_correct": false
+            },
+            {
+                "option_id": "88896",
+                "tag": "b",
+                "text": "Pentatonic scale",
+                "is_correct": true
+            },
+            {
+                "option_id": "25958",
+                "tag": "c",
+                "text": "Whole-tone scale",
+                "is_correct": false
+            },
+            {
+                "option_id": "91452",
+                "tag": "d",
+                "text": "Octatonic scale",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "15345": {
+        "order_id": 34,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Intervals and Inversions",
+        "question_type": "Objective",
+        "exam_year": "2013",
+        "question_text": "<p>What is the inversion of a <b>perfect fifth</b> ($5$)?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The inversion of an interval is calculated by subtracting it from $9$. Thus, the inversion of a perfect fifth ($5$) is a perfect fourth ($9 - 5 = 4$).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "56680",
+                "tag": "a",
+                "text": "Perfect fourth",
+                "is_correct": true
+            },
+            {
+                "option_id": "88897",
+                "tag": "b",
+                "text": "Major third",
+                "is_correct": false
+            },
+            {
+                "option_id": "25959",
+                "tag": "c",
+                "text": "Minor sixth",
+                "is_correct": false
+            },
+            {
+                "option_id": "91453",
+                "tag": "d",
+                "text": "Major sixth",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "15346": {
+        "order_id": 35,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Chords and Inversions",
+        "question_type": "Objective",
+        "exam_year": "2013",
+        "question_text": "<p>In a <b>first inversion triad</b>, which note is in the bass?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In a first inversion triad, the <i>third</i> of the chord is in the bass. For example, in a C major triad (C-E-G), the first inversion is E-G-C, with E in the bass.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "56681",
+                "tag": "a",
+                "text": "Root",
+                "is_correct": false
+            },
+            {
+                "option_id": "88898",
+                "tag": "b",
+                "text": "Third",
+                "is_correct": true
+            },
+            {
+                "option_id": "25960",
+                "tag": "c",
+                "text": "Fifth",
+                "is_correct": false
+            },
+            {
+                "option_id": "91454",
+                "tag": "d",
+                "text": "Seventh",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "15347": {
+        "order_id": 36,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Cadence Types",
+        "question_type": "Objective",
+        "exam_year": "2013",
+        "question_text": "<p>Which cadence is described as the <b>\"amen cadence\"</b> due to its common use in hymns?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <i>plagal cadence</i> (IV-I) is often called the \"amen cadence\" because it is frequently used at the end of hymns to conclude with the word \"amen.\"</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "56682",
+                "tag": "a",
+                "text": "Perfect cadence",
+                "is_correct": false
+            },
+            {
+                "option_id": "88899",
+                "tag": "b",
+                "text": "Plagal cadence",
+                "is_correct": true
+            },
+            {
+                "option_id": "25961",
+                "tag": "c",
+                "text": "Imperfect cadence",
+                "is_correct": false
+            },
+            {
+                "option_id": "91455",
+                "tag": "d",
+                "text": "Deceptive cadence",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "15348": {
+        "order_id": 37,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "African Music Traits",
+        "question_type": "Objective",
+        "exam_year": "2013",
+        "question_text": "<p>Which of the following is a <b>key characteristic</b> of African traditional music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>African traditional music is known for its <i>call-and-response</i> structure, where a leader sings or plays a phrase, and a group responds. This is a defining trait in many African musical traditions.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "56683",
+                "tag": "a",
+                "text": "Use of strict Western harmony",
+                "is_correct": false
+            },
+            {
+                "option_id": "88900",
+                "tag": "b",
+                "text": "Call-and-response structure",
+                "is_correct": true
+            },
+            {
+                "option_id": "25962",
+                "tag": "c",
+                "text": "Notation-based composition",
+                "is_correct": false
+            },
+            {
+                "option_id": "91456",
+                "tag": "d",
+                "text": "Solo instrumental focus",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "15349": {
+        "order_id": 38,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Western Art Music Periods",
+        "question_type": "Objective",
+        "exam_year": "2013",
+        "question_text": "<p>Which period of Western art music is associated with composers like <b>Bach</b> and <b>Vivaldi</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <i>Baroque period</i> (1600\u20131750) is associated with composers like Johann Sebastian Bach and Antonio Vivaldi, known for their complex harmonies and ornamentation.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "56684",
+                "tag": "a",
+                "text": "Renaissance",
+                "is_correct": false
+            },
+            {
+                "option_id": "88901",
+                "tag": "b",
+                "text": "Baroque",
+                "is_correct": true
+            },
+            {
+                "option_id": "25963",
+                "tag": "c",
+                "text": "Classical",
+                "is_correct": false
+            },
+            {
+                "option_id": "91457",
+                "tag": "d",
+                "text": "Romantic",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "15350": {
+        "order_id": 39,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Ghanaian Traditional Music",
+        "question_type": "Objective",
+        "exam_year": "2013",
+        "question_text": "<p>Which Ghanaian traditional music genre is performed during <b>funerals</b> and is characterized by slow, mournful rhythms?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><i>Adowa</i> is a Ghanaian traditional music and dance genre performed at funerals, characterized by its slow, mournful rhythms and expressive movements.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "56685",
+                "tag": "a",
+                "text": "Kpanlogo",
+                "is_correct": false
+            },
+            {
+                "option_id": "88902",
+                "tag": "b",
+                "text": "Adowa",
+                "is_correct": true
+            },
+            {
+                "option_id": "25964",
+                "tag": "c",
+                "text": "Agbadza",
+                "is_correct": false
+            },
+            {
+                "option_id": "91458",
+                "tag": "d",
+                "text": "Bawa",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "15351": {
+        "order_id": 40,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Music Technology Tools",
+        "question_type": "Objective",
+        "exam_year": "2013",
+        "question_text": "<p>Which of the following software is primarily used for <b>digital audio workstation (DAW)</b> tasks?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><i>Pro Tools</i> is a widely used digital audio workstation (DAW) for recording, editing, and mixing music and audio.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "56686",
+                "tag": "a",
+                "text": "Microsoft Word",
+                "is_correct": false
+            },
+            {
+                "option_id": "88903",
+                "tag": "b",
+                "text": "Pro Tools",
+                "is_correct": true
+            },
+            {
+                "option_id": "25965",
+                "tag": "c",
+                "text": "Adobe Photoshop",
+                "is_correct": false
+            },
+            {
+                "option_id": "91459",
+                "tag": "d",
+                "text": "AutoCAD",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
+    },
+    "15352": {
+        "order_id": 41,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Aural Skills Training",
+        "question_type": "Objective",
+        "exam_year": "2013",
+        "question_text": "<p>What is the primary purpose of <b>aural skills training</b> in music education?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Aural skills training develops the ability to <i>identify and reproduce musical elements by ear</i>, such as intervals, chords, rhythms, and melodies, enhancing overall musicianship.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "56687",
+                "tag": "a",
+                "text": "To improve sight-reading only",
+                "is_correct": false
+            },
+            {
+                "option_id": "88904",
+                "tag": "b",
+                "text": "To develop the ability to identify and reproduce music by ear",
+                "is_correct": true
+            },
+            {
+                "option_id": "25966",
+                "tag": "c",
+                "text": "To memorize music theory rules",
+                "is_correct": false
+            },
+            {
+                "option_id": "91460",
+                "tag": "d",
+                "text": "To enhance instrumental technique only",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 11
     }
 }

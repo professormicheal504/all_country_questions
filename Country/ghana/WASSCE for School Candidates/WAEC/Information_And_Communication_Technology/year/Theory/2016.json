@@ -1,0 +1,282 @@
+{
+    "33123": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "ICT Basics",
+        "question_type": "Theory",
+        "exam_year": "2016",
+        "question_text": "<p>Explain the term <b>Information and Communication Technology (ICT)</b> and state <u>three</u> areas where ICT is applied in modern society.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Information and Communication Technology (ICT)</b> refers to the use of digital technology to handle information and facilitate communication. It encompasses hardware, software, networks, and media for collecting, storing, processing, transmitting, and presenting data in digital form.<br><br><b>Areas of application:</b><br>1. <i>Education:</i> E-learning platforms, digital libraries, and virtual classrooms.<br>2. <i>Healthcare:</i> Electronic health records, telemedicine, and medical imaging.<br>3. <i>Business:</i> E-commerce, digital marketing, and automated customer service.<br>4. <i>Government:</i> E-governance, online tax filing, and digital voting systems.<br>5. <i>Entertainment:</i> Streaming services, online gaming, and social media.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "33124": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Computer Types",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>Which of the following is an example of a <b>supercomputer</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Supercomputers are high-performance computing machines designed for complex calculations and data processing. <b>CRAY-1</b> is a well-known example of a supercomputer developed in the 1970s. The other options are types of personal computers or servers.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "82357",
+                "tag": "a",
+                "text": "Dell Inspiron",
+                "is_correct": false
+            },
+            {
+                "option_id": "70521",
+                "tag": "b",
+                "text": "CRAY-1",
+                "is_correct": true
+            },
+            {
+                "option_id": "92424",
+                "tag": "c",
+                "text": "IBM ThinkPad",
+                "is_correct": false
+            },
+            {
+                "option_id": "10033",
+                "tag": "d",
+                "text": "HP ProLiant Server",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "33125": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Hardware Components",
+        "question_type": "Theory",
+        "exam_year": "2016",
+        "question_text": "<p>Describe the functions of the following hardware components of a computer system:<br>(i) <b>Central Processing Unit (CPU)</b><br>(ii) <b>Random Access Memory (RAM)</b><br>(iii) <b>Hard Disk Drive (HDD)</b></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) <b>Central Processing Unit (CPU):</b> The CPU is the brain of the computer. It performs arithmetic and logical operations, executes instructions from programs, and manages data flow within the system.<br><br>(ii) <b>Random Access Memory (RAM):</b> RAM is volatile memory that temporarily stores data and instructions currently in use by the CPU. It allows for fast read/write operations, enabling multitasking and quick access to active programs.<br><br>(iii) <b>Hard Disk Drive (HDD):</b> The HDD is non-volatile storage that permanently stores the operating system, software applications, and user data. It provides large storage capacity at a relatively low cost compared to other storage media.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "33126": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Number System Conversion",
+        "question_type": "Theory",
+        "exam_year": "2016",
+        "question_text": "<p>Convert the binary number <b>$110101_2$</b> to:<br>(i) Decimal<br>(ii) Octal<br>(iii) Hexadecimal</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) <b>Binary to Decimal:</b><br>$110101_2 = 1 \\times 2^5 + 1 \\times 2^4 + 0 \\times 2^3 + 1 \\times 2^2 + 0 \\times 2^1 + 1 \\times 2^0 = 32 + 16 + 0 + 4 + 0 + 1 = 53_{10}$<br><br>(ii) <b>Binary to Octal:</b><br>Group the binary digits into sets of three from right to left: $110\\ 101_2$.<br>$110_2 = 6_8$, $101_2 = 5_8$.<br>Thus, $110101_2 = 65_8$.<br><br>(iii) <b>Binary to Hexadecimal:</b><br>Group the binary digits into sets of four from right to left: $0011\\ 0101_2$.<br>$0011_2 = 3_{16}$, $0101_2 = 5_{16}$.<br>Thus, $110101_2 = 35_{16}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "33127": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Logic Gates",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>Which logic gate produces an output of <b>1</b> only when all its inputs are <b>0</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>NOR gate</b> is a combination of an OR gate followed by a NOT gate. It produces an output of <b>1</b> only when all its inputs are <b>0</b>. The truth table for a 2-input NOR gate confirms this behavior.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "82357",
+                "tag": "a",
+                "text": "AND gate",
+                "is_correct": false
+            },
+            {
+                "option_id": "70521",
+                "tag": "b",
+                "text": "OR gate",
+                "is_correct": false
+            },
+            {
+                "option_id": "92424",
+                "tag": "c",
+                "text": "NAND gate",
+                "is_correct": false
+            },
+            {
+                "option_id": "10033",
+                "tag": "d",
+                "text": "NOR gate",
+                "is_correct": true
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "33128": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Cybersecurity Threats",
+        "question_type": "Theory",
+        "exam_year": "2016",
+        "question_text": "<p>Explain the following cybersecurity threats and suggest <u>one</u> preventive measure for each:<br>(i) <b>Phishing</b><br>(ii) <b>Malware</b><br>(iii) <b>Denial of Service (DoS) Attack</b></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) <b>Phishing:</b> A cyberattack where attackers impersonate legitimate entities to trick users into revealing sensitive information like passwords or credit card details.<br><b>Preventive Measure:</b> Educate users to verify sender email addresses and avoid clicking on suspicious links.<br><br>(ii) <b>Malware:</b> Malicious software designed to damage, disrupt, or gain unauthorized access to computer systems.<br><b>Preventive Measure:</b> Install and regularly update antivirus software to detect and remove malware.<br><br>(iii) <b>Denial of Service (DoS) Attack:</b> An attack that overwhelms a system with traffic, rendering it unavailable to legitimate users.<br><b>Preventive Measure:</b> Use firewalls and intrusion detection systems to filter malicious traffic.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "33129": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Spreadsheet Tools",
+        "question_type": "Practical",
+        "exam_year": "2016",
+        "question_text": "<p>In a spreadsheet application, write the formula to calculate the <b>average</b> of values in cells <b>A1 to A10</b> and the formula to find the <b>maximum</b> value in the same range.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Average Formula:</b> <code>=AVERAGE(A1:A10)</code><br>This formula calculates the arithmetic mean of the values in cells A1 to A10.<br><br><b>Maximum Formula:</b> <code>=MAX(A1:A10)</code><br>This formula returns the highest value in the specified range.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "33130": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Internet vs Intranet",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>Which of the following best describes an <b>intranet</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>An <b>intranet</b> is a private network accessible only to an organization's staff. It is used to share company information and resources securely within the organization. Unlike the internet, it is not accessible to the public.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "82357",
+                "tag": "a",
+                "text": "A global network connecting millions of computers",
+                "is_correct": false
+            },
+            {
+                "option_id": "70521",
+                "tag": "b",
+                "text": "A private network within an organization",
+                "is_correct": true
+            },
+            {
+                "option_id": "92424",
+                "tag": "c",
+                "text": "A network used exclusively for online gaming",
+                "is_correct": false
+            },
+            {
+                "option_id": "10033",
+                "tag": "d",
+                "text": "A wireless network for public use",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "33131": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Computer Ethics",
+        "question_type": "Theory",
+        "exam_year": "2016",
+        "question_text": "<p>Discuss <u>three</u> ethical issues related to the use of computers and suggest how they can be addressed.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Ethical Issues and Solutions:</b><br>1. <i>Privacy Violations:</i> Unauthorized access to personal data.<br><b>Solution:</b> Implement strong data protection laws and use encryption to secure sensitive information.<br><br>2. <i>Software Piracy:</i> Illegal copying or distribution of software.<br><b>Solution:</b> Enforce copyright laws and promote the use of open-source or licensed software.<br><br>3. <i>Cyberbullying:</i> Harassment or bullying using digital platforms.<br><b>Solution:</b> Educate users on responsible online behavior and enforce strict policies against cyberbullying on social media platforms.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "33132": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Emerging Tech",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>Which of the following is an example of <b>emerging technology</b> in ICT?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Artificial Intelligence (AI)</b> is an example of emerging technology in ICT. It involves the development of systems that can perform tasks requiring human-like intelligence, such as speech recognition, decision-making, and language translation.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "82357",
+                "tag": "a",
+                "text": "Typewriters",
+                "is_correct": false
+            },
+            {
+                "option_id": "70521",
+                "tag": "b",
+                "text": "Artificial Intelligence",
+                "is_correct": true
+            },
+            {
+                "option_id": "92424",
+                "tag": "c",
+                "text": "Floppy Disks",
+                "is_correct": false
+            },
+            {
+                "option_id": "10033",
+                "tag": "d",
+                "text": "Cathode Ray Tube Monitors",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

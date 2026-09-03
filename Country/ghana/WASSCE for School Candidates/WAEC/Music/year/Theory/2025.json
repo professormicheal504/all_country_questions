@@ -1,0 +1,282 @@
+{
+    "74520": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Music Elements",
+        "question_type": "Theory",
+        "exam_year": "2025",
+        "question_text": "<p>Define the following musical elements and explain their roles in a composition:<br>(i) <b>Dynamics</b><br>(ii) <b>Tempo</b><br>(iii) <b>Timbre</b></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) <b>Dynamics</b>: Refers to the volume of sound in music, indicated by symbols like <i>p</i> (piano, soft) and <i>f</i> (forte, loud). It adds expressiveness and emotional depth.<br>(ii) <b>Tempo</b>: The speed of a piece, measured in beats per minute (BPM). Terms like <i>Allegro</i> (fast) or <i>Adagio</i> (slow) guide performers.<br>(iii) <b>Timbre</b>: The unique quality of a sound that distinguishes instruments/voices (e.g., a flute vs. a trumpet). It shapes the texture and color of music.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "74521": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Music Notation Basics",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>Which of the following symbols represents a <b>half rest</b> in standard music notation?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The correct answer is (b). A half rest is a small rectangle sitting on top of the middle line of the staff, indicating silence for two beats in 4/4 time.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "87129",
+                "tag": "a",
+                "text": "<img src='quarter_rest.png' alt='Quarter rest symbol'/>",
+                "is_correct": false
+            },
+            {
+                "option_id": "39414",
+                "tag": "b",
+                "text": "<img src='half_rest.png' alt='Half rest symbol'/>",
+                "is_correct": true
+            },
+            {
+                "option_id": "45954",
+                "tag": "c",
+                "text": "<img src='whole_rest.png' alt='Whole rest symbol'/>",
+                "is_correct": false
+            },
+            {
+                "option_id": "51551",
+                "tag": "d",
+                "text": "<img src='eighth_rest.png' alt='Eighth rest symbol'/>",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "74522": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Types of Scales",
+        "question_type": "Theory",
+        "exam_year": "2025",
+        "question_text": "<p>Write the <b>C major scale</b> and the <b>A natural minor scale</b> in ascending order using solf\u00e8ge syllables (<i>do, re, mi, fa, sol, la, ti, do</i>).<br>Indicate the intervals between each note.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>C Major Scale</b>: <i>do (C) \u2013 M2 \u2013 re (D) \u2013 M2 \u2013 mi (E) \u2013 m2 \u2013 fa (F) \u2013 M2 \u2013 sol (G) \u2013 M2 \u2013 la (A) \u2013 M2 \u2013 ti (B) \u2013 m2 \u2013 do (C)</i>.<br><b>A Natural Minor Scale</b>: <i>la (A) \u2013 M2 \u2013 ti (B) \u2013 m2 \u2013 do (C) \u2013 M2 \u2013 re (D) \u2013 M2 \u2013 mi (E) \u2013 m2 \u2013 fa (F) \u2013 M2 \u2013 sol (G) \u2013 M2 \u2013 la (A)</i>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "74523": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Intervals and Inversions",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>What is the inversion of a <b>perfect fifth</b> ($P5$)?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The correct answer is (c). A perfect fifth ($P5$) inverts to a perfect fourth ($P4$), as $9 - 5 = 4$ (interval number inversion rule).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "87129",
+                "tag": "a",
+                "text": "Major third ($M3$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "39414",
+                "tag": "b",
+                "text": "Minor sixth ($m6$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "45954",
+                "tag": "c",
+                "text": "Perfect fourth ($P4$)",
+                "is_correct": true
+            },
+            {
+                "option_id": "51551",
+                "tag": "d",
+                "text": "Augmented fourth ($A4$)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "74524": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Chords and Inversions",
+        "question_type": "Theory",
+        "exam_year": "2025",
+        "question_text": "<p>Construct a <b>C major triad</b> in root position, first inversion, and second inversion. Label each chord with its figured bass notation.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Root Position</b>: C-E-G ($5/3$).<br><b>First Inversion</b>: E-G-C ($6/3$ or $6$).<br><b>Second Inversion</b>: G-C-E ($6/4$).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "74525": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "African Music Traits",
+        "question_type": "Theory",
+        "exam_year": "2025",
+        "question_text": "<p>Describe <b>three</b> characteristic features of traditional African music, providing examples from Ghanaian music.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(1) <b>Call-and-Response</b>: Leader sings/chants, group responds (e.g., <i>Adowa</i> drumming).<br>(2) <b>Polyrhythm</b>: Multiple conflicting rhythms (e.g., <i>Kpanlogo</i> ensemble).<br>(3) <b>Oral Tradition</b>: Music passed down verbally (e.g., <i>Fontomfrom</i> drum language).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "74526": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Western Art Music Periods",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>Which period of Western art music is characterized by <b>ornamentation, contrast, and the use of basso continuo</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The correct answer is (d). The Baroque period (1600\u20131750) featured these traits, exemplified by composers like J.S. Bach and Handel.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "87129",
+                "tag": "a",
+                "text": "Renaissance",
+                "is_correct": false
+            },
+            {
+                "option_id": "39414",
+                "tag": "b",
+                "text": "Classical",
+                "is_correct": false
+            },
+            {
+                "option_id": "45954",
+                "tag": "c",
+                "text": "Romantic",
+                "is_correct": false
+            },
+            {
+                "option_id": "51551",
+                "tag": "d",
+                "text": "Baroque",
+                "is_correct": true
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "74527": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Melody Writing Techniques",
+        "question_type": "Practical",
+        "exam_year": "2025",
+        "question_text": "<p>Compose an 8-bar melody in <b>G major</b> for the soprano voice, incorporating:<br>(i) A sequence<br>(ii) A climax<br>(iii) A cadence in the final bar.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Marking scheme:<br>(i) <b>Sequence</b>: Repeat a melodic pattern at different pitches (e.g., bars 3\u20134).<br>(ii) <b>Climax</b>: Highest note (e.g., $D^5$) in bar 6.<br>(iii) <b>Cadence</b>: Perfect cadence ($V-I$) in bars 7\u20138.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "74528": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Music Technology Tools",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>Which software is primarily used for <b>digital audio workstation (DAW)</b> tasks like mixing and mastering?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The correct answer is (a). <i>Pro Tools</i> is industry-standard for recording, editing, and mixing audio.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "87129",
+                "tag": "a",
+                "text": "Pro Tools",
+                "is_correct": true
+            },
+            {
+                "option_id": "39414",
+                "tag": "b",
+                "text": "Photoshop",
+                "is_correct": false
+            },
+            {
+                "option_id": "45954",
+                "tag": "c",
+                "text": "Excel",
+                "is_correct": false
+            },
+            {
+                "option_id": "51551",
+                "tag": "d",
+                "text": "PowerPoint",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "74529": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Ghanaian Traditional Music",
+        "question_type": "Theory",
+        "exam_year": "2025",
+        "question_text": "<p>Compare and contrast the <b>Agbadza</b> and <b>Kete</b> musical traditions of Ghana, focusing on:<br>(i) Cultural context<br>(ii) Instrumentation<br>(iii) Performance style.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) <b>Cultural Context</b>: <i>Agbadza</i> (Ewe) is a war dance; <i>Kete</i> (Ashanti) is royal court music.<br>(ii) <b>Instrumentation</b>: <i>Agbadza</i> uses drums (e.g., <i>atsimevu</i>), rattles; <i>Kete</i> uses drums (<i>atumpan</i>), ivory trumpets.<br>(iii) <b>Performance Style</b>: <i>Agbadza</i> is energetic; <i>Kete</i> is stately and ceremonial.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

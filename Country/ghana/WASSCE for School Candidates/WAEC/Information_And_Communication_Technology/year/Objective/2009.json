@@ -858,5 +858,865 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "41027": {
+        "order_id": 21,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "ICT Basics",
+        "question_type": "Objective",
+        "exam_year": "2009",
+        "question_text": "<p>Which of the following is <b>NOT</b> a characteristic of Information and Communication Technology (ICT)?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>ICT is defined by its ability to process, store, and transmit information efficiently. However, <i>manual data processing</i> is not a characteristic of ICT, as ICT relies on automated and digital systems.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "36974",
+                "tag": "a",
+                "text": "Automation of processes",
+                "is_correct": false
+            },
+            {
+                "option_id": "18178",
+                "tag": "b",
+                "text": "Manual data processing",
+                "is_correct": true
+            },
+            {
+                "option_id": "70839",
+                "tag": "c",
+                "text": "Digital data transmission",
+                "is_correct": false
+            },
+            {
+                "option_id": "31121",
+                "tag": "d",
+                "text": "Electronic storage of information",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "41028": {
+        "order_id": 22,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Computer Types",
+        "question_type": "Objective",
+        "exam_year": "2009",
+        "question_text": "<p>Which type of computer is designed to perform complex scientific calculations and is typically used in research institutions?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Supercomputers</b> are high-performance machines designed for complex calculations, such as weather forecasting, nuclear research, and simulations. They are not used for general-purpose tasks like personal computing.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "36975",
+                "tag": "a",
+                "text": "Microcomputer",
+                "is_correct": false
+            },
+            {
+                "option_id": "18179",
+                "tag": "b",
+                "text": "Minicomputer",
+                "is_correct": false
+            },
+            {
+                "option_id": "70840",
+                "tag": "c",
+                "text": "Supercomputer",
+                "is_correct": true
+            },
+            {
+                "option_id": "31122",
+                "tag": "d",
+                "text": "Mainframe computer",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "41029": {
+        "order_id": 23,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Hardware Components",
+        "question_type": "Objective",
+        "exam_year": "2009",
+        "question_text": "<p>Which of the following hardware components is responsible for temporarily storing data and instructions that the CPU needs to access quickly?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>RAM (Random Access Memory)</b> is a volatile memory that temporarily stores data and instructions for quick access by the CPU. It is not the same as permanent storage like a hard disk.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "36976",
+                "tag": "a",
+                "text": "Hard disk",
+                "is_correct": false
+            },
+            {
+                "option_id": "18180",
+                "tag": "b",
+                "text": "RAM",
+                "is_correct": true
+            },
+            {
+                "option_id": "70841",
+                "tag": "c",
+                "text": "ROM",
+                "is_correct": false
+            },
+            {
+                "option_id": "31123",
+                "tag": "d",
+                "text": "CPU",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "41030": {
+        "order_id": 24,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Number System Conversion",
+        "question_type": "Objective",
+        "exam_year": "2009",
+        "question_text": "<p>Convert the binary number $1011_2$ to its decimal equivalent.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The binary number $1011_2$ is converted to decimal as follows:<br>$1 \\times 2^3 + 0 \\times 2^2 + 1 \\times 2^1 + 1 \\times 2^0 = 8 + 0 + 2 + 1 = 11_{10}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "36977",
+                "tag": "a",
+                "text": "$9_{10}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "18181",
+                "tag": "b",
+                "text": "$10_{10}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "70842",
+                "tag": "c",
+                "text": "$11_{10}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "31124",
+                "tag": "d",
+                "text": "$12_{10}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "41031": {
+        "order_id": 25,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Operating Systems",
+        "question_type": "Objective",
+        "exam_year": "2009",
+        "question_text": "<p>Which of the following is <b>NOT</b> a function of an operating system?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>An operating system manages hardware resources, provides a user interface, and runs applications. However, <i>compiling source code</i> is a function of a compiler, not the operating system.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "36978",
+                "tag": "a",
+                "text": "Memory management",
+                "is_correct": false
+            },
+            {
+                "option_id": "18182",
+                "tag": "b",
+                "text": "Compiling source code",
+                "is_correct": true
+            },
+            {
+                "option_id": "70843",
+                "tag": "c",
+                "text": "Process scheduling",
+                "is_correct": false
+            },
+            {
+                "option_id": "31125",
+                "tag": "d",
+                "text": "File management",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "41032": {
+        "order_id": 26,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Network Types",
+        "question_type": "Objective",
+        "exam_year": "2009",
+        "question_text": "<p>A network that covers a small geographical area, such as a single building, is known as a:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>Local Area Network (LAN)</b> is designed to connect devices within a small area, such as an office or a school. It is not the same as a WAN or MAN, which cover larger areas.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "36979",
+                "tag": "a",
+                "text": "Wide Area Network (WAN)",
+                "is_correct": false
+            },
+            {
+                "option_id": "18183",
+                "tag": "b",
+                "text": "Metropolitan Area Network (MAN)",
+                "is_correct": false
+            },
+            {
+                "option_id": "70844",
+                "tag": "c",
+                "text": "Local Area Network (LAN)",
+                "is_correct": true
+            },
+            {
+                "option_id": "31126",
+                "tag": "d",
+                "text": "Global Area Network (GAN)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "41033": {
+        "order_id": 27,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Cybersecurity Threats",
+        "question_type": "Objective",
+        "exam_year": "2009",
+        "question_text": "<p>Which of the following is an example of a <b>social engineering</b> attack?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Phishing</b> is a type of social engineering attack where attackers trick users into revealing sensitive information, such as passwords or credit card numbers, by pretending to be a legitimate entity.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "36980",
+                "tag": "a",
+                "text": "Denial of Service (DoS) attack",
+                "is_correct": false
+            },
+            {
+                "option_id": "18184",
+                "tag": "b",
+                "text": "Phishing",
+                "is_correct": true
+            },
+            {
+                "option_id": "70845",
+                "tag": "c",
+                "text": "Brute force attack",
+                "is_correct": false
+            },
+            {
+                "option_id": "31127",
+                "tag": "d",
+                "text": "SQL injection",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "41034": {
+        "order_id": 28,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Logic Gates",
+        "question_type": "Objective",
+        "exam_year": "2009",
+        "question_text": "<p>Which logic gate produces an output of <b>1</b> only when both inputs are <b>1</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>AND gate</b> is a logic gate that outputs <b>1</b> only when all its inputs are <b>1</b>. If any input is <b>0</b>, the output is <b>0</b>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "36981",
+                "tag": "a",
+                "text": "OR gate",
+                "is_correct": false
+            },
+            {
+                "option_id": "18185",
+                "tag": "b",
+                "text": "AND gate",
+                "is_correct": true
+            },
+            {
+                "option_id": "70846",
+                "tag": "c",
+                "text": "NOT gate",
+                "is_correct": false
+            },
+            {
+                "option_id": "31128",
+                "tag": "d",
+                "text": "XOR gate",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "41035": {
+        "order_id": 29,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Spreadsheet Tools",
+        "question_type": "Objective",
+        "exam_year": "2009",
+        "question_text": "<p>In a spreadsheet, which function is used to find the <b>average</b> of a range of cells?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>AVERAGE</b> function in a spreadsheet calculates the arithmetic mean of a range of cells. For example, <code>=AVERAGE(A1:A10)</code> computes the average of values in cells A1 to A10.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "36982",
+                "tag": "a",
+                "text": "<code>SUM</code>",
+                "is_correct": false
+            },
+            {
+                "option_id": "18186",
+                "tag": "b",
+                "text": "<code>AVERAGE</code>",
+                "is_correct": true
+            },
+            {
+                "option_id": "70847",
+                "tag": "c",
+                "text": "<code>COUNT</code>",
+                "is_correct": false
+            },
+            {
+                "option_id": "31129",
+                "tag": "d",
+                "text": "<code>MAX</code>",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "41036": {
+        "order_id": 30,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Computer Ethics",
+        "question_type": "Objective",
+        "exam_year": "2009",
+        "question_text": "<p>Which of the following is an example of <b>unethical</b> behavior in the use of ICT?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Software piracy</b> is the unauthorized copying or distribution of software, which is illegal and unethical. It violates copyright laws and deprives developers of rightful compensation.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "36983",
+                "tag": "a",
+                "text": "Using licensed software",
+                "is_correct": false
+            },
+            {
+                "option_id": "18187",
+                "tag": "b",
+                "text": "Software piracy",
+                "is_correct": true
+            },
+            {
+                "option_id": "70848",
+                "tag": "c",
+                "text": "Citing sources in research",
+                "is_correct": false
+            },
+            {
+                "option_id": "31130",
+                "tag": "d",
+                "text": "Creating backups of data",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
+    },
+    "46792": {
+        "order_id": 31,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "ICT Basics",
+        "question_type": "Objective",
+        "exam_year": "2009",
+        "question_text": "<p>Which of the following is <b>NOT</b> a characteristic of Information and Communication Technology (ICT)?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>ICT is defined by its ability to process, store, and transmit information efficiently. However, <b>manual data processing</b> is not a characteristic of ICT, as ICT relies on automated and digital methods.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "87823",
+                "tag": "a",
+                "text": "Automation of processes",
+                "is_correct": false
+            },
+            {
+                "option_id": "69329",
+                "tag": "b",
+                "text": "Manual data processing",
+                "is_correct": true
+            },
+            {
+                "option_id": "49122",
+                "tag": "c",
+                "text": "Digital data transmission",
+                "is_correct": false
+            },
+            {
+                "option_id": "53306",
+                "tag": "d",
+                "text": "Electronic storage of information",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "46793": {
+        "order_id": 32,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Computer Types",
+        "question_type": "Objective",
+        "exam_year": "2009",
+        "question_text": "<p>Which type of computer is designed to perform complex scientific calculations and is typically used in research institutions?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Supercomputers</b> are high-performance machines designed for complex calculations, such as weather forecasting, nuclear research, and simulations. They are not used for general-purpose tasks like personal computing or business transactions.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "87824",
+                "tag": "a",
+                "text": "Microcomputer",
+                "is_correct": false
+            },
+            {
+                "option_id": "69330",
+                "tag": "b",
+                "text": "Minicomputer",
+                "is_correct": false
+            },
+            {
+                "option_id": "49123",
+                "tag": "c",
+                "text": "Supercomputer",
+                "is_correct": true
+            },
+            {
+                "option_id": "53307",
+                "tag": "d",
+                "text": "Mainframe computer",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "46794": {
+        "order_id": 33,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Hardware Components",
+        "question_type": "Objective",
+        "exam_year": "2009",
+        "question_text": "<p>Which of the following hardware components is responsible for temporarily storing data and instructions that the CPU needs to access quickly?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>RAM (Random Access Memory)</b> is a volatile memory component that temporarily stores data and instructions for quick access by the CPU. Unlike ROM or hard drives, RAM loses its data when the computer is powered off.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "87825",
+                "tag": "a",
+                "text": "Hard Disk Drive (HDD)",
+                "is_correct": false
+            },
+            {
+                "option_id": "69331",
+                "tag": "b",
+                "text": "Read-Only Memory (ROM)",
+                "is_correct": false
+            },
+            {
+                "option_id": "49124",
+                "tag": "c",
+                "text": "Random Access Memory (RAM)",
+                "is_correct": true
+            },
+            {
+                "option_id": "53308",
+                "tag": "d",
+                "text": "Central Processing Unit (CPU)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "46795": {
+        "order_id": 34,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Number System Conversion",
+        "question_type": "Objective",
+        "exam_year": "2009",
+        "question_text": "<p>Convert the binary number $1011_2$ to its decimal equivalent.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The binary number $1011_2$ is converted to decimal as follows:<br>$1 \\times 2^3 + 0 \\times 2^2 + 1 \\times 2^1 + 1 \\times 2^0 = 8 + 0 + 2 + 1 = 11_{10}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "87826",
+                "tag": "a",
+                "text": "$9_{10}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "69332",
+                "tag": "b",
+                "text": "$10_{10}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "49125",
+                "tag": "c",
+                "text": "$11_{10}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "53309",
+                "tag": "d",
+                "text": "$12_{10}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "46796": {
+        "order_id": 35,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Operating Systems",
+        "question_type": "Objective",
+        "exam_year": "2009",
+        "question_text": "<p>Which of the following is <b>NOT</b> a function of an operating system?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>An operating system manages hardware resources, provides a user interface, and runs applications. However, <b>compiling source code</b> is the function of a compiler, not the operating system.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "87827",
+                "tag": "a",
+                "text": "Memory management",
+                "is_correct": false
+            },
+            {
+                "option_id": "69333",
+                "tag": "b",
+                "text": "Compiling source code",
+                "is_correct": true
+            },
+            {
+                "option_id": "49126",
+                "tag": "c",
+                "text": "Process scheduling",
+                "is_correct": false
+            },
+            {
+                "option_id": "53310",
+                "tag": "d",
+                "text": "File management",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "46797": {
+        "order_id": 36,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Network Types",
+        "question_type": "Objective",
+        "exam_year": "2009",
+        "question_text": "<p>A network that covers a small geographical area, such as a single building or campus, is known as a:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>Local Area Network (LAN)</b> is designed to connect computers and devices within a limited area, such as an office, school, or home. It is not used for wide-area or global connectivity.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "87828",
+                "tag": "a",
+                "text": "Wide Area Network (WAN)",
+                "is_correct": false
+            },
+            {
+                "option_id": "69334",
+                "tag": "b",
+                "text": "Metropolitan Area Network (MAN)",
+                "is_correct": false
+            },
+            {
+                "option_id": "49127",
+                "tag": "c",
+                "text": "Local Area Network (LAN)",
+                "is_correct": true
+            },
+            {
+                "option_id": "53311",
+                "tag": "d",
+                "text": "Global Area Network (GAN)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "46798": {
+        "order_id": 37,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Cybersecurity Threats",
+        "question_type": "Objective",
+        "exam_year": "2009",
+        "question_text": "<p>Which of the following is a type of malware that replicates itself and spreads to other computers without user intervention?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>worm</b> is a type of malware that self-replicates and spreads across networks without requiring user action. Unlike viruses, worms do not need to attach themselves to a host program.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "87829",
+                "tag": "a",
+                "text": "Virus",
+                "is_correct": false
+            },
+            {
+                "option_id": "69335",
+                "tag": "b",
+                "text": "Worm",
+                "is_correct": true
+            },
+            {
+                "option_id": "49128",
+                "tag": "c",
+                "text": "Trojan horse",
+                "is_correct": false
+            },
+            {
+                "option_id": "53312",
+                "tag": "d",
+                "text": "Spyware",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "46799": {
+        "order_id": 38,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Logic Gates",
+        "question_type": "Objective",
+        "exam_year": "2009",
+        "question_text": "<p>Which logic gate produces an output of <b>1</b> only when all its inputs are <b>0</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>NOR gate</b> is a combination of an OR gate followed by a NOT gate. It produces an output of <b>1</b> only when all its inputs are <b>0</b>. For example, if inputs A and B are both 0, the output is 1.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "87830",
+                "tag": "a",
+                "text": "AND gate",
+                "is_correct": false
+            },
+            {
+                "option_id": "69336",
+                "tag": "b",
+                "text": "OR gate",
+                "is_correct": false
+            },
+            {
+                "option_id": "49129",
+                "tag": "c",
+                "text": "NOR gate",
+                "is_correct": true
+            },
+            {
+                "option_id": "53313",
+                "tag": "d",
+                "text": "NAND gate",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "46800": {
+        "order_id": 39,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Word Processing",
+        "question_type": "Objective",
+        "exam_year": "2009",
+        "question_text": "<p>In a word processing software, which feature is used to automatically correct common spelling mistakes as you type?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>AutoCorrect</b> feature in word processing software automatically corrects common spelling and typing errors as the user types. It is not the same as spell check, which requires manual intervention.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "87831",
+                "tag": "a",
+                "text": "Spell Check",
+                "is_correct": false
+            },
+            {
+                "option_id": "69337",
+                "tag": "b",
+                "text": "AutoCorrect",
+                "is_correct": true
+            },
+            {
+                "option_id": "49130",
+                "tag": "c",
+                "text": "Thesaurus",
+                "is_correct": false
+            },
+            {
+                "option_id": "53314",
+                "tag": "d",
+                "text": "Grammar Check",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "46801": {
+        "order_id": 40,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Internet vs Intranet",
+        "question_type": "Objective",
+        "exam_year": "2009",
+        "question_text": "<p>Which of the following best describes an <b>intranet</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>An <b>intranet</b> is a private network accessible only to an organization's staff. It is used for internal communication and resource sharing, unlike the internet, which is a global public network.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "87832",
+                "tag": "a",
+                "text": "A global network of interconnected computers",
+                "is_correct": false
+            },
+            {
+                "option_id": "69338",
+                "tag": "b",
+                "text": "A private network used within an organization",
+                "is_correct": true
+            },
+            {
+                "option_id": "49131",
+                "tag": "c",
+                "text": "A network used exclusively for e-commerce",
+                "is_correct": false
+            },
+            {
+                "option_id": "53315",
+                "tag": "d",
+                "text": "A network that connects only mobile devices",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

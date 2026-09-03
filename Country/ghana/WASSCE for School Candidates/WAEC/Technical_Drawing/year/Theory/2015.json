@@ -1,0 +1,257 @@
+{
+    "10599": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Drawing tools overview",
+        "question_type": "Theory",
+        "exam_year": "2015",
+        "question_text": "<p>List <b>five</b> essential drawing tools used in Technical Drawing and describe the specific function of each tool.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The five essential drawing tools and their functions are:<br><br><b>1. T-square:</b> Used for drawing horizontal lines and as a guide for set squares.<br><b>2. Set squares (30\u00b0-60\u00b0 and 45\u00b0):</b> Used for drawing vertical and inclined lines at specific angles.<br><b>3. Compass:</b> Used for drawing circles and arcs of various radii.<br><b>4. Protractor:</b> Used for measuring and marking angles accurately.<br><b>5. French curve:</b> Used for drawing smooth, irregular curves that are not circular.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "10600": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Standard sheet sizes",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>Which of the following is the <b>standard</b> sheet size for an A2 drawing sheet in millimeters?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The standard A2 sheet size is <b>420 mm \u00d7 594 mm</b>, as defined by the ISO 216 standard for paper sizes. This is derived by halving the longer side of an A1 sheet (594 mm).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "32943",
+                "tag": "a",
+                "text": "210 mm \u00d7 297 mm",
+                "is_correct": false
+            },
+            {
+                "option_id": "91525",
+                "tag": "b",
+                "text": "297 mm \u00d7 420 mm",
+                "is_correct": false
+            },
+            {
+                "option_id": "79409",
+                "tag": "c",
+                "text": "420 mm \u00d7 594 mm",
+                "is_correct": true
+            },
+            {
+                "option_id": "83287",
+                "tag": "d",
+                "text": "594 mm \u00d7 841 mm",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "10601": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Title block layout",
+        "question_type": "Theory",
+        "exam_year": "2015",
+        "question_text": "<p>Draw a <b>title block</b> for a Technical Drawing sheet and label the following components:<br><i>1. Drawing title<br>2. Scale<br>3. Date<br>4. Drawn by<br>5. Checked by<br>6. Sheet number</i></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A standard title block is typically located at the bottom right corner of the drawing sheet. It should include:<br><br><b>1. Drawing title:</b> Name of the drawing (e.g., <i>Orthographic Projection of a Bracket</i>).<br><b>2. Scale:</b> The scale used (e.g., <i>1:2</i>).<br><b>3. Date:</b> The date the drawing was completed.<br><b>4. Drawn by:</b> Name of the person who created the drawing.<br><b>5. Checked by:</b> Name of the person who verified the drawing.<br><b>6. Sheet number:</b> The sheet number (e.g., <i>Sheet 1 of 3</i>).<br><br>The title block should be neatly bordered and organized for clarity.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "10602": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Line types and uses",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>Which of the following line types is used to represent <b>hidden details</b> in an orthographic projection?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>dashed thin line</b> (also known as a hidden line) is used to represent edges or features that are not visible in the current view but exist in the object. This helps in clarifying the internal or obscured details of the object.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "32944",
+                "tag": "a",
+                "text": "Continuous thick line",
+                "is_correct": false
+            },
+            {
+                "option_id": "91526",
+                "tag": "b",
+                "text": "Dashed thin line",
+                "is_correct": true
+            },
+            {
+                "option_id": "79410",
+                "tag": "c",
+                "text": "Chain thin line",
+                "is_correct": false
+            },
+            {
+                "option_id": "83288",
+                "tag": "d",
+                "text": "Continuous thin line",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "10603": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Basic geometric constructions",
+        "question_type": "Practical",
+        "exam_year": "2015",
+        "question_text": "<p>Construct a <b>perpendicular bisector</b> of a line segment <i>AB</i> of length 80 mm using only a compass and a straightedge. Show all construction lines clearly.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Steps to construct a perpendicular bisector of line segment <i>AB</i>:<br><br><b>1.</b> Draw line segment <i>AB</i> = 80 mm.<br><b>2.</b> With <i>A</i> as the center and a radius greater than half of <i>AB</i>, draw an arc above and below the line.<br><b>3.</b> With <i>B</i> as the center and the same radius, draw arcs intersecting the previous arcs at points <i>C</i> and <i>D</i>.<br><b>4.</b> Draw a straight line through points <i>C</i> and <i>D</i>. This line is the perpendicular bisector of <i>AB</i>.<br><br>The perpendicular bisector should divide <i>AB</i> into two equal parts of 40 mm each and intersect it at a 90\u00b0 angle.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "10604": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Regular polygon construction",
+        "question_type": "Practical",
+        "exam_year": "2015",
+        "question_text": "<p>Construct a <b>regular hexagon</b> with a side length of 30 mm using only a compass and a straightedge. Show all construction lines clearly.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Steps to construct a regular hexagon:<br><br><b>1.</b> Draw a circle with radius 30 mm. The side length of the hexagon will be equal to the radius.<br><b>2.</b> Mark a point <i>A</i> on the circumference as the starting point.<br><b>3.</b> Using the compass set to 30 mm, step off six points (<i>A, B, C, D, E, F</i>) around the circumference.<br><b>4.</b> Connect the points <i>A, B, C, D, E, F</i> with straight lines to form the hexagon.<br><br>All sides should be equal (30 mm), and all internal angles should be 120\u00b0.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "10605": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Orthographic projection methods",
+        "question_type": "Theory",
+        "exam_year": "2015",
+        "question_text": "<p>Explain the difference between <b>First Angle Projection</b> and <b>Third Angle Projection</b> in orthographic drawing. Include a simple sketch to illustrate the arrangement of views for each method.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>First Angle Projection:</b><br>The object is placed in the first quadrant, and the views are projected onto the planes behind the object. The arrangement of views is:<br><i>Front view (FV) at the bottom, Top view (TV) above FV, and Side view (SV) to the right of FV.</i><br><br><b>Third Angle Projection:</b><br>The object is placed in the third quadrant, and the views are projected onto the planes in front of the object. The arrangement of views is:<br><i>Front view (FV) at the center, Top view (TV) above FV, and Side view (SV) to the left of FV.</i><br><br>The key difference is the placement of the object relative to the projection planes and the resulting arrangement of views.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "10606": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Sectional view types",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>Which type of sectional view is used to show the <b>internal features</b> of an object by cutting it along a plane that is not parallel to any of the principal planes?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>auxiliary sectional view</b> is used when the cutting plane is not parallel to any of the principal planes (frontal, horizontal, or profile). This type of section is necessary to reveal internal details that are not aligned with the standard orthographic views.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "32945",
+                "tag": "a",
+                "text": "Full section",
+                "is_correct": false
+            },
+            {
+                "option_id": "91527",
+                "tag": "b",
+                "text": "Half section",
+                "is_correct": false
+            },
+            {
+                "option_id": "79411",
+                "tag": "c",
+                "text": "Auxiliary section",
+                "is_correct": true
+            },
+            {
+                "option_id": "83289",
+                "tag": "d",
+                "text": "Revolved section",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "10607": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Isometric drawing basics",
+        "question_type": "Practical",
+        "exam_year": "2015",
+        "question_text": "<p>Draw an <b>isometric view</b> of a cube with each edge measuring 50 mm. Show all construction lines and label the isometric axes.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Steps to draw an isometric view of a cube:<br><br><b>1.</b> Draw the isometric axes at 30\u00b0 to the horizontal (one vertical and two at 120\u00b0 to each other).<br><b>2.</b> Mark a point <i>O</i> as the origin.<br><b>3.</b> From <i>O</i>, measure 50 mm along each axis to locate points <i>A, B,</i> and <i>C</i>.<br><b>4.</b> Complete the front face by drawing lines parallel to the axes.<br><b>5.</b> From the vertices of the front face, draw lines parallel to the third axis to complete the cube.<br><br>The isometric view should show all edges as equal (50 mm) and all angles as 120\u00b0 between the axes.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "10608": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Dimensioning principles",
+        "question_type": "Theory",
+        "exam_year": "2015",
+        "question_text": "<p>State <b>five</b> fundamental principles of dimensioning in Technical Drawing and explain why each principle is important.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The five fundamental principles of dimensioning and their importance are:<br><br><b>1. Clarity:</b> Dimensions should be placed in a way that is easy to read and understand. This avoids confusion and misinterpretation.<br><b>2. Completeness:</b> All necessary dimensions must be provided to fully define the object. Missing dimensions can lead to incomplete or incorrect fabrication.<br><b>3. Non-redundancy:</b> Avoid duplicating dimensions. Redundant dimensions can cause conflicts and errors in manufacturing.<br><b>4. Avoid dimensioning to hidden lines:</b> Dimensions should be placed on visible features to improve readability and reduce errors.<br><b>5. Use of standard symbols and conventions:</b> Standard symbols (e.g., diameter $\u2205$, radius $R$) ensure consistency and universal understanding of the drawing.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

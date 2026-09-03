@@ -1,0 +1,257 @@
+{
+    "48106": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Electronics Basics",
+        "question_type": "Theory",
+        "exam_year": "2018",
+        "question_text": "<p>Explain the term <b>electronics</b> and describe the role of <i>charge carriers</i> in electronic devices. Include the difference between <u>conventional current</u> and <u>electron flow</u>.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Electronics</b> is the branch of physics and technology concerned with the design of circuits using <i>active components</i> like transistors, diodes, and integrated circuits to control the flow of electrical energy.<br><br>Charge carriers, such as electrons and holes, are responsible for conducting electricity in electronic devices. In metals, electrons are the primary charge carriers, while in semiconductors, both electrons and holes contribute to conduction.<br><br><b>Conventional current</b> assumes that current flows from the positive to the negative terminal of a power source, while <b>electron flow</b> describes the actual movement of electrons from the negative to the positive terminal. This distinction is important in analyzing circuits, especially in semiconductor devices where both electrons and holes are involved.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "48107": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Atomic Structure and Energy Bands",
+        "question_type": "Theory",
+        "exam_year": "2018",
+        "question_text": "<p>Describe the <b>energy band structure</b> of a semiconductor. Explain how the <i>valence band</i>, <i>conduction band</i>, and <i>forbidden gap</i> determine the electrical properties of intrinsic and extrinsic semiconductors.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In a semiconductor, the <b>energy band structure</b> consists of three key regions:<br><br>1. <b>Valence Band</b>: The energy band where electrons are normally bound to atoms at absolute zero temperature.<br>2. <b>Conduction Band</b>: The energy band where electrons are free to move and conduct electricity.<br>3. <b>Forbidden Gap (Band Gap)</b>: The energy difference between the valence and conduction bands, denoted as $E_g$.<br><br>In an <i>intrinsic semiconductor</i> (e.g., pure silicon or germanium), the forbidden gap is small enough ($E_g \thickapprox 1.1 \text{ eV}$ for silicon) that thermal energy can excite electrons from the valence band to the conduction band, leaving behind holes. Both electrons and holes contribute to conduction.<br><br>In an <i>extrinsic semiconductor</i>, doping introduces impurity atoms that create additional energy levels within the forbidden gap. For <i>n-type</i> semiconductors, donor impurities add energy levels just below the conduction band, increasing electron concentration. For <i>p-type</i> semiconductors, acceptor impurities add energy levels just above the valence band, increasing hole concentration.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "48108": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "PN Junction Diode",
+        "question_type": "Objective",
+        "exam_year": "2018",
+        "question_text": "<p>Which of the following statements correctly describes the behavior of a <b>PN junction diode</b> under <i>reverse bias</i>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Under <i>reverse bias</i>, the positive terminal of the battery is connected to the <i>n-side</i> of the diode, and the negative terminal is connected to the <i>p-side</i>. This widens the depletion region, increasing the potential barrier and preventing current flow, except for a small <i>reverse saturation current</i> due to minority carriers. The correct option is (c).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "47965",
+                "tag": "a",
+                "text": "The depletion region narrows, allowing a large forward current to flow.",
+                "is_correct": false
+            },
+            {
+                "option_id": "90162",
+                "tag": "b",
+                "text": "The diode conducts heavily due to majority carrier injection.",
+                "is_correct": false
+            },
+            {
+                "option_id": "27985",
+                "tag": "c",
+                "text": "The depletion region widens, and only a small reverse saturation current flows.",
+                "is_correct": true
+            },
+            {
+                "option_id": "21458",
+                "tag": "d",
+                "text": "The diode behaves like a short circuit, allowing current in both directions.",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "48109": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Diode Rectification",
+        "question_type": "Theory",
+        "exam_year": "2018",
+        "question_text": "<p>Draw the circuit diagram of a <b>full-wave bridge rectifier</b> and explain its operation. Calculate the <i>peak inverse voltage (PIV)</i> across each diode in the circuit if the input AC voltage is $V_{rms} = 12 \text{ V}$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>full-wave bridge rectifier</b> uses four diodes arranged in a bridge configuration to convert AC to DC. During the positive half-cycle of the input AC, diodes D1 and D2 conduct, while D3 and D4 are reverse-biased. During the negative half-cycle, D3 and D4 conduct, while D1 and D2 are reverse-biased. This ensures that current flows through the load in the same direction for both half-cycles.<br><br>The <i>peak inverse voltage (PIV)</i> across each diode is equal to the peak voltage of the input AC:<br>$V_{peak} = V_{rms} \times \\sqrt{2} = 12 \times 1.414 = 16.97 \text{ V}$.<br>Thus, the PIV across each diode is approximately $17 \text{ V}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "48110": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Zener Diodes and Regulation",
+        "question_type": "Objective",
+        "exam_year": "2018",
+        "question_text": "<p>A <b>Zener diode</b> is used in a voltage regulator circuit to:<br>(a) Amplify signals<br>(b) Rectify AC to DC<br>(c) Maintain a constant output voltage<br>(d) Store electrical energy</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>Zener diode</b> operates in the reverse breakdown region to maintain a constant output voltage across its terminals, even when the input voltage or load current varies. The correct option is (c).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "47965",
+                "tag": "a",
+                "text": "Amplify signals",
+                "is_correct": false
+            },
+            {
+                "option_id": "90162",
+                "tag": "b",
+                "text": "Rectify AC to DC",
+                "is_correct": false
+            },
+            {
+                "option_id": "27985",
+                "tag": "c",
+                "text": "Maintain a constant output voltage",
+                "is_correct": true
+            },
+            {
+                "option_id": "21458",
+                "tag": "d",
+                "text": "Store electrical energy",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "48111": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "BJT Structure and Operation",
+        "question_type": "Theory",
+        "exam_year": "2018",
+        "question_text": "<p>Describe the structure of an <b>NPN bipolar junction transistor (BJT)</b> and explain its operation in the <i>active region</i>. Include the roles of the <i>emitter</i>, <i>base</i>, and <i>collector</i>.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>An <b>NPN BJT</b> consists of three semiconductor regions:<br>1. <b>Emitter</b>: Heavily doped, emits electrons into the base.<br>2. <b>Base</b>: Thin and lightly doped, allows most electrons to pass through to the collector.<br>3. <b>Collector</b>: Moderately doped, collects electrons from the base.<br><br>In the <i>active region</i>, the base-emitter junction is forward-biased, and the base-collector junction is reverse-biased. Electrons from the emitter diffuse into the base, where a small fraction recombine with holes. The majority of electrons are swept into the collector by the electric field of the reverse-biased base-collector junction, resulting in collector current $I_C$. The base current $I_B$ controls the collector current, with $I_C = \beta I_B$, where $\beta$ is the current gain.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "48112": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Common-Emitter Amplifier",
+        "question_type": "Theory",
+        "exam_year": "2018",
+        "question_text": "<p>For a <b>common-emitter amplifier</b>, derive the expression for the <i>voltage gain</i> $A_v$ in terms of the transistor parameters and circuit components. Assume the amplifier is biased in the active region.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>voltage gain</b> $A_v$ of a common-emitter amplifier is given by:<br>$A_v = \frac{V_{out}}{V_{in}} = -g_m R_C \thickapprox -\frac{\beta R_C}{r_{\\pi}}$,<br>where:<br>- $g_m$ is the transconductance, $g_m = \frac{I_C}{V_T}$ ($V_T$ is the thermal voltage, $\thickapprox 26 \text{ mV}$ at room temperature).<br>- $R_C$ is the collector resistor.<br>- $\beta$ is the current gain of the transistor.<br>- $r_{\\pi}$ is the small-signal input resistance of the base-emitter junction, $r_{\\pi} = \frac{\beta}{g_m}$.<br><br>The negative sign indicates that the output voltage is inverted with respect to the input voltage.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "48113": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Operational Amplifiers (Op-Amp)",
+        "question_type": "Objective",
+        "exam_year": "2018",
+        "question_text": "<p>In an <b>inverting Op-Amp configuration</b>, the voltage gain is given by:<br>(a) $A_v = 1 + \frac{R_f}{R_{in}}$<br>(b) $A_v = -\frac{R_f}{R_{in}}$<br>(c) $A_v = \frac{R_f}{R_{in}}$<br>(d) $A_v = -\frac{R_{in}}{R_f}$</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In an <b>inverting Op-Amp configuration</b>, the voltage gain is determined by the ratio of the feedback resistor $R_f$ to the input resistor $R_{in}$, with a negative sign indicating inversion. The correct expression is $A_v = -\frac{R_f}{R_{in}}$, which corresponds to option (b).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "47965",
+                "tag": "a",
+                "text": "$A_v = 1 + \\frac{R_f}{R_{in}}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "90162",
+                "tag": "b",
+                "text": "$A_v = -\\frac{R_f}{R_{in}}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "27985",
+                "tag": "c",
+                "text": "$A_v = \\frac{R_f}{R_{in}}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "21458",
+                "tag": "d",
+                "text": "$A_v = -\\frac{R_{in}}{R_f}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "48114": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Number Systems and Conversions",
+        "question_type": "Theory",
+        "exam_year": "2018",
+        "question_text": "<p>Convert the following numbers:<br>(i) The decimal number $157_{10}$ to binary.<br>(ii) The binary number $101101_2$ to decimal.<br>(iii) The hexadecimal number $3A_{16}$ to binary.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) To convert $157_{10}$ to binary:<br>Divide by 2 and record remainders:<br>$157 \thickdiv 2 = 78$ remainder $1$<br>$78 \thickdiv 2 = 39$ remainder $0$<br>$39 \thickdiv 2 = 19$ remainder $1$<br>$19 \thickdiv 2 = 9$ remainder $1$<br>$9 \thickdiv 2 = 4$ remainder $1$<br>$4 \thickdiv 2 = 2$ remainder $0$<br>$2 \thickdiv 2 = 1$ remainder $0$<br>$1 \thickdiv 2 = 0$ remainder $1$<br>Reading remainders from bottom to top: $157_{10} = 10011101_2$.<br><br>(ii) To convert $101101_2$ to decimal:<br>$1 \times 2^5 + 0 \times 2^4 + 1 \times 2^3 + 1 \times 2^2 + 0 \times 2^1 + 1 \times 2^0 = 32 + 0 + 8 + 4 + 0 + 1 = 45_{10}$.<br><br>(iii) To convert $3A_{16}$ to binary:<br>Convert each hex digit to 4-bit binary:<br>$3_{16} = 0011_2$, $A_{16} = 1010_2$.<br>Thus, $3A_{16} = 00111010_2$ (or $111010_2$ without leading zeros).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "48115": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Logic Gates and Boolean Algebra",
+        "question_type": "Theory",
+        "exam_year": "2018",
+        "question_text": "<p>Simplify the following Boolean expression using the laws of Boolean algebra:<br>$Y = (A + \bar{B}) \bullet (A + B) \bullet (\bar{A} + \bar{B})$<br>Draw the logic circuit for the simplified expression.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Simplify the expression step-by-step:<br>$Y = (A + \bar{B}) \bullet (A + B) \bullet (\bar{A} + \bar{B})$<br><br>First, simplify $(A + \bar{B}) \bullet (A + B)$ using the distributive law:<br>$(A + \bar{B})(A + B) = A + (\bar{B} \bullet B) = A + 0 = A$.<br><br>Now, substitute back into the original expression:<br>$Y = A \bullet (\bar{A} + \bar{B}) = (A \bullet \bar{A}) + (A \bullet \bar{B}) = 0 + (A \bullet \bar{B}) = A \bullet \bar{B}$.<br><br>The simplified expression is $Y = A \bar{B}$. The logic circuit consists of an <b>AND gate</b> with inputs $A$ and $\bar{B}$ (where $\bar{B}$ is obtained using a <b>NOT gate</b>).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

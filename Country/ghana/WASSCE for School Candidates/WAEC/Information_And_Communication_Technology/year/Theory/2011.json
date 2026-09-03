@@ -1,0 +1,257 @@
+{
+    "35736": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "ICT Basics",
+        "question_type": "Theory",
+        "exam_year": "2011",
+        "question_text": "<p>Explain the term <b>Information and Communication Technology (ICT)</b> and list <u>four</u> key areas where ICT is applied in modern society.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Information and Communication Technology (ICT)</b> refers to the use of digital technology to process, store, retrieve, and transmit information. It encompasses both hardware and software tools that facilitate communication and data management.<br><br>Key areas where ICT is applied include:<br><br>1. <b>Education</b>: E-learning platforms, digital libraries, and interactive learning tools.<br>2. <b>Healthcare</b>: Electronic health records, telemedicine, and medical imaging.<br>3. <b>Business</b>: E-commerce, digital marketing, and enterprise resource planning (ERP) systems.<br>4. <b>Government</b>: E-governance, digital voting systems, and public service delivery.<br>5. <b>Entertainment</b>: Streaming services, digital gaming, and social media.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "35737": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Computer Types",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>Which of the following is an example of a <b>supercomputer</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>supercomputer</b> is a high-performance computing machine designed for complex scientific calculations and simulations. <b>CRAY-1</b> is a well-known example of a supercomputer developed in the 1970s.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "14894",
+                "tag": "a",
+                "text": "IBM PC",
+                "is_correct": false
+            },
+            {
+                "option_id": "82514",
+                "tag": "b",
+                "text": "CRAY-1",
+                "is_correct": true
+            },
+            {
+                "option_id": "35135",
+                "tag": "c",
+                "text": "Apple Macintosh",
+                "is_correct": false
+            },
+            {
+                "option_id": "19502",
+                "tag": "d",
+                "text": "Dell Inspiron",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "35738": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Hardware Components",
+        "question_type": "Theory",
+        "exam_year": "2011",
+        "question_text": "<p>Describe the functions of the following hardware components in a computer system:<br><br>(i) <b>Central Processing Unit (CPU)</b><br>(ii) <b>Random Access Memory (RAM)</b><br>(iii) <b>Hard Disk Drive (HDD)</b></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) <b>Central Processing Unit (CPU)</b>: The CPU is the brain of the computer. It performs arithmetic and logical operations, executes instructions from programs, and manages data flow within the system.<br><br>(ii) <b>Random Access Memory (RAM)</b>: RAM is volatile memory that temporarily stores data and instructions that the CPU needs while executing programs. It allows for fast read and write operations.<br><br>(iii) <b>Hard Disk Drive (HDD)</b>: The HDD is non-volatile storage that permanently stores data, programs, and the operating system. It has a larger capacity compared to RAM but operates at slower speeds.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "35739": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Number System Conversion",
+        "question_type": "Theory",
+        "exam_year": "2011",
+        "question_text": "<p>Convert the binary number <b>$110101_2$</b> to its decimal equivalent. Show all working steps.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>To convert the binary number $110101_2$ to decimal:<br><br>1. Write down the binary number and assign powers of 2 from right to left (starting at $2^0$):<br>$1 \times 2^5 + 1 \times 2^4 + 0 \times 2^3 + 1 \times 2^2 + 0 \times 2^1 + 1 \times 2^0$<br><br>2. Calculate each term:<br>$1 \times 32 = 32$<br>$1 \times 16 = 16$<br>$0 \times 8 = 0$<br>$1 \times 4 = 4$<br>$0 \times 2 = 0$<br>$1 \times 1 = 1$<br><br>3. Sum the results:<br>$32 + 16 + 0 + 4 + 0 + 1 = 53$<br><br>Thus, $110101_2 = 53_{10}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "35740": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Operating Systems",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>Which of the following is <b>NOT</b> a function of an operating system?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>An operating system manages hardware resources, provides a user interface, runs applications, and handles file management. <b>Compiling source code</b> is a function of a compiler, not an operating system.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "14894",
+                "tag": "a",
+                "text": "Memory management",
+                "is_correct": false
+            },
+            {
+                "option_id": "82514",
+                "tag": "b",
+                "text": "User interface provision",
+                "is_correct": false
+            },
+            {
+                "option_id": "35135",
+                "tag": "c",
+                "text": "Compiling source code",
+                "is_correct": true
+            },
+            {
+                "option_id": "19502",
+                "tag": "d",
+                "text": "Process scheduling",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "35741": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Network Types",
+        "question_type": "Theory",
+        "exam_year": "2011",
+        "question_text": "<p>Differentiate between a <b>Local Area Network (LAN)</b> and a <b>Wide Area Network (WAN)</b> with respect to:<br><br>(i) Geographical coverage<br>(ii) Data transfer speed<br>(iii) Ownership</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) <b>Geographical coverage</b>: A LAN covers a small area, such as a single building or campus, while a WAN spans large distances, such as cities, countries, or continents.<br><br>(ii) <b>Data transfer speed</b>: LANs typically have higher data transfer speeds (e.g., 1 Gbps or more) due to shorter distances and dedicated connections. WANs have lower speeds (e.g., 10 Mbps to 100 Mbps) due to longer distances and shared infrastructure.<br><br>(iii) <b>Ownership</b>: LANs are usually owned and managed by a single organization, while WANs may involve multiple organizations and service providers (e.g., ISPs).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "35742": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Cybersecurity Threats",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>Which of the following is an example of a <b>social engineering</b> attack?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Phishing</b> is a social engineering attack where attackers impersonate legitimate entities to trick users into revealing sensitive information, such as passwords or credit card details.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "14894",
+                "tag": "a",
+                "text": "Denial of Service (DoS)",
+                "is_correct": false
+            },
+            {
+                "option_id": "82514",
+                "tag": "b",
+                "text": "Phishing",
+                "is_correct": true
+            },
+            {
+                "option_id": "35135",
+                "tag": "c",
+                "text": "Brute force attack",
+                "is_correct": false
+            },
+            {
+                "option_id": "19502",
+                "tag": "d",
+                "text": "SQL injection",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "35743": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Logic Gates",
+        "question_type": "Theory",
+        "exam_year": "2011",
+        "question_text": "<p>Draw the truth table for a <b>NAND gate</b> and explain its operation with an example.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>NAND gate</b> is a universal logic gate that outputs <b>false</b> only when all its inputs are <b>true</b>. Otherwise, it outputs <b>true</b>.<br><br><b>Truth Table for NAND Gate:</b><br><br><table border='1'><tr><th>A</th><th>B</th><th>A NAND B</th></tr><tr><td>0</td><td>0</td><td>1</td></tr><tr><td>0</td><td>1</td><td>1</td></tr><tr><td>1</td><td>0</td><td>1</td></tr><tr><td>1</td><td>1</td><td>0</td></tr></table><br><b>Example:</b> If inputs A and B are both 1 (true), the output of the NAND gate is 0 (false). For all other input combinations, the output is 1 (true).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "35744": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Spreadsheet Tools",
+        "question_type": "Practical",
+        "exam_year": "2011",
+        "question_text": "<p>In a spreadsheet application, explain how you would use the <b>VLOOKUP</b> function to search for a student's score in a table where:<br><br>(i) The student names are in column A.<br>(ii) The scores are in column B.<br>(iii) The lookup value is in cell D1.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>VLOOKUP</b> function searches for a value in the first column of a table and returns a value in the same row from a specified column.<br><br>The correct formula to use is:<br><br><b>=VLOOKUP(D1, A1:B100, 2, FALSE)</b><br><br>Where:<br>- <b>D1</b> is the lookup value (student name).<br>- <b>A1:B100</b> is the table range.<br>- <b>2</b> is the column index number (scores are in column B).<br>- <b>FALSE</b> ensures an exact match is found.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "35745": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "ICT in Society",
+        "question_type": "Theory",
+        "exam_year": "2011",
+        "question_text": "<p>Discuss <u>three</u> positive impacts and <u>three</u> negative impacts of ICT on society.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Positive Impacts:</b><br>1. <b>Improved Communication</b>: ICT enables instant communication through email, social media, and messaging apps, bridging geographical gaps.<br>2. <b>Access to Information</b>: The internet provides vast amounts of information, enhancing education, research, and decision-making.<br>3. <b>Economic Growth</b>: ICT drives innovation, creates jobs, and boosts productivity in industries like e-commerce and digital marketing.<br><br><b>Negative Impacts:</b><br>1. <b>Privacy Concerns</b>: ICT increases the risk of data breaches and unauthorized access to personal information.<br>2. <b>Digital Divide</b>: Unequal access to ICT tools creates disparities in education and economic opportunities.<br>3. <b>Cybercrime</b>: ICT facilitates crimes like hacking, identity theft, and online fraud, posing security threats.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

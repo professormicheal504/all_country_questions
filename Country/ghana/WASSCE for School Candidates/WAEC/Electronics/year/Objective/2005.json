@@ -858,5 +858,478 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "68762": {
+        "order_id": 21,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Electronics Basics",
+        "question_type": "Objective",
+        "exam_year": "2005",
+        "question_text": "<p>Which of the following is <b>NOT</b> a fundamental property of an electron?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>An electron has three fundamental properties: <i>mass</i>, <i>charge</i>, and <i>spin</i>. <b>Color</b> is not a property of an electron but rather a property associated with quarks in quantum chromodynamics.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "31561",
+                "tag": "a",
+                "text": "Mass",
+                "is_correct": false
+            },
+            {
+                "option_id": "73986",
+                "tag": "b",
+                "text": "Charge",
+                "is_correct": false
+            },
+            {
+                "option_id": "43696",
+                "tag": "c",
+                "text": "Spin",
+                "is_correct": false
+            },
+            {
+                "option_id": "69483",
+                "tag": "d",
+                "text": "Color",
+                "is_correct": true
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "68763": {
+        "order_id": 22,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Atomic Structure and Energy Bands",
+        "question_type": "Objective",
+        "exam_year": "2005",
+        "question_text": "<p>The energy gap between the valence band and the conduction band in a semiconductor is called the</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>forbidden energy gap</b> (or bandgap) is the energy difference between the valence band and the conduction band in a semiconductor. It determines the electrical conductivity of the material.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "31562",
+                "tag": "a",
+                "text": "Fermi level",
+                "is_correct": false
+            },
+            {
+                "option_id": "73987",
+                "tag": "b",
+                "text": "Forbidden energy gap",
+                "is_correct": true
+            },
+            {
+                "option_id": "43697",
+                "tag": "c",
+                "text": "Conduction band",
+                "is_correct": false
+            },
+            {
+                "option_id": "69484",
+                "tag": "d",
+                "text": "Valence band",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "68764": {
+        "order_id": 23,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Semiconductor Types and Doping",
+        "question_type": "Objective",
+        "exam_year": "2005",
+        "question_text": "<p>An n-type semiconductor is formed by doping intrinsic silicon with</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>An <b>n-type semiconductor</b> is created by doping intrinsic silicon with a pentavalent impurity (e.g., phosphorus, arsenic), which introduces extra electrons as majority carriers.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "31563",
+                "tag": "a",
+                "text": "Aluminum",
+                "is_correct": false
+            },
+            {
+                "option_id": "73988",
+                "tag": "b",
+                "text": "Boron",
+                "is_correct": false
+            },
+            {
+                "option_id": "43698",
+                "tag": "c",
+                "text": "Phosphorus",
+                "is_correct": true
+            },
+            {
+                "option_id": "69485",
+                "tag": "d",
+                "text": "Gallium",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "68765": {
+        "order_id": 24,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "PN Junction Diode",
+        "question_type": "Objective",
+        "exam_year": "2005",
+        "question_text": "<p>The depletion region in a PN junction diode consists mainly of</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>depletion region</b> in a PN junction diode is formed by the diffusion of charge carriers, leaving behind <i>immobile ions</i> (donors and acceptors) that create an electric field.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "31564",
+                "tag": "a",
+                "text": "Free electrons",
+                "is_correct": false
+            },
+            {
+                "option_id": "73989",
+                "tag": "b",
+                "text": "Holes",
+                "is_correct": false
+            },
+            {
+                "option_id": "43699",
+                "tag": "c",
+                "text": "Ionized donor and acceptor atoms",
+                "is_correct": true
+            },
+            {
+                "option_id": "69486",
+                "tag": "d",
+                "text": "Neutral atoms",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "68766": {
+        "order_id": 25,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Diode Rectification",
+        "question_type": "Objective",
+        "exam_year": "2005",
+        "question_text": "<p>A full-wave rectifier uses <b>how many diodes</b> in its circuit?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>full-wave rectifier</b> typically uses <b>four diodes</b> arranged in a bridge configuration to convert both halves of an AC waveform into DC.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "31565",
+                "tag": "a",
+                "text": "1",
+                "is_correct": false
+            },
+            {
+                "option_id": "73990",
+                "tag": "b",
+                "text": "2",
+                "is_correct": false
+            },
+            {
+                "option_id": "43700",
+                "tag": "c",
+                "text": "4",
+                "is_correct": true
+            },
+            {
+                "option_id": "69487",
+                "tag": "d",
+                "text": "6",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "68767": {
+        "order_id": 26,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Zener Diodes and Regulation",
+        "question_type": "Objective",
+        "exam_year": "2005",
+        "question_text": "<p>A Zener diode is primarily used for</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>Zener diode</b> operates in reverse breakdown and is used for <b>voltage regulation</b> in circuits to maintain a constant output voltage.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "31566",
+                "tag": "a",
+                "text": "Amplification",
+                "is_correct": false
+            },
+            {
+                "option_id": "73991",
+                "tag": "b",
+                "text": "Rectification",
+                "is_correct": false
+            },
+            {
+                "option_id": "43701",
+                "tag": "c",
+                "text": "Voltage regulation",
+                "is_correct": true
+            },
+            {
+                "option_id": "69488",
+                "tag": "d",
+                "text": "Oscillation",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "68768": {
+        "order_id": 27,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "BJT Structure and Operation",
+        "question_type": "Objective",
+        "exam_year": "2005",
+        "question_text": "<p>In a BJT, the region with the <u>lightest doping</u> is the</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In a Bipolar Junction Transistor (BJT), the <b>collector</b> is the most lightly doped region to support high reverse bias voltages and improve breakdown characteristics.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "31567",
+                "tag": "a",
+                "text": "Emitter",
+                "is_correct": false
+            },
+            {
+                "option_id": "73992",
+                "tag": "b",
+                "text": "Base",
+                "is_correct": false
+            },
+            {
+                "option_id": "43702",
+                "tag": "c",
+                "text": "Collector",
+                "is_correct": true
+            },
+            {
+                "option_id": "69489",
+                "tag": "d",
+                "text": "Substrate",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "68769": {
+        "order_id": 28,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Common-Emitter Amplifier",
+        "question_type": "Objective",
+        "exam_year": "2005",
+        "question_text": "<p>The voltage gain of a common-emitter amplifier is given by $A_v = -g_m R_C$. What does $g_m$ represent?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In the voltage gain formula for a common-emitter amplifier, $g_m$ represents the <b>transconductance</b> of the transistor, which is the ratio of the change in collector current to the change in base-emitter voltage ($g_m = \\frac{\\Delta I_C}{\\Delta V_{BE}}$).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "31568",
+                "tag": "a",
+                "text": "Input resistance",
+                "is_correct": false
+            },
+            {
+                "option_id": "73993",
+                "tag": "b",
+                "text": "Transconductance",
+                "is_correct": true
+            },
+            {
+                "option_id": "43703",
+                "tag": "c",
+                "text": "Output resistance",
+                "is_correct": false
+            },
+            {
+                "option_id": "69490",
+                "tag": "d",
+                "text": "Load resistance",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "68770": {
+        "order_id": 29,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Operational Amplifiers (Op-Amp) Basics",
+        "question_type": "Objective",
+        "exam_year": "2005",
+        "question_text": "<p>An ideal operational amplifier has an input impedance of</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>An <b>ideal operational amplifier</b> is assumed to have <b>infinite input impedance</b>, meaning it draws no current from the input source.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "31569",
+                "tag": "a",
+                "text": "0 \u03a9",
+                "is_correct": false
+            },
+            {
+                "option_id": "73994",
+                "tag": "b",
+                "text": "50 \u03a9",
+                "is_correct": false
+            },
+            {
+                "option_id": "43704",
+                "tag": "c",
+                "text": "Infinite",
+                "is_correct": true
+            },
+            {
+                "option_id": "69491",
+                "tag": "d",
+                "text": "1 k\u03a9",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "68771": {
+        "order_id": 30,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Number Systems and Conversions",
+        "question_type": "Objective",
+        "exam_year": "2005",
+        "question_text": "<p>Convert the binary number $1101_2$ to its decimal equivalent.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The binary number $1101_2$ is converted to decimal as follows:<br>$1 \\times 2^3 + 1 \\times 2^2 + 0 \\times 2^1 + 1 \\times 2^0 = 8 + 4 + 0 + 1 = <b>13</b>$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "31570",
+                "tag": "a",
+                "text": "10",
+                "is_correct": false
+            },
+            {
+                "option_id": "73995",
+                "tag": "b",
+                "text": "11",
+                "is_correct": false
+            },
+            {
+                "option_id": "43705",
+                "tag": "c",
+                "text": "13",
+                "is_correct": true
+            },
+            {
+                "option_id": "69492",
+                "tag": "d",
+                "text": "15",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
+    },
+    "68772": {
+        "order_id": 31,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Logic Gates and Boolean Algebra",
+        "question_type": "Objective",
+        "exam_year": "2005",
+        "question_text": "<p>The Boolean expression $A + \\overline{A}B$ simplifies to</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Using Boolean algebra, $A + \\overline{A}B$ simplifies as follows:<br>$A + \\overline{A}B = A + B$ (by the absorption law).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "31571",
+                "tag": "a",
+                "text": "$A + B$",
+                "is_correct": true
+            },
+            {
+                "option_id": "73996",
+                "tag": "b",
+                "text": "$A \\cdot B$",
+                "is_correct": false
+            },
+            {
+                "option_id": "43706",
+                "tag": "c",
+                "text": "$\\overline{A} + B$",
+                "is_correct": false
+            },
+            {
+                "option_id": "69493",
+                "tag": "d",
+                "text": "$A \\oplus B$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 11
     }
 }

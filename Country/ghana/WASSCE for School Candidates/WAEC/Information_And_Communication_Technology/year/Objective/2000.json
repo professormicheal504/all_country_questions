@@ -428,5 +428,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "96776": {
+        "order_id": 11,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "ICT Basics",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>Which of the following is <b>NOT</b> a primary function of a computer?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A computer's primary functions include input, processing, output, and storage. <i>Entertainment</i> is a secondary use, not a primary function.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "43735",
+                "tag": "a",
+                "text": "Input",
+                "is_correct": false
+            },
+            {
+                "option_id": "59462",
+                "tag": "b",
+                "text": "Processing",
+                "is_correct": false
+            },
+            {
+                "option_id": "88527",
+                "tag": "c",
+                "text": "Entertainment",
+                "is_correct": true
+            },
+            {
+                "option_id": "16086",
+                "tag": "d",
+                "text": "Storage",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "96777": {
+        "order_id": 12,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Computer Types",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>Which type of computer is designed to be used by a single user at a time?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <i>microcomputer</i> (or personal computer) is designed for individual use, unlike mainframes or supercomputers, which serve multiple users or complex tasks.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "43736",
+                "tag": "a",
+                "text": "Mainframe",
+                "is_correct": false
+            },
+            {
+                "option_id": "59463",
+                "tag": "b",
+                "text": "Supercomputer",
+                "is_correct": false
+            },
+            {
+                "option_id": "88528",
+                "tag": "c",
+                "text": "Microcomputer",
+                "is_correct": true
+            },
+            {
+                "option_id": "16087",
+                "tag": "d",
+                "text": "Minicomputer",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "96778": {
+        "order_id": 13,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Hardware Components",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>Which hardware component is responsible for temporarily storing data and instructions during processing?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <i>RAM (Random Access Memory)</i> is a volatile memory that temporarily holds data and instructions while the computer is running. It is not the CPU, hard disk, or ROM.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "43737",
+                "tag": "a",
+                "text": "CPU",
+                "is_correct": false
+            },
+            {
+                "option_id": "59464",
+                "tag": "b",
+                "text": "Hard Disk",
+                "is_correct": false
+            },
+            {
+                "option_id": "88529",
+                "tag": "c",
+                "text": "RAM",
+                "is_correct": true
+            },
+            {
+                "option_id": "16088",
+                "tag": "d",
+                "text": "ROM",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "96779": {
+        "order_id": 14,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Number System Conversion",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>Convert the binary number $1011_2$ to its decimal equivalent.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The binary number $1011_2$ is calculated as:<br>$1 \\times 2^3 + 0 \\times 2^2 + 1 \\times 2^1 + 1 \\times 2^0 = 8 + 0 + 2 + 1 = 11_{10}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "43738",
+                "tag": "a",
+                "text": "9",
+                "is_correct": false
+            },
+            {
+                "option_id": "59465",
+                "tag": "b",
+                "text": "10",
+                "is_correct": false
+            },
+            {
+                "option_id": "88530",
+                "tag": "c",
+                "text": "11",
+                "is_correct": true
+            },
+            {
+                "option_id": "16089",
+                "tag": "d",
+                "text": "12",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "96780": {
+        "order_id": 15,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Operating Systems",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>Which of the following is <b>NOT</b> a function of an operating system?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>An operating system manages hardware, software, memory, and processes. <i>Virus scanning</i> is a function of antivirus software, not the OS itself.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "43739",
+                "tag": "a",
+                "text": "Memory management",
+                "is_correct": false
+            },
+            {
+                "option_id": "59466",
+                "tag": "b",
+                "text": "Process scheduling",
+                "is_correct": false
+            },
+            {
+                "option_id": "88531",
+                "tag": "c",
+                "text": "Virus scanning",
+                "is_correct": true
+            },
+            {
+                "option_id": "16090",
+                "tag": "d",
+                "text": "File management",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "96781": {
+        "order_id": 16,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Network Types",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>A network that covers a small geographical area, such as a single building, is called a:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <i>Local Area Network (LAN)</i> is designed to connect devices within a limited area, such as an office or school building.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "43740",
+                "tag": "a",
+                "text": "WAN",
+                "is_correct": false
+            },
+            {
+                "option_id": "59467",
+                "tag": "b",
+                "text": "MAN",
+                "is_correct": false
+            },
+            {
+                "option_id": "88532",
+                "tag": "c",
+                "text": "LAN",
+                "is_correct": true
+            },
+            {
+                "option_id": "16091",
+                "tag": "d",
+                "text": "PAN",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "96782": {
+        "order_id": 17,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Cybersecurity Threats",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>Which of the following is a common method used by hackers to gain unauthorized access to a system?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><i>Phishing</i> is a social engineering attack where hackers trick users into revealing sensitive information, such as passwords or credit card details.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "43741",
+                "tag": "a",
+                "text": "Firewall",
+                "is_correct": false
+            },
+            {
+                "option_id": "59468",
+                "tag": "b",
+                "text": "Encryption",
+                "is_correct": false
+            },
+            {
+                "option_id": "88533",
+                "tag": "c",
+                "text": "Phishing",
+                "is_correct": true
+            },
+            {
+                "option_id": "16092",
+                "tag": "d",
+                "text": "Backup",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "96783": {
+        "order_id": 18,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Logic Gates",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>Which logic gate produces an output of <b>1</b> only when all its inputs are <b>1</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <i>AND gate</i> outputs <b>1</b> only if all inputs are <b>1</b>. Other gates like OR, NOT, and XOR do not follow this rule.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "43742",
+                "tag": "a",
+                "text": "OR gate",
+                "is_correct": false
+            },
+            {
+                "option_id": "59469",
+                "tag": "b",
+                "text": "NOT gate",
+                "is_correct": false
+            },
+            {
+                "option_id": "88534",
+                "tag": "c",
+                "text": "AND gate",
+                "is_correct": true
+            },
+            {
+                "option_id": "16093",
+                "tag": "d",
+                "text": "XOR gate",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "96784": {
+        "order_id": 19,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Word Processing",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>In word processing, the feature used to automatically move text to the next line when it reaches the right margin is called:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><i>Word wrap</i> is the feature that automatically moves text to the next line when it reaches the right margin, preventing it from extending beyond the page boundary.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "43743",
+                "tag": "a",
+                "text": "Alignment",
+                "is_correct": false
+            },
+            {
+                "option_id": "59470",
+                "tag": "b",
+                "text": "Indentation",
+                "is_correct": false
+            },
+            {
+                "option_id": "88535",
+                "tag": "c",
+                "text": "Word wrap",
+                "is_correct": true
+            },
+            {
+                "option_id": "16094",
+                "tag": "d",
+                "text": "Justification",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "96785": {
+        "order_id": 20,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Data Backup",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>Which of the following is the <b>most reliable</b> method for data backup?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Storing backups on <i>external storage devices</i> (e.g., external hard drives) is more reliable than relying on the same system or temporary storage like RAM or cache.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "43744",
+                "tag": "a",
+                "text": "Saving files on the same hard disk",
+                "is_correct": false
+            },
+            {
+                "option_id": "59471",
+                "tag": "b",
+                "text": "Storing files in RAM",
+                "is_correct": false
+            },
+            {
+                "option_id": "88536",
+                "tag": "c",
+                "text": "Using external storage devices",
+                "is_correct": true
+            },
+            {
+                "option_id": "16095",
+                "tag": "d",
+                "text": "Saving files in the cache",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

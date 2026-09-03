@@ -428,5 +428,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "17123": {
+        "order_id": 11,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Electronics Basics",
+        "question_type": "Objective",
+        "exam_year": "2021",
+        "question_text": "<p>Which of the following is the SI unit of electric current?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The SI unit of electric current is the <b>Ampere (A)</b>, named after Andr\u00e9-Marie Amp\u00e8re, a French physicist. It is defined as the flow of one coulomb of charge per second.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "16532",
+                "tag": "a",
+                "text": "Volt (V)",
+                "is_correct": false
+            },
+            {
+                "option_id": "74173",
+                "tag": "b",
+                "text": "Ampere (A)",
+                "is_correct": true
+            },
+            {
+                "option_id": "35620",
+                "tag": "c",
+                "text": "Ohm (\u03a9)",
+                "is_correct": false
+            },
+            {
+                "option_id": "94827",
+                "tag": "d",
+                "text": "Watt (W)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "17124": {
+        "order_id": 12,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Atomic Structure and Energy Bands",
+        "question_type": "Objective",
+        "exam_year": "2021",
+        "question_text": "<p>In a semiconductor, the energy gap between the valence band and the conduction band is called the:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The energy gap between the valence band and the conduction band in a semiconductor is known as the <b>forbidden energy gap</b> or <b>bandgap ($E_g$)</b>. This gap determines whether a material is a conductor, semiconductor, or insulator.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "16533",
+                "tag": "a",
+                "text": "Fermi level",
+                "is_correct": false
+            },
+            {
+                "option_id": "74174",
+                "tag": "b",
+                "text": "Forbidden energy gap",
+                "is_correct": true
+            },
+            {
+                "option_id": "35621",
+                "tag": "c",
+                "text": "Conduction band",
+                "is_correct": false
+            },
+            {
+                "option_id": "94828",
+                "tag": "d",
+                "text": "Valence band",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "17125": {
+        "order_id": 13,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Semiconductor Types and Doping",
+        "question_type": "Objective",
+        "exam_year": "2021",
+        "question_text": "<p>An n-type semiconductor is formed by doping intrinsic silicon with:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>An <b>n-type semiconductor</b> is created by doping intrinsic silicon with a pentavalent impurity (e.g., phosphorus, arsenic, or antimony). These impurities introduce extra electrons, increasing the number of free electrons in the material.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "16534",
+                "tag": "a",
+                "text": "Aluminum",
+                "is_correct": false
+            },
+            {
+                "option_id": "74175",
+                "tag": "b",
+                "text": "Phosphorus",
+                "is_correct": true
+            },
+            {
+                "option_id": "35622",
+                "tag": "c",
+                "text": "Boron",
+                "is_correct": false
+            },
+            {
+                "option_id": "94829",
+                "tag": "d",
+                "text": "Gallium",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "17126": {
+        "order_id": 14,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "PN Junction Diode",
+        "question_type": "Objective",
+        "exam_year": "2021",
+        "question_text": "<p>When a PN junction diode is <i>reverse-biased</i>, the depletion region:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In <b>reverse bias</b>, the positive terminal of the battery is connected to the n-side, and the negative terminal to the p-side. This widens the depletion region, increasing the potential barrier and preventing current flow (except for a small reverse saturation current).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "16535",
+                "tag": "a",
+                "text": "Narrows",
+                "is_correct": false
+            },
+            {
+                "option_id": "74176",
+                "tag": "b",
+                "text": "Widens",
+                "is_correct": true
+            },
+            {
+                "option_id": "35623",
+                "tag": "c",
+                "text": "Remains unchanged",
+                "is_correct": false
+            },
+            {
+                "option_id": "94830",
+                "tag": "d",
+                "text": "Disappears",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "17127": {
+        "order_id": 15,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Diode Rectification",
+        "question_type": "Objective",
+        "exam_year": "2021",
+        "question_text": "<p>A full-wave rectifier uses <u>how many diodes</u>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>full-wave rectifier</b> typically uses <b>four diodes</b> arranged in a bridge configuration (bridge rectifier) to convert both halves of the AC input waveform into DC. Alternatively, a center-tapped transformer with two diodes can also achieve full-wave rectification.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "16536",
+                "tag": "a",
+                "text": "1",
+                "is_correct": false
+            },
+            {
+                "option_id": "74177",
+                "tag": "b",
+                "text": "2",
+                "is_correct": false
+            },
+            {
+                "option_id": "35624",
+                "tag": "c",
+                "text": "4",
+                "is_correct": true
+            },
+            {
+                "option_id": "94831",
+                "tag": "d",
+                "text": "3",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "17128": {
+        "order_id": 16,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "BJT Structure and Operation",
+        "question_type": "Objective",
+        "exam_year": "2021",
+        "question_text": "<p>In a Bipolar Junction Transistor (BJT), the region with the <i>lightest doping</i> is the:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In a BJT, the <b>base</b> is the region with the lightest doping. It is thin and lightly doped to allow most of the charge carriers from the emitter to diffuse into the collector, enabling transistor action.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "16537",
+                "tag": "a",
+                "text": "Emitter",
+                "is_correct": false
+            },
+            {
+                "option_id": "74178",
+                "tag": "b",
+                "text": "Base",
+                "is_correct": true
+            },
+            {
+                "option_id": "35625",
+                "tag": "c",
+                "text": "Collector",
+                "is_correct": false
+            },
+            {
+                "option_id": "94832",
+                "tag": "d",
+                "text": "Substrate",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "17129": {
+        "order_id": 17,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Common-Emitter Amplifier",
+        "question_type": "Objective",
+        "exam_year": "2021",
+        "question_text": "<p>The voltage gain ($A_v$) of a common-emitter amplifier is given by:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The voltage gain ($A_v$) of a common-emitter amplifier is given by the ratio of the output voltage to the input voltage. It can be approximated as $A_v = -g_m R_C$, where $g_m$ is the transconductance and $R_C$ is the collector resistance. The negative sign indicates a <b>180\u00b0 phase shift</b> between input and output.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "16538",
+                "tag": "a",
+                "text": "$A_v = g_m R_E$",
+                "is_correct": false
+            },
+            {
+                "option_id": "74179",
+                "tag": "b",
+                "text": "$A_v = -g_m R_C$",
+                "is_correct": true
+            },
+            {
+                "option_id": "35626",
+                "tag": "c",
+                "text": "$A_v = \beta R_C$",
+                "is_correct": false
+            },
+            {
+                "option_id": "94833",
+                "tag": "d",
+                "text": "$A_v = R_C / R_E$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "17130": {
+        "order_id": 18,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Operational Amplifiers (Op-Amp) Basics",
+        "question_type": "Objective",
+        "exam_year": "2021",
+        "question_text": "<p>An ideal operational amplifier (Op-Amp) has an input impedance of:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>An <b>ideal Op-Amp</b> is assumed to have <b>infinite input impedance</b>, meaning it draws no current from the input source. This ensures that the Op-Amp does not load the input circuit.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "16539",
+                "tag": "a",
+                "text": "0 \u03a9",
+                "is_correct": false
+            },
+            {
+                "option_id": "74180",
+                "tag": "b",
+                "text": "Infinite",
+                "is_correct": true
+            },
+            {
+                "option_id": "35627",
+                "tag": "c",
+                "text": "50 \u03a9",
+                "is_correct": false
+            },
+            {
+                "option_id": "94834",
+                "tag": "d",
+                "text": "1 k\u03a9",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "17131": {
+        "order_id": 19,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Number Systems and Conversions",
+        "question_type": "Objective",
+        "exam_year": "2021",
+        "question_text": "<p>Convert the binary number $1101_2$ to its decimal equivalent.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>To convert $1101_2$ to decimal:<br>$1 \times 2^3 + 1 \times 2^2 + 0 \times 2^1 + 1 \times 2^0 = 8 + 4 + 0 + 1 = 13_{10}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "16540",
+                "tag": "a",
+                "text": "11",
+                "is_correct": false
+            },
+            {
+                "option_id": "74181",
+                "tag": "b",
+                "text": "13",
+                "is_correct": true
+            },
+            {
+                "option_id": "35628",
+                "tag": "c",
+                "text": "14",
+                "is_correct": false
+            },
+            {
+                "option_id": "94835",
+                "tag": "d",
+                "text": "15",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "17132": {
+        "order_id": 20,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Logic Gates and Boolean Algebra",
+        "question_type": "Objective",
+        "exam_year": "2021",
+        "question_text": "<p>The Boolean expression $A + \bar{A}B$ simplifies to:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Using Boolean algebra:<br>$A + \bar{A}B = A + B$ (by the absorption law, where $A + \bar{A}B = A + B$).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "16541",
+                "tag": "a",
+                "text": "$A + B$",
+                "is_correct": true
+            },
+            {
+                "option_id": "74182",
+                "tag": "b",
+                "text": "$A \bar{B}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "35629",
+                "tag": "c",
+                "text": "$A B$",
+                "is_correct": false
+            },
+            {
+                "option_id": "94836",
+                "tag": "d",
+                "text": "$A \bar{A} B$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

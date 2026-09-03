@@ -1,0 +1,257 @@
+{
+    "16678": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Drawing tools overview",
+        "question_type": "Theory",
+        "exam_year": "2024",
+        "question_text": "<p>List <b>five</b> essential drawing tools used in Technical Drawing and describe the specific function of each tool.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The five essential drawing tools and their functions are:<br><br><b>1. T-square:</b> Used for drawing horizontal lines and as a guide for set squares.<br><b>2. Set squares (30\u00b0-60\u00b0 and 45\u00b0):</b> Used for drawing vertical and inclined lines at specific angles.<br><b>3. Compass:</b> Used for drawing circles and arcs of various radii.<br><b>4. Protractor:</b> Used for measuring and marking angles accurately.<br><b>5. French curve:</b> Used for drawing smooth, irregular curves that are not circular.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "16679": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Standard sheet sizes",
+        "question_type": "Objective",
+        "exam_year": "2024",
+        "question_text": "<p>Which of the following is the <b>standard</b> sheet size for an A2 drawing paper according to the ISO 216 series?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The standard sheet sizes follow the ISO 216 series, where A2 measures <b>420 mm \u00d7 594 mm</b>. This is derived by halving the longer side of an A1 sheet (594 mm \u00d7 841 mm).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "62686",
+                "tag": "a",
+                "text": "210 mm \u00d7 297 mm",
+                "is_correct": false
+            },
+            {
+                "option_id": "73148",
+                "tag": "b",
+                "text": "420 mm \u00d7 594 mm",
+                "is_correct": true
+            },
+            {
+                "option_id": "10976",
+                "tag": "c",
+                "text": "297 mm \u00d7 420 mm",
+                "is_correct": false
+            },
+            {
+                "option_id": "12629",
+                "tag": "d",
+                "text": "594 mm \u00d7 841 mm",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "16680": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Line types and uses",
+        "question_type": "Theory",
+        "exam_year": "2024",
+        "question_text": "<p>Draw and label <b>four</b> different types of lines used in Technical Drawing, and state their specific applications.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The four types of lines and their uses are:<br><br><b>1. Continuous thick line:</b> Used for visible outlines and edges.<br><b>2. Continuous thin line:</b> Used for dimension lines, projection lines, and hatching.<br><b>3. Dashed thin line:</b> Used for hidden details (e.g., edges not visible in the view).<br><b>4. Chain thin line:</b> Used for center lines, pitch circles, and paths of motion.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "16681": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Basic geometric constructions",
+        "question_type": "Practical",
+        "exam_year": "2024",
+        "question_text": "<p>Construct a <b>perpendicular bisector</b> of a line segment AB = 60 mm using only a compass and a straightedge. Show all construction lines clearly.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Steps to construct a perpendicular bisector:<br><br>1. Draw line segment AB = 60 mm.<br>2. With A as center and radius <i>greater than half of AB</i>, draw arcs above and below AB.<br>3. With B as center and the same radius, draw arcs intersecting the previous arcs.<br>4. Join the intersection points to form the perpendicular bisector.<br>5. The bisector should divide AB into two equal parts of 30 mm each.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "16682": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Orthographic projection methods",
+        "question_type": "Theory",
+        "exam_year": "2024",
+        "question_text": "<p>Explain the difference between <b>First Angle Projection</b> and <b>Third Angle Projection</b>, and sketch the symbol used to represent each method.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>First Angle Projection:</b> The object is placed in the first quadrant, and the views are projected onto planes behind the object. The symbol is a truncated cone with the right view on the left.<br><br><b>Third Angle Projection:</b> The object is placed in the third quadrant, and the views are projected onto planes in front of the object. The symbol is a truncated cone with the right view on the right.<br><br>The symbols are standardized and must be included in the title block of drawings.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "16683": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Sectional view types",
+        "question_type": "Objective",
+        "exam_year": "2024",
+        "question_text": "<p>Which type of sectional view is used to show the <b>internal details</b> of a cylindrical object by cutting it along a plane that passes through its axis?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>full section</b> is used when the cutting plane passes entirely through the object, revealing internal details. For cylindrical objects, this is often called an <b>axial section</b> or <b>longitudinal section</b>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "62686",
+                "tag": "a",
+                "text": "Half section",
+                "is_correct": false
+            },
+            {
+                "option_id": "73148",
+                "tag": "b",
+                "text": "Full section",
+                "is_correct": true
+            },
+            {
+                "option_id": "10976",
+                "tag": "c",
+                "text": "Revolved section",
+                "is_correct": false
+            },
+            {
+                "option_id": "12629",
+                "tag": "d",
+                "text": "Removed section",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "16684": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Isometric drawing basics",
+        "question_type": "Practical",
+        "exam_year": "2024",
+        "question_text": "<p>Draw an <b>isometric view</b> of a cube with edges of length 40 mm. Show all construction lines and label the isometric axes.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Steps to draw an isometric cube:<br><br>1. Draw the isometric axes at 30\u00b0 to the horizontal.<br>2. Mark 40 mm along each axis to represent the edges.<br>3. Complete the cube by drawing parallel lines to form the remaining edges.<br>4. Ensure all vertical lines are drawn vertically, and horizontal edges follow the 30\u00b0 axes.<br>5. Construction lines should be thin and light, while final lines are thick.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "16685": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Surface development",
+        "question_type": "Theory",
+        "exam_year": "2024",
+        "question_text": "<p>Describe the process of developing the <b>lateral surface</b> of a right circular cone with base diameter 50 mm and slant height 60 mm. Include a sketch of the development.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Steps to develop the lateral surface of a cone:<br><br>1. Calculate the circumference of the base: $C = \\pi d = \\pi \\times 50$ mm.<br>2. Draw a sector of a circle with radius equal to the slant height (60 mm) and arc length equal to the base circumference.<br>3. The sector angle $\\theta$ is calculated using: $\\theta = \\frac{C}{2\\pi r} \\times 360\u00b0 = \\frac{50\\pi}{2\\pi \\times 60} \\times 360\u00b0 = 150\u00b0$.<br>4. Draw the sector with the calculated angle and radius.<br>5. Label the development clearly, showing the base and apex.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "16686": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Dimensioning principles",
+        "question_type": "Objective",
+        "exam_year": "2024",
+        "question_text": "<p>Which of the following is <b>not</b> a correct dimensioning practice in Technical Drawing?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Correct dimensioning practices include:<br>- Avoiding duplicate dimensions.<br>- Placing dimensions outside the views where possible.<br>- Using extension lines without crossing dimension lines.<br><br>Option <b>c</b> is incorrect because dimension lines should <i>not</i> cross each other.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "62686",
+                "tag": "a",
+                "text": "Avoid duplicating dimensions",
+                "is_correct": false
+            },
+            {
+                "option_id": "73148",
+                "tag": "b",
+                "text": "Place dimensions outside the views",
+                "is_correct": false
+            },
+            {
+                "option_id": "10976",
+                "tag": "c",
+                "text": "Allow dimension lines to cross each other",
+                "is_correct": true
+            },
+            {
+                "option_id": "12629",
+                "tag": "d",
+                "text": "Use extension lines without crossing dimension lines",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "16687": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "CAD 2D drafting",
+        "question_type": "Theory",
+        "exam_year": "2024",
+        "question_text": "<p>Explain <b>three</b> advantages of using Computer-Aided Design (CAD) software for Technical Drawing over traditional manual drafting methods.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Advantages of CAD over manual drafting:<br><br><b>1. Precision and Accuracy:</b> CAD allows for exact measurements and eliminates human errors in drawing.<br><b>2. Efficiency and Speed:</b> Modifications, edits, and reproductions are faster and easier.<br><b>3. Storage and Sharing:</b> Digital files can be stored, shared, and accessed easily without physical degradation.<br><br>Additional advantages may include layer management, 3D modeling, and automation of repetitive tasks.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

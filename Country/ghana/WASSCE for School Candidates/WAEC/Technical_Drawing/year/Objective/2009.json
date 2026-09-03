@@ -1288,5 +1288,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "85443": {
+        "order_id": 31,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Drawing tools overview",
+        "question_type": "Objective",
+        "exam_year": "2009",
+        "question_text": "<p>Which of the following drawing tools is used to draw horizontal lines?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>T-square</b> is a drawing tool specifically designed to draw horizontal lines. It is aligned with the edge of the drawing board to ensure accuracy.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "10767",
+                "tag": "a",
+                "text": "Set square",
+                "is_correct": false
+            },
+            {
+                "option_id": "34096",
+                "tag": "b",
+                "text": "T-square",
+                "is_correct": true
+            },
+            {
+                "option_id": "69550",
+                "tag": "c",
+                "text": "Protractor",
+                "is_correct": false
+            },
+            {
+                "option_id": "80914",
+                "tag": "d",
+                "text": "Compass",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "85444": {
+        "order_id": 32,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Standard sheet sizes",
+        "question_type": "Objective",
+        "exam_year": "2009",
+        "question_text": "<p>What is the size of an A2 drawing sheet in millimeters?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The A2 sheet size is part of the ISO 216 standard and measures <b>420 mm \u00d7 594 mm</b>. Each A-series sheet is half the area of the previous size when folded parallel to its shorter sides.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "10768",
+                "tag": "a",
+                "text": "210 \u00d7 297",
+                "is_correct": false
+            },
+            {
+                "option_id": "34097",
+                "tag": "b",
+                "text": "297 \u00d7 420",
+                "is_correct": false
+            },
+            {
+                "option_id": "69551",
+                "tag": "c",
+                "text": "420 \u00d7 594",
+                "is_correct": true
+            },
+            {
+                "option_id": "80915",
+                "tag": "d",
+                "text": "594 \u00d7 841",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "85445": {
+        "order_id": 33,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Line types and uses",
+        "question_type": "Objective",
+        "exam_year": "2009",
+        "question_text": "<p>Which line type is used to represent hidden details in an orthographic projection?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>dashed line</b> (or hidden line) is used to represent edges or details that are not visible in the current view but exist in the object.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "10769",
+                "tag": "a",
+                "text": "Continuous thick line",
+                "is_correct": false
+            },
+            {
+                "option_id": "34098",
+                "tag": "b",
+                "text": "Dashed line",
+                "is_correct": true
+            },
+            {
+                "option_id": "69552",
+                "tag": "c",
+                "text": "Chain line",
+                "is_correct": false
+            },
+            {
+                "option_id": "80916",
+                "tag": "d",
+                "text": "Continuous thin line",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "85446": {
+        "order_id": 34,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Basic geometric constructions",
+        "question_type": "Objective",
+        "exam_year": "2009",
+        "question_text": "<p>To bisect a given angle using a compass and straightedge, which of the following steps is <b>not</b> required?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Bisecting an angle requires drawing arcs from the vertex and intersecting points, then connecting the intersection to the vertex. <b>Drawing a perpendicular line from the vertex</b> is not part of the standard procedure.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "10770",
+                "tag": "a",
+                "text": "Drawing an arc from the vertex to intersect the angle arms",
+                "is_correct": false
+            },
+            {
+                "option_id": "34099",
+                "tag": "b",
+                "text": "Drawing arcs from the intersection points to find a new point",
+                "is_correct": false
+            },
+            {
+                "option_id": "69553",
+                "tag": "c",
+                "text": "Drawing a perpendicular line from the vertex",
+                "is_correct": true
+            },
+            {
+                "option_id": "80917",
+                "tag": "d",
+                "text": "Connecting the new point to the vertex",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "85447": {
+        "order_id": 35,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Regular polygon construction",
+        "question_type": "Objective",
+        "exam_year": "2009",
+        "question_text": "<p>What is the central angle of a regular hexagon?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A regular hexagon has 6 equal sides. The central angle is calculated as $360\u00b0 \u00f7 6 = <b>60\u00b0</b>$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "10771",
+                "tag": "a",
+                "text": "45\u00b0",
+                "is_correct": false
+            },
+            {
+                "option_id": "34100",
+                "tag": "b",
+                "text": "60\u00b0",
+                "is_correct": true
+            },
+            {
+                "option_id": "69554",
+                "tag": "c",
+                "text": "90\u00b0",
+                "is_correct": false
+            },
+            {
+                "option_id": "80918",
+                "tag": "d",
+                "text": "120\u00b0",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "85448": {
+        "order_id": 36,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Orthographic projection methods",
+        "question_type": "Objective",
+        "exam_year": "2009",
+        "question_text": "<p>In first-angle orthographic projection, where is the front view located relative to the plan?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In <b>first-angle projection</b>, the front view is placed <b>below the plan</b>. This is because the object is imagined to be in the first quadrant, with the views projected onto planes behind the object.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "10772",
+                "tag": "a",
+                "text": "Above the plan",
+                "is_correct": false
+            },
+            {
+                "option_id": "34101",
+                "tag": "b",
+                "text": "Below the plan",
+                "is_correct": true
+            },
+            {
+                "option_id": "69555",
+                "tag": "c",
+                "text": "To the right of the plan",
+                "is_correct": false
+            },
+            {
+                "option_id": "80919",
+                "tag": "d",
+                "text": "To the left of the plan",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "85449": {
+        "order_id": 37,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Sectional view types",
+        "question_type": "Objective",
+        "exam_year": "2009",
+        "question_text": "<p>Which type of sectional view is used to show the interior details of a symmetrical object by cutting through only half of it?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>half section</b> is used to show the interior details of a symmetrical object by cutting through only half of it, leaving the other half intact for external details.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "10773",
+                "tag": "a",
+                "text": "Full section",
+                "is_correct": false
+            },
+            {
+                "option_id": "34102",
+                "tag": "b",
+                "text": "Half section",
+                "is_correct": true
+            },
+            {
+                "option_id": "69556",
+                "tag": "c",
+                "text": "Revolved section",
+                "is_correct": false
+            },
+            {
+                "option_id": "80920",
+                "tag": "d",
+                "text": "Removed section",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "85450": {
+        "order_id": 38,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Isometric drawing basics",
+        "question_type": "Objective",
+        "exam_year": "2009",
+        "question_text": "<p>In an isometric drawing, what is the angle between the isometric axes?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In isometric drawing, the three axes (representing length, width, and height) are spaced <b>120\u00b0</b> apart to create a three-dimensional effect on a two-dimensional plane.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "10774",
+                "tag": "a",
+                "text": "90\u00b0",
+                "is_correct": false
+            },
+            {
+                "option_id": "34103",
+                "tag": "b",
+                "text": "120\u00b0",
+                "is_correct": true
+            },
+            {
+                "option_id": "69557",
+                "tag": "c",
+                "text": "60\u00b0",
+                "is_correct": false
+            },
+            {
+                "option_id": "80921",
+                "tag": "d",
+                "text": "45\u00b0",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "85451": {
+        "order_id": 39,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Dimensioning principles",
+        "question_type": "Objective",
+        "exam_year": "2009",
+        "question_text": "<p>Which of the following is <b>not</b> a principle of dimensioning in technical drawing?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Dimensioning principles include clarity, avoiding duplication, and placing dimensions outside the view. <b>Dimensioning hidden lines</b> is not a standard practice as it can lead to confusion.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "10775",
+                "tag": "a",
+                "text": "Avoid duplicating dimensions",
+                "is_correct": false
+            },
+            {
+                "option_id": "34104",
+                "tag": "b",
+                "text": "Place dimensions outside the view",
+                "is_correct": false
+            },
+            {
+                "option_id": "69558",
+                "tag": "c",
+                "text": "Dimension hidden lines",
+                "is_correct": true
+            },
+            {
+                "option_id": "80922",
+                "tag": "d",
+                "text": "Use extension lines to indicate the extent of dimensions",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "85452": {
+        "order_id": 40,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Fasteners and joints",
+        "question_type": "Objective",
+        "exam_year": "2009",
+        "question_text": "<p>Which of the following fasteners is represented by the symbol shown below?<br><i>(Symbol: A circle with a diagonal line through it)</i></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The symbol described (a circle with a diagonal line through it) represents a <b>rivet</b>, which is a permanent mechanical fastener used in engineering drawings.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "10776",
+                "tag": "a",
+                "text": "Bolt",
+                "is_correct": false
+            },
+            {
+                "option_id": "34105",
+                "tag": "b",
+                "text": "Rivet",
+                "is_correct": true
+            },
+            {
+                "option_id": "69559",
+                "tag": "c",
+                "text": "Screw",
+                "is_correct": false
+            },
+            {
+                "option_id": "80923",
+                "tag": "d",
+                "text": "Nut",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

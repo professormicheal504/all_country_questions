@@ -428,5 +428,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "56006": {
+        "order_id": 11,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Set Operations",
+        "question_type": "Objective",
+        "exam_year": "2004",
+        "question_text": "<p>If $A = \\{1, 2, 3, 4\\}$ and $B = \\{3, 4, 5, 6\\}$, find $A \\cap B$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The intersection of sets $A$ and $B$, denoted $A \\cap B$, consists of elements common to both sets. Here, the common elements are $3$ and $4$. Thus, $A \\cap B = \\{3, 4\\}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "19529",
+                "tag": "a",
+                "text": "$\\{1, 2, 3, 4, 5, 6\\}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "64613",
+                "tag": "b",
+                "text": "$\\{3, 4\\}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "67594",
+                "tag": "c",
+                "text": "$\\{1, 2, 5, 6\\}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "63718",
+                "tag": "d",
+                "text": "$\\{1, 2, 3, 4, 5, 6\\}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "56007": {
+        "order_id": 12,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Real Number Properties",
+        "question_type": "Objective",
+        "exam_year": "2004",
+        "question_text": "<p>Which of the following is an irrational number?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>An irrational number cannot be expressed as a simple fraction and has non-repeating, non-terminating decimal expansion. $\\sqrt{2}$ is a classic example of an irrational number.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "19530",
+                "tag": "a",
+                "text": "$\\frac{3}{4}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "64614",
+                "tag": "b",
+                "text": "$\\sqrt{2}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "67595",
+                "tag": "c",
+                "text": "$0.75$",
+                "is_correct": false
+            },
+            {
+                "option_id": "63719",
+                "tag": "d",
+                "text": "$-5$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "56008": {
+        "order_id": 13,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Indices and Logs",
+        "question_type": "Objective",
+        "exam_year": "2004",
+        "question_text": "<p>Simplify $2^3 \\times 2^4$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Using the law of indices, $a^m \\times a^n = a^{m+n}$. Thus, $2^3 \\times 2^4 = 2^{3+4} = 2^7 = 128$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "19531",
+                "tag": "a",
+                "text": "$2^7$",
+                "is_correct": false
+            },
+            {
+                "option_id": "64615",
+                "tag": "b",
+                "text": "$128$",
+                "is_correct": true
+            },
+            {
+                "option_id": "67596",
+                "tag": "c",
+                "text": "$64$",
+                "is_correct": false
+            },
+            {
+                "option_id": "63720",
+                "tag": "d",
+                "text": "$2^{12}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "56009": {
+        "order_id": 14,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Surds Basics",
+        "question_type": "Objective",
+        "exam_year": "2004",
+        "question_text": "<p>Rationalize the denominator of $\\frac{5}{\\sqrt{3}}$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>To rationalize the denominator, multiply the numerator and denominator by $\\sqrt{3}$: $\\frac{5}{\\sqrt{3}} \\times \\frac{\\sqrt{3}}{\\sqrt{3}} = \\frac{5\\sqrt{3}}{3}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "19532",
+                "tag": "a",
+                "text": "$\\frac{5\\sqrt{3}}{3}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "64616",
+                "tag": "b",
+                "text": "$\\frac{5}{3}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "67597",
+                "tag": "c",
+                "text": "$5\\sqrt{3}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "63721",
+                "tag": "d",
+                "text": "$\\frac{\\sqrt{3}}{5}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "56010": {
+        "order_id": 15,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Modular Arithmetic",
+        "question_type": "Objective",
+        "exam_year": "2004",
+        "question_text": "<p>Find the remainder when $17$ is divided by $5$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In modular arithmetic, $17 \\mod 5$ is the remainder when $17$ is divided by $5$. Since $5 \\times 3 = 15$ and $17 - 15 = 2$, the remainder is $2$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "19533",
+                "tag": "a",
+                "text": "$1$",
+                "is_correct": false
+            },
+            {
+                "option_id": "64617",
+                "tag": "b",
+                "text": "$2$",
+                "is_correct": true
+            },
+            {
+                "option_id": "67598",
+                "tag": "c",
+                "text": "$3$",
+                "is_correct": false
+            },
+            {
+                "option_id": "63722",
+                "tag": "d",
+                "text": "$4$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "56011": {
+        "order_id": 16,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Linear Equations",
+        "question_type": "Objective",
+        "exam_year": "2004",
+        "question_text": "<p>Solve for $x$ in the equation $3x + 5 = 20$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Subtract $5$ from both sides: $3x = 15$. Then divide both sides by $3$: $x = 5$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "19534",
+                "tag": "a",
+                "text": "$3$",
+                "is_correct": false
+            },
+            {
+                "option_id": "64618",
+                "tag": "b",
+                "text": "$5$",
+                "is_correct": true
+            },
+            {
+                "option_id": "67599",
+                "tag": "c",
+                "text": "$7$",
+                "is_correct": false
+            },
+            {
+                "option_id": "63723",
+                "tag": "d",
+                "text": "$10$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "56012": {
+        "order_id": 17,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Quadratic Equations",
+        "question_type": "Objective",
+        "exam_year": "2004",
+        "question_text": "<p>Find the roots of the equation $x^2 - 5x + 6 = 0$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Factorize the quadratic equation: $(x - 2)(x - 3) = 0$. Thus, the roots are $x = 2$ and $x = 3$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "19535",
+                "tag": "a",
+                "text": "$x = 1$ and $x = 6$",
+                "is_correct": false
+            },
+            {
+                "option_id": "64619",
+                "tag": "b",
+                "text": "$x = 2$ and $x = 3$",
+                "is_correct": true
+            },
+            {
+                "option_id": "67600",
+                "tag": "c",
+                "text": "$x = -2$ and $x = -3$",
+                "is_correct": false
+            },
+            {
+                "option_id": "63724",
+                "tag": "d",
+                "text": "$x = 1$ and $x = 5$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "56013": {
+        "order_id": 18,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Variation Types",
+        "question_type": "Objective",
+        "exam_year": "2004",
+        "question_text": "<p>If $y$ varies directly as $x$ and $y = 10$ when $x = 2$, find $y$ when $x = 5$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Since $y$ varies directly as $x$, $y = kx$. Given $y = 10$ when $x = 2$, $k = \\frac{10}{2} = 5$. Thus, when $x = 5$, $y = 5 \\times 5 = 25$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "19536",
+                "tag": "a",
+                "text": "$15$",
+                "is_correct": false
+            },
+            {
+                "option_id": "64620",
+                "tag": "b",
+                "text": "$25$",
+                "is_correct": true
+            },
+            {
+                "option_id": "67601",
+                "tag": "c",
+                "text": "$30$",
+                "is_correct": false
+            },
+            {
+                "option_id": "63725",
+                "tag": "d",
+                "text": "$50$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "56014": {
+        "order_id": 19,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Coordinate Geometry",
+        "question_type": "Objective",
+        "exam_year": "2004",
+        "question_text": "<p>Find the distance between the points $(1, 2)$ and $(4, 6)$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Use the distance formula: $d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$. Thus, $d = \\sqrt{(4 - 1)^2 + (6 - 2)^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "19537",
+                "tag": "a",
+                "text": "$3$",
+                "is_correct": false
+            },
+            {
+                "option_id": "64621",
+                "tag": "b",
+                "text": "$5$",
+                "is_correct": true
+            },
+            {
+                "option_id": "67602",
+                "tag": "c",
+                "text": "$7$",
+                "is_correct": false
+            },
+            {
+                "option_id": "63726",
+                "tag": "d",
+                "text": "$10$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "56015": {
+        "order_id": 20,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Trigonometry Rules",
+        "question_type": "Objective",
+        "exam_year": "2004",
+        "question_text": "<p>If $\\sin \\theta = \\frac{3}{5}$, find $\\cos \\theta$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Using the Pythagorean identity, $\\sin^2 \\theta + \\cos^2 \\theta = 1$. Thus, $\\cos^2 \\theta = 1 - \\left(\\frac{3}{5}\\right)^2 = 1 - \\frac{9}{25} = \\frac{16}{25}$. Therefore, $\\cos \\theta = \\frac{4}{5}$ (assuming $\\theta$ is in the first quadrant).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "19538",
+                "tag": "a",
+                "text": "$\\frac{3}{4}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "64622",
+                "tag": "b",
+                "text": "$\\frac{4}{5}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "67603",
+                "tag": "c",
+                "text": "$\\frac{5}{4}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "63727",
+                "tag": "d",
+                "text": "$\\frac{5}{3}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

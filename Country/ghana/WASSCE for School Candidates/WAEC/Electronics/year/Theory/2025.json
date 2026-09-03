@@ -1,0 +1,282 @@
+{
+    "37877": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Electronics Basics",
+        "question_type": "Theory",
+        "exam_year": "2025",
+        "question_text": "<p>Explain the difference between <b>conductors</b>, <b>semiconductors</b>, and <b>insulators</b> in terms of their energy bands. Include a diagram in your explanation if possible.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Conductors, semiconductors, and insulators are classified based on their energy band structures:<br><br><b>Conductors:</b> Have overlapping valence and conduction bands, allowing free electron flow. No energy gap ($E_g = 0$).<br><br><b>Semiconductors:</b> Have a small energy gap ($E_g$) between the valence and conduction bands (e.g., silicon: $E_g = 1.1 \text{ eV}$). At room temperature, some electrons gain enough energy to jump to the conduction band.<br><br><b>Insulators:</b> Have a large energy gap ($E_g > 3 \text{ eV}$), preventing electron flow under normal conditions.<br><br>Diagram: Sketch should show energy bands with labeled $E_g$ for each material type.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "37878": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "PN Junction Diode",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>What happens to the depletion region of a PN junction diode when it is <b>reverse-biased</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>When a PN junction diode is reverse-biased, the positive terminal of the battery is connected to the <i>n-type</i> material, and the negative terminal to the <i>p-type</i> material. This widens the depletion region because majority carriers are pulled away from the junction, increasing the potential barrier and reducing current flow.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "60601",
+                "tag": "a",
+                "text": "The depletion region narrows.",
+                "is_correct": false
+            },
+            {
+                "option_id": "28876",
+                "tag": "b",
+                "text": "The depletion region widens.",
+                "is_correct": true
+            },
+            {
+                "option_id": "52616",
+                "tag": "c",
+                "text": "The depletion region remains unchanged.",
+                "is_correct": false
+            },
+            {
+                "option_id": "45933",
+                "tag": "d",
+                "text": "The diode conducts heavily.",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "37879": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Diode Rectification",
+        "question_type": "Theory",
+        "exam_year": "2025",
+        "question_text": "<p>Draw the circuit diagram of a <b>full-wave bridge rectifier</b> and explain its operation. Calculate the output voltage if the input AC voltage is $V_{in} = 12 \text{ V (rms)}$ and the diode forward voltage drop is $V_d = 0.7 \text{ V}$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Circuit Diagram:</b> Should show four diodes arranged in a bridge configuration with an AC source, load resistor, and output terminals.<br><br><b>Operation:</b> During the positive half-cycle, diodes D1 and D2 conduct, while D3 and D4 conduct during the negative half-cycle, ensuring current flows in the same direction through the load.<br><br><b>Calculation:</b><br>Peak input voltage: $V_{peak} = V_{rms} \times \\sqrt{2} = 12 \times 1.414 = 16.97 \text{ V}$.<br>Output peak voltage: $V_{out(peak)} = V_{peak} - 2V_d = 16.97 - 1.4 = 15.57 \text{ V}$.<br>Average output voltage: $V_{out(avg)} = \frac{2V_{out(peak)}}{\\pi} = \frac{2 \times 15.57}{3.14} = 9.91 \text{ V}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "37880": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Zener Diodes and Regulation",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>A Zener diode is used in a voltage regulator circuit to maintain a constant output voltage of $5 \text{ V}$. If the input voltage is $12 \text{ V}$ and the load current is $20 \text{ mA}$, what is the value of the series resistor $R_s$? (Assume Zener diode current is $5 \text{ mA}$.)</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The series resistor $R_s$ limits the current through the Zener diode. Total current through $R_s$ is the sum of Zener current and load current: $I_{total} = 20 \text{ mA} + 5 \text{ mA} = 25 \text{ mA}$.<br>Voltage drop across $R_s$: $V_{R_s} = 12 \text{ V} - 5 \text{ V} = 7 \text{ V}$.<br>$R_s = \frac{V_{R_s}}{I_{total}} = \frac{7}{0.025} = 280 \text{ } \\Omega$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "60601",
+                "tag": "a",
+                "text": "$140 \\Omega$",
+                "is_correct": false
+            },
+            {
+                "option_id": "28876",
+                "tag": "b",
+                "text": "$280 \\Omega$",
+                "is_correct": true
+            },
+            {
+                "option_id": "52616",
+                "tag": "c",
+                "text": "$350 \\Omega$",
+                "is_correct": false
+            },
+            {
+                "option_id": "45933",
+                "tag": "d",
+                "text": "$560 \\Omega$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "37881": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "BJT Biasing Methods",
+        "question_type": "Theory",
+        "exam_year": "2025",
+        "question_text": "<p>Describe the <b>voltage-divider biasing</b> method for a BJT. Derive the expression for the base voltage $V_B$ and explain why this method is preferred for amplifier circuits.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Voltage-Divider Biasing:</b> Uses two resistors ($R_1$ and $R_2$) connected to the base of the BJT to provide a stable bias voltage.<br><br><b>Derivation:</b><br>$V_B = V_{CC} \times \frac{R_2}{R_1 + R_2}$ (assuming base current is negligible).<br><br><b>Advantages:</b> Provides stable operating point, reduces sensitivity to $\\beta$ variations, and improves temperature stability. Preferred in amplifier circuits for consistent performance.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "37882": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Common-Emitter Amplifier",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>In a common-emitter amplifier, the input signal is applied to the <b>base</b>, and the output is taken from the <b>collector</b>. What is the phase relationship between the input and output signals?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In a common-emitter amplifier, the output signal is <i>180\u00b0 out of phase</i> with the input signal. This is because an increase in base current causes a decrease in collector voltage, and vice versa.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "60601",
+                "tag": "a",
+                "text": "0\u00b0 (in phase)",
+                "is_correct": false
+            },
+            {
+                "option_id": "28876",
+                "tag": "b",
+                "text": "90\u00b0",
+                "is_correct": false
+            },
+            {
+                "option_id": "52616",
+                "tag": "c",
+                "text": "180\u00b0 (out of phase)",
+                "is_correct": true
+            },
+            {
+                "option_id": "45933",
+                "tag": "d",
+                "text": "270\u00b0",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "37883": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Operational Amplifiers",
+        "question_type": "Theory",
+        "exam_year": "2025",
+        "question_text": "<p>Explain the operation of an <b>inverting amplifier</b> using an Op-Amp. Derive the expression for the voltage gain $A_v$ and calculate the output voltage if $V_{in} = 0.5 \text{ V}$, $R_f = 10 \text{ k}\\Omega$, and $R_1 = 2 \text{ k}\\Omega$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Operation:</b> The input signal is applied to the inverting terminal through $R_1$, while the non-inverting terminal is grounded. Feedback is provided via $R_f$.<br><br><b>Voltage Gain:</b><br>$A_v = -\frac{R_f}{R_1} = -\frac{10 \text{ k}\\Omega}{2 \text{ k}\\Omega} = -5$.<br><br><b>Output Voltage:</b><br>$V_{out} = A_v \times V_{in} = -5 \times 0.5 = -2.5 \text{ V}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "37884": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Number Systems and Conversions",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>Convert the binary number $110101_2$ to its decimal equivalent.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Binary $110101_2$ is converted to decimal as follows:<br>$1 \times 2^5 + 1 \times 2^4 + 0 \times 2^3 + 1 \times 2^2 + 0 \times 2^1 + 1 \times 2^0 = 32 + 16 + 0 + 4 + 0 + 1 = 53_{10}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "60601",
+                "tag": "a",
+                "text": "45",
+                "is_correct": false
+            },
+            {
+                "option_id": "28876",
+                "tag": "b",
+                "text": "53",
+                "is_correct": true
+            },
+            {
+                "option_id": "52616",
+                "tag": "c",
+                "text": "61",
+                "is_correct": false
+            },
+            {
+                "option_id": "45933",
+                "tag": "d",
+                "text": "21",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "37885": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Logic Gates and Boolean Algebra",
+        "question_type": "Theory",
+        "exam_year": "2025",
+        "question_text": "<p>Simplify the Boolean expression $Y = (A + B)(\\overline{A} + C)$ using Boolean algebra laws. Draw the logic circuit for the simplified expression.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Simplification:</b><br>$Y = (A + B)(\\overline{A} + C) = A\\overline{A} + AC + B\\overline{A} + BC = 0 + AC + B\\overline{A} + BC = AC + B\\overline{A} + BC$.<br>Further simplification: $Y = AC + B\\overline{A}$ (since $BC$ is redundant).<br><br><b>Logic Circuit:</b> Should show an AND gate for $AC$, an AND gate for $B\\overline{A}$, and an OR gate combining the outputs.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "37886": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Power Supply Circuits",
+        "question_type": "Theory",
+        "exam_year": "2025",
+        "question_text": "<p>Design a <b>regulated power supply</b> circuit using a transformer, bridge rectifier, smoothing capacitor, and a Zener diode voltage regulator. Explain the function of each component and calculate the required transformer secondary voltage if the desired output is $9 \text{ V}$ (Zener voltage) and the diode forward voltage drop is $0.7 \text{ V}$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Components and Functions:</b><br><b>Transformer:</b> Steps down AC voltage.<br><b>Bridge Rectifier:</b> Converts AC to pulsating DC.<br><b>Smoothing Capacitor:</b> Reduces ripple in DC output.<br><b>Zener Diode:</b> Regulates output voltage.<br><br><b>Calculation:</b><br>Peak output voltage: $V_{out(peak)} = V_{Zener} + 2V_d = 9 + 1.4 = 10.4 \text{ V}$.<br>RMS secondary voltage: $V_{rms} = \frac{V_{out(peak)}}{\\sqrt{2}} = \frac{10.4}{1.414} = 7.35 \text{ V}$.<br>Transformer secondary voltage: $V_{secondary} = 7.35 \text{ V (rms)}$ (assuming no losses).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

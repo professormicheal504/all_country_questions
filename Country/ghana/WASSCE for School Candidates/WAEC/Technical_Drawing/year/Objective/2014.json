@@ -1288,5 +1288,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "27581": {
+        "order_id": 31,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Drawing tools overview",
+        "question_type": "Objective",
+        "exam_year": "2014",
+        "question_text": "<p>Which of the following drawing tools is used to draw circles and arcs of varying radii?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>compass</b> is a drawing instrument used to draw circles and arcs of different sizes by adjusting the distance between its two legs. It is essential for geometric constructions in technical drawing.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "70779",
+                "tag": "a",
+                "text": "T-square",
+                "is_correct": false
+            },
+            {
+                "option_id": "53823",
+                "tag": "b",
+                "text": "Compass",
+                "is_correct": true
+            },
+            {
+                "option_id": "84862",
+                "tag": "c",
+                "text": "Protractor",
+                "is_correct": false
+            },
+            {
+                "option_id": "18453",
+                "tag": "d",
+                "text": "Set square",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "27582": {
+        "order_id": 32,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Standard sheet sizes",
+        "question_type": "Objective",
+        "exam_year": "2014",
+        "question_text": "<p>What is the dimensions of an A3 drawing sheet in millimetres?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The A3 sheet size is part of the ISO 216 standard, with dimensions of <b>297 mm \u00d7 420 mm</b>. It is half the size of an A2 sheet and twice the size of an A4 sheet.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "70780",
+                "tag": "a",
+                "text": "210 mm \u00d7 297 mm",
+                "is_correct": false
+            },
+            {
+                "option_id": "53824",
+                "tag": "b",
+                "text": "297 mm \u00d7 420 mm",
+                "is_correct": true
+            },
+            {
+                "option_id": "84863",
+                "tag": "c",
+                "text": "420 mm \u00d7 594 mm",
+                "is_correct": false
+            },
+            {
+                "option_id": "18454",
+                "tag": "d",
+                "text": "594 mm \u00d7 841 mm",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "27583": {
+        "order_id": 33,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Line types and uses",
+        "question_type": "Objective",
+        "exam_year": "2014",
+        "question_text": "<p>Which type of line is used to represent hidden details in an orthographic projection?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>dashed line</b> (or hidden line) is used in orthographic projections to represent edges or features that are not visible in the current view but exist in the object.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "70781",
+                "tag": "a",
+                "text": "Continuous thick line",
+                "is_correct": false
+            },
+            {
+                "option_id": "53825",
+                "tag": "b",
+                "text": "Dashed line",
+                "is_correct": true
+            },
+            {
+                "option_id": "84864",
+                "tag": "c",
+                "text": "Chain line",
+                "is_correct": false
+            },
+            {
+                "option_id": "18455",
+                "tag": "d",
+                "text": "Continuous thin line",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "27584": {
+        "order_id": 34,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Basic geometric constructions",
+        "question_type": "Objective",
+        "exam_year": "2014",
+        "question_text": "<p>To bisect a given angle using a compass and straightedge, which of the following steps is <b>not</b> required?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Bisecting an angle requires drawing arcs from the vertex and intersecting points, then joining the vertex to the intersection. <b>Drawing a perpendicular line from the vertex</b> is not part of the standard procedure.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "70782",
+                "tag": "a",
+                "text": "Drawing an arc from the vertex to intersect the angle arms",
+                "is_correct": false
+            },
+            {
+                "option_id": "53826",
+                "tag": "b",
+                "text": "Drawing arcs from the intersection points to find a new point",
+                "is_correct": false
+            },
+            {
+                "option_id": "84865",
+                "tag": "c",
+                "text": "Drawing a perpendicular line from the vertex",
+                "is_correct": true
+            },
+            {
+                "option_id": "18456",
+                "tag": "d",
+                "text": "Joining the vertex to the intersection of the arcs",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "27585": {
+        "order_id": 35,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Regular polygon construction",
+        "question_type": "Objective",
+        "exam_year": "2014",
+        "question_text": "<p>What is the minimum number of sides required to construct a regular polygon using a compass and straightedge?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>regular triangle (3 sides)</b> is the simplest regular polygon that can be constructed using a compass and straightedge. It is the basis for constructing other regular polygons.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "70783",
+                "tag": "a",
+                "text": "3",
+                "is_correct": true
+            },
+            {
+                "option_id": "53827",
+                "tag": "b",
+                "text": "4",
+                "is_correct": false
+            },
+            {
+                "option_id": "84866",
+                "tag": "c",
+                "text": "5",
+                "is_correct": false
+            },
+            {
+                "option_id": "18457",
+                "tag": "d",
+                "text": "6",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "27586": {
+        "order_id": 36,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Orthographic projection methods",
+        "question_type": "Objective",
+        "exam_year": "2014",
+        "question_text": "<p>In first-angle orthographic projection, the right-side view is placed to the <b>______</b> of the front view.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In <b>first-angle projection</b>, the right-side view is placed to the <b>left</b> of the front view, as if the object is being viewed from the right side and projected onto a plane behind it.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "70784",
+                "tag": "a",
+                "text": "Right",
+                "is_correct": false
+            },
+            {
+                "option_id": "53828",
+                "tag": "b",
+                "text": "Left",
+                "is_correct": true
+            },
+            {
+                "option_id": "84867",
+                "tag": "c",
+                "text": "Top",
+                "is_correct": false
+            },
+            {
+                "option_id": "18458",
+                "tag": "d",
+                "text": "Bottom",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "27587": {
+        "order_id": 37,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Sectional view types",
+        "question_type": "Objective",
+        "exam_year": "2014",
+        "question_text": "<p>Which type of sectional view is used to show the interior details of a symmetrical object by cutting it along two intersecting planes?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>half section</b> is used for symmetrical objects, where one-quarter of the object is removed to reveal both exterior and interior details in a single view.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "70785",
+                "tag": "a",
+                "text": "Full section",
+                "is_correct": false
+            },
+            {
+                "option_id": "53829",
+                "tag": "b",
+                "text": "Half section",
+                "is_correct": true
+            },
+            {
+                "option_id": "84868",
+                "tag": "c",
+                "text": "Offset section",
+                "is_correct": false
+            },
+            {
+                "option_id": "18459",
+                "tag": "d",
+                "text": "Revolved section",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "27588": {
+        "order_id": 38,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Isometric drawing basics",
+        "question_type": "Objective",
+        "exam_year": "2014",
+        "question_text": "<p>In an isometric drawing, the three principal axes are inclined at <b>______</b> degrees to each other.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In isometric projection, the three principal axes (length, width, and height) are equally inclined at <b>120\u00b0</b> to each other, creating a 3D representation on a 2D plane.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "70786",
+                "tag": "a",
+                "text": "90",
+                "is_correct": false
+            },
+            {
+                "option_id": "53830",
+                "tag": "b",
+                "text": "120",
+                "is_correct": true
+            },
+            {
+                "option_id": "84869",
+                "tag": "c",
+                "text": "60",
+                "is_correct": false
+            },
+            {
+                "option_id": "18460",
+                "tag": "d",
+                "text": "45",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "27589": {
+        "order_id": 39,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Dimensioning principles",
+        "question_type": "Objective",
+        "exam_year": "2014",
+        "question_text": "<p>Which of the following is <b>not</b> a correct dimensioning practice in technical drawing?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Dimensioning should avoid <b>duplicating dimensions</b> on the same view or across multiple views, as this can lead to confusion and errors in interpretation.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "70787",
+                "tag": "a",
+                "text": "Placing dimensions outside the view",
+                "is_correct": false
+            },
+            {
+                "option_id": "53831",
+                "tag": "b",
+                "text": "Duplicating dimensions on the same view",
+                "is_correct": true
+            },
+            {
+                "option_id": "84870",
+                "tag": "c",
+                "text": "Using extension lines to avoid crowding",
+                "is_correct": false
+            },
+            {
+                "option_id": "18461",
+                "tag": "d",
+                "text": "Aligning dimensions for clarity",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "27590": {
+        "order_id": 40,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Working drawings basics",
+        "question_type": "Objective",
+        "exam_year": "2014",
+        "question_text": "<p>A working drawing typically includes all of the following <b>except</b>:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A working drawing provides detailed information for manufacturing or construction, including dimensions, materials, and assembly instructions. <b>Artistic sketches</b> are not part of a working drawing.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "70788",
+                "tag": "a",
+                "text": "Orthographic views",
+                "is_correct": false
+            },
+            {
+                "option_id": "53832",
+                "tag": "b",
+                "text": "Dimensions and tolerances",
+                "is_correct": false
+            },
+            {
+                "option_id": "84871",
+                "tag": "c",
+                "text": "Artistic sketches",
+                "is_correct": true
+            },
+            {
+                "option_id": "18462",
+                "tag": "d",
+                "text": "Bill of materials",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

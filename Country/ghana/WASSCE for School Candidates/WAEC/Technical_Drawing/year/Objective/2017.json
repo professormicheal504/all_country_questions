@@ -1288,5 +1288,434 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "60054": {
+        "order_id": 31,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Drawing tools overview",
+        "question_type": "Objective",
+        "exam_year": "2017",
+        "question_text": "<p>Which of the following drawing tools is used to draw circles and arcs of varying radii?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>compass</b> is a drawing instrument used to draw circles and arcs of different sizes. It consists of two legs, one with a pointed end and the other with a pencil or pen attachment.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "72958",
+                "tag": "a",
+                "text": "T-square",
+                "is_correct": false
+            },
+            {
+                "option_id": "21913",
+                "tag": "b",
+                "text": "Compass",
+                "is_correct": true
+            },
+            {
+                "option_id": "80650",
+                "tag": "c",
+                "text": "Set square",
+                "is_correct": false
+            },
+            {
+                "option_id": "58516",
+                "tag": "d",
+                "text": "Protractor",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "60055": {
+        "order_id": 32,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Standard sheet sizes",
+        "question_type": "Objective",
+        "exam_year": "2017",
+        "question_text": "<p>What is the size of an A2 drawing sheet in millimeters?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The A2 sheet size is part of the ISO 216 standard, measuring <b>420 mm \u00d7 594 mm</b>. Each A-series sheet is half the area of the previous size when folded along its longer side.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "72959",
+                "tag": "a",
+                "text": "210 \u00d7 297",
+                "is_correct": false
+            },
+            {
+                "option_id": "21914",
+                "tag": "b",
+                "text": "297 \u00d7 420",
+                "is_correct": false
+            },
+            {
+                "option_id": "80651",
+                "tag": "c",
+                "text": "420 \u00d7 594",
+                "is_correct": true
+            },
+            {
+                "option_id": "58517",
+                "tag": "d",
+                "text": "594 \u00d7 841",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "60056": {
+        "order_id": 33,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Line types and uses",
+        "question_type": "Objective",
+        "exam_year": "2017",
+        "question_text": "<p>Which line type is used to represent hidden details in an orthographic projection?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>dashed line</b> (also called a hidden line) is used to show edges or features that are not visible in the current view but exist in the object.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "72960",
+                "tag": "a",
+                "text": "Continuous thick line",
+                "is_correct": false
+            },
+            {
+                "option_id": "21915",
+                "tag": "b",
+                "text": "Dashed line",
+                "is_correct": true
+            },
+            {
+                "option_id": "80652",
+                "tag": "c",
+                "text": "Chain line",
+                "is_correct": false
+            },
+            {
+                "option_id": "58518",
+                "tag": "d",
+                "text": "Continuous thin line",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "60057": {
+        "order_id": 34,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Lettering techniques",
+        "question_type": "Objective",
+        "exam_year": "2017",
+        "question_text": "<p>What is the recommended height for capital letters in technical drawings according to WAEC standards?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The standard height for capital letters in technical drawings is <b>3.5 mm</b>, ensuring clarity and uniformity in engineering and architectural documents.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "72961",
+                "tag": "a",
+                "text": "2.5 mm",
+                "is_correct": false
+            },
+            {
+                "option_id": "21916",
+                "tag": "b",
+                "text": "3.5 mm",
+                "is_correct": true
+            },
+            {
+                "option_id": "80653",
+                "tag": "c",
+                "text": "5.0 mm",
+                "is_correct": false
+            },
+            {
+                "option_id": "58519",
+                "tag": "d",
+                "text": "7.0 mm",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "60058": {
+        "order_id": 35,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Basic geometric constructions",
+        "question_type": "Objective",
+        "exam_year": "2017",
+        "question_text": "<p>Which of the following constructions is used to bisect a given angle?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>To bisect an angle, an <b>arc is drawn from the vertex</b>, intersecting the arms of the angle. From these intersection points, further arcs are drawn to locate the bisector.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "72962",
+                "tag": "a",
+                "text": "Drawing a perpendicular bisector",
+                "is_correct": false
+            },
+            {
+                "option_id": "21917",
+                "tag": "b",
+                "text": "Drawing arcs from the vertex and intersecting points",
+                "is_correct": true
+            },
+            {
+                "option_id": "80654",
+                "tag": "c",
+                "text": "Using a protractor to measure half the angle",
+                "is_correct": false
+            },
+            {
+                "option_id": "58520",
+                "tag": "d",
+                "text": "Drawing a tangent to the angle arms",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "60059": {
+        "order_id": 36,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Orthographic projection methods",
+        "question_type": "Objective",
+        "exam_year": "2017",
+        "question_text": "<p>In first-angle orthographic projection, where is the front view located relative to the plan?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In <b>first-angle projection</b>, the front view is placed <b>above the plan</b>, while the right-side view is placed to the left of the front view.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "72963",
+                "tag": "a",
+                "text": "Below the plan",
+                "is_correct": false
+            },
+            {
+                "option_id": "21918",
+                "tag": "b",
+                "text": "Above the plan",
+                "is_correct": true
+            },
+            {
+                "option_id": "80655",
+                "tag": "c",
+                "text": "To the right of the plan",
+                "is_correct": false
+            },
+            {
+                "option_id": "58521",
+                "tag": "d",
+                "text": "To the left of the plan",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "60060": {
+        "order_id": 37,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Sectional view types",
+        "question_type": "Objective",
+        "exam_year": "2017",
+        "question_text": "<p>Which type of sectional view is used to show the interior details of a symmetrical object by cutting through only half of it?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>half section</b> is used to display the internal features of a symmetrical object by removing one-quarter of it, allowing both external and internal details to be shown in a single view.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "72964",
+                "tag": "a",
+                "text": "Full section",
+                "is_correct": false
+            },
+            {
+                "option_id": "21919",
+                "tag": "b",
+                "text": "Half section",
+                "is_correct": true
+            },
+            {
+                "option_id": "80656",
+                "tag": "c",
+                "text": "Revolved section",
+                "is_correct": false
+            },
+            {
+                "option_id": "58522",
+                "tag": "d",
+                "text": "Removed section",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "60061": {
+        "order_id": 38,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Isometric drawing basics",
+        "question_type": "Objective",
+        "exam_year": "2017",
+        "question_text": "<p>What is the angle between the isometric axes in an isometric drawing?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In isometric projection, the three axes (length, width, and height) are equally spaced at <b>120\u00b0</b> to each other, creating a 3D representation on a 2D plane.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "72965",
+                "tag": "a",
+                "text": "90\u00b0",
+                "is_correct": false
+            },
+            {
+                "option_id": "21920",
+                "tag": "b",
+                "text": "120\u00b0",
+                "is_correct": true
+            },
+            {
+                "option_id": "80657",
+                "tag": "c",
+                "text": "60\u00b0",
+                "is_correct": false
+            },
+            {
+                "option_id": "58523",
+                "tag": "d",
+                "text": "45\u00b0",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "60062": {
+        "order_id": 39,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Dimensioning principles",
+        "question_type": "Objective",
+        "exam_year": "2017",
+        "question_text": "<p>Which of the following is a correct dimensioning practice in technical drawings?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Dimensions should be placed <b>outside the outline of the object</b> unless clarity requires otherwise. This prevents clutter and ensures readability.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "72966",
+                "tag": "a",
+                "text": "Placing dimensions inside the object outline",
+                "is_correct": false
+            },
+            {
+                "option_id": "21921",
+                "tag": "b",
+                "text": "Placing dimensions outside the object outline",
+                "is_correct": true
+            },
+            {
+                "option_id": "80658",
+                "tag": "c",
+                "text": "Using only one arrowhead for each dimension",
+                "is_correct": false
+            },
+            {
+                "option_id": "58524",
+                "tag": "d",
+                "text": "Dimensioning hidden lines directly",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "60063": {
+        "order_id": 40,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Scale types and use",
+        "question_type": "Objective",
+        "exam_year": "2017",
+        "question_text": "<p>What does a scale of 1:50 represent in a technical drawing?</p>",
+        "question_image": null,
+        "explanation": "<p>A scale of <b>1:50</b> means that <b>1 unit on the drawing represents 50 units on the actual object</b>. This is a reducing scale used for large objects.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "72967",
+                "tag": "a",
+                "text": "1 unit on the drawing equals 5 units on the object",
+                "is_correct": false
+            },
+            {
+                "option_id": "21922",
+                "tag": "b",
+                "text": "1 unit on the drawing equals 50 units on the object",
+                "is_correct": true
+            },
+            {
+                "option_id": "80659",
+                "tag": "c",
+                "text": "50 units on the drawing equal 1 unit on the object",
+                "is_correct": false
+            },
+            {
+                "option_id": "58525",
+                "tag": "d",
+                "text": "The drawing is 50 times larger than the object",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

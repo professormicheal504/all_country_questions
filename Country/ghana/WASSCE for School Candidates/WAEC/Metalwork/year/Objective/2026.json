@@ -1331,5 +1331,521 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "35686": {
+        "order_id": 32,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Metal types and properties",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Which of the following metals is classified as a <b>ferrous</b> metal?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Ferrous metals are those that contain iron as their primary constituent. Steel, which is an alloy of iron and carbon, is a common example of a ferrous metal. Non-ferrous metals, such as aluminum, copper, and brass, do not contain iron.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "21138",
+                "tag": "a",
+                "text": "Aluminum",
+                "is_correct": false
+            },
+            {
+                "option_id": "11139",
+                "tag": "b",
+                "text": "Steel",
+                "is_correct": true
+            },
+            {
+                "option_id": "98143",
+                "tag": "c",
+                "text": "Copper",
+                "is_correct": false
+            },
+            {
+                "option_id": "67201",
+                "tag": "d",
+                "text": "Brass",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "35687": {
+        "order_id": 33,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Metal extraction methods",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>The process of extracting iron from its ore using a blast furnace involves the reduction of <b>iron oxide</b> by which of the following gases?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In a blast furnace, iron oxide ($Fe_2O_3$) is reduced to iron by carbon monoxide ($CO$). The chemical reaction is:<br>$Fe_2O_3 + 3CO \\rightarrow 2Fe + 3CO_2$. Carbon monoxide acts as the reducing agent.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "21140",
+                "tag": "a",
+                "text": "Oxygen ($O_2$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "11141",
+                "tag": "b",
+                "text": "Carbon monoxide ($CO$)",
+                "is_correct": true
+            },
+            {
+                "option_id": "98144",
+                "tag": "c",
+                "text": "Hydrogen ($H_2$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "67202",
+                "tag": "d",
+                "text": "Nitrogen ($N_2$)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "35688": {
+        "order_id": 34,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Heat treatment processes",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Which heat treatment process involves heating steel to a temperature above its critical range and then cooling it rapidly in water or oil?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Quenching is the process of heating steel to a temperature above its critical range (austenitizing) and then cooling it rapidly in a quenching medium such as water, oil, or brine. This process increases the hardness and strength of the steel.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "21142",
+                "tag": "a",
+                "text": "Annealing",
+                "is_correct": false
+            },
+            {
+                "option_id": "11143",
+                "tag": "b",
+                "text": "Quenching",
+                "is_correct": true
+            },
+            {
+                "option_id": "98145",
+                "tag": "c",
+                "text": "Tempering",
+                "is_correct": false
+            },
+            {
+                "option_id": "67203",
+                "tag": "d",
+                "text": "Normalizing",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "35689": {
+        "order_id": 35,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Metal forming techniques",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Which of the following metal forming techniques is used to produce seamless tubes and pipes?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Extrusion is a metal forming process used to produce seamless tubes and pipes. In this process, a billet of metal is forced through a die to create objects with a fixed cross-sectional profile.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "21144",
+                "tag": "a",
+                "text": "Forging",
+                "is_correct": false
+            },
+            {
+                "option_id": "11145",
+                "tag": "b",
+                "text": "Extrusion",
+                "is_correct": true
+            },
+            {
+                "option_id": "98146",
+                "tag": "c",
+                "text": "Rolling",
+                "is_correct": false
+            },
+            {
+                "option_id": "67204",
+                "tag": "d",
+                "text": "Drawing",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "35690": {
+        "order_id": 36,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Welding processes",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>In <b>arc welding</b>, the electrode is coated with a flux to:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The flux coating on the electrode in arc welding serves multiple purposes: it produces a shielding gas to protect the weld pool from atmospheric contamination, stabilizes the arc, and forms a slag that covers the weld to protect it as it cools.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "21146",
+                "tag": "a",
+                "text": "Increase the melting point of the electrode",
+                "is_correct": false
+            },
+            {
+                "option_id": "11147",
+                "tag": "b",
+                "text": "Provide a shielding gas and stabilize the arc",
+                "is_correct": true
+            },
+            {
+                "option_id": "98147",
+                "tag": "c",
+                "text": "Reduce the electrical conductivity of the electrode",
+                "is_correct": false
+            },
+            {
+                "option_id": "67205",
+                "tag": "d",
+                "text": "Prevent the electrode from melting",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "35691": {
+        "order_id": 37,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Metal cutting tools",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Which of the following tools is used for cutting internal threads in a drilled hole?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A tap is a cutting tool used to create internal threads in a drilled hole. It is designed to cut threads into the sides of the hole, allowing a bolt or screw to be fastened into it.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "21148",
+                "tag": "a",
+                "text": "Die",
+                "is_correct": false
+            },
+            {
+                "option_id": "11149",
+                "tag": "b",
+                "text": "Tap",
+                "is_correct": true
+            },
+            {
+                "option_id": "98148",
+                "tag": "c",
+                "text": "Reamer",
+                "is_correct": false
+            },
+            {
+                "option_id": "67206",
+                "tag": "d",
+                "text": "Counterbore",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "35692": {
+        "order_id": 38,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Lathe operations",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>In lathe operations, the process of reducing the diameter of a workpiece to a specific size is called:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Turning is the lathe operation used to reduce the diameter of a workpiece to a specific size. It involves rotating the workpiece while a single-point cutting tool removes material from its surface.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "21150",
+                "tag": "a",
+                "text": "Facing",
+                "is_correct": false
+            },
+            {
+                "option_id": "11151",
+                "tag": "b",
+                "text": "Turning",
+                "is_correct": true
+            },
+            {
+                "option_id": "98149",
+                "tag": "c",
+                "text": "Drilling",
+                "is_correct": false
+            },
+            {
+                "option_id": "67207",
+                "tag": "d",
+                "text": "Boring",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "35693": {
+        "order_id": 39,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Measurement tools",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Which of the following measurement tools is used to measure the <b>internal diameter</b> of a cylindrical workpiece with high precision?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>An inside micrometer is a precision measurement tool specifically designed to measure the internal diameter of cylindrical workpieces with high accuracy. It consists of a micrometer head and extension rods for various size ranges.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "21152",
+                "tag": "a",
+                "text": "Vernier caliper",
+                "is_correct": false
+            },
+            {
+                "option_id": "11153",
+                "tag": "b",
+                "text": "Inside micrometer",
+                "is_correct": true
+            },
+            {
+                "option_id": "98150",
+                "tag": "c",
+                "text": "Depth gauge",
+                "is_correct": false
+            },
+            {
+                "option_id": "67208",
+                "tag": "d",
+                "text": "Outside micrometer",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "35694": {
+        "order_id": 40,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Corrosion prevention",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Which of the following methods is used to prevent corrosion by applying a protective zinc coating to steel or iron?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Galvanizing is a corrosion prevention method that involves applying a protective zinc coating to steel or iron. The zinc coating acts as a sacrificial layer, corroding preferentially to protect the underlying metal.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "21154",
+                "tag": "a",
+                "text": "Anodizing",
+                "is_correct": false
+            },
+            {
+                "option_id": "11155",
+                "tag": "b",
+                "text": "Galvanizing",
+                "is_correct": true
+            },
+            {
+                "option_id": "98151",
+                "tag": "c",
+                "text": "Painting",
+                "is_correct": false
+            },
+            {
+                "option_id": "67209",
+                "tag": "d",
+                "text": "Electroplating",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "35695": {
+        "order_id": 41,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Foundry processes",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>In foundry work, the process of creating a cavity in the sand mold using a pattern is called:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Molding is the foundry process of creating a cavity in the sand mold using a pattern. The pattern is a replica of the final casting and is used to shape the sand mold before the molten metal is poured in.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "21156",
+                "tag": "a",
+                "text": "Coring",
+                "is_correct": false
+            },
+            {
+                "option_id": "11157",
+                "tag": "b",
+                "text": "Molding",
+                "is_correct": true
+            },
+            {
+                "option_id": "98152",
+                "tag": "c",
+                "text": "Fettling",
+                "is_correct": false
+            },
+            {
+                "option_id": "67210",
+                "tag": "d",
+                "text": "Ramming",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
+    },
+    "35696": {
+        "order_id": 42,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Metalwork safety",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Which of the following personal protective equipment (PPE) is <b>most essential</b> when operating a grinding machine?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Safety goggles are the most essential personal protective equipment when operating a grinding machine. They protect the eyes from flying debris, sparks, and metal particles generated during grinding operations.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "21158",
+                "tag": "a",
+                "text": "Earplugs",
+                "is_correct": false
+            },
+            {
+                "option_id": "11159",
+                "tag": "b",
+                "text": "Safety goggles",
+                "is_correct": true
+            },
+            {
+                "option_id": "98153",
+                "tag": "c",
+                "text": "Steel-toe boots",
+                "is_correct": false
+            },
+            {
+                "option_id": "67211",
+                "tag": "d",
+                "text": "Gloves",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 11
+    },
+    "35697": {
+        "order_id": 43,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Engineering drawings",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>In an engineering drawing, the symbol <b>\u00d8</b> is used to denote:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The symbol <b>\u00d8</b> in engineering drawings is used to denote the diameter of a circular feature, such as a hole or a cylindrical part. It is typically followed by a numerical value indicating the diameter size.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "21160",
+                "tag": "a",
+                "text": "Radius",
+                "is_correct": false
+            },
+            {
+                "option_id": "11161",
+                "tag": "b",
+                "text": "Diameter",
+                "is_correct": true
+            },
+            {
+                "option_id": "98154",
+                "tag": "c",
+                "text": "Depth",
+                "is_correct": false
+            },
+            {
+                "option_id": "67212",
+                "tag": "d",
+                "text": "Thickness",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 12
     }
 }

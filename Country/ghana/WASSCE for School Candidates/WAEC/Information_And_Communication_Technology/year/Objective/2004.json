@@ -858,5 +858,478 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "16070": {
+        "order_id": 21,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "ICT Basics",
+        "question_type": "Objective",
+        "exam_year": "2004",
+        "question_text": "<p>Which of the following is <b>NOT</b> a characteristic of Information and Communication Technology (ICT)?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>ICT is defined by its ability to process, store, and transmit information efficiently. However, <i>manual data entry</i> is not a defining characteristic of ICT, as ICT emphasizes automation and digital processing.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "16587",
+                "tag": "a",
+                "text": "Automation of processes",
+                "is_correct": false
+            },
+            {
+                "option_id": "82230",
+                "tag": "b",
+                "Text": "Manual data entry",
+                "is_correct": true
+            },
+            {
+                "option_id": "94746",
+                "tag": "c",
+                "text": "Digital data transmission",
+                "is_correct": false
+            },
+            {
+                "option_id": "84599",
+                "tag": "d",
+                "text": "Electronic storage of information",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "16071": {
+        "order_id": 22,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Computer Types",
+        "question_type": "Objective",
+        "exam_year": "2004",
+        "question_text": "<p>Which type of computer is designed to perform complex scientific calculations and is typically used in research institutions?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Supercomputers are high-performance machines designed for complex calculations, such as weather forecasting, nuclear research, and simulations. They are not used for general-purpose tasks like personal computing or business transactions.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "16588",
+                "tag": "a",
+                "text": "Microcomputer",
+                "is_correct": false
+            },
+            {
+                "option_id": "82231",
+                "tag": "b",
+                "text": "Minicomputer",
+                "is_correct": false
+            },
+            {
+                "option_id": "94747",
+                "tag": "c",
+                "text": "Supercomputer",
+                "is_correct": true
+            },
+            {
+                "option_id": "84600",
+                "tag": "d",
+                "text": "Mainframe computer",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "16072": {
+        "order_id": 23,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Hardware Components",
+        "question_type": "Objective",
+        "exam_year": "2004",
+        "question_text": "<p>Which of the following hardware components is responsible for temporarily storing data and instructions that the CPU needs to access quickly?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>RAM (Random Access Memory) is a volatile memory that temporarily stores data and instructions for quick access by the CPU. Unlike ROM or hard drives, RAM loses its data when the computer is powered off.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "16589",
+                "tag": "a",
+                "text": "Hard Disk Drive (HDD)",
+                "is_correct": false
+            },
+            {
+                "option_id": "82232",
+                "tag": "b",
+                "text": "Read-Only Memory (ROM)",
+                "is_correct": false
+            },
+            {
+                "option_id": "94748",
+                "tag": "c",
+                "text": "Random Access Memory (RAM)",
+                "is_correct": true
+            },
+            {
+                "option_id": "84601",
+                "tag": "d",
+                "text": "Central Processing Unit (CPU)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "16073": {
+        "order_id": 24,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Software Types",
+        "question_type": "Objective",
+        "exam_year": "2004",
+        "question_text": "<p>Which type of software is designed to help users perform specific tasks such as word processing or spreadsheet calculations?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Application software is designed to help users perform specific tasks, such as word processing (e.g., Microsoft Word), spreadsheet calculations (e.g., Microsoft Excel), or graphic design. System software, on the other hand, manages hardware resources.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "16590",
+                "tag": "a",
+                "text": "System software",
+                "is_correct": false
+            },
+            {
+                "option_id": "82233",
+                "tag": "b",
+                "text": "Application software",
+                "is_correct": true
+            },
+            {
+                "option_id": "94749",
+                "tag": "c",
+                "text": "Utility software",
+                "is_correct": false
+            },
+            {
+                "option_id": "84602",
+                "tag": "d",
+                "text": "Firmware",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "16074": {
+        "order_id": 25,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Operating Systems",
+        "question_type": "Objective",
+        "exam_year": "2004",
+        "question_text": "<p>Which of the following is <b>NOT</b> a function of an operating system?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>An operating system manages hardware resources, provides a user interface, and runs applications. However, <i>compiling source code</i> is a function of a compiler, not the operating system.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "16591",
+                "tag": "a",
+                "text": "Managing hardware resources",
+                "is_correct": false
+            },
+            {
+                "option_id": "82234",
+                "tag": "b",
+                "text": "Providing a user interface",
+                "is_correct": false
+            },
+            {
+                "option_id": "94750",
+                "tag": "c",
+                "text": "Compiling source code",
+                "is_correct": true
+            },
+            {
+                "option_id": "84603",
+                "tag": "d",
+                "text": "Running application software",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "16075": {
+        "order_id": 26,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Network Types",
+        "question_type": "Objective",
+        "exam_year": "2004",
+        "question_text": "<p>A network that connects computers within a limited geographical area, such as a school or office building, is called a:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A Local Area Network (LAN) connects computers within a limited area, such as a school, office, or building. WANs cover larger areas, while MANs cover cities, and PANs are for personal devices.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "16592",
+                "tag": "a",
+                "text": "Wide Area Network (WAN)",
+                "is_correct": false
+            },
+            {
+                "option_id": "82235",
+                "tag": "b",
+                "text": "Metropolitan Area Network (MAN)",
+                "is_correct": false
+            },
+            {
+                "option_id": "94751",
+                "tag": "c",
+                "text": "Local Area Network (LAN)",
+                "is_correct": true
+            },
+            {
+                "option_id": "84604",
+                "tag": "d",
+                "text": "Personal Area Network (PAN)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "16076": {
+        "order_id": 27,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Data Representation",
+        "question_type": "Objective",
+        "exam_year": "2004",
+        "question_text": "<p>What is the binary equivalent of the decimal number <b>13</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>To convert the decimal number 13 to binary:<br>13 \u00f7 2 = 6 remainder <b>1</b><br>6 \u00f7 2 = 3 remainder <b>0</b><br>3 \u00f7 2 = 1 remainder <b>1</b><br>1 \u00f7 2 = 0 remainder <b>1</b><br>Reading the remainders from bottom to top gives <b>1101</b>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "16593",
+                "tag": "a",
+                "text": "$1011$",
+                "is_correct": false
+            },
+            {
+                "option_id": "82236",
+                "tag": "b",
+                "text": "$1101$",
+                "is_correct": true
+            },
+            {
+                "option_id": "94752",
+                "tag": "c",
+                "text": "$1110$",
+                "is_correct": false
+            },
+            {
+                "option_id": "84605",
+                "tag": "d",
+                "text": "$1001$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "16077": {
+        "order_id": 28,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Logic Gates",
+        "question_type": "Objective",
+        "exam_year": "2004",
+        "question_text": "<p>Which logic gate produces an output of <b>1</b> only when all its inputs are <b>0</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A NOR gate produces an output of <b>1</b> only when all its inputs are <b>0</b>. This is because a NOR gate is an OR gate followed by a NOT gate, inverting the output of the OR operation.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "16594",
+                "tag": "a",
+                "text": "AND gate",
+                "is_correct": false
+            },
+            {
+                "option_id": "82237",
+                "tag": "b",
+                "text": "OR gate",
+                "is_correct": false
+            },
+            {
+                "option_id": "94753",
+                "tag": "c",
+                "text": "NOR gate",
+                "is_correct": true
+            },
+            {
+                "option_id": "84606",
+                "tag": "d",
+                "text": "NAND gate",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "16078": {
+        "order_id": 29,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Cybersecurity Threats",
+        "question_type": "Objective",
+        "exam_year": "2004",
+        "question_text": "<p>Which of the following is a type of malware that replicates itself and spreads to other computers without user intervention?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <i>worm</i> is a type of malware that replicates itself and spreads to other computers without requiring user intervention. Unlike viruses, worms do not need to attach themselves to a host program.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "16595",
+                "tag": "a",
+                "text": "Virus",
+                "is_correct": false
+            },
+            {
+                "option_id": "82238",
+                "tag": "b",
+                "text": "Worm",
+                "is_correct": true
+            },
+            {
+                "option_id": "94754",
+                "tag": "c",
+                "text": "Trojan horse",
+                "is_correct": false
+            },
+            {
+                "option_id": "84607",
+                "tag": "d",
+                "text": "Spyware",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "16079": {
+        "order_id": 30,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "DBMS Basics",
+        "question_type": "Objective",
+        "exam_year": "2004",
+        "question_text": "<p>In a relational database, what is the term used to describe a single row of data in a table?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In a relational database, a <i>record</i> (or tuple) refers to a single row of data in a table. Each record represents a unique entry in the table.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "16596",
+                "tag": "a",
+                "text": "Field",
+                "is_correct": false
+            },
+            {
+                "option_id": "82239",
+                "tag": "b",
+                "text": "Record",
+                "is_correct": true
+            },
+            {
+                "option_id": "94755",
+                "tag": "c",
+                "text": "Table",
+                "is_correct": false
+            },
+            {
+                "option_id": "84608",
+                "tag": "d",
+                "text": "Key",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
+    },
+    "16080": {
+        "order_id": 31,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Spreadsheet Tools",
+        "question_type": "Objective",
+        "exam_year": "2004",
+        "question_text": "<p>In a spreadsheet, which function is used to calculate the total of a range of cells?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>SUM</b> function in a spreadsheet is used to calculate the total of a range of cells. For example, <code>=SUM(A1:A10)</code> adds the values in cells A1 through A10.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "16597",
+                "tag": "a",
+                "text": "<code>AVERAGE()</code>",
+                "is_correct": false
+            },
+            {
+                "option_id": "82240",
+                "tag": "b",
+                "text": "<code>SUM()</code>",
+                "is_correct": true
+            },
+            {
+                "option_id": "94756",
+                "tag": "c",
+                "text": "<code>COUNT()</code>",
+                "is_correct": false
+            },
+            {
+                "option_id": "84609",
+                "tag": "d",
+                "text": "<code>MAX()</code>",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 11
     }
 }

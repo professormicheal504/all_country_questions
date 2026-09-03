@@ -1,0 +1,257 @@
+{
+    "55754": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Electronics Basics",
+        "question_type": "Theory",
+        "exam_year": "2012",
+        "question_text": "<p>Explain the term <b>electronics</b> and state <u>three</u> applications of electronics in modern technology.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Electronics</b> is the branch of physics and technology concerned with the design of circuits using transistors, diodes, and other semiconductor devices to control the flow of electrons for processing information or converting electrical energy.<br><br><b>Applications:</b><br>1. <i>Communication systems</i> (e.g., radios, televisions, and mobile phones).<br>2. <i>Computing devices</i> (e.g., computers, calculators, and embedded systems).<br>3. <i>Medical equipment</i> (e.g., ECG machines, X-ray devices, and pacemakers).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "55755": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Atomic Structure and Energy Bands",
+        "question_type": "Theory",
+        "exam_year": "2012",
+        "question_text": "<p>Describe the <b>energy band structure</b> of a semiconductor. How does it differ from that of a conductor and an insulator?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A semiconductor has an energy band structure consisting of a <b>valence band</b>, a <b>conduction band</b>, and a <b>forbidden gap (bandgap)</b> ($E_g$) between them.<br><br>- In a <i>conductor</i>, the valence and conduction bands overlap, allowing free electron flow.<br>- In an <i>insulator</i>, the bandgap is large ($E_g > 3 \text{ eV}$), preventing electron excitation to the conduction band.<br>- In a <i>semiconductor</i>, the bandgap is small ($E_g \text{ typically } 0.5 \text{ to } 2 \text{ eV}$), allowing controlled electron excitation with thermal or electrical energy.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "55756": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Semiconductor Doping",
+        "question_type": "Objective",
+        "exam_year": "2012",
+        "question_text": "<p>Which of the following elements is commonly used as a <b>donor impurity</b> in <i>n-type</i> semiconductor doping?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>donor impurity</b> in <i>n-type</i> doping provides extra electrons to the semiconductor. <b>Phosphorus (P)</b> is a Group V element with 5 valence electrons, making it an ideal donor for silicon (Group IV).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "46170",
+                "tag": "a",
+                "text": "Aluminum (Al)",
+                "is_correct": false
+            },
+            {
+                "option_id": "42373",
+                "tag": "b",
+                "text": "Phosphorus (P)",
+                "is_correct": true
+            },
+            {
+                "option_id": "68229",
+                "tag": "c",
+                "text": "Boron (B)",
+                "is_correct": false
+            },
+            {
+                "option_id": "98124",
+                "tag": "d",
+                "text": "Gallium (Ga)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "55757": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "PN Junction Diode",
+        "question_type": "Theory",
+        "exam_year": "2012",
+        "question_text": "<p>Draw the <b>I-V characteristic curve</b> of a PN junction diode and explain its behavior under <i>forward bias</i> and <i>reverse bias</i> conditions.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>I-V Characteristic Curve:</b><br>- Under <i>forward bias</i>, the diode conducts current when the applied voltage exceeds the <b>knee voltage</b> ($V_k \text{ \u2248 } 0.7 \text{ V for Si}$). Current increases exponentially with voltage.<br>- Under <i>reverse bias</i>, the diode allows only a negligible <b>reverse saturation current</b> ($I_s$) until the <b>breakdown voltage</b> ($V_{BR}$) is reached, causing a sharp current increase.<br><br><b>Behavior:</b><br>- <i>Forward Bias:</i> Depletion region narrows, allowing majority carriers to diffuse across the junction.<br>- <i>Reverse Bias:</i> Depletion region widens, blocking majority carriers but allowing minority carrier drift.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "55758": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Diode Rectification",
+        "question_type": "Theory",
+        "exam_year": "2012",
+        "question_text": "<p>With the aid of a circuit diagram, explain how a <b>bridge rectifier</b> converts an AC input to a DC output. State <u>one advantage</u> of a bridge rectifier over a half-wave rectifier.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>bridge rectifier</b> uses four diodes arranged in a bridge configuration to rectify both halves of the AC input cycle.<br><br><b>Operation:</b><br>- During the positive half-cycle, diodes D1 and D2 conduct, allowing current to flow through the load.<br>- During the negative half-cycle, diodes D3 and D4 conduct, again allowing current to flow in the same direction through the load.<br><br><b>Advantage:</b> Higher efficiency and lower ripple voltage compared to a half-wave rectifier, as it utilizes both halves of the AC cycle.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "55759": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Zener Diodes and Regulation",
+        "question_type": "Objective",
+        "exam_year": "2012",
+        "question_text": "<p>The primary function of a <b>Zener diode</b> in a voltage regulator circuit is to:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>Zener diode</b> operates in reverse breakdown mode to maintain a constant output voltage across a load, even with variations in input voltage or load current.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "46170",
+                "tag": "a",
+                "text": "Amplify the input signal",
+                "is_correct": false
+            },
+            {
+                "option_id": "42373",
+                "tag": "b",
+                "text": "Maintain a constant output voltage",
+                "is_correct": true
+            },
+            {
+                "option_id": "68229",
+                "tag": "c",
+                "text": "Convert AC to DC",
+                "is_correct": false
+            },
+            {
+                "option_id": "98124",
+                "tag": "d",
+                "text": "Store electrical energy",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "55760": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "BJT Biasing Methods",
+        "question_type": "Theory",
+        "exam_year": "2012",
+        "question_text": "<p>Describe the <b>voltage-divider biasing</b> method for a BJT. State <u>two advantages</u> of this biasing technique.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Voltage-Divider Biasing:</b> Uses a resistive voltage divider ($R_1$ and $R_2$) to set the base voltage ($V_B$) of the BJT, ensuring stable operation by reducing sensitivity to $\beta$ variations.<br><br><b>Advantages:</b><br>1. <i>Improved stability</i> against temperature and $\beta$ variations.<br>2. <i>Simpler design</i> compared to other biasing methods like collector-feedback biasing.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "55761": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Operational Amplifiers",
+        "question_type": "Theory",
+        "exam_year": "2012",
+        "question_text": "<p>Explain the operation of an <b>inverting amplifier</b> using an Op-Amp. Derive the expression for its voltage gain ($A_v$).</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>An <b>inverting amplifier</b> uses an Op-Amp with a feedback resistor ($R_f$) and an input resistor ($R_{in}$). The input signal is applied to the inverting terminal, while the non-inverting terminal is grounded.<br><br><b>Operation:</b><br>- The Op-Amp forces the voltage at the inverting terminal to virtual ground ($V_- \text{ \u2248 } 0 \text{ V}$).<br>- Input current $I_{in} = \frac{V_{in}}{R_{in}}$ flows through $R_f$, creating an output voltage $V_{out} = -I_{in} R_f$.<br><br><b>Voltage Gain:</b><br>$A_v = \frac{V_{out}}{V_{in}} = -\frac{R_f}{R_{in}}$</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "55762": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Number Systems and Logic Gates",
+        "question_type": "Objective",
+        "exam_year": "2012",
+        "question_text": "<p>Convert the binary number <b>$1101_2$</b> to its decimal equivalent.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The binary number $1101_2$ is converted to decimal as follows:<br>$1 \times 2^3 + 1 \times 2^2 + 0 \times 2^1 + 1 \times 2^0 = 8 + 4 + 0 + 1 = 13_{10}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "46170",
+                "tag": "a",
+                "text": "11",
+                "is_correct": false
+            },
+            {
+                "option_id": "42373",
+                "tag": "b",
+                "text": "13",
+                "is_correct": true
+            },
+            {
+                "option_id": "68229",
+                "tag": "c",
+                "text": "15",
+                "is_correct": false
+            },
+            {
+                "option_id": "98124",
+                "tag": "d",
+                "text": "10",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "55763": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Power Supply Circuits and Thyristors",
+        "question_type": "Theory",
+        "exam_year": "2012",
+        "question_text": "<p>Explain the operation of a <b>thyristor</b> in a controlled rectifier circuit. State <u>one application</u> of thyristors in power electronics.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>thyristor</b> (SCR) is a four-layer semiconductor device that acts as a switch in controlled rectifier circuits. It conducts when a gate pulse is applied and the anode-cathode voltage is positive.<br><br><b>Operation:</b><br>- The thyristor remains off until a gate current ($I_g$) triggers it.<br>- Once triggered, it latches on and conducts until the anode current falls below the holding current ($I_H$).<br><br><b>Application:</b> Used in <i>motor speed control</i>, <i>light dimmers</i>, and <i>HVDC transmission systems</i>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

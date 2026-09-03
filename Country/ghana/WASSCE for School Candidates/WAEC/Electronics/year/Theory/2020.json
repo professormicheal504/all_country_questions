@@ -1,0 +1,257 @@
+{
+    "54298": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Electronics Basics",
+        "question_type": "Theory",
+        "exam_year": "2020",
+        "question_text": "<p>Explain the term <b>electronics</b> and state <u>three</u> applications of electronics in modern technology.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Electronics</b> is the branch of physics and technology concerned with the design of circuits using transistors, diodes, and other semiconductor devices to control the flow of electrons for processing and transmitting information.<br><br><b>Applications:</b><br>1. <i>Communication systems</i> (e.g., smartphones, radios).<br>2. <i>Computing devices</i> (e.g., laptops, microcontrollers).<br>3. <i>Medical equipment</i> (e.g., ECG machines, pacemakers).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "54299": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Atomic Structure and Energy Bands",
+        "question_type": "Theory",
+        "exam_year": "2020",
+        "question_text": "<p>Describe the <b>energy band structure</b> of a semiconductor. How does it differ from that of a conductor and an insulator?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Energy Band Structure of a Semiconductor:</b><br>- Semiconductors have a <i>valence band</i> (filled with electrons) and a <i>conduction band</i> (empty at 0 K), separated by a <b>forbidden energy gap ($E_g$)</b> of about $1 \text{ eV}$ (e.g., silicon: $1.1 \text{ eV}$).<br><br><b>Comparison:</b><br>- <i>Conductors</i>: No forbidden gap; valence and conduction bands overlap.<br>- <i>Insulators</i>: Large forbidden gap ($E_g > 3 \text{ eV}$); electrons cannot jump to the conduction band at room temperature.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "54300": {
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Semiconductor Doping",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "order_id": 3,
+        "question_text": "<p>Which of the following elements is used as a <b>donor impurity</b> in <i>n-type</i> silicon?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>donor impurity</b> in <i>n-type</i> silicon provides extra electrons. <b>Phosphorus (P)</b> is a Group V element with 5 valence electrons, donating one electron to the conduction band.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "52195",
+                "tag": "a",
+                "text": "Aluminum (Al)",
+                "is_correct": false
+            },
+            {
+                "option_id": "26323",
+                "tag": "b",
+                "text": "Phosphorus (P)",
+                "is_correct": true
+            },
+            {
+                "option_id": "32524",
+                "tag": "c",
+                "text": "Boron (B)",
+                "is_correct": false
+            },
+            {
+                "option_id": "15260",
+                "tag": "d",
+                "text": "Gallium (Ga)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "54301": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "PN Junction Diode",
+        "question_type": "Theory",
+        "exam_year": "2020",
+        "question_text": "<p>Draw the <b>V-I characteristic curve</b> of a PN junction diode and explain its behavior under <i>forward bias</i> and <i>reverse bias</i> conditions.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>V-I Characteristic Curve:</b><br>- <i>Forward Bias</i>: Diode conducts when $V > V_{th}$ (threshold voltage, ~$0.7 \text{ V}$ for Si). Current ($I$) increases exponentially with voltage.<br>- <i>Reverse Bias</i>: Diode blocks current until breakdown voltage ($V_{BR}$). Small reverse saturation current flows.<br><br><b>Graph:</b> Current ($I$) on y-axis, Voltage ($V$) on x-axis, showing exponential rise in forward bias and near-zero current in reverse bias until $V_{BR}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "54302": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Diode Rectification",
+        "question_type": "Theory",
+        "exam_year": "2020",
+        "question_text": "<p>With the aid of a circuit diagram, explain how a <b>bridge rectifier</b> converts AC to DC. State <u>two</u> advantages over a half-wave rectifier.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Bridge Rectifier Operation:</b><br>- Uses 4 diodes arranged in a bridge configuration. During each half-cycle of AC, two diodes conduct, allowing current to flow in the same direction through the load.<br><br><b>Advantages:</b><br>1. <i>Higher efficiency</i>: Utilizes both halves of the AC cycle.<br>2. <i>Lower ripple voltage</i>: Easier to filter compared to half-wave rectification.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "54303": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Zener Diodes and Regulation",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>A Zener diode is primarily used for:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>Zener diode</b> operates in reverse breakdown to maintain a constant voltage across a load, making it ideal for <i>voltage regulation</i>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "52196",
+                "tag": "a",
+                "text": "Amplification",
+                "is_correct": false
+            },
+            {
+                "option_id": "26324",
+                "tag": "b",
+                "text": "Voltage regulation",
+                "is_correct": true
+            },
+            {
+                "option_id": "32525",
+                "tag": "c",
+                "text": "Oscillation",
+                "is_correct": false
+            },
+            {
+                "option_id": "15261",
+                "tag": "d",
+                "text": "Rectification",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "54304": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "BJT Biasing Methods",
+        "question_type": "Theory",
+        "exam_year": "2020",
+        "question_text": "<p>Describe the <b>voltage-divider bias</b> method for a BJT. Why is it preferred over <i>fixed bias</i>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Voltage-Divider Bias:</b><br>- Uses a resistor network ($R_1$, $R_2$) to set the base voltage, providing stable $Q$-point operation.<br>- Emitter resistor ($R_E$) improves stability by introducing negative feedback.<br><br><b>Advantage:</b> Less sensitive to temperature variations and $\beta$ changes compared to fixed bias.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "54305": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Operational Amplifiers",
+        "question_type": "Theory",
+        "exam_year": "2020",
+        "question_text": "<p>Explain the operation of an <b>inverting amplifier</b> using an Op-Amp. Derive the expression for its voltage gain ($A_v$).</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Inverting Amplifier:</b><br>- Input signal is applied to the inverting terminal via $R_1$. Feedback resistor ($R_f$) connects output to inverting terminal.<br>- Non-inverting terminal is grounded.<br><br><b>Voltage Gain:</b><br>Using virtual ground concept: $V_- = V_+ = 0$.<br>Current through $R_1$: $I_1 = \frac{V_{in}}{R_1}$.<br>Current through $R_f$: $I_f = \frac{V_{out}}{R_f}$.<br>Since $I_1 = I_f$, $\frac{V_{in}}{R_1} = -\frac{V_{out}}{R_f}$.<br>Thus, $A_v = \frac{V_{out}}{V_{in}} = -\frac{R_f}{R_1}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "54306": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Oscillator Principles",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>Which of the following conditions is <b>essential</b> for sustained oscillations in a feedback oscillator?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>For sustained oscillations, the loop gain must satisfy <b>Barkhausen criteria</b>: $A\beta = 1$ (gain magnitude) and $\theta = 0^\text{o}$ or $360^\text{o}$ (phase shift).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "52197",
+                "tag": "a",
+                "text": "Negative feedback with gain > 1",
+                "is_correct": false
+            },
+            {
+                "option_id": "26325",
+                "tag": "b",
+                "text": "Positive feedback with loop gain = 1",
+                "is_correct": true
+            },
+            {
+                "option_id": "32526",
+                "tag": "c",
+                "text": "Zero feedback",
+                "is_correct": false
+            },
+            {
+                "option_id": "15262",
+                "tag": "d",
+                "text": "High input impedance",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "54307": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Number Systems and Logic Gates",
+        "question_type": "Theory",
+        "exam_year": "2020",
+        "question_text": "<p>Convert the binary number <b>$110101_2$</b> to decimal and hexadecimal. Also, draw the logic circuit for a <b>3-input AND gate</b> using 2-input AND gates.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Binary to Decimal:</b><br>$110101_2 = 1 \times 2^5 + 1 \times 2^4 + 0 \times 2^3 + 1 \times 2^2 + 0 \times 2^1 + 1 \times 2^0 = 32 + 16 + 0 + 4 + 0 + 1 = 53_{10}$.<br><br><b>Binary to Hexadecimal:</b><br>Group bits: $11\thinspace 0101_2$.<br>$11_2 = 3_{16}$, $0101_2 = 5_{16}$.<br>Thus, $110101_2 = 35_{16}$.<br><br><b>3-Input AND Gate:</b><br>Use two 2-input AND gates: First gate takes inputs A and B; second gate takes output of first gate and input C.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

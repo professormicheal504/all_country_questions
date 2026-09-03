@@ -428,5 +428,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "17871": {
+        "order_id": 11,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Music Elements",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>Which of the following is <b>NOT</b> a fundamental element of music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The fundamental elements of music include pitch, rhythm, dynamics, timbre, texture, and form. <i>Harmony</i> is a derived element, not a fundamental one.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "46645",
+                "tag": "a",
+                "text": "Pitch",
+                "is_correct": false
+            },
+            {
+                "option_id": "49228",
+                "tag": "b",
+                "text": "Harmony",
+                "is_correct": true
+            },
+            {
+                "option_id": "83655",
+                "tag": "c",
+                "text": "Rhythm",
+                "is_correct": false
+            },
+            {
+                "option_id": "10527",
+                "tag": "d",
+                "text": "Timbre",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "17872": {
+        "order_id": 12,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Music Notation Basics",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>What does a <b>dot</b> placed after a note in music notation indicate?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A dot after a note increases its duration by half of its original value. For example, a dotted quarter note equals $1.5$ beats.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "46646",
+                "tag": "a",
+                "text": "It shortens the note by half",
+                "is_correct": false
+            },
+            {
+                "option_id": "49229",
+                "tag": "b",
+                "text": "It increases the note's duration by half",
+                "is_correct": true
+            },
+            {
+                "option_id": "83656",
+                "tag": "c",
+                "text": "It indicates a rest",
+                "is_correct": false
+            },
+            {
+                "option_id": "10528",
+                "tag": "d",
+                "text": "It raises the pitch by a semitone",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "17873": {
+        "order_id": 13,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Types of Scales",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>Which scale consists of five notes per octave and is commonly used in traditional Ghanaian music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <i>pentatonic scale</i> has five notes per octave and is widely used in Ghanaian traditional music, such as in <i>Highlife</i> and <i>Adowa</i>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "46647",
+                "tag": "a",
+                "text": "Chromatic scale",
+                "is_correct": false
+            },
+            {
+                "option_id": "49230",
+                "tag": "b",
+                "text": "Pentatonic scale",
+                "is_correct": true
+            },
+            {
+                "option_id": "83657",
+                "tag": "c",
+                "text": "Whole-tone scale",
+                "is_correct": false
+            },
+            {
+                "option_id": "10529",
+                "tag": "d",
+                "text": "Octatonic scale",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "17874": {
+        "order_id": 14,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Intervals and Inversions",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>What is the inversion of a <b>perfect fifth</b> ($5$)?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The inversion of a perfect fifth ($5$) is a perfect fourth ($4$). Inversion is calculated as $9 - \text{interval number} = \text{inverted interval}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "46648",
+                "tag": "a",
+                "text": "Major third ($3$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "49231",
+                "tag": "b",
+                "text": "Perfect fourth ($4$)",
+                "is_correct": true
+            },
+            {
+                "option_id": "83658",
+                "tag": "c",
+                "text": "Minor sixth ($6$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "10530",
+                "tag": "d",
+                "text": "Major sixth ($6$)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "17875": {
+        "order_id": 15,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Chords and Inversions",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>In a <b>first inversion triad</b>, which note is in the bass?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In a first inversion triad, the <i>third</i> of the chord is in the bass. For example, in a C major triad (C-E-G), the first inversion is E-G-C, with E in the bass.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "46649",
+                "tag": "a",
+                "text": "Root",
+                "is_correct": false
+            },
+            {
+                "option_id": "49232",
+                "tag": "b",
+                "text": "Third",
+                "is_correct": true
+            },
+            {
+                "option_id": "83659",
+                "tag": "c",
+                "text": "Fifth",
+                "is_correct": false
+            },
+            {
+                "option_id": "10531",
+                "tag": "d",
+                "text": "Seventh",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "17876": {
+        "order_id": 16,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Cadence Types",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>Which cadence is described as a <i>semi-cadence</i> and ends on the dominant chord ($V$)?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <i>half cadence</i> is a cadence that ends on the dominant chord ($V$), creating a sense of incompleteness and requiring resolution.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "46650",
+                "tag": "a",
+                "text": "Perfect cadence",
+                "is_correct": false
+            },
+            {
+                "option_id": "49233",
+                "tag": "b",
+                "text": "Half cadence",
+                "is_correct": true
+            },
+            {
+                "option_id": "83660",
+                "tag": "c",
+                "text": "Plagal cadence",
+                "is_correct": false
+            },
+            {
+                "option_id": "10532",
+                "tag": "d",
+                "text": "Deceptive cadence",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "17877": {
+        "order_id": 17,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "African Music Traits",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>Which of the following is a <b>key characteristic</b> of African traditional music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>African traditional music is often characterized by <i>call-and-response</i> patterns, where a leader sings or plays a phrase, and a group responds.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "46651",
+                "tag": "a",
+                "text": "Strict adherence to written notation",
+                "is_correct": false
+            },
+            {
+                "option_id": "49234",
+                "tag": "b",
+                "text": "Call-and-response patterns",
+                "is_correct": true
+            },
+            {
+                "option_id": "83661",
+                "tag": "c",
+                "text": "Use of only Western instruments",
+                "is_correct": false
+            },
+            {
+                "option_id": "10533",
+                "tag": "d",
+                "text": "Absence of rhythm",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "17878": {
+        "order_id": 18,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Western Art Music Periods",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>Which period of Western art music is associated with composers like <b>Bach</b> and <b>Vivaldi</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <i>Baroque period</i> (1600\u20131750) is associated with composers like Johann Sebastian Bach and Antonio Vivaldi, known for complex harmonies and ornamentation.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "46652",
+                "tag": "a",
+                "text": "Renaissance",
+                "is_correct": false
+            },
+            {
+                "option_id": "49235",
+                "tag": "b",
+                "text": "Baroque",
+                "is_correct": true
+            },
+            {
+                "option_id": "83662",
+                "tag": "c",
+                "text": "Classical",
+                "is_correct": false
+            },
+            {
+                "option_id": "10534",
+                "tag": "d",
+                "text": "Romantic",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "17879": {
+        "order_id": 19,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Ghanaian Traditional Music",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>Which Ghanaian traditional music genre is performed during <b>funerals</b> in the Akan community?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><i>Adowa</i> is a Ghanaian traditional music and dance genre performed during funerals and other significant social events in the Akan community.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "46653",
+                "tag": "a",
+                "text": "Kpanlogo",
+                "is_correct": false
+            },
+            {
+                "option_id": "49236",
+                "tag": "b",
+                "text": "Adowa",
+                "is_correct": true
+            },
+            {
+                "option_id": "83663",
+                "tag": "c",
+                "text": "Agbadza",
+                "is_correct": false
+            },
+            {
+                "option_id": "10535",
+                "tag": "d",
+                "text": "Bawa",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "17880": {
+        "order_id": 20,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Rhythm and Meter",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>What is the time signature of a piece with <b>three beats per measure</b> and a <b>quarter note</b> receiving one beat?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A time signature of $3/4$ indicates three beats per measure, with the quarter note receiving one beat.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "46654",
+                "tag": "a",
+                "text": "$2/4$",
+                "is_correct": false
+            },
+            {
+                "option_id": "49237",
+                "tag": "b",
+                "text": "$3/4$",
+                "is_correct": true
+            },
+            {
+                "option_id": "83664",
+                "tag": "c",
+                "text": "$4/4$",
+                "is_correct": false
+            },
+            {
+                "option_id": "10536",
+                "tag": "d",
+                "text": "$6/8$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

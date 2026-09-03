@@ -1,0 +1,432 @@
+{
+    "79576": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Electronics Basics",
+        "question_type": "Objective",
+        "exam_year": "2013",
+        "question_text": "<p>Which of the following is the SI unit of electric current?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The SI unit of electric current is the <b>Ampere (A)</b>, named after Andr\u00e9-Marie Amp\u00e8re, a French physicist. It is defined as the flow of one coulomb of charge per second.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "87664",
+                "tag": "a",
+                "text": "Ampere",
+                "is_correct": true
+            },
+            {
+                "option_id": "53439",
+                "tag": "b",
+                "text": "Volt",
+                "is_correct": false
+            },
+            {
+                "option_id": "92045",
+                "tag": "c",
+                "text": "Ohm",
+                "is_correct": false
+            },
+            {
+                "option_id": "12291",
+                "tag": "d",
+                "text": "Watt",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "79577": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Atomic Structure and Energy Bands",
+        "question_type": "Objective",
+        "exam_year": "2013",
+        "question_text": "<p>In a semiconductor, the energy gap between the valence band and the conduction band is called the:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The energy gap between the valence band (where electrons are bound) and the conduction band (where electrons are free to move) in a semiconductor is known as the <b>forbidden energy gap</b> or <b>bandgap</b>. This gap determines the electrical conductivity of the material.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "87665",
+                "tag": "a",
+                "text": "Fermi level",
+                "is_correct": false
+            },
+            {
+                "option_id": "53440",
+                "tag": "b",
+                "text": "Forbidden energy gap",
+                "is_correct": true
+            },
+            {
+                "option_id": "92046",
+                "tag": "c",
+                "text": "Conduction band",
+                "is_correct": false
+            },
+            {
+                "option_id": "12292",
+                "tag": "d",
+                "text": "Valence band",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "79578": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Semiconductor Types and Doping",
+        "question_type": "Objective",
+        "exam_year": "2013",
+        "question_text": "<p>When a pentavalent impurity is added to a pure semiconductor, the resulting material is called a/an:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Adding a pentavalent impurity (e.g., phosphorus or arsenic) to a pure semiconductor (e.g., silicon) introduces extra free electrons, creating an <b>n-type semiconductor</b>. The pentavalent atoms donate electrons, increasing the number of charge carriers.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "87666",
+                "tag": "a",
+                "text": "p-type semiconductor",
+                "is_correct": false
+            },
+            {
+                "option_id": "53441",
+                "tag": "b",
+                "text": "n-type semiconductor",
+                "is_correct": true
+            },
+            {
+                "option_id": "92047",
+                "tag": "c",
+                "text": "Intrinsic semiconductor",
+                "is_correct": false
+            },
+            {
+                "option_id": "12293",
+                "tag": "d",
+                "text": "Extrinsic conductor",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "79579": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "PN Junction Diode",
+        "question_type": "Objective",
+        "exam_year": "2013",
+        "question_text": "<p>The region in a PN junction diode where there are no free charge carriers is called the:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The region in a PN junction diode devoid of free charge carriers is called the <b>depletion region</b>. It forms due to the diffusion of electrons and holes across the junction, leaving behind immobile ions.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "87667",
+                "tag": "a",
+                "text": "Diffusion region",
+                "is_correct": false
+            },
+            {
+                "option_id": "53442",
+                "tag": "b",
+                "text": "Depletion region",
+                "is_correct": true
+            },
+            {
+                "option_id": "92048",
+                "tag": "c",
+                "text": "Conduction region",
+                "is_correct": false
+            },
+            {
+                "option_id": "12294",
+                "tag": "d",
+                "text": "Barrier region",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "79580": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Diode Rectification",
+        "question_type": "Objective",
+        "exam_year": "2013",
+        "question_text": "<p>A full-wave rectifier uses how many diodes?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>full-wave rectifier</b> uses <b>two diodes</b> (in a center-tapped transformer configuration) or <b>four diodes</b> (in a bridge rectifier configuration). The most common and efficient full-wave rectifier is the bridge rectifier, which uses four diodes.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "87668",
+                "tag": "a",
+                "text": "1",
+                "is_correct": false
+            },
+            {
+                "option_id": "53443",
+                "tag": "b",
+                "text": "2",
+                "is_correct": false
+            },
+            {
+                "option_id": "92049",
+                "tag": "c",
+                "text": "4",
+                "is_correct": true
+            },
+            {
+                "option_id": "12295",
+                "tag": "d",
+                "text": "3",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "79581": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Zener Diodes and Regulation",
+        "question_type": "Objective",
+        "exam_year": "2013",
+        "question_text": "<p>A Zener diode is primarily used for:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>Zener diode</b> is primarily used for <b>voltage regulation</b>. It operates in the reverse breakdown region, maintaining a constant voltage across its terminals despite variations in current.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "87669",
+                "tag": "a",
+                "text": "Amplification",
+                "is_correct": false
+            },
+            {
+                "option_id": "53444",
+                "tag": "b",
+                "text": "Rectification",
+                "is_correct": false
+            },
+            {
+                "option_id": "92050",
+                "tag": "c",
+                "text": "Voltage regulation",
+                "is_correct": true
+            },
+            {
+                "option_id": "12296",
+                "tag": "d",
+                "text": "Oscillation",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "79582": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "BJT Structure and Operation",
+        "question_type": "Objective",
+        "exam_year": "2013",
+        "question_text": "<p>In a BJT, the region that is lightly doped and very thin is the:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In a Bipolar Junction Transistor (BJT), the <b>base</b> is the region that is lightly doped and very thin. This design allows most of the charge carriers from the emitter to diffuse into the collector, enabling amplification.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "87670",
+                "tag": "a",
+                "text": "Emitter",
+                "is_correct": false
+            },
+            {
+                "option_id": "53445",
+                "tag": "b",
+                "text": "Base",
+                "is_correct": true
+            },
+            {
+                "option_id": "92051",
+                "tag": "c",
+                "text": "Collector",
+                "is_correct": false
+            },
+            {
+                "option_id": "12297",
+                "tag": "d",
+                "text": "Substrate",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "79583": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Common-Emitter Amplifier",
+        "question_type": "Objective",
+        "exam_year": "2013",
+        "question_text": "<p>The voltage gain of a common-emitter amplifier is given by $A_v = -g_m R_C$. What does $g_m$ represent?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In the voltage gain formula for a common-emitter amplifier, $A_v = -g_m R_C$, the term $g_m$ represents the <b>transconductance</b> of the transistor. Transconductance is the ratio of the change in collector current to the change in base-emitter voltage ($g_m = \\frac{\\Delta I_C}{\\Delta V_{BE}}$).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "87671",
+                "tag": "a",
+                "text": "Input resistance",
+                "is_correct": false
+            },
+            {
+                "option_id": "53446",
+                "tag": "b",
+                "text": "Transconductance",
+                "is_correct": true
+            },
+            {
+                "option_id": "92052",
+                "tag": "c",
+                "text": "Output resistance",
+                "is_correct": false
+            },
+            {
+                "option_id": "12298",
+                "tag": "d",
+                "text": "Current gain",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "79584": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Number Systems and Conversions",
+        "question_type": "Objective",
+        "exam_year": "2013",
+        "question_text": "<p>Convert the binary number $1011_2$ to its decimal equivalent.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>To convert the binary number $1011_2$ to decimal:<br>$1 \\times 2^3 + 0 \\times 2^2 + 1 \\times 2^1 + 1 \\times 2^0 = 8 + 0 + 2 + 1 = 11_{10}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "87672",
+                "tag": "a",
+                "text": "9",
+                "is_correct": false
+            },
+            {
+                "option_id": "53447",
+                "tag": "b",
+                "text": "10",
+                "is_correct": false
+            },
+            {
+                "option_id": "92053",
+                "tag": "c",
+                "text": "11",
+                "is_correct": true
+            },
+            {
+                "option_id": "12299",
+                "tag": "d",
+                "text": "12",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "79585": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Logic Gates and Truth Tables",
+        "question_type": "Objective",
+        "exam_year": "2013",
+        "question_text": "<p>Which of the following logic gates produces a HIGH output only when all its inputs are LOW?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>NOR gate</b> produces a HIGH output only when all its inputs are LOW. It is the combination of an OR gate followed by a NOT gate, inverting the OR gate's output.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "87673",
+                "tag": "a",
+                "text": "AND gate",
+                "is_correct": false
+            },
+            {
+                "option_id": "53448",
+                "tag": "b",
+                "text": "OR gate",
+                "is_correct": false
+            },
+            {
+                "option_id": "92054",
+                "tag": "c",
+                "text": "NAND gate",
+                "is_correct": false
+            },
+            {
+                "option_id": "12300",
+                "tag": "d",
+                "text": "NOR gate",
+                "is_correct": true
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

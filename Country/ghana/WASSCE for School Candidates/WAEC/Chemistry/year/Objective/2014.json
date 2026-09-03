@@ -1280,5 +1280,434 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "97930": {
+        "order_id": 31,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Atomic Structure",
+        "question_type": "Objective",
+        "exam_year": "2014",
+        "question_text": "<p>Which of the following particles determines the chemical properties of an element?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The chemical properties of an element are determined by the number and arrangement of electrons in its outermost shell (valence electrons). This is because electrons are involved in chemical bonding and reactions.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "73091",
+                "tag": "a",
+                "text": "Protons",
+                "is_correct": false
+            },
+            {
+                "option_id": "24391",
+                "tag": "b",
+                "text": "Electrons",
+                "is_correct": true
+            },
+            {
+                "option_id": "84488",
+                "tag": "c",
+                "text": "Neutrons",
+                "is_correct": false
+            },
+            {
+                "option_id": "15729",
+                "tag": "d",
+                "text": "Nucleons",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "97931": {
+        "order_id": 32,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Periodic Trends",
+        "question_type": "Objective",
+        "exam_year": "2014",
+        "question_text": "<p>Which of the following elements has the highest first ionization energy?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>First ionization energy generally increases across a period from left to right and decreases down a group. Fluorine (F) is the most electronegative element and has the highest first ionization energy among the given options.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "73092",
+                "tag": "a",
+                "text": "Sodium (Na)",
+                "is_correct": false
+            },
+            {
+                "option_id": "24392",
+                "tag": "b",
+                "text": "Magnesium (Mg)",
+                "is_correct": false
+            },
+            {
+                "option_id": "84489",
+                "tag": "c",
+                "text": "Fluorine (F)",
+                "is_correct": true
+            },
+            {
+                "option_id": "15730",
+                "tag": "d",
+                "text": "Chlorine (Cl)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "97932": {
+        "order_id": 33,
+        "exam_type": "WAEC",
+        "subject": "Chemical Bonding Types",
+        "question_type": "Objective",
+        "exam_year": "2014",
+        "question_text": "<p>What type of bond is formed between a metal and a non-metal?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A bond formed between a metal and a non-metal is typically an ionic bond. This involves the transfer of electrons from the metal to the non-metal, resulting in the formation of oppositely charged ions that attract each other.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "73093",
+                "tag": "a",
+                "text": "Covalent bond",
+                "is_correct": false
+            },
+            {
+                "option_id": "24393",
+                "tag": "b",
+                "text": "Ionic bond",
+                "is_correct": true
+            },
+            {
+                "option_id": "84490",
+                "tag": "c",
+                "text": "Metallic bond",
+                "is_correct": false
+            },
+            {
+                "option_id": "15731",
+                "tag": "d",
+                "text": "Hydrogen bond",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "97933": {
+        "order_id": 34,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Gas Laws",
+        "question_type": "Objective",
+        "exam_year": "2014",
+        "question_text": "<p>According to Boyle's Law, the pressure of a given mass of gas is inversely proportional to its volume at constant temperature. Which of the following equations represents Boyle's Law?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Boyle's Law states that $P \\propto \\frac{1}{V}$ at constant temperature, which can be written as $PV = k$, where $k$ is a constant. This means the product of pressure and volume remains constant.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "73094",
+                "tag": "a",
+                "text": "$P + V = k$",
+                "is_correct": false
+            },
+            {
+                "option_id": "24394",
+                "tag": "b",
+                "text": "$PV = k$",
+                "is_correct": true
+            },
+            {
+                "option_id": "84491",
+                "tag": "c",
+                "text": "$P/V = k$",
+                "is_correct": false
+            },
+            {
+                "option_id": "15732",
+                "tag": "d",
+                "text": "$P - V = k$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "97934": {
+        "order_id": 35,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Thermochemistry",
+        "question_type": "Objective",
+        "exam_year": "2014",
+        "question_text": "<p>The enthalpy change for a reaction is $+50 \\text{ kJ/mol}$. What does this indicate about the reaction?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A positive enthalpy change ($\\Delta H > 0$) indicates that the reaction is endothermic. This means the reaction absorbs heat from the surroundings.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "73095",
+                "tag": "a",
+                "text": "The reaction is exothermic.",
+                "is_correct": false
+            },
+            {
+                "option_id": "24395",
+                "tag": "b",
+                "text": "The reaction is endothermic.",
+                "is_correct": true
+            },
+            {
+                "option_id": "84492",
+                "tag": "c",
+                "text": "The reaction is at equilibrium.",
+                "is_correct": false
+            },
+            {
+                "option_id": "15733",
+                "tag": "d",
+                "text": "The reaction is spontaneous.",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "97935": {
+        "order_id": 36,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Chemical Equilibrium",
+        "question_type": "Objective",
+        "exam_year": "2014",
+        "question_text": "<p>For the reaction $N_2(g) + 3H_2(g) \\rightleftharpoons 2NH_3(g)$, what is the effect of increasing the pressure on the equilibrium position?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>According to Le Chatelier's Principle, increasing the pressure shifts the equilibrium to the side with fewer moles of gas to reduce the pressure. In this reaction, the left side has 4 moles of gas ($1 N_2 + 3 H_2$), and the right side has 2 moles of gas ($2 NH_3$). Thus, the equilibrium shifts to the right, favoring the formation of $NH_3$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "73096",
+                "tag": "a",
+                "text": "Shifts to the left",
+                "is_correct": false
+            },
+            {
+                "option_id": "24396",
+                "tag": "b",
+                "text": "Shifts to the right",
+                "is_correct": true
+            },
+            {
+                "option_id": "84493",
+                "tag": "c",
+                "text": "No effect",
+                "is_correct": false
+            },
+            {
+                "option_id": "15734",
+                "tag": "d",
+                "text": "Increases the rate of the reverse reaction",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "97936": {
+        "order_id": 37,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Acid-Base Theories",
+        "question_type": "Objective",
+        "exam_year": "2014",
+        "question_text": "<p>Which of the following is a characteristic of a Lewis base?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A Lewis base is a species that donates an electron pair to form a coordinate covalent bond. This is typically a molecule or ion with a lone pair of electrons.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "73097",
+                "tag": "a",
+                "text": "Accepts protons",
+                "is_correct": false
+            },
+            {
+                "option_id": "24397",
+                "tag": "b",
+                "text": "Donates an electron pair",
+                "is_correct": true
+            },
+            {
+                "option_id": "84494",
+                "tag": "c",
+                "text": "Accepts an electron pair",
+                "is_correct": false
+            },
+            {
+                "option_id": "15735",
+                "tag": "d",
+                "text": "Donates protons",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "97937": {
+        "order_id": 38,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Redox Reactions",
+        "question_type": "Objective",
+        "exam_year": "2014",
+        "question_text": "<p>In the reaction $Zn + Cu^{2+} \\rightarrow Zn^{2+} + Cu$, which species is oxidized?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Oxidation involves the loss of electrons. In this reaction, zinc (Zn) loses electrons to form $Zn^{2+}$, so it is oxidized. Copper ($Cu^{2+}$) gains electrons and is reduced.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "73098",
+                "tag": "a",
+                "text": "$Cu^{2+}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "24398",
+                "tag": "b",
+                "text": "$Zn$",
+                "is_correct": true
+            },
+            {
+                "option_id": "84495",
+                "tag": "c",
+                "text": "$Zn^{2+}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "15736",
+                "tag": "d",
+                "text": "$Cu$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "97938": {
+        "order_id": 39,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Organic Nomenclature",
+        "question_type": "Objective",
+        "exam_year": "2014",
+        "question_text": "<p>What is the IUPAC name of the compound $CH_3CH_2CH(CH_3)CH_3$?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The compound $CH_3CH_2CH(CH_3)CH_3$ has a longest carbon chain of 4 carbons with a methyl group attached to the second carbon. The IUPAC name is 2-methylbutane.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "73099",
+                "tag": "a",
+                "text": "Butane",
+                "is_correct": false
+            },
+            {
+                "option_id": "24399",
+                "tag": "b",
+                "text": "2-Methylbutane",
+                "is_correct": true
+            },
+            {
+                "option_id": "84496",
+                "tag": "c",
+                "text": "Pentane",
+                "is_correct": false
+            },
+            {
+                "option_id": "15737",
+                "tag": "d",
+                "text": "2-Methylpropane",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "97939": {
+        "order_id": 40,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Electrochemistry",
+        "question_type": "Objective",
+        "exam_year": "2014",
+        "question_text": "<p>In an electrochemical cell, oxidation occurs at the:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In an electrochemical cell, oxidation occurs at the anode. This is where the species loses electrons, and the anode is the site of the oxidation half-reaction.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "73100",
+                "tag": "a",
+                "text": "Cathode",
+                "is_correct": false
+            },
+            {
+                "option_id": "24400",
+                "tag": "b",
+                "text": "Anode",
+                "is_correct": true
+            },
+            {
+                "option_id": "84497",
+                "tag": "c",
+                "text": "Salt bridge",
+                "is_correct": false
+            },
+            {
+                "option_id": "15738",
+                "tag": "d",
+                "text": "Electrolyte",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

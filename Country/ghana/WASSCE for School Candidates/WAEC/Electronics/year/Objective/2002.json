@@ -1288,5 +1288,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "67299": {
+        "order_id": 31,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Electronics Basics",
+        "question_type": "Objective",
+        "exam_year": "2002",
+        "question_text": "<p>Which of the following is the SI unit of electric current?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The SI unit of electric current is the <b>ampere</b>, named after Andr\u00e9-Marie Amp\u00e8re, a French physicist. It is one of the seven base units in the International System of Units (SI).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "52519",
+                "tag": "a",
+                "text": "Volt",
+                "is_correct": false
+            },
+            {
+                "option_id": "79789",
+                "tag": "b",
+                "text": "Ampere",
+                "is_correct": true
+            },
+            {
+                "option_id": "38305",
+                "tag": "c",
+                "text": "Ohm",
+                "is_correct": false
+            },
+            {
+                "option_id": "68033",
+                "tag": "d",
+                "text": "Watt",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "67300": {
+        "order_id": 32,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Atomic Structure",
+        "question_type": "Objective",
+        "exam_year": "2002",
+        "question_text": "<p>In an atom, the particles that carry a negative charge are called:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Electrons are the subatomic particles that carry a negative charge. They orbit the nucleus of an atom, which contains protons (positive charge) and neutrons (no charge).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "52520",
+                "tag": "a",
+                "text": "Protons",
+                "is_correct": false
+            },
+            {
+                "option_id": "79790",
+                "tag": "b",
+                "text": "Neutrons",
+                "is_correct": false
+            },
+            {
+                "option_id": "38306",
+                "tag": "c",
+                "text": "Electrons",
+                "is_correct": true
+            },
+            {
+                "option_id": "68034",
+                "tag": "d",
+                "text": "Nucleons",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "67301": {
+        "order_id": 33,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Semiconductor Types",
+        "question_type": "Objective",
+        "exam_year": "2002",
+        "question_text": "<p>Which of the following materials is an intrinsic semiconductor?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>An intrinsic semiconductor is a pure semiconductor material with no significant impurities. Silicon and germanium are the most common intrinsic semiconductors used in electronics.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "52521",
+                "tag": "a",
+                "text": "Copper",
+                "is_correct": false
+            },
+            {
+                "option_id": "79791",
+                "tag": "b",
+                "text": "Silicon",
+                "is_correct": true
+            },
+            {
+                "option_id": "38307",
+                "tag": "c",
+                "text": "Aluminum",
+                "is_correct": false
+            },
+            {
+                "option_id": "68035",
+                "tag": "d",
+                "text": "Gold",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "67302": {
+        "order_id": 34,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Doping: n-type, p-type",
+        "question_type": "Objective",
+        "exam_year": "2002",
+        "question_text": "<p>In a semiconductor, doping with phosphorus results in the formation of a(n):</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Phosphorus is a pentavalent impurity, meaning it has five valence electrons. When added to a semiconductor like silicon, it donates an extra electron, creating an <b>n-type</b> semiconductor with majority charge carriers as electrons.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "52522",
+                "tag": "a",
+                "text": "p-type semiconductor",
+                "is_correct": false
+            },
+            {
+                "option_id": "79792",
+                "tag": "b",
+                "text": "n-type semiconductor",
+                "is_correct": true
+            },
+            {
+                "option_id": "38308",
+                "tag": "c",
+                "text": "Intrinsic semiconductor",
+                "is_correct": false
+            },
+            {
+                "option_id": "68036",
+                "tag": "d",
+                "text": "Insulator",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "67303": {
+        "order_id": 35,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "PN Junction Diode",
+        "question_type": "Objective",
+        "exam_year": "2002",
+        "question_text": "<p>A PN junction diode is said to be <i>forward-biased</i> when:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A PN junction diode is forward-biased when the <i>p-type</i> material is connected to the positive terminal of a battery and the <i>n-type</i> material is connected to the negative terminal. This reduces the depletion region and allows current to flow.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "52523",
+                "tag": "a",
+                "text": "The p-side is connected to the negative terminal and the n-side to the positive terminal",
+                "is_correct": false
+            },
+            {
+                "option_id": "79793",
+                "tag": "b",
+                "text": "The p-side is connected to the positive terminal and the n-side to the negative terminal",
+                "is_correct": true
+            },
+            {
+                "option_id": "38309",
+                "tag": "c",
+                "text": "Both sides are connected to the positive terminal",
+                "is_correct": false
+            },
+            {
+                "option_id": "68037",
+                "tag": "d",
+                "text": "Both sides are connected to the negative terminal",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "67304": {
+        "order_id": 36,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Diode Rectification",
+        "question_type": "Objective",
+        "exam_year": "2002",
+        "question_text": "<p>Which of the following circuits converts an alternating current (AC) to direct current (DC)?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A rectifier is an electronic circuit that converts AC to DC. The most common type is the <b>bridge rectifier</b>, which uses four diodes to achieve full-wave rectification.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "52524",
+                "tag": "a",
+                "text": "Amplifier",
+                "is_correct": false
+            },
+            {
+                "option_id": "79794",
+                "tag": "b",
+                "text": "Rectifier",
+                "is_correct": true
+            },
+            {
+                "option_id": "38310",
+                "tag": "c",
+                "text": "Oscillator",
+                "is_correct": false
+            },
+            {
+                "option_id": "68038",
+                "tag": "d",
+                "text": "Inverter",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "67305": {
+        "order_id": 37,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "BJT Structure and Operation",
+        "question_type": "Objective",
+        "exam_year": "2002",
+        "question_text": "<p>In a Bipolar Junction Transistor (BJT), the region that controls the flow of current is called the:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>base</b> is the thin and lightly doped region in a BJT that controls the flow of current between the emitter and the collector. A small current applied to the base can control a larger current between the emitter and collector.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "52525",
+                "tag": "a",
+                "text": "Emitter",
+                "is_correct": false
+            },
+            {
+                "option_id": "79795",
+                "tag": "b",
+                "text": "Base",
+                "is_correct": true
+            },
+            {
+                "option_id": "38311",
+                "tag": "c",
+                "text": "Collector",
+                "is_correct": false
+            },
+            {
+                "option_id": "68039",
+                "tag": "d",
+                "text": "Gate",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "67306": {
+        "order_id": 38,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Common-Emitter Amplifier",
+        "question_type": "Objective",
+        "exam_year": "2002",
+        "question_text": "<p>In a common-emitter amplifier, the input signal is applied to the <b>base</b>, and the output is taken from the:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In a common-emitter amplifier configuration, the emitter is common to both the input and output circuits. The input signal is applied to the base, and the output is taken from the <b>collector</b>, providing both current and voltage amplification.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "52526",
+                "tag": "a",
+                "text": "Emitter",
+                "is_correct": false
+            },
+            {
+                "option_id": "79796",
+                "tag": "b",
+                "text": "Base",
+                "is_correct": false
+            },
+            {
+                "option_id": "38312",
+                "tag": "c",
+                "text": "Collector",
+                "is_correct": true
+            },
+            {
+                "option_id": "68040",
+                "tag": "d",
+                "text": "Source",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "67307": {
+        "order_id": 39,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Op-Amp Basics",
+        "question_type": "Objective",
+        "exam_year": "2002",
+        "question_text": "<p>An operational amplifier (Op-Amp) has a very high:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>An operational amplifier is designed to have a very high <b>input impedance</b> and a very low output impedance. This ensures that it draws minimal current from the input source and can drive loads effectively.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "52527",
+                "tag": "a",
+                "text": "Output impedance",
+                "is_correct": false
+            },
+            {
+                "option_id": "79797",
+                "tag": "b",
+                "text": "Input impedance",
+                "is_correct": true
+            },
+            {
+                "option_id": "38313",
+                "tag": "c",
+                "text": "Bandwidth",
+                "is_correct": false
+            },
+            {
+                "option_id": "68041",
+                "tag": "d",
+                "text": "Noise figure",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "67308": {
+        "order_id": 40,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Number Systems and Conversions",
+        "question_type": "Objective",
+        "exam_year": "2002",
+        "question_text": "<p>Convert the binary number $1011_2$ to its decimal equivalent.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>To convert the binary number $1011_2$ to decimal:<br>$1 \\times 2^3 + 0 \\times 2^2 + 1 \\times 2^1 + 1 \\times 2^0 = 8 + 0 + 2 + 1 = 11_{10}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "52528",
+                "tag": "a",
+                "text": "9",
+                "is_correct": false
+            },
+            {
+                "option_id": "79798",
+                "tag": "b",
+                "text": "10",
+                "is_correct": false
+            },
+            {
+                "option_id": "38314",
+                "tag": "c",
+                "text": "11",
+                "is_correct": true
+            },
+            {
+                "option_id": "68042",
+                "tag": "d",
+                "text": "12",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

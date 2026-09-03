@@ -1,0 +1,307 @@
+{
+    "54159": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Set Operations",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>If $A = \\{1, 2, 3, 4\\}$ and $B = \\{3, 4, 5, 6\\}$, find $A \\cap B$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The intersection of sets $A$ and $B$, denoted $A \\cap B$, consists of elements common to both sets. Here, the common elements are $3$ and $4$. Thus, $A \\cap B = \\{3, 4\\}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "64203",
+                "tag": "a",
+                "text": "$\\{1, 2, 3, 4, 5, 6\\}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "96913",
+                "tag": "b",
+                "text": "$\\{3, 4\\}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "24487",
+                "tag": "c",
+                "text": "$\\{1, 2, 5, 6\\}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "36086",
+                "tag": "d",
+                "text": "$\\{1, 2, 3, 4, 5, 6\\}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "54160": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Indices and Logarithms",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>Simplify $2^{3} \\times 2^{4} \\div 2^{2}$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Using the laws of indices: $2^{3} \\times 2^{4} = 2^{3+4} = 2^{7}$. Then, $2^{7} \\div 2^{2} = 2^{7-2} = 2^{5} = 32$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "64204",
+                "tag": "a",
+                "text": "$2^{5}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "96914",
+                "tag": "b",
+                "text": "$32$",
+                "is_correct": true
+            },
+            {
+                "option_id": "24488",
+                "tag": "c",
+                "text": "$16$",
+                "is_correct": false
+            },
+            {
+                "option_id": "36087",
+                "tag": "d",
+                "text": "$64$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "54161": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Surds Basics",
+        "question_type": "Practical",
+        "exam_year": "2023",
+        "question_text": "<p>Rationalize the denominator of $\\frac{5}{\\sqrt{3} + 2}$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Multiply the numerator and denominator by the conjugate of the denominator, $\\sqrt{3} - 2$:<br>$\\frac{5}{\\sqrt{3} + 2} \\times \\frac{\\sqrt{3} - 2}{\\sqrt{3} - 2} = \\frac{5(\\sqrt{3} - 2)}{(\\sqrt{3})^2 - (2)^2} = \\frac{5(\\sqrt{3} - 2)}{3 - 4} = -5(\\sqrt{3} - 2) = 10 - 5\\sqrt{3}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "54162": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Modular Arithmetic",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>Find the remainder when $17^{2}$ is divided by $5$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>First, compute $17^{2} = 289$. Then, divide $289$ by $5$: $289 \\div 5 = 57$ with a remainder of $4$. Thus, the remainder is $4$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "64205",
+                "tag": "a",
+                "text": "$1$",
+                "is_correct": false
+            },
+            {
+                "option_id": "96915",
+                "tag": "b",
+                "text": "$2$",
+                "is_correct": false
+            },
+            {
+                "option_id": "24489",
+                "tag": "c",
+                "text": "$3$",
+                "is_correct": false
+            },
+            {
+                "option_id": "36088",
+                "tag": "d",
+                "text": "$4$",
+                "is_correct": true
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "54163": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Quadratic Equations",
+        "question_type": "Practical",
+        "exam_year": "2023",
+        "question_text": "<p>Solve the quadratic equation $x^{2} - 5x + 6 = 0$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Factorize the quadratic equation: $(x - 2)(x - 3) = 0$. Thus, the solutions are $x = 2$ or $x = 3$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "54164": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Variation Types",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>If $y$ varies inversely as $x$ and $y = 4$ when $x = 3$, find $y$ when $x = 6$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Since $y$ varies inversely as $x$, $y = \\frac{k}{x}$. Given $y = 4$ when $x = 3$, $k = 4 \\times 3 = 12$. Thus, when $x = 6$, $y = \\frac{12}{6} = 2$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "64206",
+                "tag": "a",
+                "text": "$1$",
+                "is_correct": false
+            },
+            {
+                "option_id": "96916",
+                "tag": "b",
+                "text": "$2$",
+                "is_correct": true
+            },
+            {
+                "option_id": "24490",
+                "tag": "c",
+                "text": "$3$",
+                "is_correct": false
+            },
+            {
+                "option_id": "36089",
+                "tag": "d",
+                "text": "$4$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "54165": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Matrix Operations",
+        "question_type": "Practical",
+        "exam_year": "2023",
+        "question_text": "<p>If $A = \\begin{pmatrix} 1 & 2 \\\\ 3 & 4 \\end{pmatrix}$ and $B = \\begin{pmatrix} 5 & 6 \\\\ 7 & 8 \\end{pmatrix}$, find $A + B$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Add the corresponding elements of matrices $A$ and $B$: $A + B = \\begin{pmatrix} 1+5 & 2+6 \\\\ 3+7 & 4+8 \\end{pmatrix} = \\begin{pmatrix} 6 & 8 \\\\ 10 & 12 \\end{pmatrix}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "54166": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Coordinate Geometry",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>Find the distance between the points $(1, 2)$ and $(4, 6)$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Use the distance formula: $d = \\sqrt{(4-1)^2 + (6-2)^2} = \\sqrt{3^2 + 4^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "64207",
+                "tag": "a",
+                "text": "$3$",
+                "is_correct": false
+            },
+            {
+                "option_id": "96917",
+                "tag": "b",
+                "text": "$4$",
+                "is_correct": false
+            },
+            {
+                "option_id": "24491",
+                "tag": "c",
+                "text": "$5$",
+                "is_correct": true
+            },
+            {
+                "option_id": "36090",
+                "tag": "d",
+                "text": "$6$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "54167": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Trigonometry Rules",
+        "question_type": "Practical",
+        "exam_year": "2023",
+        "question_text": "<p>Prove that $\\sin^{2}\\theta + \\cos^{2}\\theta = 1$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Consider a right-angled triangle with hypotenuse $1$. By definition, $\\sin\\theta = \\frac{\\text{opposite}}{1}$ and $\\cos\\theta = \\frac{\\text{adjacent}}{1}$. Using the Pythagorean theorem: $(\\text{opposite})^2 + (\\text{adjacent})^2 = 1^2$. Thus, $\\sin^{2}\\theta + \\cos^{2}\\theta = 1$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "54168": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Differentiation",
+        "question_type": "Practical",
+        "exam_year": "2023",
+        "question_text": "<p>Differentiate $f(x) = 3x^{3} + 2x^{2} - 5x + 7$ with respect to $x$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Apply the power rule: $f'(x) = 9x^{2} + 4x - 5$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

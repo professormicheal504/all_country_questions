@@ -1,0 +1,257 @@
+{
+    "26290": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Electronics Basics",
+        "question_type": "Theory",
+        "exam_year": "2010",
+        "question_text": "<p>Explain the term <b>electronics</b> and describe the role of electrons in the flow of electric current in a conductor.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Electronics</b> is the branch of physics and technology concerned with the design of circuits using active and passive components to control the flow of electrons for processing information or converting energy.<br><br>The flow of electric current in a conductor is due to the movement of <b>free electrons</b>. In metals, the outermost electrons (valence electrons) are loosely bound and can move freely when an electric field is applied. This movement of electrons constitutes an electric current, measured in amperes ($A$).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "26291": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Atomic Structure and Energy Bands",
+        "question_type": "Theory",
+        "exam_year": "2010",
+        "question_text": "<p>Describe the <b>energy band theory</b> in solids and explain how it distinguishes between conductors, semiconductors, and insulators.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>energy band theory</b> explains the behavior of electrons in solids by considering the allowed and forbidden energy levels.<br><br>- In <b>conductors</b> (e.g., metals), the valence band and conduction band overlap, allowing electrons to move freely.<br>- In <b>semiconductors</b> (e.g., silicon, germanium), there is a small energy gap ($E_g$) between the valence and conduction bands. At room temperature, some electrons gain enough energy to jump to the conduction band.<br>- In <b>insulators</b>, the energy gap is large, preventing electrons from moving to the conduction band, thus no current flows.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "26292": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Semiconductor Types and Doping",
+        "question_type": "Objective",
+        "exam_year": "2010",
+        "question_text": "<p>Which of the following elements is used as a <b>donor impurity</b> in the doping of silicon to produce an <i>n-type</i> semiconductor?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>donor impurity</b> is an element with five valence electrons (e.g., phosphorus, arsenic, antimony). When added to silicon, it donates extra electrons, creating an <i>n-type</i> semiconductor. Phosphorus ($P$) is the most commonly used donor impurity.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "43153",
+                "tag": "a",
+                "text": "Aluminum ($Al$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "91596",
+                "tag": "b",
+                "text": "Phosphorus ($P$)",
+                "is_correct": true
+            },
+            {
+                "option_id": "18386",
+                "tag": "c",
+                "text": "Boron ($B$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "74804",
+                "tag": "d",
+                "text": "Gallium ($Ga$)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "26293": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "PN Junction Diode",
+        "question_type": "Theory",
+        "exam_year": "2010",
+        "question_text": "<p>Explain the formation of the <b>depletion region</b> in a <i>PN junction diode</i> and describe its behavior under <b>forward bias</b> and <b>reverse bias</b> conditions.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>depletion region</b> forms at the junction of a <i>PN diode</i> due to the diffusion of electrons from the <i>n-side</i> to the <i>p-side</i> and holes from the <i>p-side</i> to the <i>n-side</i>. This creates an area devoid of free charge carriers, leaving behind fixed ions.<br><br>- Under <b>forward bias</b>, the depletion region narrows as the applied voltage reduces the barrier potential, allowing current to flow.<br>- Under <b>reverse bias</b>, the depletion region widens, increasing the barrier potential and preventing current flow (except for a small reverse saturation current).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "26294": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Diode Rectification",
+        "question_type": "Theory",
+        "exam_year": "2010",
+        "question_text": "<p>Draw the circuit diagram of a <b>full-wave bridge rectifier</b> and explain its operation. Calculate the <b>peak inverse voltage (PIV)</b> across each diode in the circuit.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>full-wave bridge rectifier</b> uses four diodes arranged in a bridge configuration to convert AC to DC. During the positive half-cycle, diodes $D_1$ and $D_2$ conduct, while $D_3$ and $D_4$ conduct during the negative half-cycle.<br><br>The <b>peak inverse voltage (PIV)</b> across each diode is equal to the peak secondary voltage ($V_m$) of the transformer, given by:<br>$PIV = V_m = V_{rms} \\times \\sqrt{2}$<br>where $V_{rms}$ is the RMS value of the secondary voltage.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "26295": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Zener Diodes and Regulation",
+        "question_type": "Objective",
+        "exam_year": "2010",
+        "question_text": "<p>A <b>Zener diode</b> is primarily used for:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>Zener diode</b> operates in the reverse breakdown region and is used for <b>voltage regulation</b>. It maintains a constant output voltage despite variations in input voltage or load current.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "43153",
+                "tag": "a",
+                "text": "Amplification",
+                "is_correct": false
+            },
+            {
+                "option_id": "91596",
+                "tag": "b",
+                "text": "Voltage regulation",
+                "is_correct": true
+            },
+            {
+                "option_id": "18386",
+                "tag": "c",
+                "text": "Rectification",
+                "is_correct": false
+            },
+            {
+                "option_id": "74804",
+                "tag": "d",
+                "text": "Oscillation",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "26296": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "BJT Structure and Operation",
+        "question_type": "Theory",
+        "exam_year": "2010",
+        "question_text": "<p>Describe the structure of a <b>Bipolar Junction Transistor (BJT)</b> and explain its operation in the <b>active region</b>. Include the roles of the emitter, base, and collector.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>BJT</b> consists of three doped semiconductor regions: <b>emitter</b>, <b>base</b>, and <b>collector</b>.<br><br>- The <b>emitter</b> is heavily doped and injects charge carriers (electrons or holes) into the base.<br>- The <b>base</b> is thin and lightly doped; most carriers diffuse through it to the collector.<br>- The <b>collector</b> is moderately doped and collects the carriers.<br><br>In the <b>active region</b>, the base-emitter junction is forward-biased, and the base-collector junction is reverse-biased. The small base current controls a larger collector current, providing amplification.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "26297": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Common-Emitter Amplifier",
+        "question_type": "Theory",
+        "exam_year": "2010",
+        "question_text": "<p>For a <b>common-emitter amplifier</b>, derive the expression for its <b>voltage gain</b> ($A_v$) in terms of the transistor parameters and load resistance. State the assumptions made.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>voltage gain</b> ($A_v$) of a common-emitter amplifier is given by:<br>$A_v = \\frac{V_{out}}{V_{in}} = -g_m R_C$<br>where:<br>- $g_m$ is the transconductance ($g_m = \\frac{I_C}{V_T}$),<br>- $R_C$ is the collector resistance,<br>- $V_T$ is the thermal voltage (~$26 \\, mV$ at room temperature).<br><br><b>Assumptions:</b><br>- The transistor is in the active region.<br>- The base-emitter voltage ($V_{BE}$) is constant (~$0.7 \\, V$ for silicon).<br>- The load resistance ($R_L$) is much larger than $R_C$.<br>- The coupling capacitors are short-circuited at signal frequencies.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "26298": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Operational Amplifiers (Op-Amp)",
+        "question_type": "Objective",
+        "exam_year": "2010",
+        "question_text": "<p>In an <b>inverting Op-Amp amplifier</b>, the voltage gain is given by:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The voltage gain of an <b>inverting Op-Amp amplifier</b> is:<br>$A_v = -\\frac{R_f}{R_{in}}$<br>where $R_f$ is the feedback resistor and $R_{in}$ is the input resistor. The negative sign indicates a phase inversion.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "43153",
+                "tag": "a",
+                "text": "$A_v = \\frac{R_f}{R_{in}}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "91596",
+                "tag": "b",
+                "text": "$A_v = -\\frac{R_f}{R_{in}}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "18386",
+                "tag": "c",
+                "text": "$A_v = 1 + \\frac{R_f}{R_{in}}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "74804",
+                "tag": "d",
+                "text": "$A_v = \\frac{R_{in}}{R_f}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "26299": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Number Systems and Logic Gates",
+        "question_type": "Theory",
+        "exam_year": "2010",
+        "question_text": "<p>Convert the binary number <b>$110101_2$</b> to its decimal equivalent and design a logic circuit using <b>NAND gates</b> to implement the Boolean function $F = A \\cdot \\overline{B} + \\overline{A} \\cdot B$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Binary to Decimal Conversion:</b><br>$110101_2 = 1 \\times 2^5 + 1 \\times 2^4 + 0 \\times 2^3 + 1 \\times 2^2 + 0 \\times 2^1 + 1 \\times 2^0 = 32 + 16 + 0 + 4 + 0 + 1 = 53_{10}$<br><br><b>Logic Circuit Design:</b><br>The function $F = A \\cdot \\overline{B} + \\overline{A} \\cdot B$ is the <b>XOR</b> function. To implement it using <b>NAND gates</b>:<br>1. Use NAND gates to create NOT gates (e.g., $NAND(A, A) = \\overline{A}$).<br>2. Use NAND gates to create AND gates (e.g., $NAND(\\overline{A \\cdot B}, \\overline{A \\cdot B}) = A \\cdot B$).<br>3. Combine the outputs using a NAND gate to form the XOR function.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

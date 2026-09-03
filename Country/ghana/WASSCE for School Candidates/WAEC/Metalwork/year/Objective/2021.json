@@ -428,5 +428,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "94416": {
+        "order_id": 11,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Metal types and properties",
+        "question_type": "Objective",
+        "exam_year": "2021",
+        "question_text": "<p>Which of the following metals is classified as a <b>ferrous</b> metal?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Ferrous metals are those that contain iron as their primary constituent. <b>Cast iron</b> is an alloy of iron and carbon, making it a ferrous metal. Non-ferrous metals, such as aluminum, copper, and brass, do not contain iron.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "52324",
+                "tag": "a",
+                "text": "Aluminum",
+                "is_correct": false
+            },
+            {
+                "option_id": "61627",
+                "tag": "b",
+                "text": "Cast iron",
+                "is_correct": true
+            },
+            {
+                "option_id": "62649",
+                "tag": "c",
+                "text": "Copper",
+                "is_correct": false
+            },
+            {
+                "option_id": "93833",
+                "tag": "d",
+                "text": "Brass",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "94417": {
+        "order_id": 12,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Metal extraction methods",
+        "question_type": "Objective",
+        "exam_year": "2021",
+        "question_text": "<p>The process of extracting iron from its ore using a blast furnace involves the reduction of <b>iron oxide</b> by which of the following gases?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In a blast furnace, iron oxide ($Fe_2O_3$) is reduced to iron by carbon monoxide ($CO$). The chemical reaction is:<br>$Fe_2O_3 + 3CO \rightarrow 2Fe + 3CO_2$. Carbon monoxide acts as the reducing agent.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "52325",
+                "tag": "a",
+                "text": "Oxygen ($O_2$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "61628",
+                "tag": "b",
+                "text": "Carbon monoxide ($CO$)",
+                "is_correct": true
+            },
+            {
+                "option_id": "62650",
+                "tag": "c",
+                "text": "Nitrogen ($N_2$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "93834",
+                "tag": "d",
+                "text": "Hydrogen ($H_2$)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "94418": {
+        "order_id": 13,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Heat treatment processes",
+        "question_type": "Objective",
+        "exam_year": "2021",
+        "question_text": "<p>Which heat treatment process involves heating steel to a temperature above its critical range and then cooling it rapidly in water or oil?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Quenching</b> is the process of heating steel to a temperature above its critical range (austenitizing) and then rapidly cooling it in a quenching medium such as water, oil, or brine. This increases the hardness and strength of the steel.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "52326",
+                "tag": "a",
+                "text": "Annealing",
+                "is_correct": false
+            },
+            {
+                "option_id": "61629",
+                "tag": "b",
+                "text": "Normalizing",
+                "is_correct": false
+            },
+            {
+                "option_id": "62651",
+                "tag": "c",
+                "text": "Quenching",
+                "is_correct": true
+            },
+            {
+                "option_id": "93835",
+                "tag": "d",
+                "text": "Tempering",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "94419": {
+        "order_id": 14,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Metal forming techniques",
+        "question_type": "Objective",
+        "exam_year": "2021",
+        "question_text": "<p>Which of the following metal forming techniques is used to produce seamless tubes?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Extrusion</b> is a metal forming process used to produce seamless tubes by forcing a heated billet through a die. This process allows for the creation of complex cross-sectional shapes with a smooth surface finish.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "52327",
+                "tag": "a",
+                "text": "Forging",
+                "is_correct": false
+            },
+            {
+                "option_id": "61630",
+                "tag": "b",
+                "text": "Extrusion",
+                "is_correct": true
+            },
+            {
+                "option_id": "62652",
+                "tag": "c",
+                "text": "Rolling",
+                "is_correct": false
+            },
+            {
+                "option_id": "93836",
+                "tag": "d",
+                "text": "Drawing",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "94420": {
+        "order_id": 15,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Welding processes",
+        "question_type": "Objective",
+        "exam_year": "2021",
+        "question_text": "<p>In <b>arc welding</b>, the electrode is coated with a flux to:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The flux coating on the electrode in arc welding serves multiple purposes, including:<br>- Protecting the weld pool from atmospheric contamination (oxygen and nitrogen).<br>- Stabilizing the arc.<br>- Forming a slag that covers the weld bead, protecting it as it cools.<br>The primary purpose is to <b>prevent oxidation</b> of the weld metal.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "52328",
+                "tag": "a",
+                "text": "Increase the welding speed",
+                "is_correct": false
+            },
+            {
+                "option_id": "61631",
+                "tag": "b",
+                "text": "Prevent oxidation of the weld metal",
+                "is_correct": true
+            },
+            {
+                "option_id": "62653",
+                "tag": "c",
+                "text": "Reduce the melting point of the electrode",
+                "is_correct": false
+            },
+            {
+                "option_id": "93837",
+                "tag": "d",
+                "text": "Improve the electrical conductivity of the electrode",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "94421": {
+        "order_id": 16,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Metal cutting tools",
+        "question_type": "Objective",
+        "exam_year": "2021",
+        "question_text": "<p>Which of the following tools is used for cutting internal threads in a drilled hole?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>tap</b> is a cutting tool used to create internal threads in a drilled hole. It is designed to cut threads into the sides of the hole, allowing a bolt or screw to be fastened into it.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "52329",
+                "tag": "a",
+                "text": "Die",
+                "is_correct": false
+            },
+            {
+                "option_id": "61632",
+                "tag": "b",
+                "text": "Tap",
+                "is_correct": true
+            },
+            {
+                "option_id": "62654",
+                "tag": "c",
+                "text": "Reamer",
+                "is_correct": false
+            },
+            {
+                "option_id": "93838",
+                "tag": "d",
+                "text": "Counterbore",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "94422": {
+        "order_id": 17,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Lathe operations",
+        "question_type": "Objective",
+        "exam_year": "2021",
+        "question_text": "<p>In lathe operations, the process of reducing the diameter of a workpiece to a specific size is called:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Turning</b> is the lathe operation used to reduce the diameter of a workpiece to a specific size. It involves rotating the workpiece against a single-point cutting tool to remove material and achieve the desired dimensions.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "52330",
+                "tag": "a",
+                "text": "Facing",
+                "is_correct": false
+            },
+            {
+                "option_id": "61633",
+                "tag": "b",
+                "text": "Turning",
+                "is_correct": true
+            },
+            {
+                "option_id": "62655",
+                "tag": "c",
+                "text": "Drilling",
+                "is_correct": false
+            },
+            {
+                "option_id": "93839",
+                "tag": "d",
+                "text": "Boring",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "94423": {
+        "order_id": 18,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Measurement tools",
+        "question_type": "Objective",
+        "exam_year": "2021",
+        "question_text": "<p>Which of the following tools is used to measure the <b>internal diameter</b> of a cylindrical workpiece with high precision?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>bore gauge</b> (or internal micrometer) is a precision measuring tool used to measure the internal diameter of cylindrical workpieces. It provides accurate readings for holes and bores.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "52331",
+                "tag": "a",
+                "text": "Vernier caliper",
+                "is_correct": false
+            },
+            {
+                "option_id": "61634",
+                "tag": "b",
+                "text": "Bore gauge",
+                "is_correct": true
+            },
+            {
+                "option_id": "62656",
+                "tag": "c",
+                "text": "Outside micrometer",
+                "is_correct": false
+            },
+            {
+                "option_id": "93840",
+                "tag": "d",
+                "text": "Depth gauge",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "94424": {
+        "order_id": 19,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Corrosion prevention",
+        "question_type": "Objective",
+        "exam_year": "2021",
+        "question_text": "<p>Which of the following methods is used to protect iron from rusting by coating it with a layer of zinc?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Galvanizing</b> is the process of coating iron or steel with a layer of zinc to protect it from rusting. The zinc layer acts as a sacrificial anode, corroding preferentially to the iron, thereby preventing rust formation.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "52332",
+                "tag": "a",
+                "text": "Anodizing",
+                "is_correct": false
+            },
+            {
+                "option_id": "61635",
+                "tag": "b",
+                "text": "Galvanizing",
+                "is_correct": true
+            },
+            {
+                "option_id": "62657",
+                "tag": "c",
+                "text": "Painting",
+                "is_correct": false
+            },
+            {
+                "option_id": "93841",
+                "tag": "d",
+                "text": "Electroplating with chromium",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "94425": {
+        "order_id": 20,
+        "exam_type": "WAEC",
+        "subject": "Metalwork",
+        "topic": "Metalwork safety",
+        "question_type": "Objective",
+        "exam_year": "2021",
+        "question_text": "<p>Which of the following personal protective equipment (PPE) is <b>most essential</b> when operating a grinding machine?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>When operating a grinding machine, <b>safety goggles</b> are the most essential PPE to protect the eyes from flying sparks, metal particles, and debris. Other PPE like gloves, aprons, and ear protection are also important but secondary to eye protection.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "52333",
+                "tag": "a",
+                "text": "Leather gloves",
+                "is_correct": false
+            },
+            {
+                "option_id": "61636",
+                "tag": "b",
+                "text": "Safety goggles",
+                "is_correct": true
+            },
+            {
+                "option_id": "62658",
+                "tag": "c",
+                "text": "Steel-toe boots",
+                "is_correct": false
+            },
+            {
+                "option_id": "93842",
+                "tag": "d",
+                "text": "Earplugs",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

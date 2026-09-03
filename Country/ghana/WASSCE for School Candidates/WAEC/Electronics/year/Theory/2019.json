@@ -1,0 +1,257 @@
+{
+    "43160": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Electronics Basics",
+        "question_type": "Theory",
+        "exam_year": "2019",
+        "question_text": "<p>Explain the concept of <b>electron flow</b> in a conductor and how it differs from <b>conventional current</b>. Include a diagram to illustrate your answer.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Electron flow</b> refers to the movement of negatively charged electrons from the negative terminal to the positive terminal of a voltage source in a conductor. This is the actual direction of charge movement in most circuits.<br><br><b>Conventional current</b>, on the other hand, assumes that current flows from the positive terminal to the negative terminal. This convention was established before the discovery of the electron and is still widely used in circuit analysis.<br><br>A diagram should show:<br><ol><li>Electron flow: Arrows pointing from negative to positive.</li><li>Conventional current: Arrows pointing from positive to negative.</li></ol></p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "43161": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Atomic Structure and Energy Bands",
+        "question_type": "Theory",
+        "exam_year": "2019",
+        "question_text": "<p>Describe the <b>energy band structure</b> of a semiconductor. How do the <b>valence band</b>, <b>conduction band</b>, and <b>forbidden gap</b> determine its electrical properties?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In a semiconductor:<br><ol><li>The <b>valence band</b> is the energy band where electrons are normally present at absolute zero temperature. These electrons are bound to their atoms.</li><li>The <b>conduction band</b> is the higher energy band where electrons can move freely and conduct electricity.</li><li>The <b>forbidden gap</b> (or bandgap) is the energy difference between the valence and conduction bands. For semiconductors, this gap is small (e.g., $1.1 \\text{ eV}$ for silicon), allowing electrons to be excited into the conduction band with thermal or optical energy.</li></ol><br>The small forbidden gap enables semiconductors to conduct electricity under certain conditions, unlike insulators (large gap) or conductors (no gap).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "43162": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Semiconductor Doping",
+        "question_type": "Objective",
+        "exam_year": "2019",
+        "question_text": "<p>What type of semiconductor is formed when a pentavalent impurity (e.g., phosphorus) is added to silicon?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Adding a pentavalent impurity (e.g., phosphorus) to silicon introduces extra electrons, creating an <b>n-type semiconductor</b>. These impurities are called <i>donors</i> because they donate free electrons to the conduction band.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "34544",
+                "tag": "a",
+                "text": "<p>Intrinsic semiconductor</p>",
+                "is_correct": false
+            },
+            {
+                "option_id": "68882",
+                "tag": "b",
+                "text": "<p>p-type semiconductor</p>",
+                "is_correct": false
+            },
+            {
+                "option_id": "79361",
+                "tag": "c",
+                "text": "<p><b>n-type semiconductor</b></p>",
+                "is_correct": true
+            },
+            {
+                "option_id": "54760",
+                "tag": "d",
+                "text": "<p>Extrinsic insulator</p>",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "43163": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "PN Junction Diode",
+        "question_type": "Theory",
+        "exam_year": "2019",
+        "question_text": "<p>Draw the <b>V-I characteristic curve</b> of a PN junction diode and explain the behavior of the diode in:<br>(i) Forward bias<br>(ii) Reverse bias<br>(iii) Breakdown region</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>V-I characteristic curve</b> of a PN junction diode shows:<br><ol><li><b>Forward bias</b>: The diode conducts current when the anode is positive relative to the cathode. The current increases exponentially with voltage after the knee voltage (e.g., $0.7 \\text{ V}$ for silicon).</li><li><b>Reverse bias</b>: The diode allows only a tiny reverse saturation current ($I_S$) to flow due to minority carriers. This current is nearly constant until breakdown.</li><li><b>Breakdown region</b>: At a high reverse voltage, the diode undergoes <i>avalanche breakdown</i> or <i>Zener breakdown</i>, causing a large reverse current. This region is used in Zener diodes for voltage regulation.</li></ol><br>A diagram should show:<br><ul><li>Forward bias: Exponential rise in current.</li><li>Reverse bias: Near-zero current.</li><li>Breakdown: Sharp increase in reverse current.</li></ul></p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "43164": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Diode Rectification",
+        "question_type": "Theory",
+        "exam_year": "2019",
+        "question_text": "<p>Explain the operation of a <b>full-wave bridge rectifier</b>. Include a circuit diagram and derive the expression for the <b>average output voltage</b> ($V_{dc}$) if the input AC voltage is $V_{in} = V_m \\sin(\\omega t)$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>full-wave bridge rectifier</b> uses four diodes arranged in a bridge configuration to convert AC to DC. During each half-cycle of the input AC, two diodes conduct, allowing current to flow through the load in the same direction.<br><br><b>Circuit operation:</b><br><ol><li>Positive half-cycle: Diodes D1 and D2 conduct; current flows through the load from top to bottom.</li><li>Negative half-cycle: Diodes D3 and D4 conduct; current still flows through the load from top to bottom.</li></ol><br><b>Average output voltage ($V_{dc}$):</b><br>The output voltage waveform is a full-wave rectified sine wave. The average value is given by:<br>$V_{dc} = \\frac{2V_m}{\\pi} \\approx 0.637 V_m$,<br>where $V_m$ is the peak input voltage.<br><br>A diagram should show:<br><ul><li>Four diodes in a bridge configuration.</li><li>Input AC source.</li><li>Load resistor.</li><li>Output waveform (full-wave rectified).</li></ul></p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "43165": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Zener Diodes and Regulation",
+        "question_type": "Objective",
+        "exam_year": "2019",
+        "question_text": "<p>What is the primary function of a <b>Zener diode</b> in a voltage regulator circuit?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>Zener diode</b> is used in voltage regulator circuits to maintain a constant output voltage by operating in the <i>reverse breakdown region</i>. It clamps the voltage to its Zener voltage ($V_Z$), ensuring the load receives a stable voltage despite variations in input voltage or load current.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "34545",
+                "tag": "a",
+                "text": "<p>To amplify the input voltage</p>",
+                "is_correct": false
+            },
+            {
+                "option_id": "68883",
+                "tag": "b",
+                "text": "<p><b>To maintain a constant output voltage</b></p>",
+                "is_correct": true
+            },
+            {
+                "option_id": "79362",
+                "tag": "c",
+                "text": "<p>To convert AC to DC</p>",
+                "is_correct": false
+            },
+            {
+                "option_id": "54761",
+                "tag": "d",
+                "text": "<p>To increase the current flow</p>",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "43166": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "BJT Structure and Operation",
+        "question_type": "Theory",
+        "exam_year": "2019",
+        "question_text": "<p>Describe the <b>structure</b> and <b>operation</b> of an <i>npn</i> Bipolar Junction Transistor (BJT). Include a diagram showing the current components ($I_B$, $I_C$, $I_E$) and explain how the transistor achieves <b>current amplification</b>.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Structure of an npn BJT:</b><br>An npn BJT consists of three semiconductor regions:<br><ol><li><b>Emitter (n-type)</b>: Heavily doped; injects electrons into the base.</li><li><b>Base (p-type)</b>: Thin and lightly doped; allows most electrons to diffuse into the collector.</li><li><b>Collector (n-type)</b>: Moderately doped; collects electrons from the base.</li></ol><br><b>Operation:</b><br>The BJT operates in the <i>active region</i> when the base-emitter junction is forward-biased and the base-collector junction is reverse-biased. Electrons from the emitter diffuse into the base, where a small fraction recombine (forming $I_B$), while the majority are swept into the collector (forming $I_C$).<br><br><b>Current amplification:</b><br>The relationship between the currents is given by:<br>$I_E = I_B + I_C$<br>The current gain ($\\beta$) is defined as:<br>$\\beta = \\frac{I_C}{I_B}$<br>A small change in $I_B$ results in a large change in $I_C$, achieving current amplification.<br><br>A diagram should show:<br><ul><li>npn structure with emitter, base, and collector.</li><li>Current directions: $I_B$ (into base), $I_C$ (into collector), $I_E$ (out of emitter).</li></ul></p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "43167": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Common-Emitter Amplifier",
+        "question_type": "Theory",
+        "exam_year": "2019",
+        "question_text": "<p>For a <b>common-emitter amplifier</b> circuit:<br>(i) Draw the circuit diagram.<br>(ii) Explain the role of the <b>coupling capacitor</b> and <b>bypass capacitor</b>.<br>(iii) Derive the expression for the <b>voltage gain</b> ($A_v$) in terms of the transistor parameters and circuit components.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>(i) Circuit diagram:</b><br>A common-emitter amplifier includes:<br><ul><li>An npn BJT.</li><li>Collector resistor ($R_C$).</li><li>Base resistor ($R_B$).</li><li>Emitter resistor ($R_E$), often bypassed by a capacitor ($C_E$).</li><li>Coupling capacitors ($C_1$ and $C_2$) at input and output.</li><li>DC supply ($V_{CC}$).</li></ul><br><b>(ii) Role of capacitors:</b><br><ul><li><b>Coupling capacitors ($C_1$, $C_2$)</b>: Block DC components while allowing AC signals to pass, ensuring the amplifier operates on the AC signal only.</li><li><b>Bypass capacitor ($C_E$)</b>: Provides a low-impedance path for AC signals around $R_E$, increasing the AC gain without affecting the DC biasing.</li></ul><br><b>(iii) Voltage gain ($A_v$):</b><br>The voltage gain of a common-emitter amplifier is given by:<br>$A_v = -g_m R_C$,<br>where $g_m$ is the transconductance of the transistor ($g_m = \\frac{I_C}{V_T}$) and $V_T$ is the thermal voltage ($\\approx 26 \\text{ mV}$ at room temperature).<br>If $R_E$ is not bypassed, the gain becomes:<br>$A_v = -\\frac{g_m R_C}{1 + g_m R_E}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "43168": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Operational Amplifiers (Op-Amp)",
+        "question_type": "Objective",
+        "exam_year": "2019",
+        "question_text": "<p>Which of the following is <b>NOT</b> a characteristic of an ideal operational amplifier (Op-Amp)?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>An ideal Op-Amp has the following characteristics:<br><ul><li>Infinite input impedance.</li><li>Zero output impedance.</li><li>Infinite open-loop gain.</li><li>Infinite bandwidth.</li><li>Zero input offset voltage.</li></ul><br><b>Infinite output current</b> is not a characteristic of an ideal Op-Amp, as the output current is limited by the power supply and load.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "34546",
+                "tag": "a",
+                "text": "<p>Infinite input impedance</p>",
+                "is_correct": false
+            },
+            {
+                "option_id": "68884",
+                "tag": "b",
+                "text": "<p>Zero output impedance</p>",
+                "is_correct": false
+            },
+            {
+                "option_id": "79363",
+                "tag": "c",
+                "text": "<p><b>Infinite output current</b></p>",
+                "is_correct": true
+            },
+            {
+                "option_id": "54762",
+                "tag": "d",
+                "text": "<p>Infinite open-loop gain</p>",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "43169": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Number Systems and Logic Gates",
+        "question_type": "Theory",
+        "exam_year": "2019",
+        "question_text": "<p>(i) Convert the decimal number <b>45</b> to binary and hexadecimal.<br>(ii) Construct the <b>truth table</b> for a 3-input <b>NAND gate</b>.<br>(iii) Simplify the Boolean expression $Y = \\overline{A \\cdot B \\cdot C} + A \\cdot \\overline{B}$ using Boolean algebra laws.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>(i) Conversion:</b><br><ul><li><b>Decimal to Binary:</b> 45 in binary is $101101_2$.<br>Steps: Divide by 2 and record remainders (45 \u2192 22 R1 \u2192 11 R0 \u2192 5 R1 \u2192 2 R1 \u2192 1 R0 \u2192 0 R1).</li><li><b>Decimal to Hexadecimal:</b> 45 in hexadecimal is $2D_{16}$.<br>Steps: Divide by 16 (45 \u00f7 16 = 2 R13 \u2192 13 = D).</li></ul><br><b>(ii) Truth table for 3-input NAND gate:</b><br><table border=\"1\"><tr><th>A</th><th>B</th><th>C</th><th>Y = $\\overline{A \\cdot B \\cdot C}$</th></tr><tr><td>0</td><td>0</td><td>0</td><td>1</td></tr><tr><td>0</td><td>0</td><td>1</td><td>1</td></tr><tr><td>0</td><td>1</td><td>0</td><td>1</td></tr><tr><td>0</td><td>1</td><td>1</td><td>1</td></tr><tr><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>1</td><td>0</td><td>1</td><td>1</td></tr><tr><td>1</td><td>1</td><td>0</td><td>1</td></tr><tr><td>1</td><td>1</td><td>1</td><td>0</td></tr></table><br><b>(iii) Boolean simplification:</b><br>$Y = \\overline{A \\cdot B \\cdot C} + A \\cdot \\overline{B}$<br>Using De Morgan's law:<br>$Y = (\\overline{A} + \\overline{B} + \\overline{C}) + A \\cdot \\overline{B}$<br>Distribute $A \\cdot \\overline{B}$:<br>$Y = \\overline{A} + \\overline{B} + \\overline{C} + A \\cdot \\overline{B}$<br>Since $\\overline{B} + A \\cdot \\overline{B} = \\overline{B}$:<br>$Y = \\overline{A} + \\overline{B} + \\overline{C}$<br>Or, using De Morgan's law again:<br>$Y = \\overline{A \\cdot B \\cdot C}$ (which is redundant, so the simplest form is $Y = \\overline{A} + \\overline{B} + \\overline{C}$).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

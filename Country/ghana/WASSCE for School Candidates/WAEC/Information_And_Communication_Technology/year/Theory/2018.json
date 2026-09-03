@@ -1,0 +1,257 @@
+{
+    "52128": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "ICT Basics",
+        "question_type": "Theory",
+        "exam_year": "2018",
+        "question_text": "<p>Explain the term <b>Information and Communication Technology (ICT)</b> and list <u>four</u> key areas where ICT is applied in modern society.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Information and Communication Technology (ICT)</b> refers to the use of digital technology to handle information and facilitate communication. It encompasses hardware, software, networks, and services that enable the processing, storage, transmission, and retrieval of data.<br><br>Key areas where ICT is applied include:<br><b>1.</b> <i>Education</i> (e-learning, digital libraries)<br><b>2.</b> <i>Healthcare</i> (telemedicine, electronic health records)<br><b>3.</b> <i>Business</i> (e-commerce, digital marketing)<br><b>4.</b> <i>Governance</i> (e-governance, online public services)<br><b>5.</b> <i>Entertainment</i> (streaming, gaming)<br><b>6.</b> <i>Communication</i> (social media, email).<br><br>Marks should be awarded for clarity, accuracy, and completeness of the explanation and examples.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "52129": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Computer Types",
+        "question_type": "Objective",
+        "exam_year": "2018",
+        "question_text": "<p>Which of the following is an example of a <b>supercomputer</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Supercomputers are high-performance computing machines designed for complex calculations and large-scale data processing. <b>Tianhe-2</b> is a well-known supercomputer developed in China, used for tasks like weather forecasting, nuclear research, and simulations.<br><br>The other options are incorrect because:<br><b>a.</b> <i>IBM PC</i> is a personal computer.<br><b>c.</b> <i>MacBook Pro</i> is a laptop.<br><b>d.</b> <i>Raspberry Pi</i> is a microcomputer.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "86989",
+                "tag": "a",
+                "text": "IBM PC",
+                "is_correct": false
+            },
+            {
+                "option_id": "22095",
+                "tag": "b",
+                "text": "Tianhe-2",
+                "is_correct": true
+            },
+            {
+                "option_id": "52679",
+                "tag": "c",
+                "text": "MacBook Pro",
+                "is_correct": false
+            },
+            {
+                "option_id": "82318",
+                "tag": "d",
+                "text": "Raspberry Pi",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "52130": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Hardware Components",
+        "question_type": "Theory",
+        "exam_year": "2018",
+        "question_text": "<p>Describe the functions of the following hardware components of a computer system:<br><b>(i)</b> <i>Central Processing Unit (CPU)</i><br><b>(ii)</b> <i>Random Access Memory (RAM)</i><br><b>(iii)</b> <i>Hard Disk Drive (HDD)</i></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>(i) Central Processing Unit (CPU):</b> The CPU is the <i>brain</i> of the computer. It performs arithmetic and logical operations, executes instructions from programs, and manages data flow between components.<br><br><b>(ii) Random Access Memory (RAM):</b> RAM is volatile memory that temporarily stores data and instructions currently in use by the CPU. It allows for fast read/write operations, enabling multitasking and quick access to active programs.<br><br><b>(iii) Hard Disk Drive (HDD):</b> The HDD is non-volatile storage that permanently stores the operating system, software, and user data. It uses magnetic storage to retain data even when the computer is powered off.<br><br>Marks should be awarded for accuracy, clarity, and completeness of each description.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "52131": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Number System Conversion",
+        "question_type": "Theory",
+        "exam_year": "2018",
+        "question_text": "<p>Convert the following numbers:<br><b>(i)</b> The decimal number <b>45</b> to binary.<br><b>(ii)</b> The binary number <b>110101</b> to decimal.<br><b>(iii)</b> The hexadecimal number <b>1A3</b> to binary.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>(i) Decimal 45 to Binary:</b><br>Divide 45 by 2 repeatedly and record the remainders:<br>$45 \\div 2 = 22$ (remainder <b>1</b>)<br>$22 \\div 2 = 11$ (remainder <b>0</b>)<br>$11 \\div 2 = 5$ (remainder <b>1</b>)<br>$5 \\div 2 = 2$ (remainder <b>1</b>)<br>$2 \\div 2 = 1$ (remainder <b>0</b>)<br>$1 \\div 2 = 0$ (remainder <b>1</b>)<br>Reading the remainders from bottom to top: <b>101101</b>.<br><br><b>(ii) Binary 110101 to Decimal:</b><br>Multiply each bit by $2^n$ (where <i>n</i> is the bit position, starting from 0):<br>$1 \\times 2^5 + 1 \\times 2^4 + 0 \\times 2^3 + 1 \\times 2^2 + 0 \\times 2^1 + 1 \\times 2^0$<br>$= 32 + 16 + 0 + 4 + 0 + 1 = <b>53</b>$<br><br><b>(iii) Hexadecimal 1A3 to Binary:</b><br>Convert each hex digit to 4-bit binary:<br><b>1</b> = 0001, <b>A</b> = 1010, <b>3</b> = 0011<br>Combined: <b>000110100011</b> (or <b>110100011</b> without leading zeros).<br><br>Marks should be awarded for correct conversion steps and final answers.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "52132": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Cybersecurity Threats",
+        "question_type": "Objective",
+        "exam_year": "2018",
+        "question_text": "<p>Which of the following is <b>NOT</b> a common cybersecurity threat?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Phishing</b>, <b>malware</b>, and <b>ransomware</b> are well-known cybersecurity threats. <b>Firewall</b>, however, is a security tool used to <i>prevent</i> unauthorized access to a network, not a threat.<br><br>The other options are incorrect because:<br><b>a.</b> <i>Phishing</i> involves tricking users into revealing sensitive information.<br><b>b.</b> <i>Malware</i> is malicious software designed to harm or exploit systems.<br><b>c.</b> <i>Ransomware</i> encrypts user data and demands payment for its release.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "86989",
+                "tag": "a",
+                "text": "Phishing",
+                "is_correct": false
+            },
+            {
+                "option_id": "22095",
+                "tag": "b",
+                "text": "Firewall",
+                "is_correct": true
+            },
+            {
+                "option_id": "52679",
+                "tag": "c",
+                "text": "Malware",
+                "is_correct": false
+            },
+            {
+                "option_id": "82318",
+                "tag": "d",
+                "text": "Ransomware",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "52133": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Operating Systems",
+        "question_type": "Theory",
+        "exam_year": "2018",
+        "question_text": "<p>State <u>three</u> functions of an operating system and explain <u>one</u> of them in detail.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Functions of an operating system include:<br><b>1.</b> <i>Process Management</i><br><b>2.</b> <i>Memory Management</i><br><b>3.</b> <i>File System Management</i><br><b>4.</b> <i>Device Management</i><br><b>5.</b> <i>User Interface</i><br><br><b>Detailed Explanation (e.g., Process Management):</b><br>The operating system manages processes by allocating CPU time, scheduling tasks, and ensuring efficient execution. It creates, suspends, resumes, and terminates processes, while also handling inter-process communication and synchronization. For example, when multiple applications run simultaneously, the OS ensures they share CPU resources fairly without conflicts.<br><br>Marks should be awarded for listing functions and providing a clear, accurate explanation of one.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "52134": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Network Devices",
+        "question_type": "Objective",
+        "exam_year": "2018",
+        "question_text": "<p>Which network device is used to connect multiple devices in a <b>Local Area Network (LAN)</b> and forward data based on MAC addresses?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>switch</b> is a network device that connects multiple devices in a LAN and forwards data frames based on MAC addresses. It improves network efficiency by reducing collisions and directing traffic only to the intended recipient.<br><br>The other options are incorrect because:<br><b>a.</b> <i>Router</i> connects different networks and forwards data based on IP addresses.<br><b>c.</b> <i>Hub</i> broadcasts data to all connected devices, creating collisions.<br><b>d.</b> <i>Modem</i> converts digital signals to analog for internet transmission.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "86989",
+                "tag": "a",
+                "text": "Router",
+                "is_correct": false
+            },
+            {
+                "option_id": "22095",
+                "tag": "b",
+                "text": "Switch",
+                "is_correct": true
+            },
+            {
+                "option_id": "52679",
+                "tag": "c",
+                "text": "Hub",
+                "is_correct": false
+            },
+            {
+                "option_id": "82318",
+                "tag": "d",
+                "text": "Modem",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "52135": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Spreadsheet Tools",
+        "question_type": "Practical",
+        "exam_year": "2018",
+        "question_text": "<p>In a spreadsheet application, write the formula to calculate the <b>average</b> of values in cells <b>A1</b> to <b>A10</b>. Also, explain how you would use the <b>IF</b> function to display <i>\"Pass\"</i> if a student's score in cell <b>B1</b> is 50 or above, otherwise display <i>\"Fail\"</i>.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Average Formula:</b><br>The formula to calculate the average of values in cells A1 to A10 is:<br><b>=AVERAGE(A1:A10)</b>.<br><br><b>IF Function:</b><br>The formula to display <i>\"Pass\"</i> or <i>\"Fail\"</i> based on the score in B1 is:<br><b>=IF(B1 >= 50, \"Pass\", \"Fail\")</b>.<br><br>Explanation:<br>The <b>AVERAGE</b> function sums the values in the specified range and divides by the count of cells.<br>The <b>IF</b> function checks if the condition (B1 >= 50) is true. If true, it returns <i>\"Pass\"</i>; otherwise, it returns <i>\"Fail\"</i>.<br><br>Marks should be awarded for correct formulas and clear explanations.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "52136": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Logic Gates",
+        "question_type": "Theory",
+        "exam_year": "2018",
+        "question_text": "<p>Draw the truth table for a <b>NAND gate</b> and explain its operation with an example.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Truth Table for NAND Gate:</b><br><table border=\"1\"><tr><th>A</th><th>B</th><th>A NAND B</th></tr><tr><td>0</td><td>0</td><td>1</td></tr><tr><td>0</td><td>1</td><td>1</td></tr><tr><td>1</td><td>0</td><td>1</td></tr><tr><td>1</td><td>1</td><td>0</td></tr></table><br><b>Operation:</b><br>A NAND gate is a combination of an AND gate followed by a NOT gate. It outputs <b>0</b> only when <i>both</i> inputs are <b>1</b>; otherwise, it outputs <b>1</b>.<br><br><b>Example:</b><br>If inputs A = 1 and B = 1, the output is 0 (since 1 AND 1 = 1, and NOT 1 = 0).<br>If inputs A = 0 and B = 1, the output is 1 (since 0 AND 1 = 0, and NOT 0 = 1).<br><br>Marks should be awarded for the correct truth table and clear explanation.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "52137": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "ICT in Society",
+        "question_type": "Theory",
+        "exam_year": "2018",
+        "question_text": "<p>Discuss <u>three</u> positive impacts and <u>two</u> negative impacts of ICT on society.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Positive Impacts:</b><br><b>1.</b> <i>Improved Communication:</i> ICT enables instant communication through email, social media, and video calls, bridging geographical gaps.<br><b>2.</b> <i>Access to Information:</i> The internet provides vast knowledge resources, enhancing education and research.<br><b>3.</b> <i>Economic Growth:</i> ICT drives innovation, creates jobs, and boosts productivity in industries like e-commerce and digital marketing.<br><br><b>Negative Impacts:</b><br><b>1.</b> <i>Digital Divide:</i> Unequal access to ICT widens the gap between those with and without technology, limiting opportunities for some.<br><b>2.</b> <i>Cybersecurity Risks:</i> Increased reliance on ICT exposes individuals and organizations to threats like hacking, identity theft, and data breaches.<br><br>Marks should be awarded for well-reasoned points, clarity, and relevance to society.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

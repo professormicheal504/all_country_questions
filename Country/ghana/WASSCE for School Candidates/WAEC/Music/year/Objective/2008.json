@@ -1288,5 +1288,434 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "89227": {
+        "order_id": 31,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Music elements",
+        "question_type": "Objective",
+        "exam_year": "2008",
+        "question_text": "<p>Which of the following is <b>NOT</b> a fundamental element of music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The fundamental elements of music include <i>pitch, rhythm, dynamics, timbre, texture, and form</i>. <b>Harmony</b> is not considered a fundamental element but rather a combination of elements.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "24781",
+                "tag": "a",
+                "text": "Pitch",
+                "is_correct": false
+            },
+            {
+                "option_id": "78004",
+                "tag": "b",
+                "text": "Harmony",
+                "is_correct": true
+            },
+            {
+                "option_id": "31486",
+                "tag": "c",
+                "text": "Rhythm",
+                "is_correct": false
+            },
+            {
+                "option_id": "56507",
+                "tag": "d",
+                "text": "Timbre",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "89228": {
+        "order_id": 32,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Music notation basics",
+        "question_type": "Objective",
+        "exam_year": "2008",
+        "question_text": "<p>What does a <b>dot</b> placed after a note in music notation indicate?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A dot after a note increases its duration by half of its original value. For example, a dotted quarter note equals a quarter note plus an eighth note.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "24782",
+                "tag": "a",
+                "text": "It shortens the note by half",
+                "is_correct": false
+            },
+            {
+                "option_id": "78005",
+                "tag": "b",
+                "text": "It increases the note's duration by half",
+                "is_correct": true
+            },
+            {
+                "option_id": "31487",
+                "tag": "c",
+                "text": "It indicates a rest",
+                "is_correct": false
+            },
+            {
+                "option_id": "56508",
+                "tag": "d",
+                "text": "It raises the pitch by a semitone",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "89229": {
+        "order_id": 33,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Types of scales",
+        "question_type": "Objective",
+        "exam_year": "2008",
+        "question_text": "<p>Which scale consists of <b>five</b> notes per octave and is commonly used in African traditional music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <i>pentatonic scale</i> consists of five notes per octave and is widely used in African traditional music, as well as in many other musical traditions worldwide.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "24783",
+                "tag": "a",
+                "text": "Chromatic scale",
+                "is_correct": false
+            },
+            {
+                "option_id": "78006",
+                "tag": "b",
+                "text": "Pentatonic scale",
+                "is_correct": true
+            },
+            {
+                "option_id": "31488",
+                "tag": "c",
+                "text": "Whole-tone scale",
+                "is_correct": false
+            },
+            {
+                "option_id": "56509",
+                "tag": "d",
+                "text": "Diatonic scale",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "89230": {
+        "order_id": 34,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Intervals and inversions",
+        "question_type": "Objective",
+        "exam_year": "2008",
+        "question_text": "<p>What is the inversion of a <b>perfect fifth</b> ($5$)?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The inversion of an interval is calculated by subtracting it from $9$. Thus, the inversion of a perfect fifth ($5$) is a perfect fourth ($9 - 5 = 4$).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "24784",
+                "tag": "a",
+                "text": "Major third",
+                "is_correct": false
+            },
+            {
+                "option_id": "78007",
+                "tag": "b",
+                "text": "Perfect fourth",
+                "is_correct": true
+            },
+            {
+                "option_id": "31489",
+                "tag": "c",
+                "text": "Minor sixth",
+                "is_correct": false
+            },
+            {
+                "option_id": "56510",
+                "tag": "d",
+                "text": "Major sixth",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "89231": {
+        "order_id": 35,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Chords and inversions",
+        "question_type": "Objective",
+        "exam_year": "2008",
+        "question_text": "<p>In a <b>triad</b>, what is the name given to the chord when the <b>third</b> is the lowest note?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>When the third of a triad is the lowest note, the chord is in <i>first inversion</i>, also known as a <i>6-3 chord</i>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "24785",
+                "tag": "a",
+                "text": "Root position",
+                "is_correct": false
+            },
+            {
+                "option_id": "78008",
+                "tag": "b",
+                "text": "First inversion",
+                "is_correct": true
+            },
+            {
+                "option_id": "31490",
+                "tag": "c",
+                "text": "Second inversion",
+                "is_correct": false
+            },
+            {
+                "option_id": "56511",
+                "tag": "d",
+                "text": "Third inversion",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "89232": {
+        "order_id": 36,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Cadence types",
+        "question_type": "Objective",
+        "exam_year": "2008",
+        "question_text": "<p>Which cadence is described as the <b>most conclusive</b> and typically ends a piece of music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <i>perfect cadence</i> (V-I) is the most conclusive and is commonly used to end musical compositions, providing a strong sense of resolution.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "24786",
+                "tag": "a",
+                "text": "Plagal cadence",
+                "is_correct": false
+            },
+            {
+                "option_id": "78009",
+                "tag": "b",
+                "text": "Perfect cadence",
+                "is_correct": true
+            },
+            {
+                "option_id": "31491",
+                "tag": "c",
+                "text": "Imperfect cadence",
+                "is_correct": false
+            },
+            {
+                "option_id": "56512",
+                "tag": "d",
+                "text": "Interrupted cadence",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "89233": {
+        "order_id": 37,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "African music traits",
+        "question_type": "Objective",
+        "exam_year": "2008",
+        "question_text": "<p>Which of the following is a <b>key characteristic</b> of African traditional music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>African traditional music is known for its <i>call-and-response</i> structure, where a leader sings or plays a phrase, and a group responds. This is a defining trait of many African musical traditions.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "24787",
+                "tag": "a",
+                "text": "Use of strict harmonic progressions",
+                "is_correct": false
+            },
+            {
+                "option_id": "78010",
+                "tag": "b",
+                "text": "Call-and-response structure",
+                "is_correct": true
+            },
+            {
+                "option_id": "31492",
+                "tag": "c",
+                "text": "Predominance of solo performances",
+                "is_correct": false
+            },
+            {
+                "option_id": "56513",
+                "tag": "d",
+                "text": "Notation-based composition",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "89234": {
+        "order_id": 38,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Ghanaian traditional music",
+        "question_type": "Objective",
+        "exam_year": "2008",
+        "question_text": "<p>The <b>Fontomfrom</b> drum ensemble is traditionally associated with which Ghanaian ethnic group?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <i>Fontomfrom</i> drum ensemble is a traditional musical group of the <i>Akan</i> people in Ghana, often used in royal ceremonies and festivals.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "24788",
+                "tag": "a",
+                "text": "Ewe",
+                "is_correct": false
+            },
+            {
+                "option_id": "78011",
+                "tag": "b",
+                "text": "Akan",
+                "is_correct": true
+            },
+            {
+                "option_id": "31493",
+                "tag": "c",
+                "text": "Ga",
+                "is_correct": false
+            },
+            {
+                "option_id": "56514",
+                "tag": "d",
+                "text": "Dagomba",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "89235": {
+        "order_id": 39,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Western art music periods",
+        "question_type": "Objective",
+        "exam_year": "2008",
+        "question_text": "<p>Which of the following composers is <b>NOT</b> associated with the <i>Classical period</i> of Western art music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The Classical period (1750\u20131820) includes composers like Haydn, Mozart, and Beethoven. <i>Johann Sebastian Bach</i> is associated with the Baroque period (1600\u20131750).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "24789",
+                "tag": "a",
+                "text": "Joseph Haydn",
+                "is_correct": false
+            },
+            {
+                "option_id": "78012",
+                "tag": "b",
+                "text": "Wolfgang Amadeus Mozart",
+                "is_correct": false
+            },
+            {
+                "option_id": "31494",
+                "tag": "c",
+                "text": "Johann Sebastian Bach",
+                "is_correct": true
+            },
+            {
+                "option_id": "56515",
+                "tag": "d",
+                "text": "Ludwig van Beethoven",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "89236": {
+        "order_id": 40,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Rhythm and meter",
+        "question_type": "Objective",
+        "exam_year": "2008",
+        "question_text": "<p>What does the <b>time signature</b> $6/8$ indicate?</p>",
+        "question_image": null,
+        "explanation": "<p>The time signature $6/8$ indicates a compound duple meter, where there are <i>six eighth notes per measure</i>, grouped into two beats of three eighth notes each.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "24790",
+                "tag": "a",
+                "text": "Six quarter notes per measure",
+                "is_correct": false
+            },
+            {
+                "option_id": "78013",
+                "tag": "b",
+                "text": "Six eighth notes per measure, grouped in two beats",
+                "is_correct": true
+            },
+            {
+                "option_id": "31495",
+                "tag": "c",
+                "text": "Eight sixth notes per measure",
+                "is_correct": false
+            },
+            {
+                "option_id": "56516",
+                "tag": "d",
+                "text": "Six half notes per measure",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

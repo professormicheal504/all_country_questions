@@ -858,5 +858,865 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "39110": {
+        "order_id": 21,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "ICT Basics",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>Which of the following is <b>NOT</b> a characteristic of Information and Communication Technology (ICT)?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>ICT is defined by its ability to process, store, retrieve, and transmit information efficiently. However, <b>manual processing</b> is not a characteristic of ICT, as ICT relies on digital and automated systems.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "15892",
+                "tag": "a",
+                "text": "Digital processing of data",
+                "is_correct": false
+            },
+            {
+                "option_id": "96925",
+                "tag": "b",
+                "text": "Manual processing of data",
+                "is_correct": true
+            },
+            {
+                "option_id": "38701",
+                "tag": "c",
+                "text": "Storage and retrieval of information",
+                "is_correct": false
+            },
+            {
+                "option_id": "55138",
+                "tag": "d",
+                "text": "Transmission of data over networks",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "39111": {
+        "order_id": 22,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Computer Types",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>Which type of computer is designed to perform complex scientific calculations and is typically used in research institutions?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Supercomputers</b> are high-performance machines designed for complex scientific calculations, simulations, and large-scale data processing. They are commonly used in research institutions, weather forecasting, and nuclear research.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "15893",
+                "tag": "a",
+                "text": "Microcomputer",
+                "is_correct": false
+            },
+            {
+                "option_id": "96926",
+                "tag": "b",
+                "text": "Minicomputer",
+                "is_correct": false
+            },
+            {
+                "option_id": "38702",
+                "tag": "c",
+                "text": "Supercomputer",
+                "is_correct": true
+            },
+            {
+                "option_id": "55139",
+                "tag": "d",
+                "text": "Mainframe computer",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "39112": {
+        "order_id": 23,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Hardware Components",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>Which of the following hardware components is responsible for temporarily storing data and instructions that the CPU needs to process?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>Random Access Memory (RAM)</b> is a volatile memory component that temporarily stores data and instructions required by the CPU for processing. It allows for quick access and retrieval of information.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "15894",
+                "tag": "a",
+                "text": "Hard Disk Drive (HDD)",
+                "is_correct": false
+            },
+            {
+                "option_id": "96927",
+                "tag": "b",
+                "text": "Read-Only Memory (ROM)",
+                "is_correct": false
+            },
+            {
+                "option_id": "38703",
+                "tag": "c",
+                "text": "Random Access Memory (RAM)",
+                "is_correct": true
+            },
+            {
+                "option_id": "55140",
+                "tag": "d",
+                "text": "Central Processing Unit (CPU)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "39113": {
+        "order_id": 24,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Software Types",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>Which type of software is designed to help users perform specific tasks such as word processing or spreadsheet calculations?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Application software</b> is designed to help users perform specific tasks, such as word processing (e.g., Microsoft Word), spreadsheet calculations (e.g., Microsoft Excel), or graphic design (e.g., Adobe Photoshop).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "15895",
+                "tag": "a",
+                "text": "System software",
+                "is_correct": false
+            },
+            {
+                "option_id": "96928",
+                "tag": "b",
+                "text": "Application software",
+                "is_correct": true
+            },
+            {
+                "option_id": "38704",
+                "tag": "c",
+                "text": "Utility software",
+                "is_correct": false
+            },
+            {
+                "option_id": "55141",
+                "tag": "d",
+                "text": "Firmware",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "39114": {
+        "order_id": 25,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Number System Conversion",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>Convert the binary number $1101_2$ to its decimal equivalent.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The binary number $1101_2$ can be converted to decimal as follows:<br>$1 \\times 2^3 + 1 \\times 2^2 + 0 \\times 2^1 + 1 \\times 2^0 = 8 + 4 + 0 + 1 = 13_{10}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "15896",
+                "tag": "a",
+                "text": "$10_{10}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "96929",
+                "tag": "b",
+                "text": "$11_{10}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "38705",
+                "tag": "c",
+                "text": "$13_{10}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "55142",
+                "tag": "d",
+                "text": "$14_{10}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "39115": {
+        "order_id": 26,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Network Types",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>A network that connects computers within a limited geographical area such as a school or office is called a:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>Local Area Network (LAN)</b> is a network that connects computers and devices within a limited geographical area, such as a school, office, or building. It allows for resource sharing and communication among connected devices.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "15897",
+                "tag": "a",
+                "text": "Wide Area Network (WAN)",
+                "is_correct": false
+            },
+            {
+                "option_id": "96930",
+                "tag": "b",
+                "text": "Local Area Network (LAN)",
+                "is_correct": true
+            },
+            {
+                "option_id": "38706",
+                "tag": "c",
+                "text": "Metropolitan Area Network (MAN)",
+                "is_correct": false
+            },
+            {
+                "option_id": "55143",
+                "tag": "d",
+                "text": "Personal Area Network (PAN)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "39116": {
+        "order_id": 27,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Cybersecurity Threats",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>Which of the following is a type of cybersecurity threat that disguises itself as legitimate software to gain unauthorized access to a computer system?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>Trojan horse</b> is a type of malware that disguises itself as legitimate software to trick users into installing it. Once installed, it can provide unauthorized access to the attacker or perform malicious actions on the system.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "15898",
+                "tag": "a",
+                "text": "Virus",
+                "is_correct": false
+            },
+            {
+                "option_id": "96931",
+                "tag": "b",
+                "text": "Worm",
+                "is_correct": false
+            },
+            {
+                "option_id": "38707",
+                "tag": "c",
+                "text": "Trojan horse",
+                "is_correct": true
+            },
+            {
+                "option_id": "55144",
+                "tag": "d",
+                "text": "Spyware",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "39117": {
+        "order_id": 28,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "DBMS Basics",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>In a Database Management System (DBMS), what is the primary function of a <b>query</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>query</b> in a DBMS is used to retrieve, filter, and manipulate data stored in a database. It allows users to extract specific information based on defined criteria, such as using SQL commands like <code>SELECT</code>, <code>INSERT</code>, or <code>UPDATE</code>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "15899",
+                "tag": "a",
+                "text": "To store data permanently",
+                "is_correct": false
+            },
+            {
+                "option_id": "96932",
+                "tag": "b",
+                "text": "To retrieve and manipulate data",
+                "is_correct": true
+            },
+            {
+                "option_id": "38708",
+                "tag": "c",
+                "text": "To create backup copies of data",
+                "is_correct": false
+            },
+            {
+                "option_id": "55145",
+                "tag": "d",
+                "text": "To encrypt data for security",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "39118": {
+        "order_id": 29,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Spreadsheet Tools",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>In a spreadsheet application, which function is used to calculate the average of a range of cells?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>AVERAGE</b> function in spreadsheet applications (e.g., Microsoft Excel or Google Sheets) is used to calculate the arithmetic mean of a range of cells. For example, <code>=AVERAGE(A1:A10)</code> calculates the average of values in cells A1 to A10.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "15900",
+                "tag": "a",
+                "text": "<code>SUM</code>",
+                "is_correct": false
+            },
+            {
+                "option_id": "96933",
+                "tag": "b",
+                "text": "<code>AVERAGE</code>",
+                "is_correct": true
+            },
+            {
+                "option_id": "38709",
+                "tag": "c",
+                "text": "<code>COUNT</code>",
+                "is_correct": false
+            },
+            {
+                "option_id": "55146",
+                "tag": "d",
+                "text": "<code>MAX</code>",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "39119": {
+        "order_id": 30,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Computer Ethics",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>Which of the following is an example of <b>unethical</b> behavior in the use of computers?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Plagiarism</b> is an unethical behavior in the use of computers, as it involves copying someone else's work or ideas without proper attribution. It violates intellectual property rights and academic integrity.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "15901",
+                "tag": "a",
+                "text": "Using licensed software for personal tasks",
+                "is_correct": false
+            },
+            {
+                "option_id": "96934",
+                "tag": "b",
+                "text": "Backing up important data regularly",
+                "is_correct": false
+            },
+            {
+                "option_id": "38710",
+                "tag": "c",
+                "text": "Copying someone else's work without permission (plagiarism)",
+                "is_correct": true
+            },
+            {
+                "option_id": "55147",
+                "tag": "d",
+                "text": "Installing antivirus software to protect a computer",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
+    },
+    "58671": {
+        "order_id": 31,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "ICT Basics",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>Which of the following is <b>NOT</b> a characteristic of Information and Communication Technology (ICT)?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>ICT is defined by its ability to process, store, retrieve, and transmit information efficiently. However, <i>manual data processing</i> is not a characteristic of ICT, as ICT emphasizes automation and digital processing.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "84191",
+                "tag": "a",
+                "text": "Automation of processes",
+                "is_correct": false
+            },
+            {
+                "option_id": "55788",
+                "tag": "b",
+                "text": "Manual data processing",
+                "is_correct": true
+            },
+            {
+                "option_id": "10390",
+                "tag": "c",
+                "text": "Digital communication",
+                "is_correct": false
+            },
+            {
+                "option_id": "63600",
+                "tag": "d",
+                "text": "Information storage and retrieval",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "58672": {
+        "order_id": 32,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Computer Types",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>A computer that is designed to perform complex scientific calculations is classified as a:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Supercomputers are high-performance machines designed for complex scientific calculations, simulations, and large-scale data processing. They are the most powerful type of computer in terms of processing capacity.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "84192",
+                "tag": "a",
+                "text": "Microcomputer",
+                "is_correct": false
+            },
+            {
+                "option_id": "55789",
+                "tag": "b",
+                "text": "Minicomputer",
+                "is_correct": false
+            },
+            {
+                "option_id": "10391",
+                "tag": "c",
+                "text": "Supercomputer",
+                "is_correct": true
+            },
+            {
+                "option_id": "63601",
+                "tag": "d",
+                "text": "Mainframe computer",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "58673": {
+        "order_id": 33,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Hardware Components",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>Which hardware component is responsible for temporarily storing data and instructions that the CPU needs to access quickly?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>RAM (Random Access Memory)</b> is a volatile memory component that temporarily stores data and instructions for quick access by the CPU during processing. It is faster than secondary storage but loses its contents when power is turned off.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "84193",
+                "tag": "a",
+                "text": "Hard disk drive",
+                "is_correct": false
+            },
+            {
+                "option_id": "55790",
+                "tag": "b",
+                "text": "RAM",
+                "is_correct": true
+            },
+            {
+                "option_id": "10392",
+                "tag": "c",
+                "text": "ROM",
+                "is_correct": false
+            },
+            {
+                "option_id": "63602",
+                "tag": "d",
+                "text": "Motherboard",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "58674": {
+        "order_id": 34,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Software Types",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>Which of the following is an example of <i>system software</i>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>System software</b> manages and controls computer hardware, providing a platform for running application software. Examples include operating systems (e.g., Windows, Linux), device drivers, and utility programs. Microsoft Word is an application software.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "84194",
+                "tag": "a",
+                "text": "Microsoft Word",
+                "is_correct": false
+            },
+            {
+                "option_id": "55791",
+                "tag": "b",
+                "text": "Windows Operating System",
+                "is_correct": true
+            },
+            {
+                "option_id": "10393",
+                "tag": "c",
+                "text": "Adobe Photoshop",
+                "is_correct": false
+            },
+            {
+                "option_id": "63603",
+                "tag": "d",
+                "text": "Google Chrome",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "58675": {
+        "order_id": 35,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Number System Conversion",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>Convert the binary number $1011_2$ to its decimal equivalent.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The binary number $1011_2$ is converted to decimal as follows:<br>$1 \\times 2^3 + 0 \\times 2^2 + 1 \\times 2^1 + 1 \\times 2^0 = 8 + 0 + 2 + 1 = 11_{10}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "84195",
+                "tag": "a",
+                "text": "$9_{10}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "55792",
+                "tag": "b",
+                "text": "$10_{10}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "10394",
+                "tag": "c",
+                "text": "$11_{10}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "63604",
+                "tag": "d",
+                "text": "$12_{10}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "58676": {
+        "order_id": 36,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Network Types",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>A network that covers a small geographical area, such as a single building or campus, is called a:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>Local Area Network (LAN)</b> is a network that connects computers and devices within a limited geographical area, such as a home, school, or office building. It enables resource sharing and communication among connected devices.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "84196",
+                "tag": "a",
+                "text": "Wide Area Network (WAN)",
+                "is_correct": false
+            },
+            {
+                "option_id": "55793",
+                "tag": "b",
+                "text": "Metropolitan Area Network (MAN)",
+                "is_correct": false
+            },
+            {
+                "option_id": "10395",
+                "tag": "c",
+                "text": "Local Area Network (LAN)",
+                "is_correct": true
+            },
+            {
+                "option_id": "63605",
+                "tag": "d",
+                "text": "Personal Area Network (PAN)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "58677": {
+        "order_id": 37,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Cybersecurity Threats",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>Which of the following is a type of <i>malware</i> that replicates itself and spreads to other computers without user intervention?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>worm</b> is a type of malware that self-replicates and spreads across networks without requiring user action. Unlike viruses, worms do not need to attach themselves to a host program to propagate.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "84197",
+                "tag": "a",
+                "text": "Trojan horse",
+                "is_correct": false
+            },
+            {
+                "option_id": "55794",
+                "tag": "b",
+                "text": "Worm",
+                "is_correct": true
+            },
+            {
+                "option_id": "10396",
+                "tag": "c",
+                "text": "Spyware",
+                "is_correct": false
+            },
+            {
+                "option_id": "63606",
+                "tag": "d",
+                "text": "Adware",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "58678": {
+        "order_id": 38,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Logic Gates",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>The logic gate that outputs <i>true</i> only when all its inputs are <i>true</i> is the:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>AND gate</b> is a logic gate that outputs <i>true</i> (or 1) only when all its inputs are <i>true</i>. If any input is <i>false</i> (or 0), the output is <i>false</i>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "84198",
+                "tag": "a",
+                "text": "OR gate",
+                "is_correct": false
+            },
+            {
+                "option_id": "55795",
+                "tag": "b",
+                "text": "AND gate",
+                "is_correct": true
+            },
+            {
+                "option_id": "10397",
+                "tag": "c",
+                "text": "NOT gate",
+                "is_correct": false
+            },
+            {
+                "option_id": "63607",
+                "tag": "d",
+                "text": "XOR gate",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "58679": {
+        "order_id": 39,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Spreadsheet Tools",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>In a spreadsheet, which function is used to find the <i>average</i> of a range of cells?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>AVERAGE</b> function in spreadsheet software (e.g., Microsoft Excel, Google Sheets) calculates the arithmetic mean of a range of cells by summing the values and dividing by the count of numbers in the range.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "84199",
+                "tag": "a",
+                "text": "SUM",
+                "is_correct": false
+            },
+            {
+                "option_id": "55796",
+                "tag": "b",
+                "text": "COUNT",
+                "is_correct": false
+            },
+            {
+                "option_id": "10398",
+                "tag": "c",
+                "text": "AVERAGE",
+                "is_correct": true
+            },
+            {
+                "option_id": "63608",
+                "tag": "d",
+                "text": "MAX",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "58680": {
+        "order_id": 40,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Internet vs Intranet",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>Which of the following best describes an <i>intranet</i>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>An <b>intranet</b> is a private network accessible only to an organization's staff. It uses internet protocols to share resources, collaborate, and communicate securely within the organization, unlike the public internet.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "84200",
+                "tag": "a",
+                "text": "A global network of interconnected computers",
+                "is_correct": false
+            },
+            {
+                "option_id": "55797",
+                "tag": "b",
+                "text": "A private network for an organization's internal use",
+                "is_correct": true
+            },
+            {
+                "option_id": "10399",
+                "tag": "c",
+                "text": "A network used exclusively for e-commerce",
+                "is_correct": false
+            },
+            {
+                "option_id": "63609",
+                "tag": "d",
+                "text": "A network that connects only mobile devices",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

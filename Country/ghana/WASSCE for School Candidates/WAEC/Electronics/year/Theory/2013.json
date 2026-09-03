@@ -1,0 +1,306 @@
+{
+    "38192": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Electronics Basics",
+        "question_type": "Theory",
+        "exam_year": "2013",
+        "question_text": "<p>Explain the difference between <b>conductors</b>, <b>semiconductors</b>, and <b>insulators</b> in terms of their energy bands. Include a diagram in your explanation if possible.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Conductors, semiconductors, and insulators are classified based on their energy band structures:<br><br><b>Conductors:</b> Have overlapping valence and conduction bands, allowing free electron flow. Examples include metals like copper and aluminum.<br><br><b>Semiconductors:</b> Have a small energy gap ($E_g$) between the valence and conduction bands (e.g., $E_g = 1.1 \text{ eV}$ for silicon). At room temperature, some electrons gain enough energy to jump to the conduction band, enabling limited conductivity.<br><br><b>Insulators:</b> Have a large energy gap ($E_g > 3 \text{ eV}$), preventing electron flow under normal conditions. Examples include rubber and glass.<br><br>Diagrams should show:<br>- Conductors: Overlapping bands.<br>- Semiconductors: Small gap between bands.<br>- Insulators: Large gap between bands.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "38193": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Atomic Structure and Energy Bands",
+        "question_type": "Objective",
+        "exam_year": "2013",
+        "question_text": "<p>Which of the following best describes the <b>valence band</b> in a semiconductor?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The valence band is the highest energy band occupied by electrons at absolute zero temperature. In semiconductors, it is separated from the conduction band by an energy gap ($E_g$). Electrons in the valence band are bound to their atoms and do not contribute to electrical conduction unless excited to the conduction band.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "38182",
+                "tag": "a",
+                "text": "The band where electrons are free to move and conduct electricity.",
+                "is_correct": false
+            },
+            {
+                "option_id": "46410",
+                "tag": "b",
+                "text": "The highest energy band occupied by electrons at absolute zero temperature.",
+                "is_correct": true
+            },
+            {
+                "option_id": "88756",
+                "tag": "c",
+                "text": "The band where holes are generated in a semiconductor.",
+                "is_correct": false
+            },
+            {
+                "option_id": "83409",
+                "tag": "d",
+                "The band that is always empty in a semiconductor at room temperature.$, ": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "38194": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Doping: n-type and p-type",
+        "question_type": "Theory",
+        "exam_year": "2013",
+        "question_text": "<p>Describe the process of <b>doping</b> a semiconductor to create an <i>n-type</i> material. Include the following in your answer:<br>(i) The type of impurity used.<br>(ii) The effect on the majority and minority charge carriers.<br>(iii) The energy level introduced by the impurity.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) <b>Impurity used:</b> Pentavalent impurities (e.g., phosphorus, arsenic, antimony) are added to a semiconductor like silicon.<br><br>(ii) <b>Effect on charge carriers:</b> Each pentavalent atom donates an extra electron, increasing the number of free electrons (majority carriers). Holes become minority carriers.<br><br>(iii) <b>Energy level:</b> The impurity introduces a donor energy level just below the conduction band ($E_d$). Electrons from this level are easily excited to the conduction band, increasing conductivity.<br><br>Diagrams should show:<br>- Pentavalent atom substitution in the silicon lattice.<br>- Donor energy level near the conduction band.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "38195": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "PN Junction Diode",
+        "question_type": "Objective",
+        "exam_year": "2013",
+        "question_text": "<p>What happens to the <b>depletion region</b> of a PN junction diode when it is <i>reverse-biased</i>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>When a PN junction diode is reverse-biased, the positive terminal of the battery is connected to the n-side, and the negative terminal to the p-side. This widens the depletion region because majority carriers are pulled away from the junction, increasing the potential barrier and reducing current flow (only a small reverse saturation current flows).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "38182",
+                "tag": "a",
+                "text": "The depletion region narrows, allowing more current to flow.",
+                "is_correct": false
+            },
+            {
+                "option_id": "46410",
+                "tag": "b",
+                "text": "The depletion region widens, increasing the potential barrier.",
+                "is_correct": true
+            },
+            {
+                "option_id": "88756",
+                "tag": "c",
+                "text": "The depletion region remains unchanged.",
+                "is_correct": false
+            },
+            {
+                "option_id": "83409",
+                "tag": "d",
+                "text": "The depletion region disappears, and the diode acts as a conductor.",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "38196": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Diode Rectification",
+        "question_type": "Theory",
+        "exam_year": "2013",
+        "question_text": "<p>Draw the circuit diagram of a <b>full-wave bridge rectifier</b> and explain its operation. Include the following:<br>(i) The input and output waveforms.<br>(ii) The role of each diode in the circuit.<br>(iii) The advantages of a full-wave rectifier over a half-wave rectifier.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) <b>Waveforms:</b> The input is an AC sine wave, and the output is a pulsating DC waveform with twice the frequency of the input.<br><br>(ii) <b>Role of diodes:</b> Four diodes are arranged in a bridge configuration. During the positive half-cycle, diodes D1 and D2 conduct, while D3 and D4 conduct during the negative half-cycle, ensuring current flows in the same direction through the load.<br><br>(iii) <b>Advantages:</b> Higher efficiency, better utilization of the input AC signal, and reduced ripple in the output compared to a half-wave rectifier.<br><br>Diagrams should include:<br>- Bridge rectifier circuit with labeled diodes.<br>- Input and output waveforms.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "38197": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Zener Diodes and Regulation",
+        "question_type": "Objective",
+        "exam_year": "2013",
+        "question_text": "<p>A Zener diode is used in a voltage regulator circuit to:<br>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A Zener diode operates in reverse breakdown mode to maintain a constant output voltage across a load. When the input voltage exceeds the Zener breakdown voltage ($V_Z$), the diode conducts in reverse, shunting excess current and stabilizing the output voltage.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "38182",
+                "tag": "a",
+                "text": "Convert AC to DC.",
+                "is_correct": false
+            },
+            {
+                "option_id": "46410",
+                "tag": "b",
+                "text": "Maintain a constant output voltage despite variations in input voltage or load current.",
+                "is_correct": true
+            },
+            {
+                "option_id": "88756",
+                "tag": "c",
+                "text": "Amplify small signals.",
+                "is_correct": false
+            },
+            {
+                "option_id": "83409",
+                "tag": "d",
+                "text": "Store electrical energy.",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "38198": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "BJT Structure and Operation",
+        "question_type": "Theory",
+        "exam_year": "2013",
+        "question_text": "<p>Explain the <b>operation</b> of a <i>Bipolar Junction Transistor (BJT)</i> in the <u>active region</u>. Include the following:<br>(i) The biasing conditions for the emitter-base and collector-base junctions.<br>(ii) The flow of charge carriers.<br>(iii) The relationship between the base current ($I_B$) and collector current ($I_C$).</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) <b>Biasing conditions:</b> The emitter-base junction is forward-biased, and the collector-base junction is reverse-biased.<br><br>(ii) <b>Charge carrier flow:</b> Electrons from the emitter diffuse into the base. Most electrons (95-99%) cross the thin base region and are swept into the collector by the reverse-biased collector-base junction, forming $I_C$. A small fraction recombines in the base, forming $I_B$.<br><br>(iii) <b>Relationship:</b> The collector current is proportional to the base current: $I_C = \beta I_B$, where $\beta$ is the current gain of the transistor.<br><br>Diagrams should show:<br>- BJT symbol with biasing voltages.<br>- Charge carrier flow in the active region.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "38199": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Common-Emitter Amplifier",
+        "question_type": "Objective",
+        "exam_year": "2013",
+        "question_text": "<p>In a <b>common-emitter amplifier</b>, the input signal is applied to the:<br>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In a common-emitter amplifier, the input signal is applied to the base terminal, the output is taken from the collector, and the emitter is common to both input and output circuits. This configuration provides high voltage gain and moderate input/output impedance.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "38182",
+                "tag": "a",
+                "text": "Emitter terminal.",
+                "is_correct": false
+            },
+            {
+                "option_id": "46410",
+                "tag": "b",
+                "text": "Base terminal.",
+                "is_correct": true
+            },
+            {
+                "option_id": "88756",
+                "tag": "c",
+                "text": "Collector terminal.",
+                "is_correct": false
+            },
+            {
+                "option_id": "83409",
+                "tag": "d",
+                "text": "Both emitter and collector terminals.",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "38200": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Operational Amplifiers (Op-Amp)",
+        "question_type": "Theory",
+        "exam_year": "2013",
+        "question_text": "<p>Describe the <b>inverting amplifier</b> configuration of an operational amplifier (Op-Amp). Include:<br>(i) The circuit diagram.<br>(ii) The relationship between input and output voltages.<br>(iii) The expression for the voltage gain ($A_v$).</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) <b>Circuit diagram:</b> The input signal is applied to the inverting terminal through a resistor ($R_1$), and a feedback resistor ($R_f$) connects the output to the inverting terminal. The non-inverting terminal is grounded.<br><br>(ii) <b>Input-output relationship:</b> The output voltage ($V_{out}$) is inverted and amplified relative to the input voltage ($V_{in}$).<br><br>(iii) <b>Voltage gain:</b> The voltage gain is given by $A_v = -\frac{R_f}{R_1}$, where the negative sign indicates phase inversion.<br><br>Diagrams should include:<br>- Op-Amp symbol with $R_1$, $R_f$, and input/output connections.<br>- Input and output waveforms showing phase inversion.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "38201": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Number Systems and Conversions",
+        "question_type": "Objective",
+        "exam_year": "2013",
+        "question_text": "<p>Convert the binary number <b>110101</b> to its decimal equivalent.<br>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The binary number $110101_2$ is converted to decimal as follows:<br>$1 \times 2^5 + 1 \times 2^4 + 0 \times 2^3 + 1 \times 2^2 + 0 \times 2^1 + 1 \times 2^0 = 32 + 16 + 0 + 4 + 0 + 1 = 53_{10}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "38182",
+                "tag": "a",
+                "text": "45",
+                "is_correct": false
+            },
+            {
+                "option_id": "46410",
+                "tag": "b",
+                "text": "53",
+                "is_correct": true
+            },
+            {
+                "option_id": "88756",
+                "tag": "c",
+                "text": "61",
+                "is_correct": false
+            },
+            {
+                "option_id": "83409",
+                "tag": "d",
+                "text": "27",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

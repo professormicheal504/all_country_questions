@@ -858,5 +858,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "86461": {
+        "order_id": 21,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Music Elements",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>Which of the following is <b>NOT</b> a fundamental element of music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The fundamental elements of music include pitch, rhythm, dynamics, timbre, texture, and form. <i>Harmony</i> is a combination of these elements but is not considered a fundamental element on its own.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "48194",
+                "tag": "a",
+                "text": "Pitch",
+                "is_correct": false
+            },
+            {
+                "option_id": "12248",
+                "tag": "b",
+                "text": "Harmony",
+                "is_correct": true
+            },
+            {
+                "option_id": "41227",
+                "tag": "c",
+                "text": "Rhythm",
+                "is_correct": false
+            },
+            {
+                "option_id": "34712",
+                "tag": "d",
+                "text": "Timbre",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "86462": {
+        "order_id": 22,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Music Notation Basics",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>What does a <b>dot</b> after a note in music notation indicate?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A dot after a note increases its duration by half of its original value. For example, a dotted quarter note ($\\frac{1}{4}$) becomes $\\frac{3}{8}$ of a beat.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "48195",
+                "tag": "a",
+                "text": "It shortens the note by half.",
+                "is_correct": false
+            },
+            {
+                "option_id": "12249",
+                "tag": "b",
+                "text": "It increases the note's duration by half of its original value.",
+                "is_correct": true
+            },
+            {
+                "option_id": "41228",
+                "tag": "c",
+                "text": "It indicates a rest.",
+                "is_correct": false
+            },
+            {
+                "option_id": "34713",
+                "tag": "d",
+                "text": "It raises the pitch by a semitone.",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "86463": {
+        "order_id": 23,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Types of Scales",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>Which scale consists of five notes per octave and is commonly used in traditional Ghanaian music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <i>pentatonic scale</i> consists of five notes per octave and is widely used in African music, including traditional Ghanaian music. It is also prevalent in many other musical traditions worldwide.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "48196",
+                "tag": "a",
+                "text": "Chromatic scale",
+                "is_correct": false
+            },
+            {
+                "option_id": "12250",
+                "tag": "b",
+                "text": "Pentatonic scale",
+                "is_correct": true
+            },
+            {
+                "option_id": "41229",
+                "tag": "c",
+                "text": "Whole-tone scale",
+                "is_correct": false
+            },
+            {
+                "option_id": "34714",
+                "tag": "d",
+                "text": "Octatonic scale",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "86464": {
+        "order_id": 24,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Intervals and Inversions",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>What is the inversion of a perfect fifth ($5^{th}$) interval?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The inversion of a perfect fifth ($5^{th}$) is a perfect fourth ($4^{th}$). Inversion is calculated by subtracting the interval from 9 (e.g., $9 - 5 = 4$).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "48197",
+                "tag": "a",
+                "text": "Major third",
+                "is_correct": false
+            },
+            {
+                "option_id": "12251",
+                "tag": "b",
+                "text": "Perfect fourth",
+                "is_correct": true
+            },
+            {
+                "option_id": "41230",
+                "tag": "c",
+                "text": "Minor sixth",
+                "is_correct": false
+            },
+            {
+                "option_id": "34715",
+                "tag": "d",
+                "text": "Major sixth",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "86465": {
+        "order_id": 25,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Chords and Inversions",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>In a triad, what is the <b>first inversion</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <i>first inversion</i> of a triad occurs when the third of the chord is placed in the bass. For example, in a C major triad (C-E-G), the first inversion is E-G-C.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "48198",
+                "tag": "a",
+                "text": "The root is in the bass.",
+                "is_correct": false
+            },
+            {
+                "option_id": "12252",
+                "tag": "b",
+                "text": "The third is in the bass.",
+                "is_correct": true
+            },
+            {
+                "option_id": "41231",
+                "tag": "c",
+                "text": "The fifth is in the bass.",
+                "is_correct": false
+            },
+            {
+                "option_id": "34716",
+                "tag": "d",
+                "text": "The seventh is in the bass.",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "86466": {
+        "order_id": 26,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Cadence Types",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>Which cadence is known as the <i>\"amen cadence\"</i> due to its frequent use in hymns?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <i>plagal cadence</i> (IV-I) is often referred to as the <i>\"amen cadence\"</i> because it is commonly used at the end of hymns to conclude with a sense of resolution.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "48199",
+                "tag": "a",
+                "text": "Perfect cadence",
+                "is_correct": false
+            },
+            {
+                "option_id": "12253",
+                "tag": "b",
+                "text": "Plagal cadence",
+                "is_correct": true
+            },
+            {
+                "option_id": "41232",
+                "tag": "c",
+                "text": "Deceptive cadence",
+                "is_correct": false
+            },
+            {
+                "option_id": "34717",
+                "tag": "d",
+                "text": "Half cadence",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "86467": {
+        "order_id": 27,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "African Music Traits",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>Which of the following is a <b>key characteristic</b> of traditional African music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Call-and-response is a fundamental characteristic of traditional African music, where a leader sings or plays a phrase, and a group responds. This technique is widely used in communal and ceremonial music across Africa.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "48200",
+                "tag": "a",
+                "text": "Use of polyphony in all compositions",
+                "is_correct": false
+            },
+            {
+                "option_id": "12254",
+                "tag": "b",
+                "text": "Call-and-response patterns",
+                "is_correct": true
+            },
+            {
+                "option_id": "41233",
+                "tag": "c",
+                "text": "Exclusive use of Western scales",
+                "is_correct": false
+            },
+            {
+                "option_id": "34718",
+                "tag": "d",
+                "text": "Strict adherence to written notation",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "86468": {
+        "order_id": 28,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Western Art Music Periods",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>Which period of Western art music is characterized by <i>ornate melodies, contrast, and the use of basso continuo</i>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <i>Baroque period</i> (1600\u20131750) is known for its ornate melodies, dynamic contrasts, and the use of <i>basso continuo</i>, a continuous bass line that provides harmonic support.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "48201",
+                "tag": "a",
+                "text": "Renaissance",
+                "is_correct": false
+            },
+            {
+                "option_id": "12255",
+                "tag": "b",
+                "text": "Baroque",
+                "is_correct": true
+            },
+            {
+                "option_id": "41234",
+                "tag": "c",
+                "text": "Classical",
+                "is_correct": false
+            },
+            {
+                "option_id": "34719",
+                "tag": "d",
+                "text": "Romantic",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "86469": {
+        "order_id": 29,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Music Technology Tools",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>Which of the following software is primarily used for <b>digital audio workstation (DAW)</b> tasks such as recording, editing, and mixing music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><i>Pro Tools</i> is a widely used digital audio workstation (DAW) for professional recording, editing, and mixing of music and audio. It is an industry standard in music production.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "48202",
+                "tag": "a",
+                "text": "Microsoft Word",
+                "is_correct": false
+            },
+            {
+                "option_id": "12256",
+                "tag": "b",
+                "text": "Pro Tools",
+                "is_correct": true
+            },
+            {
+                "option_id": "41235",
+                "tag": "c",
+                "text": "Adobe Photoshop",
+                "is_correct": false
+            },
+            {
+                "option_id": "34720",
+                "tag": "d",
+                "text": "AutoCAD",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "86470": {
+        "order_id": 30,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Ghanaian Traditional Music",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>Which traditional Ghanaian instrument is a <b>talking drum</b> used to mimic the tones of the Akan language?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <i>Dondo</i> (or <i>Odondo</i>) is a talking drum used in Ghana, particularly among the Akan people, to mimic the tonal patterns of the Akan language. It is played with a curved stick and squeezed under the arm to change pitch.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "48203",
+                "tag": "a",
+                "text": "Atumpan",
+                "is_correct": false
+            },
+            {
+                "option_id": "12257",
+                "tag": "b",
+                "text": "Dondo",
+                "is_correct": true
+            },
+            {
+                "option_id": "41236",
+                "tag": "c",
+                "text": "Gong-gong",
+                "is_correct": false
+            },
+            {
+                "option_id": "34721",
+                "tag": "d",
+                "text": "Axatse",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

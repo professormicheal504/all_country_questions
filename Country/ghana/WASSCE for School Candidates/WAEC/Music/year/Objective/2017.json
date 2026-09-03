@@ -858,5 +858,865 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "69989": {
+        "order_id": 21,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Music Elements",
+        "question_type": "Objective",
+        "exam_year": "2017",
+        "question_text": "<p>Which of the following is <b>NOT</b> a fundamental element of music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The fundamental elements of music include pitch, rhythm, dynamics, timbre, texture, and form. <i>Harmony</i> is a derived element, not a fundamental one.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "91897",
+                "tag": "a",
+                "text": "Pitch",
+                "is_correct": false
+            },
+            {
+                "option_id": "12299",
+                "tag": "b",
+                "text": "Harmony",
+                "is_correct": true
+            },
+            {
+                "option_id": "90667",
+                "tag": "c",
+                "text": "Rhythm",
+                "is_correct": false
+            },
+            {
+                "option_id": "71662",
+                "tag": "d",
+                "text": "Timbre",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "69990": {
+        "order_id": 22,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Music Notation Basics",
+        "question_type": "Objective",
+        "exam_year": "2017",
+        "question_text": "<p>What does the <b>treble clef</b> indicate in staff notation?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The treble clef, also known as the <i>G clef</i>, indicates that the second line of the staff represents the note <b>G</b> above middle C.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "91898",
+                "tag": "a",
+                "text": "The pitch of the notes on the bass staff",
+                "is_correct": false
+            },
+            {
+                "option_id": "12300",
+                "tag": "b",
+                "text": "The second line of the staff represents G above middle C",
+                "is_correct": true
+            },
+            {
+                "option_id": "90668",
+                "tag": "c",
+                "text": "The first space represents middle C",
+                "is_correct": false
+            },
+            {
+                "option_id": "71663",
+                "tag": "d",
+                "text": "The staff is used exclusively for percussion",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "69991": {
+        "order_id": 23,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Types of Scales",
+        "question_type": "Objective",
+        "exam_year": "2017",
+        "question_text": "<p>Which scale consists of <b>five</b> notes and is commonly used in African traditional music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <i>pentatonic scale</i> consists of five notes per octave and is widely used in African traditional music, as well as in many other musical traditions worldwide.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "91899",
+                "tag": "a",
+                "text": "Chromatic scale",
+                "is_correct": false
+            },
+            {
+                "option_id": "12301",
+                "tag": "b",
+                "text": "Pentatonic scale",
+                "is_correct": true
+            },
+            {
+                "option_id": "90669",
+                "tag": "c",
+                "text": "Whole-tone scale",
+                "is_correct": false
+            },
+            {
+                "option_id": "71664",
+                "tag": "d",
+                "text": "Octatonic scale",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "69992": {
+        "order_id": 24,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Intervals and Inversions",
+        "question_type": "Objective",
+        "exam_year": "2017",
+        "question_text": "<p>What is the inversion of a <b>perfect fifth</b> ($5$)?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The inversion of an interval is calculated by subtracting it from $9$. Thus, the inversion of a perfect fifth ($5$) is a perfect fourth ($9 - 5 = 4$).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "91900",
+                "tag": "a",
+                "text": "Major third",
+                "is_correct": false
+            },
+            {
+                "option_id": "12302",
+                "tag": "b",
+                "text": "Perfect fourth",
+                "is_correct": true
+            },
+            {
+                "option_id": "90670",
+                "tag": "c",
+                "text": "Minor sixth",
+                "is_correct": false
+            },
+            {
+                "option_id": "71665",
+                "tag": "d",
+                "text": "Major sixth",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "69993": {
+        "order_id": 25,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Chords and Inversions",
+        "question_type": "Objective",
+        "exam_year": "2017",
+        "question_text": "<p>In a <b>triad</b>, what is the name given to the inversion where the <b>third</b> of the chord is in the bass?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The inversion of a triad where the third is in the bass is called the <i>first inversion</i>. It is also known as a $6$-$3$ chord because of the intervals formed above the bass note.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "91901",
+                "tag": "a",
+                "text": "Root position",
+                "is_correct": false
+            },
+            {
+                "option_id": "12303",
+                "tag": "b",
+                "text": "First inversion",
+                "is_correct": true
+            },
+            {
+                "option_id": "90671",
+                "tag": "c",
+                "text": "Second inversion",
+                "is_correct": false
+            },
+            {
+                "option_id": "71666",
+                "tag": "d",
+                "text": "Third inversion",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "69994": {
+        "order_id": 26,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Cadence Types",
+        "question_type": "Objective",
+        "exam_year": "2017",
+        "question_text": "<p>Which cadence is described as the <b>\"amen cadence\"</b> due to its frequent use at the end of hymns?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <i>plagal cadence</i> (IV-I) is often called the \"amen cadence\" because it is commonly used to conclude hymns, giving a sense of resolution and finality.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "91902",
+                "tag": "a",
+                "text": "Perfect cadence",
+                "is_correct": false
+            },
+            {
+                "option_id": "12304",
+                "tag": "b",
+                "text": "Plagal cadence",
+                "is_correct": true
+            },
+            {
+                "option_id": "90672",
+                "tag": "c",
+                "text": "Imperfect cadence",
+                "is_correct": false
+            },
+            {
+                "option_id": "71667",
+                "tag": "d",
+                "text": "Deceptive cadence",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "69995": {
+        "order_id": 27,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "African Music Traits",
+        "question_type": "Objective",
+        "exam_year": "2017",
+        "question_text": "<p>Which of the following is a <b>distinctive feature</b> of African traditional music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>African traditional music is characterized by <i>call-and-response</i> patterns, where a leader sings or plays a phrase, and a group responds, creating a dynamic and interactive musical experience.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "91903",
+                "tag": "a",
+                "text": "Use of strict harmonic progressions",
+                "is_correct": false
+            },
+            {
+                "option_id": "12305",
+                "tag": "b",
+                "text": "Call-and-response patterns",
+                "is_correct": true
+            },
+            {
+                "option_id": "90673",
+                "tag": "c",
+                "text": "Exclusive use of Western scales",
+                "is_correct": false
+            },
+            {
+                "option_id": "71668",
+                "tag": "d",
+                "text": "Notation-based composition",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "69996": {
+        "order_id": 28,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Western Art Music Periods",
+        "question_type": "Objective",
+        "exam_year": "2017",
+        "question_text": "<p>Which period of Western art music is associated with the works of <b>Johann Sebastian Bach</b> and <b>George Frideric Handel</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <i>Baroque period</i> (approximately 1600\u20131750) is the era associated with composers like Johann Sebastian Bach and George Frideric Handel, known for their complex counterpoint and ornate musical styles.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "91904",
+                "tag": "a",
+                "text": "Renaissance",
+                "is_correct": false
+            },
+            {
+                "option_id": "12306",
+                "tag": "b",
+                "text": "Baroque",
+                "is_correct": true
+            },
+            {
+                "option_id": "90674",
+                "tag": "c",
+                "text": "Classical",
+                "is_correct": false
+            },
+            {
+                "option_id": "71669",
+                "tag": "d",
+                "text": "Romantic",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "69997": {
+        "order_id": 29,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Rhythm and Meter",
+        "question_type": "Objective",
+        "exam_year": "2017",
+        "question_text": "<p>What does the <b>time signature</b> $6/8$ indicate?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The time signature $6/8$ indicates a <i>compound duple meter</i>, where there are six eighth notes per measure, grouped into two beats of three eighth notes each.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "91905",
+                "tag": "a",
+                "text": "Six beats per measure, with the quarter note getting one beat",
+                "is_correct": false
+            },
+            {
+                "option_id": "12307",
+                "tag": "b",
+                "text": "Six eighth notes per measure, grouped into two beats of three",
+                "is_correct": true
+            },
+            {
+                "option_id": "90675",
+                "tag": "c",
+                "text": "Eight beats per measure, with the eighth note getting one beat",
+                "is_correct": false
+            },
+            {
+                "option_id": "71670",
+                "tag": "d",
+                "text": "Six quarter notes per measure, grouped into three beats of two",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "69998": {
+        "order_id": 30,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Ghanaian Traditional Music",
+        "question_type": "Objective",
+        "exam_year": "2017",
+        "question_text": "<p>Which of the following instruments is <b>traditionally</b> associated with the <i>Fontomfrom</i> ensemble in Ghana?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <i>Fontomfrom</i> ensemble is a traditional Akan drum ensemble that includes the <b>from</b>, a large bass drum, along with other drums and bells.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "91906",
+                "tag": "a",
+                "text": "Kora",
+                "is_correct": false
+            },
+            {
+                "option_id": "12308",
+                "tag": "b",
+                "text": "From",
+                "is_correct": true
+            },
+            {
+                "option_id": "90676",
+                "tag": "c",
+                "text": "Atumpan",
+                "is_correct": false
+            },
+            {
+                "option_id": "71671",
+                "tag": "d",
+                "text": "Gyil",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
+    },
+    "48696": {
+        "order_id": 31,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Music Elements",
+        "question_type": "Objective",
+        "exam_year": "2017",
+        "question_text": "<p>Which of the following is <b>NOT</b> a fundamental element of music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The fundamental elements of music include pitch, rhythm, dynamics, timbre, texture, and form. <i>Harmony</i> is a derived element, not a fundamental one, as it is built from the combination of pitches.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "90791",
+                "tag": "a",
+                "text": "Pitch",
+                "is_correct": false
+            },
+            {
+                "option_id": "15791",
+                "tag": "b",
+                "text": "Harmony",
+                "is_correct": true
+            },
+            {
+                "option_id": "57138",
+                "tag": "c",
+                "text": "Rhythm",
+                "is_correct": false
+            },
+            {
+                "option_id": "62710",
+                "tag": "d",
+                "text": "Dynamics",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "48697": {
+        "order_id": 32,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Music Notation Basics",
+        "question_type": "Objective",
+        "exam_year": "2017",
+        "question_text": "<p>What does the <b>time signature</b> $4/4$ indicate in a musical score?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The time signature $4/4$ indicates that there are <b>four beats</b> in each measure and the <b>quarter note</b> receives one beat. It is also known as <i>common time</i>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "90792",
+                "tag": "a",
+                "text": "Three beats per measure, quarter note gets one beat",
+                "is_correct": false
+            },
+            {
+                "option_id": "15792",
+                "tag": "b",
+                "text": "Four beats per measure, quarter note gets one beat",
+                "is_correct": true
+            },
+            {
+                "option_id": "57139",
+                "tag": "c",
+                "text": "Four beats per measure, half note gets one beat",
+                "is_correct": false
+            },
+            {
+                "option_id": "62711",
+                "tag": "d",
+                "text": "Six beats per measure, eighth note gets one beat",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "48698": {
+        "order_id": 33,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Types of Scales",
+        "question_type": "Objective",
+        "exam_year": "2017",
+        "question_text": "<p>Which scale consists of <b>five tones</b> and <b>two semitones</b>, with the semitones occurring between the 3rd-4th and 7th-8th degrees?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>major scale</b> consists of five whole tones and two semitones, with the semitones occurring between the 3rd-4th and 7th-8th degrees. For example, the C major scale: C-D-E-$F$-G-A-B-$C$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "90793",
+                "tag": "a",
+                "text": "Minor scale",
+                "is_correct": false
+            },
+            {
+                "option_id": "15793",
+                "tag": "b",
+                "text": "Major scale",
+                "is_correct": true
+            },
+            {
+                "option_id": "57140",
+                "tag": "c",
+                "text": "Chromatic scale",
+                "is_correct": false
+            },
+            {
+                "option_id": "62712",
+                "tag": "d",
+                "text": "Whole-tone scale",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "48699": {
+        "order_id": 34,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Intervals and Inversions",
+        "question_type": "Objective",
+        "exam_year": "2017",
+        "question_text": "<p>What is the <b>inversion</b> of a perfect 5th interval?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The inversion of an interval is calculated by subtracting it from 9. A perfect 5th inverts to a perfect 4th ($9 - 5 = 4$). For example, C-G (perfect 5th) inverts to G-C (perfect 4th).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "90794",
+                "tag": "a",
+                "text": "Major 3rd",
+                "is_correct": false
+            },
+            {
+                "option_id": "15794",
+                "tag": "b",
+                "text": "Perfect 4th",
+                "is_correct": true
+            },
+            {
+                "option_id": "57141",
+                "tag": "c",
+                "text": "Minor 6th",
+                "is_correct": false
+            },
+            {
+                "option_id": "62713",
+                "tag": "d",
+                "text": "Major 6th",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "48700": {
+        "order_id": 35,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Chords and Inversions",
+        "question_type": "Objective",
+        "exam_year": "2017",
+        "question_text": "<p>In a <b>triad</b>, what is the name given to the chord when the <b>third</b> is the lowest note?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>When the third of a triad is the lowest note, the chord is in <b>first inversion</b>. For example, in a C major triad (C-E-G), the first inversion is E-G-C.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "90795",
+                "tag": "a",
+                "text": "Root position",
+                "is_correct": false
+            },
+            {
+                "option_id": "15795",
+                "tag": "b",
+                "text": "First inversion",
+                "is_correct": true
+            },
+            {
+                "option_id": "57142",
+                "tag": "c",
+                "text": "Second inversion",
+                "is_correct": false
+            },
+            {
+                "option_id": "62714",
+                "tag": "d",
+                "text": "Third inversion",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "48701": {
+        "order_id": 36,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Cadence Types",
+        "question_type": "Objective",
+        "exam_year": "2017",
+        "question_text": "<p>Which cadence is formed by the chord progression <b>V-I</b> and provides a sense of <b>finality</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>perfect cadence</b> (V-I) is the strongest cadence and provides a sense of finality. It is commonly used to conclude musical phrases or pieces.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "90796",
+                "tag": "a",
+                "text": "Plagal cadence",
+                "is_correct": false
+            },
+            {
+                "option_id": "15796",
+                "tag": "b",
+                "text": "Perfect cadence",
+                "is_correct": true
+            },
+            {
+                "option_id": "57143",
+                "tag": "c",
+                "text": "Imperfect cadence",
+                "is_correct": false
+            },
+            {
+                "option_id": "62715",
+                "tag": "d",
+                "text": "Interrupted cadence",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "48702": {
+        "order_id": 37,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "African Music Traits",
+        "question_type": "Objective",
+        "exam_year": "2017",
+        "question_text": "<p>Which of the following is a <b>distinctive feature</b> of traditional African music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Traditional African music is characterized by <b>call-and-response</b> patterns, where a leader sings or plays a phrase, and a group responds. This feature is central to many African musical traditions.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "90797",
+                "tag": "a",
+                "text": "Use of polyphonic textures",
+                "is_correct": false
+            },
+            {
+                "option_id": "15797",
+                "tag": "b",
+                "text": "Call-and-response patterns",
+                "is_correct": true
+            },
+            {
+                "option_id": "57144",
+                "tag": "c",
+                "text": "Strict adherence to written notation",
+                "is_correct": false
+            },
+            {
+                "option_id": "62716",
+                "tag": "d",
+                "text": "Predominance of solo performances",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "48703": {
+        "order_id": 38,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Ghanaian Traditional Music",
+        "question_type": "Objective",
+        "exam_year": "2017",
+        "question_text": "<p>The <b>Fontomfrom</b> drum ensemble is traditionally associated with which Ghanaian ethnic group?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>Fontomfrom</b> drum ensemble is a traditional musical group of the <b>Akan</b> people in Ghana. It is often used in royal ceremonies and festivals.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "90798",
+                "tag": "a",
+                "text": "Ewe",
+                "is_correct": false
+            },
+            {
+                "option_id": "15798",
+                "tag": "b",
+                "text": "Akan",
+                "is_correct": true
+            },
+            {
+                "option_id": "57145",
+                "tag": "c",
+                "text": "Ga",
+                "is_correct": false
+            },
+            {
+                "option_id": "62717",
+                "tag": "d",
+                "text": "Dagomba",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "48704": {
+        "order_id": 39,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Western Art Music Periods",
+        "question_type": "Objective",
+        "exam_year": "2017",
+        "question_text": "<p>Which period of Western art music is characterized by <b>ornamentation, contrast, and the use of basso continuo</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>Baroque period</b> (1600-1750) is known for its ornamentation, contrast between loud and soft dynamics, and the use of <i>basso continuo</i> (continuous bass line). Composers like Bach and Vivaldi were prominent during this era.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "90799",
+                "tag": "a",
+                "text": "Renaissance",
+                "is_correct": false
+            },
+            {
+                "option_id": "15799",
+                "tag": "b",
+                "text": "Baroque",
+                "is_correct": true
+            },
+            {
+                "option_id": "57146",
+                "tag": "c",
+                "text": "Classical",
+                "is_correct": false
+            },
+            {
+                "option_id": "62718",
+                "tag": "d",
+                "text": "Romantic",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "48705": {
+        "order_id": 40,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Rhythm and Meter",
+        "question_type": "Objective",
+        "exam_year": "2017",
+        "question_text": "<p>What is the <b>meter</b> of a piece of music with the time signature $6/8$?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The time signature $6/8$ indicates a <b>compound duple meter</b>, where there are two beats per measure, and each beat is divided into three eighth notes (e.g., two dotted quarter notes per measure).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "90800",
+                "tag": "a",
+                "text": "Simple triple",
+                "is_correct": false
+            },
+            {
+                "option_id": "15800",
+                "tag": "b",
+                "text": "Compound duple",
+                "is_correct": true
+            },
+            {
+                "option_id": "57147",
+                "tag": "c",
+                "text": "Simple quadruple",
+                "is_correct": false
+            },
+            {
+                "option_id": "62719",
+                "tag": "d",
+                "text": "Compound triple",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

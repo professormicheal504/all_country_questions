@@ -1,0 +1,257 @@
+{
+    "87566": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "ICT Basics",
+        "question_type": "Theory",
+        "exam_year": "2008",
+        "question_text": "<p>Explain the term <b>Information and Communication Technology (ICT)</b> and list <u>three</u> major areas where ICT is applied in modern society.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Information and Communication Technology (ICT)</b> refers to the use of digital technology to handle information and facilitate communication. It encompasses hardware, software, networks, and services that enable the processing, storage, transmission, and retrieval of data.<br><br>Three major areas where ICT is applied include:<br><br><i>1. Education:</i> E-learning platforms, digital libraries, and interactive teaching tools.<br><i>2. Healthcare:</i> Electronic health records, telemedicine, and diagnostic software.<br><i>3. Business:</i> E-commerce, digital marketing, and automated financial systems.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "87567": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Computer Types",
+        "question_type": "Objective",
+        "exam_year": "2008",
+        "question_text": "<p>Which of the following is <b>NOT</b> a type of computer based on size and processing power?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The correct answer is <b>d. Quantum computer</b>. While quantum computers exist, they are not classified under traditional computer types based on size and processing power (e.g., supercomputers, mainframes, minicomputers, and microcomputers).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "15794",
+                "tag": "a",
+                "text": "Supercomputer",
+                "is_correct": false
+            },
+            {
+                "option_id": "93085",
+                "tag": "b",
+                "text": "Mainframe computer",
+                "is_correct": false
+            },
+            {
+                "option_id": "99556",
+                "tag": "c",
+                "text": "Minicomputer",
+                "is_correct": false
+            },
+            {
+                "option_id": "52578",
+                "tag": "d",
+                "text": "Quantum computer",
+                "is_correct": true
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "87568": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Hardware Components",
+        "question_type": "Theory",
+        "exam_year": "2008",
+        "question_text": "<p>Describe the functions of the following hardware components:<br><i>1. Central Processing Unit (CPU)</i><br><i>2. Random Access Memory (RAM)</i><br><i>3. Hard Disk Drive (HDD)</i></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><i>1. Central Processing Unit (CPU):</i> The CPU is the brain of the computer, responsible for executing instructions and performing calculations. It processes data and controls the operation of other hardware components.<br><br><i>2. Random Access Memory (RAM):</i> RAM is volatile memory that temporarily stores data and instructions needed by the CPU for quick access. It allows for faster data retrieval compared to storage devices.<br><br><i>3. Hard Disk Drive (HDD):</i> The HDD is a non-volatile storage device that permanently stores data, programs, and the operating system. It retains data even when the computer is powered off.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "87569": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Number System Conversion",
+        "question_type": "Theory",
+        "exam_year": "2008",
+        "question_text": "<p>Convert the binary number <b>$110101_2$</b> to its decimal equivalent. Show all working steps.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The binary number $110101_2$ can be converted to decimal as follows:<br><br>$1 \\times 2^5 + 1 \\times 2^4 + 0 \\times 2^3 + 1 \\times 2^2 + 0 \\times 2^1 + 1 \\times 2^0$<br><br>$= 1 \\times 32 + 1 \\times 16 + 0 \\times 8 + 1 \\times 4 + 0 \\times 2 + 1 \\times 1$<br><br>$= 32 + 16 + 0 + 4 + 0 + 1$<br><br>$= 53_{10}$</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "87570": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Operating Systems",
+        "question_type": "Objective",
+        "exam_year": "2008",
+        "question_text": "<p>Which of the following is <b>NOT</b> a function of an operating system?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The correct answer is <b>c. Compiling programs</b>. Compiling programs is the function of a compiler, not an operating system. The OS manages hardware resources, provides a user interface, and runs applications.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "15794",
+                "tag": "a",
+                "text": "Memory management",
+                "is_correct": false
+            },
+            {
+                "option_id": "93085",
+                "tag": "b",
+                "text": "Process scheduling",
+                "is_correct": false
+            },
+            {
+                "option_id": "99556",
+                "tag": "c",
+                "text": "Compiling programs",
+                "is_correct": true
+            },
+            {
+                "option_id": "52578",
+                "tag": "d",
+                "text": "File management",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "87571": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Network Types",
+        "question_type": "Theory",
+        "exam_year": "2008",
+        "question_text": "<p>Differentiate between a <b>Local Area Network (LAN)</b> and a <b>Wide Area Network (WAN)</b> in terms of:<br><i>1. Geographical coverage</i><br><i>2. Data transfer speed</i><br><i>3. Ownership</i></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><i>1. Geographical coverage:</i> A LAN covers a small area, such as a single building or campus, while a WAN spans large distances, such as cities, countries, or continents.<br><br><i>2. Data transfer speed:</i> LANs typically have higher data transfer speeds (e.g., 100 Mbps to 10 Gbps) compared to WANs, which may have slower speeds due to longer distances and infrastructure limitations.<br><br><i>3. Ownership:</i> LANs are usually privately owned by an organization, while WANs may involve multiple owners, including telecommunication companies and service providers.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "87572": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Cybersecurity Threats",
+        "question_type": "Objective",
+        "exam_year": "2008",
+        "question_text": "<p>Which of the following is an example of a <b>social engineering</b> attack?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The correct answer is <b>a. Phishing</b>. Phishing is a social engineering attack where attackers trick users into revealing sensitive information, such as passwords or credit card details, by pretending to be a trusted entity.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "15794",
+                "tag": "a",
+                "text": "Phishing",
+                "is_correct": true
+            },
+            {
+                "option_id": "93085",
+                "tag": "b",
+                "text": "Denial of Service (DoS)",
+                "is_correct": false
+            },
+            {
+                "option_id": "99556",
+                "tag": "c",
+                "text": "Brute force attack",
+                "is_correct": false
+            },
+            {
+                "option_id": "52578",
+                "tag": "d",
+                "text": "SQL injection",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "87573": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Data Representation",
+        "question_type": "Theory",
+        "exam_year": "2008",
+        "question_text": "<p>Explain how <b>ASCII</b> and <b>Unicode</b> are used to represent text in computers. Provide one advantage of Unicode over ASCII.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>ASCII (American Standard Code for Information Interchange):</b> ASCII uses 7 or 8 bits to represent characters, allowing for 128 or 256 unique characters, respectively. It is primarily used for English and basic symbols.<br><br><b>Unicode:</b> Unicode is a universal character encoding standard that uses 16 or 32 bits to represent characters, supporting over 1 million unique characters. It includes characters from all major languages and symbols.<br><br><b>Advantage of Unicode over ASCII:</b> Unicode supports a much larger range of characters, including those from non-English languages, making it more versatile for global applications.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "87574": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Logic Gates",
+        "question_type": "Theory",
+        "exam_year": "2008",
+        "question_text": "<p>Draw the truth table for a <b>NAND gate</b> and explain its operation. Use $A$ and $B$ as inputs and $Y$ as the output.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>NAND gate</b> is a combination of an AND gate followed by a NOT gate. Its output is <i>false</i> only when both inputs are <i>true</i>. Otherwise, the output is <i>true</i>.<br><br>The truth table for a NAND gate is as follows:<br><br><table border='1'><tr><th>$A$</th><th>$B$</th><th>$Y = \\overline{A \\cdot B}$</th></tr><tr><td>0</td><td>0</td><td>1</td></tr><tr><td>0</td><td>1</td><td>1</td></tr><tr><td>1</td><td>0</td><td>1</td></tr><tr><td>1</td><td>1</td><td>0</td></tr></table></p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "87575": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Word Processing",
+        "question_type": "Practical",
+        "exam_year": "2008",
+        "question_text": "<p>Describe the steps to create a <b>table</b> in Microsoft Word and insert the following data into it:<br><br><table border='1'><tr><th>Name</th><th>Age</th><th>Occupation</th></tr><tr><td>Kofi</td><td>25</td><td>Teacher</td></tr><tr><td>Ama</td><td>30</td><td>Doctor</td></tr></table></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Steps to create a table in Microsoft Word:</b><br><br><i>1. Open Microsoft Word and place the cursor where you want the table.</i><br><i>2. Click on the <b>Insert</b> tab in the ribbon.</i><br><i>3. Click on <b>Table</b> and select the number of rows and columns (e.g., 3 columns and 3 rows).</i><br><i>4. A blank table will appear. Enter the data as follows:</i><br><br><table border='1'><tr><th>Name</th><th>Age</th><th>Occupation</th></tr><tr><td>Kofi</td><td>25</td><td>Teacher</td></tr><tr><td>Ama</td><td>30</td><td>Doctor</td></tr></table><br><i>5. Adjust the column widths and row heights as needed.</i></p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

@@ -1288,5 +1288,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "63760": {
+        "order_id": 31,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "ICT Basics",
+        "question_type": "Objective",
+        "exam_year": "2005",
+        "question_text": "<p>Which of the following is <b>NOT</b> a characteristic of Information and Communication Technology (ICT)?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>ICT is defined by its ability to process, store, retrieve, and transmit information efficiently. However, <b>manual data processing</b> is not a characteristic of ICT, as ICT emphasizes automation and digital methods.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "76614",
+                "tag": "a",
+                "text": "Automation of processes",
+                "is_correct": false
+            },
+            {
+                "option_id": "45417",
+                "tag": "b",
+                "text": "Manual data processing",
+                "is_correct": true
+            },
+            {
+                "option_id": "77731",
+                "tag": "c",
+                "text": "Digital data transmission",
+                "is_correct": false
+            },
+            {
+                "option_id": "52726",
+                "tag": "d",
+                "text": "Electronic storage of information",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "63761": {
+        "order_id": 32,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Computer Types",
+        "question_type": "Objective",
+        "exam_year": "2005",
+        "question_text": "<p>Which type of computer is designed to perform complex scientific calculations and is typically used in research institutions?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Supercomputers</b> are high-performance machines designed for complex calculations, such as weather forecasting, nuclear research, and simulations. They are not used for general-purpose tasks like personal computing or business transactions.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "76615",
+                "tag": "a",
+                "text": "Microcomputer",
+                "is_correct": false
+            },
+            {
+                "option_id": "45418",
+                "tag": "b",
+                "text": "Minicomputer",
+                "is_correct": false
+            },
+            {
+                "option_id": "77732",
+                "tag": "c",
+                "text": "Supercomputer",
+                "is_correct": true
+            },
+            {
+                "option_id": "52727",
+                "tag": "d",
+                "text": "Mainframe computer",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "63762": {
+        "order_id": 33,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Hardware Components",
+        "question_type": "Objective",
+        "exam_year": "2005",
+        "question_text": "<p>Which hardware component is responsible for temporarily storing data and instructions that the CPU needs to access quickly?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>RAM (Random Access Memory)</b> is a volatile memory component that temporarily stores data and instructions for quick access by the CPU. Unlike ROM or hard drives, RAM loses its data when the computer is powered off.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "76616",
+                "tag": "a",
+                "text": "Hard disk drive",
+                "is_correct": false
+            },
+            {
+                "option_id": "45419",
+                "tag": "b",
+                "text": "ROM (Read-Only Memory)",
+                "is_correct": false
+            },
+            {
+                "option_id": "77733",
+                "tag": "c",
+                "text": "RAM (Random Access Memory)",
+                "is_correct": true
+            },
+            {
+                "option_id": "52728",
+                "tag": "d",
+                "text": "CPU (Central Processing Unit)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "63763": {
+        "order_id": 34,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Software Types",
+        "question_type": "Objective",
+        "exam_year": "2005",
+        "question_text": "<p>Which of the following is an example of <i>system software</i>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Operating systems</b> (e.g., Windows, Linux) are classified as system software because they manage hardware resources and provide a platform for application software to run. Word processors, spreadsheets, and games are examples of application software.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "76617",
+                "tag": "a",
+                "text": "Microsoft Word",
+                "is_correct": false
+            },
+            {
+                "option_id": "45420",
+                "tag": "b",
+                "text": "Windows XP",
+                "is_correct": true
+            },
+            {
+                "option_id": "77734",
+                "tag": "c",
+                "text": "Adobe Photoshop",
+                "is_correct": false
+            },
+            {
+                "option_id": "52729",
+                "tag": "d",
+                "text": "Computer game",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "63764": {
+        "order_id": 35,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Number System Conversion",
+        "question_type": "Objective",
+        "exam_year": "2005",
+        "question_text": "<p>Convert the binary number $1011_2$ to its decimal equivalent.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The binary number $1011_2$ can be converted to decimal as follows:<br>$1 \\times 2^3 + 0 \\times 2^2 + 1 \\times 2^1 + 1 \\times 2^0 = 8 + 0 + 2 + 1 = 11_{10}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "76618",
+                "tag": "a",
+                "text": "$9_{10}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "45421",
+                "tag": "b",
+                "text": "$10_{10}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "77735",
+                "tag": "c",
+                "text": "$11_{10}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "52730",
+                "tag": "d",
+                "text": "$12_{10}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "63765": {
+        "order_id": 36,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Network Types",
+        "question_type": "Objective",
+        "exam_year": "2005",
+        "question_text": "<p>A network that connects computers within a limited geographical area, such as a school or office, is called a:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>Local Area Network (LAN)</b> is designed to connect computers and devices within a limited area, such as a building or campus. WANs cover larger areas, MANs cover cities, and PANs are for personal devices.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "76619",
+                "tag": "a",
+                "text": "Wide Area Network (WAN)",
+                "is_correct": false
+            },
+            {
+                "option_id": "45422",
+                "tag": "b",
+                "text": "Metropolitan Area Network (MAN)",
+                "is_correct": false
+            },
+            {
+                "option_id": "77736",
+                "tag": "c",
+                "text": "Local Area Network (LAN)",
+                "is_correct": true
+            },
+            {
+                "option_id": "52731",
+                "tag": "d",
+                "text": "Personal Area Network (PAN)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "63766": {
+        "order_id": 37,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Cybersecurity Threats",
+        "question_type": "Objective",
+        "exam_year": "2005",
+        "question_text": "<p>Which of the following is a common method used by hackers to trick users into revealing sensitive information such as passwords or credit card numbers?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Phishing</b> is a cyberattack method where hackers impersonate legitimate entities (e.g., banks, companies) to deceive users into providing sensitive information. It is typically carried out via email or fake websites.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "76620",
+                "tag": "a",
+                "text": "Firewall",
+                "is_correct": false
+            },
+            {
+                "option_id": "45423",
+                "tag": "b",
+                "text": "Encryption",
+                "is_correct": false
+            },
+            {
+                "option_id": "77737",
+                "tag": "c",
+                "text": "Phishing",
+                "is_correct": true
+            },
+            {
+                "option_id": "52732",
+                "tag": "d",
+                "text": "Antivirus software",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "63767": {
+        "order_id": 38,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Logic Gates",
+        "question_type": "Objective",
+        "exam_year": "2005",
+        "question_text": "<p>Which logic gate produces an output of <b>1</b> only when all its inputs are <b>1</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>AND gate</b> is a logic gate that outputs <b>1</b> only if all its inputs are <b>1</b>. If any input is <b>0</b>, the output is <b>0</b>. Other gates like OR, NOT, and XOR behave differently.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "76621",
+                "tag": "a",
+                "text": "OR gate",
+                "is_correct": false
+            },
+            {
+                "option_id": "45424",
+                "tag": "b",
+                "text": "NOT gate",
+                "is_correct": false
+            },
+            {
+                "option_id": "77738",
+                "tag": "c",
+                "text": "AND gate",
+                "is_correct": true
+            },
+            {
+                "option_id": "52733",
+                "tag": "d",
+                "text": "XOR gate",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "63768": {
+        "order_id": 39,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Word Processing",
+        "question_type": "Objective",
+        "exam_year": "2005",
+        "question_text": "<p>In word processing, which feature is used to automatically correct common spelling mistakes as you type?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>AutoCorrect</b> feature in word processors automatically detects and corrects common spelling and typing errors as you type. Features like spell check, grammar check, and thesaurus serve different purposes.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "76622",
+                "tag": "a",
+                "text": "Spell Check",
+                "is_correct": false
+            },
+            {
+                "option_id": "45425",
+                "tag": "b",
+                "text": "AutoCorrect",
+                "is_correct": true
+            },
+            {
+                "option_id": "77739",
+                "tag": "c",
+                "text": "Grammar Check",
+                "is_correct": false
+            },
+            {
+                "option_id": "52734",
+                "tag": "d",
+                "text": "Thesaurus",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "63769": {
+        "order_id": 40,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Internet vs Intranet",
+        "question_type": "Objective",
+        "exam_year": "2005",
+        "question_text": "<p>What is the primary difference between the <b>Internet</b> and an <b>Intranet</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>Internet</b> is a global network accessible to the public, while an <b>Intranet</b> is a private network restricted to an organization's members. Intranets are used for internal communication and resource sharing within a company or institution.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "76623",
+                "tag": "a",
+                "text": "The Internet is faster than an Intranet",
+                "is_correct": false
+            },
+            {
+                "option_id": "45426",
+                "tag": "b",
+                "text": "The Internet is public, while an Intranet is private",
+                "is_correct": true
+            },
+            {
+                "option_id": "77740",
+                "tag": "c",
+                "text": "An Intranet is used for global communication",
+                "is_correct": false
+            },
+            {
+                "option_id": "52735",
+                "tag": "d",
+                "text": "The Internet is only used by businesses",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

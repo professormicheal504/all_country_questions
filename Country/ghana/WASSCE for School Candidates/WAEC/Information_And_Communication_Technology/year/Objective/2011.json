@@ -858,5 +858,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "10181": {
+        "order_id": 21,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "ICT Basics",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>Which of the following is <b>NOT</b> a characteristic of Information and Communication Technology (ICT)?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>ICT is defined by its ability to process, store, retrieve, and transmit information efficiently. However, <i>manual calculation</i> is not a characteristic of ICT, as ICT relies on automated and digital processes.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "98090",
+                "tag": "a",
+                "text": "Processing of information",
+                "is_correct": false
+            },
+            {
+                "option_id": "69232",
+                "tag": "b",
+                "text": "Manual calculation",
+                "is_correct": true
+            },
+            {
+                "option_id": "54953",
+                "tag": "c",
+                "text": "Storage of information",
+                "is_correct": false
+            },
+            {
+                "option_id": "75114",
+                "tag": "d",
+                "text": "Transmission of information",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "10182": {
+        "order_id": 22,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Computer Types",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>Which type of computer is designed to perform complex scientific calculations and is typically used in research institutions?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><i>Supercomputers</i> are high-performance machines designed for complex scientific calculations, such as weather forecasting, nuclear research, and simulations. They are the most powerful type of computer.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "98091",
+                "tag": "a",
+                "text": "Microcomputer",
+                "is_correct": false
+            },
+            {
+                "option_id": "69233",
+                "tag": "b",
+                "text": "Minicomputer",
+                "is_correct": false
+            },
+            {
+                "option_id": "54954",
+                "tag": "c",
+                "text": "Supercomputer",
+                "is_correct": true
+            },
+            {
+                "option_id": "75115",
+                "tag": "d",
+                "text": "Mainframe computer",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "10183": {
+        "order_id": 23,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Hardware Components",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>Which of the following hardware components is responsible for temporarily storing data and instructions that the CPU needs to access quickly?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><i>RAM (Random Access Memory)</i> is a volatile memory component that temporarily stores data and instructions for quick access by the CPU. It is essential for the smooth operation of a computer.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "98092",
+                "tag": "a",
+                "text": "Hard Disk Drive (HDD)",
+                "is_correct": false
+            },
+            {
+                "option_id": "69234",
+                "tag": "b",
+                "text": "Read-Only Memory (ROM)",
+                "is_correct": false
+            },
+            {
+                "option_id": "54955",
+                "tag": "c",
+                "text": "Random Access Memory (RAM)",
+                "is_correct": true
+            },
+            {
+                "option_id": "75116",
+                "tag": "d",
+                "text": "Central Processing Unit (CPU)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "10184": {
+        "order_id": 24,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Software Types",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>Which type of software is designed to help users perform specific tasks such as word processing or spreadsheet calculations?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><i>Application software</i> is designed to help users perform specific tasks, such as word processing (e.g., Microsoft Word), spreadsheet calculations (e.g., Microsoft Excel), or graphic design.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "98093",
+                "tag": "a",
+                "text": "System software",
+                "is_correct": false
+            },
+            {
+                "option_id": "69235",
+                "tag": "b",
+                "text": "Application software",
+                "is_correct": true
+            },
+            {
+                "option_id": "54956",
+                "tag": "c",
+                "text": "Utility software",
+                "is_correct": false
+            },
+            {
+                "option_id": "75117",
+                "tag": "d",
+                "text": "Firmware",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "10185": {
+        "order_id": 25,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Number System Conversion",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>Convert the binary number $1011_2$ to its decimal equivalent.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The binary number $1011_2$ can be converted to decimal as follows:<br>$1 \\times 2^3 + 0 \\times 2^2 + 1 \\times 2^1 + 1 \\times 2^0 = 8 + 0 + 2 + 1 = 11_{10}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "98094",
+                "tag": "a",
+                "text": "$9_{10}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "69236",
+                "tag": "b",
+                "text": "$10_{10}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "54957",
+                "tag": "c",
+                "text": "$11_{10}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "75118",
+                "tag": "d",
+                "text": "$12_{10}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "10186": {
+        "order_id": 26,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Network Types",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>Which of the following network types covers a small geographical area such as a single building or campus?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <i>Local Area Network (LAN)</i> is a network that covers a small geographical area, such as a single building, office, or campus. It is typically used to connect computers and devices within close proximity.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "98095",
+                "tag": "a",
+                "text": "Wide Area Network (WAN)",
+                "is_correct": false
+            },
+            {
+                "option_id": "69237",
+                "tag": "b",
+                "text": "Metropolitan Area Network (MAN)",
+                "is_correct": false
+            },
+            {
+                "option_id": "54958",
+                "tag": "c",
+                "text": "Local Area Network (LAN)",
+                "is_correct": true
+            },
+            {
+                "option_id": "75119",
+                "tag": "d",
+                "text": "Personal Area Network (PAN)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "10187": {
+        "order_id": 27,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Cybersecurity Threats",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>Which of the following is a type of cybersecurity threat that disguises itself as legitimate software but performs malicious activities?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <i>Trojan horse</i> is a type of malware that disguises itself as legitimate software but performs malicious activities, such as stealing data or creating backdoors for unauthorized access.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "98096",
+                "tag": "a",
+                "text": "Virus",
+                "is_correct": false
+            },
+            {
+                "option_id": "69238",
+                "tag": "b",
+                "text": "Worm",
+                "is_correct": false
+            },
+            {
+                "option_id": "54959",
+                "tag": "c",
+                "text": "Trojan horse",
+                "is_correct": true
+            },
+            {
+                "option_id": "75120",
+                "tag": "d",
+                "text": "Spyware",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "10188": {
+        "order_id": 28,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Logic Gates",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>Which logic gate produces an output of <i>1</i> only when all its inputs are <i>1</i>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <i>AND gate</i> is a logic gate that produces an output of <i>1</i> only when all its inputs are <i>1</i>. If any input is <i>0</i>, the output is <i>0</i>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "98097",
+                "tag": "a",
+                "text": "OR gate",
+                "is_correct": false
+            },
+            {
+                "option_id": "69239",
+                "tag": "b",
+                "text": "NOT gate",
+                "is_correct": false
+            },
+            {
+                "option_id": "54960",
+                "tag": "c",
+                "text": "AND gate",
+                "is_correct": true
+            },
+            {
+                "option_id": "75121",
+                "tag": "d",
+                "text": "XOR gate",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "10189": {
+        "order_id": 29,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Word Processing",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>In word processing software, which feature is used to automatically correct common spelling mistakes as you type?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <i>AutoCorrect</i> feature in word processing software automatically corrects common spelling mistakes and typos as you type, improving efficiency and accuracy.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "98098",
+                "tag": "a",
+                "text": "Spell Check",
+                "is_correct": false
+            },
+            {
+                "option_id": "69240",
+                "tag": "b",
+                "text": "AutoCorrect",
+                "is_correct": true
+            },
+            {
+                "option_id": "54961",
+                "tag": "c",
+                "text": "Thesaurus",
+                "is_correct": false
+            },
+            {
+                "option_id": "75122",
+                "tag": "d",
+                "text": "Grammar Check",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "10190": {
+        "order_id": 30,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "ICT in Society",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>Which of the following is a <b>negative</b> impact of ICT on society?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>While ICT has many positive impacts, <i>job displacement due to automation</i> is a significant negative impact, as it can lead to unemployment in certain sectors.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "98099",
+                "tag": "a",
+                "text": "Improved communication",
+                "is_correct": false
+            },
+            {
+                "option_id": "69241",
+                "tag": "b",
+                "text": "Enhanced education",
+                "is_correct": false
+            },
+            {
+                "option_id": "54962",
+                "tag": "c",
+                "text": "Job displacement due to automation",
+                "is_correct": true
+            },
+            {
+                "option_id": "75123",
+                "tag": "d",
+                "text": "Increased access to information",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

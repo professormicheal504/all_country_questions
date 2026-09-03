@@ -858,5 +858,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "83477": {
+        "order_id": 21,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Music Elements",
+        "question_type": "Objective",
+        "exam_year": "2019",
+        "question_text": "<p>Which of the following is <b>NOT</b> a fundamental element of music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The fundamental elements of music include pitch, rhythm, dynamics, timbre, texture, and form. <i>Color</i> is not considered a fundamental element of music.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "10992",
+                "tag": "a",
+                "text": "Pitch",
+                "is_correct": false
+            },
+            {
+                "option_id": "72301",
+                "tag": "b",
+                "text": "Rhythm",
+                "is_correct": false
+            },
+            {
+                "option_id": "24694",
+                "tag": "c",
+                "text": "Color",
+                "is_correct": true
+            },
+            {
+                "option_id": "15842",
+                "tag": "d",
+                "text": "Dynamics",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "83478": {
+        "order_id": 22,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Music Notation Basics",
+        "question_type": "Objective",
+        "exam_year": "2019",
+        "question_text": "<p>What does a <b>sharp (#)</b> sign indicate in music notation?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>sharp (#)</b> sign raises the pitch of a note by one semitone. For example, $C\raisebox{0.5pt}{\text{\textsharp}}$ is one semitone higher than $C$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "10993",
+                "tag": "a",
+                "text": "Lowers the note by a semitone",
+                "is_correct": false
+            },
+            {
+                "option_id": "72302",
+                "tag": "b",
+                "text": "Raises the note by a semitone",
+                "is_correct": true
+            },
+            {
+                "option_id": "24695",
+                "tag": "c",
+                "text": "Extends the note's duration",
+                "is_correct": false
+            },
+            {
+                "option_id": "15843",
+                "tag": "d",
+                "text": "Indicates a rest",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "83479": {
+        "order_id": 23,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Types of Scales",
+        "question_type": "Objective",
+        "exam_year": "2019",
+        "question_text": "<p>Which scale consists of five notes per octave and is commonly used in African traditional music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>pentatonic scale</b> consists of five notes per octave and is widely used in African traditional music, as well as in many other musical traditions worldwide.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "10994",
+                "tag": "a",
+                "text": "Chromatic scale",
+                "is_correct": false
+            },
+            {
+                "option_id": "72303",
+                "tag": "b",
+                "text": "Pentatonic scale",
+                "is_correct": true
+            },
+            {
+                "option_id": "24696",
+                "tag": "c",
+                "text": "Whole-tone scale",
+                "is_correct": false
+            },
+            {
+                "option_id": "15844",
+                "tag": "d",
+                "text": "Octatonic scale",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "83480": {
+        "order_id": 24,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Intervals and Inversions",
+        "question_type": "Objective",
+        "exam_year": "2019",
+        "question_text": "<p>What is the inversion of a <b>perfect fifth</b> ($5^{th}$) interval?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The inversion of a <b>perfect fifth</b> ($5^{th}$) is a <b>perfect fourth</b> ($4^{th}$). Inversion is calculated by subtracting the interval from 9 (e.g., $9 - 5 = 4$).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "10995",
+                "tag": "a",
+                "text": "Major third ($3^{rd}$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "72304",
+                "tag": "b",
+                "text": "Perfect fourth ($4^{th}$)",
+                "is_correct": true
+            },
+            {
+                "option_id": "24697",
+                "tag": "c",
+                "text": "Minor sixth ($6^{th}$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "15845",
+                "tag": "d",
+                "text": "Major sixth ($6^{th}$)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "83481": {
+        "order_id": 25,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Chords and Inversions",
+        "question_type": "Objective",
+        "exam_year": "2019",
+        "question_text": "<p>In a <b>triad</b>, what is the name of the chord when the <b>third</b> is the lowest note?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>When the <b>third</b> of a triad is the lowest note, the chord is in its <b>first inversion</b>, also known as a <b>6-3 chord</b>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "10996",
+                "tag": "a",
+                "text": "Root position",
+                "is_correct": false
+            },
+            {
+                "option_id": "72305",
+                "tag": "b",
+                "text": "First inversion",
+                "is_correct": true
+            },
+            {
+                "option_id": "24698",
+                "tag": "c",
+                "text": "Second inversion",
+                "is_correct": false
+            },
+            {
+                "option_id": "15846",
+                "tag": "d",
+                "text": "Third inversion",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "83482": {
+        "order_id": 26,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Cadence Types",
+        "question_type": "Objective",
+        "exam_year": "2019",
+        "question_text": "<p>Which cadence creates a sense of <b>finality</b> and is often used to conclude a piece of music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>perfect cadence</b> (V-I) creates a strong sense of finality and is commonly used to conclude musical compositions.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "10997",
+                "tag": "a",
+                "text": "Plagal cadence",
+                "is_correct": false
+            },
+            {
+                "option_id": "72306",
+                "tag": "b",
+                "text": "Imperfect cadence",
+                "is_correct": false
+            },
+            {
+                "option_id": "24699",
+                "tag": "c",
+                "text": "Perfect cadence",
+                "is_correct": true
+            },
+            {
+                "option_id": "15847",
+                "tag": "d",
+                "text": "Interrupted cadence",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "83483": {
+        "order_id": 27,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "African Music Traits",
+        "question_type": "Objective",
+        "exam_year": "2019",
+        "question_text": "<p>Which of the following is a <b>key characteristic</b> of African traditional music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Call-and-response</b> is a fundamental characteristic of African traditional music, where a leader's phrase is answered by a group or another musician.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "10998",
+                "tag": "a",
+                "text": "Use of strict Western harmony",
+                "is_correct": false
+            },
+            {
+                "option_id": "72307",
+                "tag": "b",
+                "text": "Call-and-response patterns",
+                "is_correct": true
+            },
+            {
+                "option_id": "24700",
+                "tag": "c",
+                "text": "Exclusive use of string instruments",
+                "is_correct": false
+            },
+            {
+                "option_id": "15848",
+                "tag": "d",
+                "text": "Notation-based composition",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "83484": {
+        "order_id": 28,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Western Art Music Periods",
+        "question_type": "Objective",
+        "exam_year": "2019",
+        "question_text": "<p>Which period of Western art music is characterized by <b>ornate melodies</b>, <b>basso continuo</b>, and <b>contrasting dynamics</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>Baroque period</b> (c. 1600\u20131750) is known for its ornate melodies, use of <b>basso continuo</b>, and the introduction of contrasting dynamics.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "10999",
+                "tag": "a",
+                "text": "Classical",
+                "is_correct": false
+            },
+            {
+                "option_id": "72308",
+                "tag": "b",
+                "text": "Baroque",
+                "is_correct": true
+            },
+            {
+                "option_id": "24701",
+                "tag": "c",
+                "text": "Romantic",
+                "is_correct": false
+            },
+            {
+                "option_id": "15849",
+                "tag": "d",
+                "text": "Renaissance",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "83485": {
+        "order_id": 29,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Ghanaian Traditional Music",
+        "question_type": "Objective",
+        "exam_year": "2019",
+        "question_text": "<p>Which Ghanaian traditional instrument is a <b>talking drum</b> used for communication and ceremonial purposes?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>Dondo</b> (or <b>Atumpan</b>) is a type of talking drum used in Ghana for communication, storytelling, and ceremonial events.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "11000",
+                "tag": "a",
+                "text": "Gong-gong",
+                "is_correct": false
+            },
+            {
+                "option_id": "72309",
+                "tag": "b",
+                "text": "Dondo",
+                "is_correct": true
+            },
+            {
+                "option_id": "24702",
+                "tag": "c",
+                "text": "Seperewa",
+                "is_correct": false
+            },
+            {
+                "option_id": "15850",
+                "tag": "d",
+                "text": "Axatse",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "83486": {
+        "order_id": 30,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Aural Skills Training",
+        "question_type": "Objective",
+        "exam_year": "2019",
+        "question_text": "<p>What is the primary purpose of <b>aural skills training</b> in music education?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The primary purpose of <b>aural skills training</b> is to develop the ability to <b>recognize and reproduce musical elements by ear</b>, such as intervals, rhythms, and melodies.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "11001",
+                "tag": "a",
+                "text": "To improve sight-reading speed",
+                "is_correct": false
+            },
+            {
+                "option_id": "72310",
+                "tag": "b",
+                "text": "To recognize and reproduce musical elements by ear",
+                "is_correct": true
+            },
+            {
+                "option_id": "24703",
+                "tag": "c",
+                "text": "To memorize music theory rules",
+                "is_correct": false
+            },
+            {
+                "option_id": "15851",
+                "tag": "d",
+                "text": "To compose complex harmonies",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

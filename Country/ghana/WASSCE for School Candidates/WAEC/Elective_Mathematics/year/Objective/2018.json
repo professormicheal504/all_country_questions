@@ -1288,5 +1288,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "18572": {
+        "order_id": 31,
+        "exam_type": "WAEC",
+        "subject": "Elective Mathematics",
+        "topic": "Surds",
+        "question_type": "Objective",
+        "exam_year": "2018",
+        "question_text": "<p>Rationalize the denominator of the expression $\\frac{5}{\\sqrt{3} + 2}$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>To rationalize the denominator, multiply the numerator and the denominator by the conjugate of the denominator, which is $\\sqrt{3} - 2$.<br><br>$\\frac{5}{\\sqrt{3} + 2} \\times \\frac{\\sqrt{3} - 2}{\\sqrt{3} - 2} = \\frac{5(\\sqrt{3} - 2)}{(\\sqrt{3})^2 - (2)^2} = \\frac{5\\sqrt{3} - 10}{3 - 4} = \\frac{5\\sqrt{3} - 10}{-1} = -5\\sqrt{3} + 10$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "33289",
+                "tag": "a",
+                "text": "$5\\sqrt{3} - 10$",
+                "is_correct": false
+            },
+            {
+                "option_id": "38168",
+                "tag": "b",
+                "text": "$-5\\sqrt{3} + 10$",
+                "is_correct": true
+            },
+            {
+                "option_id": "14111",
+                "tag": "c",
+                "text": "$5\\sqrt{3} + 10$",
+                "is_correct": false
+            },
+            {
+                "option_id": "20616",
+                "tag": "d",
+                "text": "$-5\\sqrt{3} - 10$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "18573": {
+        "order_id": 32,
+        "exam_type": "WAEC",
+        "subject": "Elective Mathematics",
+        "topic": "Indices and Logarithms",
+        "question_type": "Objective",
+        "exam_year": "2018",
+        "question_text": "<p>If $2^{x+1} = 8^{2x-3}$, find the value of $x$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Express both sides with the same base: $8 = 2^3$, so $8^{2x-3} = (2^3)^{2x-3} = 2^{6x-9}$.<br><br>The equation becomes $2^{x+1} = 2^{6x-9}$. Since the bases are equal, set the exponents equal: $x + 1 = 6x - 9$.<br><br>Solving for $x$: $1 + 9 = 6x - x \\Rightarrow 10 = 5x \\Rightarrow x = 2$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "33290",
+                "tag": "a",
+                "text": "$1$",
+                "is_correct": false
+            },
+            {
+                "option_id": "38169",
+                "tag": "b",
+                "text": "$2$",
+                "is_correct": true
+            },
+            {
+                "option_id": "14112",
+                "tag": "c",
+                "text": "$3$",
+                "is_correct": false
+            },
+            {
+                "option_id": "20617",
+                "tag": "d",
+                "text": "$4$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "18574": {
+        "order_id": 33,
+        "exam_type": "WAEC",
+        "subject": "Elective Mathematics",
+        "topic": "Polynomials",
+        "question_type": "Objective",
+        "exam_year": "2018",
+        "question_text": "<p>Given that $x + 2$ is a factor of $f(x) = x^3 + 4x^2 + x - 6$, find the other factors.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Since $x + 2$ is a factor, use synthetic division or polynomial division to factorize $f(x)$.<br><br>Dividing $f(x)$ by $x + 2$ gives $x^2 + 2x - 3$.<br><br>Factorizing $x^2 + 2x - 3$ gives $(x + 3)(x - 1)$.<br><br>Thus, the factors are $(x + 2)(x + 3)(x - 1)$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "33291",
+                "tag": "a",
+                "text": "$(x - 2)(x + 3)(x - 1)$",
+                "is_correct": false
+            },
+            {
+                "option_id": "38170",
+                "tag": "b",
+                "text": "$(x + 2)(x + 3)(x - 1)$",
+                "is_correct": true
+            },
+            {
+                "option_id": "14113",
+                "tag": "c",
+                "text": "$(x + 2)(x - 3)(x + 1)$",
+                "is_correct": false
+            },
+            {
+                "option_id": "20618",
+                "tag": "d",
+                "text": "$(x - 2)(x - 3)(x + 1)$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "18575": {
+        "order_id": 34,
+        "exam_type": "WAEC",
+        "subject": "Elective Mathematics",
+        "topic": "Partial Fractions",
+        "question_type": "Objective",
+        "exam_year": "2018",
+        "question_text": "<p>Express $\\frac{3x + 5}{(x + 1)(x - 2)}$ in partial fractions.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Assume $\\frac{3x + 5}{(x + 1)(x - 2)} = \\frac{A}{x + 1} + \\frac{B}{x - 2}$.<br><br>Multiply through by $(x + 1)(x - 2)$: $3x + 5 = A(x - 2) + B(x + 1)$.<br><br>Solve for $A$ and $B$ by substituting $x = -1$ and $x = 2$: <br>$A = 2$, $B = 1$.<br><br>Thus, the partial fractions are $\\frac{2}{x + 1} + \\frac{1}{x - 2}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "33292",
+                "tag": "a",
+                "text": "$\\frac{1}{x + 1} + \\frac{2}{x - 2}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "38171",
+                "tag": "b",
+                "text": "$\\frac{2}{x + 1} + \\frac{1}{x - 2}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "14114",
+                "tag": "c",
+                "text": "$\\frac{1}{x + 1} - \\frac{2}{x - 2}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "20619",
+                "tag": "d",
+                "text": "$\\frac{2}{x + 1} - \\frac{1}{x - 2}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "18576": {
+        "order_id": 35,
+        "exam_type": "WAEC",
+        "subject": "Elective Mathematics",
+        "topic": "Binomial Theorem",
+        "question_type": "Objective",
+        "exam_year": "2018",
+        "question_text": "<p>Find the coefficient of $x^3$ in the expansion of $(2x - 3)^5$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Use the binomial expansion formula: $(a + b)^n = \\sum_{k=0}^{n} \\binom{n}{k} a^{n-k} b^k$.<br><br>Here, $a = 2x$, $b = -3$, and $n = 5$.<br><br>The general term is $\\binom{5}{k} (2x)^{5-k} (-3)^k$.<br><br>For the coefficient of $x^3$, set $5 - k = 3 \\Rightarrow k = 2$.<br><br>The coefficient is $\\binom{5}{2} (2)^{3} (-3)^2 = 10 \\times 8 \\times 9 = 720$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "33293",
+                "tag": "a",
+                "text": "$-720$",
+                "is_correct": false
+            },
+            {
+                "option_id": "38172",
+                "tag": "b",
+                "text": "$720$",
+                "is_correct": true
+            },
+            {
+                "option_id": "14115",
+                "tag": "c",
+                "text": "$-360$",
+                "is_correct": false
+            },
+            {
+                "option_id": "20620",
+                "tag": "d",
+                "text": "$360$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "18577": {
+        "order_id": 36,
+        "exam_type": "WAEC",
+        "subject": "Elective Mathematics",
+        "topic": "Permutations and Combinations",
+        "question_type": "Objective",
+        "exam_year": "2018",
+        "question_text": "<p>In how many ways can 5 students be seated in a row if two particular students must sit next to each other?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Treat the two particular students as a single entity. This reduces the problem to arranging 4 entities (the pair + 3 other students).<br><br>The number of ways to arrange 4 entities is $4! = 24$.<br><br>The two students can switch places within the pair in $2! = 2$ ways.<br><br>Total arrangements: $4! \\times 2! = 24 \\times 2 = 48$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "33294",
+                "tag": "a",
+                "text": "$24$",
+                "is_correct": false
+            },
+            {
+                "option_id": "38173",
+                "tag": "b",
+                "text": "$48$",
+                "is_correct": true
+            },
+            {
+                "option_id": "14116",
+                "tag": "c",
+                "text": "$72$",
+                "is_correct": false
+            },
+            {
+                "option_id": "20621",
+                "tag": "d",
+                "text": "$120$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "18578": {
+        "order_id": 37,
+        "exam_type": "WAEC",
+        "subject": "Elective Mathematics",
+        "topic": "Matrices",
+        "question_type": "Objective",
+        "exam_year": "2018",
+        "question_text": "<p>If $A = \\begin{pmatrix} 1 & 2 \\ 3 & 4 \\end{pmatrix}$ and $B = \\begin{pmatrix} 2 & 0 \\ 1 & 2 \\end{pmatrix}$, find $AB$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Multiply matrices $A$ and $B$ using the rule for matrix multiplication:<br><br>$AB = \\begin{pmatrix} (1)(2) + (2)(1) & (1)(0) + (2)(2) \\ (3)(2) + (4)(1) & (3)(0) + (4)(2) \\end{pmatrix} = \\begin{pmatrix} 4 & 4 \\ 10 & 8 \\end{pmatrix}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "33295",
+                "tag": "a",
+                "text": "$\\begin{pmatrix} 4 & 2 \\ 7 & 8 \\end{pmatrix}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "38174",
+                "tag": "b",
+                "text": "$\\begin{pmatrix} 4 & 4 \\ 10 & 8 \\end{pmatrix}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "14117",
+                "tag": "c",
+                "text": "$\\begin{pmatrix} 3 & 4 \\ 7 & 8 \\end{pmatrix}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "20622",
+                "tag": "d",
+                "text": "$\\begin{pmatrix} 4 & 4 \\ 6 & 8 \\end{pmatrix}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "18579": {
+        "order_id": 38,
+        "exam_type": "WAEC",
+        "subject": "Elective Mathematics",
+        "topic": "Vectors",
+        "question_type": "Objective",
+        "exam_year": "2018",
+        "question_text": "<p>Find the dot product of the vectors $\\mathbf{a} = 3\\mathbf{i} + 2\\mathbf{j} - \\mathbf{k}$ and $\\mathbf{b} = \\mathbf{i} - 4\\mathbf{j} + 2\\mathbf{k}$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The dot product is calculated as:<br><br>$\\mathbf{a} \\cdot \\mathbf{b} = (3)(1) + (2)(-4) + (-1)(2) = 3 - 8 - 2 = -7$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "33296",
+                "tag": "a",
+                "text": "$-7$",
+                "is_correct": true
+            },
+            {
+                "option_id": "38175",
+                "tag": "b",
+                "text": "$7$",
+                "is_correct": false
+            },
+            {
+                "option_id": "14118",
+                "tag": "c",
+                "text": "$-5$",
+                "is_correct": false
+            },
+            {
+                "option_id": "20623",
+                "tag": "d",
+                "text": "$5$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "18580": {
+        "order_id": 39,
+        "exam_type": "WAEC",
+        "subject": "Elective Mathematics",
+        "topic": "Trigonometry",
+        "question_type": "Objective",
+        "exam_year": "2018",
+        "question_text": "<p>Solve the equation $2\\sin^2 \\theta - \\sin \\theta - 1 = 0$ for $0^\\circ \\leq \\theta \\leq 360^\\circ$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Let $x = \\sin \\theta$. The equation becomes $2x^2 - x - 1 = 0$.<br><br>Solve the quadratic equation: $x = \\frac{1 \\pm \\sqrt{1 + 8}}{4} = \\frac{1 \\pm 3}{4}$.<br><br>Thus, $x = 1$ or $x = -\\frac{1}{2}$.<br><br>For $\\sin \\theta = 1$, $\\theta = 90^\\circ$.<br><br>For $\\sin \\theta = -\\frac{1}{2}$, $\\theta = 210^\\circ$ or $330^\\circ$.<br><br>The solutions are $\\theta = 90^\\circ, 210^\\circ, 330^\\circ$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "33297",
+                "tag": "a",
+                "text": "$90^\\circ, 210^\\circ$",
+                "is_correct": false
+            },
+            {
+                "option_id": "38176",
+                "tag": "b",
+                "text": "$90^\\circ, 210^\\circ, 330^\\circ$",
+                "is_correct": true
+            },
+            {
+                "option_id": "14119",
+                "tag": "c",
+                "text": "$210^\\circ, 330^\\circ$",
+                "is_correct": false
+            },
+            {
+                "option_id": "20624",
+                "tag": "d",
+                "text": "$90^\\circ, 330^\\circ$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "18581": {
+        "order_id": 40,
+        "exam_type": "WAEC",
+        "subject": "Elective Mathematics",
+        "topic": "Differentiation",
+        "question_type": "Objective",
+        "exam_year": "2018",
+        "question_text": "<p>Find the derivative of $y = x^3 \\ln x$ with respect to $x$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Use the product rule: $\\frac{dy}{dx} = \\frac{d}{dx}(x^3) \\cdot \\ln x + x^3 \\cdot \\frac{d}{dx}(\\ln x)$.<br><br>$\\frac{dy}{dx} = 3x^2 \\ln x + x^3 \\cdot \\frac{1}{x} = 3x^2 \\ln x + x^2$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "33298",
+                "tag": "a",
+                "text": "$3x^2 \\ln x$",
+                "is_correct": false
+            },
+            {
+                "option_id": "38177",
+                "tag": "b",
+                "text": "$3x^2 \\ln x + x^2$",
+                "is_correct": true
+            },
+            {
+                "option_id": "14120",
+                "tag": "c",
+                "text": "$x^2 \\ln x + 3x^2$",
+                "is_correct": false
+            },
+            {
+                "option_id": "20625",
+                "tag": "d",
+                "text": "$x^2 \\ln x + x^2$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

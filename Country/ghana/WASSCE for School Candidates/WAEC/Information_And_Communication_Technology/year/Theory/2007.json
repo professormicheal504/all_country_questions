@@ -1,0 +1,282 @@
+{
+    "91063": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "ICT Basics",
+        "question_type": "Theory",
+        "exam_year": "2007",
+        "question_text": "<p>Explain the term <b>Information and Communication Technology (ICT)</b> and list <u>four</u> key areas where ICT is applied in modern society.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Information and Communication Technology (ICT)</b> refers to the use of digital technology to process, store, transmit, and retrieve information efficiently. It integrates computing, telecommunications, and electronics to facilitate communication and information management.<br><br>Key areas of ICT application include:<br><br>1. <b>Education</b>: E-learning platforms, digital libraries, and virtual classrooms.<br>2. <b>Healthcare</b>: Electronic health records, telemedicine, and medical imaging.<br>3. <b>Business</b>: E-commerce, digital marketing, and enterprise resource planning (ERP).<br>4. <b>Government</b>: E-governance, online tax filing, and digital citizen services.<br>5. <b>Entertainment</b>: Streaming services, digital gaming, and social media.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "91064": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Computer Types",
+        "question_type": "Objective",
+        "exam_year": "2007",
+        "question_text": "<p>Which of the following is an example of a <b>supercomputer</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>supercomputer</b> is a high-performance computing machine designed for complex calculations and data processing at extremely high speeds. <i>IBM's Summit</i> is a well-known example of a supercomputer used for scientific research and simulations.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "41248",
+                "tag": "a",
+                "text": "Desktop PC",
+                "is_correct": false
+            },
+            {
+                "option_id": "38690",
+                "tag": "b",
+                "text": "IBM's Summit",
+                "is_correct": true
+            },
+            {
+                "option_id": "30032",
+                "tag": "c",
+                "text": "Laptop",
+                "is_correct": false
+            },
+            {
+                "option_id": "61159",
+                "tag": "d",
+                "text": "Smartphone",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "91065": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Hardware Components",
+        "question_type": "Theory",
+        "exam_year": "2007",
+        "question_text": "<p>Describe the functions of the following hardware components in a computer system:<br><br>(i) <b>Central Processing Unit (CPU)</b><br>(ii) <b>Random Access Memory (RAM)</b><br>(iii) <b>Hard Disk Drive (HDD)</b></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) <b>Central Processing Unit (CPU)</b>: The CPU is the brain of the computer, responsible for executing instructions, performing calculations, and managing data flow between hardware components.<br><br>(ii) <b>Random Access Memory (RAM)</b>: RAM is volatile memory that temporarily stores data and instructions currently in use by the CPU. It allows for fast read/write operations but loses data when the computer is powered off.<br><br>(iii) <b>Hard Disk Drive (HDD)</b>: The HDD is non-volatile storage that permanently stores the operating system, software, and user data. It provides large storage capacity but operates at slower speeds compared to RAM.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "91066": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Number System Conversion",
+        "question_type": "Theory",
+        "exam_year": "2007",
+        "question_text": "<p>Convert the binary number <b>$110101_2$</b> to its decimal equivalent. Show all steps clearly.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>To convert the binary number $110101_2$ to decimal:<br><br>1. Write down the binary number and assign powers of 2 from right to left (starting at $2^0$):<br><br>$1 \times 2^5 + 1 \times 2^4 + 0 \times 2^3 + 1 \times 2^2 + 0 \times 2^1 + 1 \times 2^0$<br><br>2. Calculate each term:<br>$1 \times 32 = 32$<br>$1 \times 16 = 16$<br>$0 \times 8 = 0$<br>$1 \times 4 = 4$<br>$0 \times 2 = 0$<br>$1 \times 1 = 1$<br><br>3. Sum the results:<br>$32 + 16 + 0 + 4 + 0 + 1 = 53$<br><br>Thus, $110101_2 = 53_{10}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "91067": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Logic Gates",
+        "question_type": "Objective",
+        "exam_year": "2007",
+        "question_text": "<p>Which logic gate produces an output of <b>1</b> only when <u>all</u> its inputs are <b>1</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>AND gate</b> is a logic gate that outputs <b>1</b> only when all its inputs are <b>1</b>. If any input is <b>0</b>, the output is <b>0</b>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "41248",
+                "tag": "a",
+                "text": "OR gate",
+                "is_correct": false
+            },
+            {
+                "option_id": "38690",
+                "tag": "b",
+                "text": "AND gate",
+                "is_correct": true
+            },
+            {
+                "option_id": "30032",
+                "tag": "c",
+                "text": "NOT gate",
+                "is_correct": false
+            },
+            {
+                "option_id": "61159",
+                "tag": "d",
+                "text": "XOR gate",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "91068": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Cybersecurity Threats",
+        "question_type": "Theory",
+        "exam_year": "2007",
+        "question_text": "<p>Explain the following cybersecurity threats and suggest <u>one</u> preventive measure for each:<br><br>(i) <b>Phishing</b><br>(ii) <b>Malware</b><br>(iii) <b>Denial-of-Service (DoS) Attack</b></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) <b>Phishing</b>: A cyberattack where attackers impersonate legitimate entities to trick users into revealing sensitive information (e.g., passwords, credit card details).<br><b>Preventive Measure</b>: Educate users to verify sender email addresses and avoid clicking on suspicious links.<br><br>(ii) <b>Malware</b>: Malicious software designed to damage, disrupt, or gain unauthorized access to computer systems (e.g., viruses, worms, ransomware).<br><b>Preventive Measure</b>: Install and regularly update antivirus software.<br><br>(iii) <b>Denial-of-Service (DoS) Attack</b>: An attack that overwhelms a system with traffic, rendering it unavailable to legitimate users.<br><b>Preventive Measure</b>: Use firewalls and intrusion detection systems to filter malicious traffic.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "91069": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Operating Systems",
+        "question_type": "Objective",
+        "exam_year": "2007",
+        "question_text": "<p>Which of the following is <b>NOT</b> a function of an operating system?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>An operating system manages hardware resources, provides a user interface, runs applications, and ensures security. <b>Compiling source code</b> is a function of a compiler, not an operating system.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "41248",
+                "tag": "a",
+                "text": "Memory management",
+                "is_correct": false
+            },
+            {
+                "option_id": "38690",
+                "tag": "b",
+                "text": "User interface provision",
+                "is_correct": false
+            },
+            {
+                "option_id": "30032",
+                "tag": "c",
+                "text": "Compiling source code",
+                "is_correct": true
+            },
+            {
+                "option_id": "61159",
+                "tag": "d",
+                "text": "Process scheduling",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "91070": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Spreadsheet Tools",
+        "question_type": "Practical",
+        "exam_year": "2007",
+        "question_text": "<p>In a spreadsheet application, write the formula to calculate the <b>average</b> of values in cells <b>A1</b> to <b>A10</b>. Also, explain how you would use the <b>IF function</b> to display <i>\"Pass\"</i> if the average is <u>greater than or equal to 50</u> and <i>\"Fail\"</i> otherwise.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>1. To calculate the average of values in cells <b>A1</b> to <b>A10</b>, use the formula:<br><br><b>=AVERAGE(A1:A10)</b><br><br>2. To display <i>\"Pass\"</i> or <i>\"Fail\"</i> based on the average, use the <b>IF function</b>:<br><br><b>=IF(AVERAGE(A1:A10) >= 50, \"Pass\", \"Fail\")</b><br><br>The <b>IF function</b> checks if the average is <u>greater than or equal to 50</u>. If true, it returns <i>\"Pass\"</i>; otherwise, it returns <i>\"Fail\"</i>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "91071": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Network Devices",
+        "question_type": "Objective",
+        "exam_year": "2007",
+        "question_text": "<p>Which network device is used to <b>connect multiple networks</b> and <u>route data packets</u> between them?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>router</b> is a network device that connects multiple networks and routes data packets between them based on their IP addresses. It operates at the <b>Network Layer (Layer 3)</b> of the OSI model.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "41248",
+                "tag": "a",
+                "text": "Hub",
+                "is_correct": false
+            },
+            {
+                "option_id": "38690",
+                "tag": "b",
+                "text": "Switch",
+                "is_correct": false
+            },
+            {
+                "option_id": "30032",
+                "tag": "c",
+                "text": "Router",
+                "is_correct": true
+            },
+            {
+                "option_id": "61159",
+                "tag": "d",
+                "text": "Modem",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "91072": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Computer Ethics",
+        "question_type": "Theory",
+        "exam_year": "2007",
+        "question_text": "<p>Discuss <u>three</u> ethical issues associated with the use of ICT and suggest ways to address them.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>1. <b>Privacy Violation</b>: Unauthorized access to personal data can lead to identity theft or misuse of information.<br><b>Solution</b>: Implement strong data protection laws and use encryption technologies.<br><br>2. <b>Software Piracy</b>: Illegal copying or distribution of software deprives developers of revenue.<br><b>Solution</b>: Enforce copyright laws and promote the use of open-source or licensed software.<br><br>3. <b>Cyberbullying</b>: Harassment or bullying via digital platforms can cause emotional distress.<br><b>Solution</b>: Educate users on responsible online behavior and enforce strict policies on social media platforms.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

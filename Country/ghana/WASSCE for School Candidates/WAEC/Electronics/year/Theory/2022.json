@@ -1,0 +1,257 @@
+{
+    "42053": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Electronics Basics",
+        "question_type": "Theory",
+        "exam_year": "2022",
+        "question_text": "<p>Explain the concept of <b>electron flow</b> in a conductor and distinguish it from <b>conventional current flow</b>. Include a diagram in your explanation if necessary.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Electron flow</b> refers to the movement of negatively charged electrons from the negative terminal to the positive terminal of a voltage source. This is the actual physical movement of charge carriers in most conductors.<br><br><b>Conventional current flow</b>, on the other hand, is a historical concept that assumes current flows from the positive terminal to the negative terminal. This was established before the discovery of the electron and is still used in circuit analysis for consistency.<br><br>Diagrammatically, electron flow is opposite to conventional current flow. For example, in a simple circuit with a battery and resistor, electrons move from the negative to the positive terminal, while conventional current is shown flowing from positive to negative.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "42054": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Atomic Structure and Energy Bands",
+        "question_type": "Theory",
+        "exam_year": "2022",
+        "question_text": "<p>Describe the <b>energy band structure</b> of a semiconductor material. How does this structure differ from that of conductors and insulators?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In a semiconductor, the energy band structure consists of a <b>valence band</b>, a <b>conduction band</b>, and a <b>forbidden energy gap (bandgap)</b> between them.<br><br>- The <i>valence band</i> is filled with electrons at absolute zero temperature.<br>- The <i>conduction band</i> is empty at absolute zero but can be populated with electrons at higher temperatures or through doping.<br>- The <i>bandgap</i> ($E_g$) is the energy difference between the valence and conduction bands. For semiconductors, $E_g$ is small (e.g., $1.1 \text{ eV}$ for silicon).<br><br>In <b>conductors</b>, the valence and conduction bands overlap, allowing free electron movement. In <b>insulators</b>, the bandgap is large (e.g., $5 \text{ eV}$ or more), preventing electron excitation to the conduction band at room temperature.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "42055": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Semiconductor Doping",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>Which of the following elements is commonly used as a <b>donor impurity</b> in <i>n-type</i> silicon doping?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>donor impurity</b> in <i>n-type</i> doping provides extra electrons to the semiconductor. Phosphorus (P) is a Group V element with 5 valence electrons, making it ideal for donating an extra electron to silicon (Group IV). This increases the number of free electrons, enhancing conductivity.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "51736",
+                "tag": "a",
+                "text": "Boron (B)",
+                "is_correct": false
+            },
+            {
+                "option_id": "56976",
+                "tag": "b",
+                "text": "Phosphorus (P)",
+                "is_correct": true
+            },
+            {
+                "option_id": "96502",
+                "tag": "c",
+                "text": "Aluminum (Al)",
+                "is_correct": false
+            },
+            {
+                "option_id": "73922",
+                "tag": "d",
+                "text": "Gallium (Ga)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "42056": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "PN Junction Diode",
+        "question_type": "Theory",
+        "exam_year": "2022",
+        "question_text": "<p>Explain the formation of the <b>depletion region</b> in a PN junction diode. How does this region affect the diode's behavior under <i>forward bias</i> and <i>reverse bias</i>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>depletion region</b> forms at the junction of a PN diode due to the diffusion of electrons from the <i>n-type</i> side to the <i>p-type</i> side and holes in the opposite direction. This creates a region depleted of free charge carriers, leaving behind fixed ions that establish an electric field.<br><br>Under <i>forward bias</i>, the applied voltage reduces the depletion region's width, allowing current to flow as majority carriers overcome the potential barrier.<br><br>Under <i>reverse bias</i>, the depletion region widens, increasing the potential barrier and preventing current flow (except for a small reverse saturation current due to minority carriers).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "42057": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Diode Rectification",
+        "question_type": "Theory",
+        "exam_year": "2022",
+        "question_text": "<p>Draw and explain the operation of a <b>full-wave bridge rectifier</b>. Include the input and output waveforms in your explanation.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>full-wave bridge rectifier</b> uses four diodes arranged in a bridge configuration to convert AC to DC. During the positive half-cycle of the input AC, diodes D1 and D2 conduct, allowing current to flow through the load. During the negative half-cycle, diodes D3 and D4 conduct, again allowing current to flow in the same direction through the load.<br><br>The output waveform is a pulsating DC signal with twice the frequency of the input AC. A smoothing capacitor can be added to reduce ripple voltage.<br><br><b>Waveforms:</b><br>- Input: Sinusoidal AC.<br>- Output: Pulsating DC with both halves of the AC waveform utilized.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "42058": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Zener Diodes and Regulation",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>A Zener diode is primarily used for:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A Zener diode operates in the <i>reverse breakdown region</i> and is designed to maintain a constant voltage across its terminals, making it ideal for voltage regulation applications.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "51736",
+                "tag": "a",
+                "text": "Amplification",
+                "is_correct": false
+            },
+            {
+                "option_id": "56976",
+                "tag": "b",
+                "text": "Voltage regulation",
+                "is_correct": true
+            },
+            {
+                "option_id": "96502",
+                "tag": "c",
+                "text": "Rectification",
+                "is_correct": false
+            },
+            {
+                "option_id": "73922",
+                "tag": "d",
+                "text": "Oscillation",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "42059": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "BJT Biasing Methods",
+        "question_type": "Theory",
+        "exam_year": "2022",
+        "question_text": "<p>Describe the <b>voltage-divider biasing</b> method for a BJT. Include a circuit diagram and explain how it stabilizes the operating point.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Voltage-divider biasing</b> uses a pair of resistors ($R_1$ and $R_2$) connected across the supply voltage ($V_{CC}$) to provide a stable base voltage ($V_B$) to the BJT. The emitter resistor ($R_E$) introduces negative feedback, stabilizing the operating point against temperature variations and $\\beta$ changes.<br><br>The base voltage is given by:<br>$V_B = V_{CC} \\cdot \\frac{R_2}{R_1 + R_2}$<br><br>The emitter current ($I_E$) is approximately:<br>$I_E = \\frac{V_B - V_{BE}}{R_E}$<br><br>This method ensures the Q-point remains stable, improving amplifier performance.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "42060": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Operational Amplifiers",
+        "question_type": "Theory",
+        "exam_year": "2022",
+        "question_text": "<p>Explain the operation of a <b>non-inverting amplifier</b> using an Op-Amp. Derive the expression for its voltage gain.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>non-inverting amplifier</b> uses an Op-Amp with the input signal applied to the non-inverting terminal. The feedback network consists of resistors $R_f$ and $R_1$ connected to the inverting terminal.<br><br>Using the virtual short concept ($V_+ = V_-$), the voltage at the inverting terminal is equal to the input voltage ($V_{in}$). The current through $R_1$ is:<br>$I = \\frac{V_{in}}{R_1}$<br><br>The output voltage ($V_{out}$) is the sum of the voltage drops across $R_f$ and $R_1$:<br>$V_{out} = V_{in} + I \\cdot R_f = V_{in} \\left(1 + \\frac{R_f}{R_1}\\right)$<br><br>The voltage gain ($A_v$) is:<br>$A_v = 1 + \\frac{R_f}{R_1}$</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "42061": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Number Systems and Conversions",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>Convert the binary number $1101_2$ to its decimal equivalent.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The binary number $1101_2$ is converted to decimal as follows:<br>$1 \\cdot 2^3 + 1 \\cdot 2^2 + 0 \\cdot 2^1 + 1 \\cdot 2^0 = 8 + 4 + 0 + 1 = 13_{10}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "51736",
+                "tag": "a",
+                "text": "11",
+                "is_correct": false
+            },
+            {
+                "option_id": "56976",
+                "tag": "b",
+                "text": "13",
+                "is_correct": true
+            },
+            {
+                "option_id": "96502",
+                "tag": "c",
+                "text": "15",
+                "is_correct": false
+            },
+            {
+                "option_id": "73922",
+                "tag": "d",
+                "text": "10",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "42062": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Logic Gates and Combinational Circuits",
+        "question_type": "Theory",
+        "exam_year": "2022",
+        "question_text": "<p>Design a combinational logic circuit that implements the Boolean function $F = A\\overline{B} + \\overline{A}B$.<br>Include the truth table, logic gate diagram, and explain its operation.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The Boolean function $F = A\\overline{B} + \\overline{A}B$ represents an <b>XOR gate</b>.<br><br><b>Truth Table:</b><br><table border='1'><tr><th>A</th><th>B</th><th>F</th></tr><tr><td>0</td><td>0</td><td>0</td></tr><tr><td>0</td><td>1</td><td>1</td></tr><tr><td>1</td><td>0</td><td>1</td></tr><tr><td>1</td><td>1</td><td>0</td></tr></table><br><b>Logic Gate Diagram:</b><br>The circuit can be implemented using two AND gates, two NOT gates, and one OR gate:<br>- Inputs A and B are inverted to produce $\\overline{A}$ and $\\overline{B}$.<br>- The outputs of $A\\overline{B}$ and $\\overline{A}B$ are fed into an OR gate to produce F.<br><br>The XOR gate outputs <i>1</i> when the inputs are different and <i>0</i> when they are the same.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

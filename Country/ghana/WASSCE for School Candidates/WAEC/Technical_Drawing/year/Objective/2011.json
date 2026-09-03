@@ -858,5 +858,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "31852": {
+        "order_id": 21,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Drawing tools overview",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>Which of the following drawing tools is used to draw circles and arcs of varying radii?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>compass</b> is specifically designed to draw circles and arcs of different sizes by adjusting the distance between its legs. Other tools like the protractor, set square, and T-square are not primarily used for this purpose.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "63219",
+                "tag": "a",
+                "text": "Protractor",
+                "is_correct": false
+            },
+            {
+                "option_id": "50327",
+                "tag": "b",
+                "text": "Compass",
+                "is_correct": true
+            },
+            {
+                "option_id": "66769",
+                "tag": "c",
+                "text": "Set square",
+                "is_correct": false
+            },
+            {
+                "option_id": "54907",
+                "tag": "d",
+                "text": "T-square",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "31853": {
+        "order_id": 22,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Standard sheet sizes",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>What is the dimensions of an A2 drawing sheet in millimetres?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The A-series paper sizes follow a specific ratio where each size is half the area of the previous one. An A2 sheet measures <b>420 mm \u00d7 594 mm</b>, derived from halving the longer side of an A1 sheet (594 mm \u00d7 841 mm).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "63220",
+                "tag": "a",
+                "text": "210 \u00d7 297",
+                "is_correct": false
+            },
+            {
+                "option_id": "50328",
+                "tag": "b",
+                "text": "297 \u00d7 420",
+                "is_correct": false
+            },
+            {
+                "option_id": "66770",
+                "tag": "c",
+                "text": "420 \u00d7 594",
+                "is_correct": true
+            },
+            {
+                "option_id": "54908",
+                "tag": "d",
+                "text": "594 \u00d7 841",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "31854": {
+        "order_id": 23,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Line types and uses",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>Which type of line is used to represent hidden details in an orthographic projection?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>dashed line</b> (also called a hidden line) is used to show edges or features that are not visible in the current view but exist in the object. Continuous thick lines represent visible outlines, while chain lines are used for center lines or cutting planes.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "63221",
+                "tag": "a",
+                "text": "Continuous thick line",
+                "is_correct": false
+            },
+            {
+                "option_id": "50329",
+                "tag": "b",
+                "text": "Dashed line",
+                "is_correct": true
+            },
+            {
+                "option_id": "66771",
+                "tag": "c",
+                "text": "Chain line",
+                "is_correct": false
+            },
+            {
+                "option_id": "54909",
+                "tag": "d",
+                "text": "Continuous thin line",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "31855": {
+        "order_id": 24,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Lettering techniques",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>In technical lettering, what is the recommended height for capital letters in millimetres?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The standard height for capital letters in technical drawings is <b>3.5 mm</b>. This ensures clarity and uniformity, especially in engineering and architectural drawings where precision is critical.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "63222",
+                "tag": "a",
+                "text": "2.5 mm",
+                "is_correct": false
+            },
+            {
+                "option_id": "50330",
+                "tag": "b",
+                "text": "3.5 mm",
+                "is_correct": true
+            },
+            {
+                "option_id": "66772",
+                "tag": "c",
+                "text": "5.0 mm",
+                "is_correct": false
+            },
+            {
+                "option_id": "54910",
+                "tag": "d",
+                "text": "7.0 mm",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "31856": {
+        "order_id": 25,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Basic geometric constructions",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>Which of the following constructions is used to bisect a given angle?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>To bisect an angle, you use a <b>compass and straightedge</b> to draw arcs from the angle's vertex and intersecting points, then connect the vertex to the intersection of the arcs. This method ensures the angle is divided into two equal parts.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "63223",
+                "tag": "a",
+                "text": "Perpendicular bisector",
+                "is_correct": false
+            },
+            {
+                "option_id": "50331",
+                "tag": "b",
+                "text": "Angle bisector",
+                "is_correct": true
+            },
+            {
+                "option_id": "66773",
+                "tag": "c",
+                "text": "Parallel line construction",
+                "is_correct": false
+            },
+            {
+                "option_id": "54911",
+                "tag": "d",
+                "text": "Tangent to a circle",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "31857": {
+        "order_id": 26,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Orthographic projection methods",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>In first-angle orthographic projection, where is the front view located relative to the plan?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In <b>first-angle projection</b>, the front view is placed <i>below</i> the plan (top view). This is because the object is imagined to be in the first quadrant, with the views projected onto planes behind and below the object.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "63224",
+                "tag": "a",
+                "text": "Above the plan",
+                "is_correct": false
+            },
+            {
+                "option_id": "50332",
+                "tag": "b",
+                "text": "Below the plan",
+                "is_correct": true
+            },
+            {
+                "option_id": "66774",
+                "tag": "c",
+                "text": "To the right of the plan",
+                "is_correct": false
+            },
+            {
+                "option_id": "54912",
+                "tag": "d",
+                "text": "To the left of the plan",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "31858": {
+        "order_id": 27,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Sectional view types",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>Which type of sectional view is used to show the interior details of a symmetrical object by cutting it along two intersecting planes?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>half section</b> is used for symmetrical objects, where only half of the object is sectioned to reveal interior details while the other half remains intact to show external features. A full section cuts through the entire object, while revolved and removed sections are used for specific features.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "63225",
+                "tag": "a",
+                "text": "Full section",
+                "is_correct": false
+            },
+            {
+                "option_id": "50333",
+                "tag": "b",
+                "text": "Half section",
+                "is_correct": true
+            },
+            {
+                "option_id": "66775",
+                "tag": "c",
+                "text": "Revolved section",
+                "is_correct": false
+            },
+            {
+                "option_id": "54913",
+                "tag": "d",
+                "text": "Removed section",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "31859": {
+        "order_id": 28,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Isometric drawing basics",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>In isometric drawing, what is the angle between the isometric axes?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In isometric projection, the three axes (representing length, width, and height) are spaced <b>120\u00b0</b> apart. This creates a 3D effect where all three dimensions are equally foreshortened, making the drawing appear realistic.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "63226",
+                "tag": "a",
+                "text": "90\u00b0",
+                "is_correct": false
+            },
+            {
+                "option_id": "50334",
+                "tag": "b",
+                "text": "120\u00b0",
+                "is_correct": true
+            },
+            {
+                "option_id": "66776",
+                "tag": "c",
+                "text": "60\u00b0",
+                "is_correct": false
+            },
+            {
+                "option_id": "54914",
+                "tag": "d",
+                "text": "45\u00b0",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "31860": {
+        "order_id": 29,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Dimensioning principles",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>Which of the following is a correct principle of dimensioning in technical drawings?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>One of the key principles of dimensioning is to <b>avoid dimensioning to hidden lines</b>. Dimensions should be placed on visible outlines or features to ensure clarity and avoid confusion. Other principles include avoiding duplicate dimensions and placing dimensions outside the object where possible.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "63227",
+                "tag": "a",
+                "text": "Dimension to hidden lines where possible",
+                "is_correct": false
+            },
+            {
+                "option_id": "50335",
+                "tag": "b",
+                "text": "Avoid dimensioning to hidden lines",
+                "is_correct": true
+            },
+            {
+                "option_id": "66777",
+                "tag": "c",
+                "text": "Place all dimensions inside the object",
+                "is_correct": false
+            },
+            {
+                "option_id": "54915",
+                "tag": "d",
+                "text": "Use only one type of dimension line",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "31861": {
+        "order_id": 30,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Fasteners and joints",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>Which type of fastener is represented by the symbol shown below?<br><i>(Symbol: A circle with a diagonal line through it)</i></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The symbol described (a circle with a diagonal line) represents a <b>rivet</b>. Rivets are permanent fasteners used to join metal plates or sheets by deforming the end of the rivet to hold the materials together.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "63228",
+                "tag": "a",
+                "text": "Bolt",
+                "is_correct": false
+            },
+            {
+                "option_id": "50336",
+                "tag": "b",
+                "text": "Rivet",
+                "is_correct": true
+            },
+            {
+                "option_id": "66778",
+                "tag": "c",
+                "text": "Screw",
+                "is_correct": false
+            },
+            {
+                "option_id": "54916",
+                "tag": "d",
+                "text": "Nut",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

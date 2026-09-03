@@ -428,5 +428,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "85735": {
+        "order_id": 11,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Music Elements",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>Which of the following is <b>NOT</b> a fundamental element of music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The fundamental elements of music include pitch, rhythm, dynamics, timbre, texture, and form. <i>Harmony</i> is a combination of these elements but is not considered a fundamental element on its own.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "68492",
+                "tag": "a",
+                "text": "Pitch",
+                "is_correct": false
+            },
+            {
+                "option_id": "87535",
+                "tag": "b",
+                "text": "Harmony",
+                "is_correct": true
+            },
+            {
+                "option_id": "51111",
+                "tag": "c",
+                "text": "Rhythm",
+                "is_correct": false
+            },
+            {
+                "option_id": "95517",
+                "tag": "d",
+                "text": "Timbre",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "85736": {
+        "order_id": 12,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Music Notation Basics",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>What does a <b>sharp</b> (#) sign indicate in music notation?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <i>sharp</i> sign raises the pitch of a note by one semitone. For example, $C$ becomes $C\\#$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "68493",
+                "tag": "a",
+                "text": "Lowers the note by a semitone",
+                "is_correct": false
+            },
+            {
+                "option_id": "87536",
+                "tag": "b",
+                "text": "Raises the note by a semitone",
+                "is_correct": true
+            },
+            {
+                "option_id": "51112",
+                "tag": "c",
+                "text": "Extends the note's duration",
+                "is_correct": false
+            },
+            {
+                "option_id": "95518",
+                "tag": "d",
+                "text": "Indicates a rest",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "85737": {
+        "order_id": 13,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Types of Scales",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>Which scale consists of five notes per octave and is commonly used in African traditional music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <i>pentatonic scale</i> consists of five notes per octave and is widely used in African traditional music, as well as in many other musical traditions worldwide.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "68494",
+                "tag": "a",
+                "text": "Chromatic scale",
+                "is_correct": false
+            },
+            {
+                "option_id": "87537",
+                "tag": "b",
+                "text": "Pentatonic scale",
+                "is_correct": true
+            },
+            {
+                "option_id": "51113",
+                "tag": "c",
+                "text": "Whole-tone scale",
+                "is_correct": false
+            },
+            {
+                "option_id": "95519",
+                "tag": "d",
+                "text": "Major scale",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "85738": {
+        "order_id": 14,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Intervals and Inversions",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>What is the inversion of a <b>perfect fifth</b> ($5^{th}$) interval?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The inversion of a <i>perfect fifth</i> ($5^{th}$) is a <i>perfect fourth</i> ($4^{th}$). Inversion is calculated by subtracting the interval from $9$ (e.g., $9 - 5 = 4$).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "68495",
+                "tag": "a",
+                "text": "Major third",
+                "is_correct": false
+            },
+            {
+                "option_id": "87538",
+                "tag": "b",
+                "text": "Perfect fourth",
+                "is_correct": true
+            },
+            {
+                "option_id": "51114",
+                "tag": "c",
+                "text": "Minor sixth",
+                "is_correct": false
+            },
+            {
+                "option_id": "95520",
+                "tag": "d",
+                "text": "Octave",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "85739": {
+        "order_id": 15,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Chords and Inversions",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>In a <b>triad</b>, what is the name of the chord when the third is the lowest note?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>When the <i>third</i> of a triad is the lowest note, the chord is in its <i>first inversion</i>, also known as a <i>6-3 chord</i>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "68496",
+                "tag": "a",
+                "text": "Root position",
+                "is_correct": false
+            },
+            {
+                "option_id": "87539",
+                "tag": "b",
+                "text": "First inversion",
+                "is_correct": true
+            },
+            {
+                "option_id": "51115",
+                "tag": "c",
+                "text": "Second inversion",
+                "is_correct": false
+            },
+            {
+                "option_id": "95521",
+                "tag": "d",
+                "text": "Third inversion",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "85740": {
+        "order_id": 16,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Cadence Types",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>Which cadence creates a sense of <b>finality</b> and is often used to conclude a musical piece?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <i>perfect cadence</i> (V-I) creates a strong sense of finality and is commonly used to conclude musical compositions.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "68497",
+                "tag": "a",
+                "text": "Plagal cadence",
+                "is_correct": false
+            },
+            {
+                "option_id": "87540",
+                "tag": "b",
+                "text": "Perfect cadence",
+                "is_correct": true
+            },
+            {
+                "option_id": "51116",
+                "tag": "c",
+                "text": "Imperfect cadence",
+                "is_correct": false
+            },
+            {
+                "option_id": "95522",
+                "tag": "d",
+                "text": "Interrupted cadence",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "85741": {
+        "order_id": 17,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "African Music Traits",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>Which of the following is a <b>key characteristic</b> of African traditional music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><i>Call-and-response</i> is a fundamental characteristic of African traditional music, where a leader sings or plays a phrase, and a group responds.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "68498",
+                "tag": "a",
+                "text": "Use of strict Western harmony",
+                "is_correct": false
+            },
+            {
+                "option_id": "87541",
+                "tag": "b",
+                "text": "Call-and-response patterns",
+                "is_correct": true
+            },
+            {
+                "option_id": "51117",
+                "tag": "c",
+                "text": "Exclusive use of string instruments",
+                "is_correct": false
+            },
+            {
+                "option_id": "95523",
+                "tag": "d",
+                "text": "Notation-based performance",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "85742": {
+        "order_id": 18,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Western Art Music Periods",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>Which period of Western art music is associated with <b>Bach</b> and <b>Handel</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <i>Baroque period</i> (1600\u20131750) is associated with composers like Johann Sebastian Bach and George Frideric Handel, known for their complex harmonies and ornamentation.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "68499",
+                "tag": "a",
+                "text": "Renaissance",
+                "is_correct": false
+            },
+            {
+                "option_id": "87542",
+                "tag": "b",
+                "text": "Baroque",
+                "is_correct": true
+            },
+            {
+                "option_id": "51118",
+                "tag": "c",
+                "text": "Classical",
+                "is_correct": false
+            },
+            {
+                "option_id": "95524",
+                "tag": "d",
+                "text": "Romantic",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "85743": {
+        "order_id": 19,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Rhythm and Meter",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>What does the <b>time signature</b> $\\frac{6}{8}$ indicate?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The time signature $\\frac{6}{8}$ indicates a <i>compound duple meter</i>, where there are six eighth notes per measure, grouped into two beats of three eighth notes each.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "68500",
+                "tag": "a",
+                "text": "Six quarter notes per measure",
+                "is_correct": false
+            },
+            {
+                "option_id": "87543",
+                "tag": "b",
+                "text": "Six eighth notes per measure, grouped in two beats",
+                "is_correct": true
+            },
+            {
+                "option_id": "51119",
+                "tag": "c",
+                "text": "Eight sixth notes per measure",
+                "is_correct": false
+            },
+            {
+                "option_id": "95525",
+                "tag": "d",
+                "text": "Simple triple meter",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "85744": {
+        "order_id": 20,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Ghanaian Traditional Music",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>Which Ghanaian traditional instrument is a <b>membranophone</b>?</p>",
+        "<question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <i>membranophone</i> is an instrument that produces sound by vibrating a stretched membrane. The <i>atumpan</i> (talking drum) is a Ghanaian membranophone.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "68501",
+                "tag": "a",
+                "text": "Gong-gong",
+                "is_correct": false
+            },
+            {
+                "option_id": "87544",
+                "tag": "b",
+                "text": "Atumpan",
+                "is_correct": true
+            },
+            {
+                "option_id": "51120",
+                "tag": "c",
+                "text": "Seperewa",
+                "is_correct": false
+            },
+            {
+                "option_id": "95526",
+                "tag": "d",
+                "text": "Atoke",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

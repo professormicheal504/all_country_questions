@@ -1,0 +1,257 @@
+{
+    "57000": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "ICT Basics",
+        "question_type": "Theory",
+        "exam_year": "2021",
+        "question_text": "<p>Explain the term <b>Information and Communication Technology (ICT)</b> and state <u>three</u> areas where ICT is applied in society.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Information and Communication Technology (ICT)</b> refers to the use of digital technology to handle information and aid communication. It encompasses technologies such as computers, the internet, telecommunication devices, and software applications.<br><br><b>Areas of application in society:</b><br>1. <b>Education:</b> ICT is used for e-learning, digital libraries, and online research.<br>2. <b>Healthcare:</b> ICT aids in patient records management, telemedicine, and medical research.<br>3. <b>Business:</b> ICT facilitates e-commerce, digital marketing, and online banking.<br>4. <b>Government:</b> ICT is used for e-governance, digital record-keeping, and public service delivery.<br>(Any three of the above or other valid examples are acceptable.)</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "57001": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Computer Types",
+        "question_type": "Objective",
+        "exam_year": "2021",
+        "question_text": "<p>Which of the following is an example of a <b>supercomputer</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Supercomputers are high-performance computing machines designed for complex calculations and data processing. <b>CRAY X-MP</b> is a well-known example of a supercomputer used for scientific research and simulations.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "26909",
+                "tag": "a",
+                "text": "IBM PC",
+                "is_correct": false
+            },
+            {
+                "option_id": "78319",
+                "tag": "b",
+                "text": "CRAY X-MP",
+                "is_correct": true
+            },
+            {
+                "option_id": "32502",
+                "tag": "c",
+                "text": "Apple Macintosh",
+                "is_correct": false
+            },
+            {
+                "option_id": "19944",
+                "tag": "d",
+                "text": "Dell Inspiron",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "57002": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Hardware Components",
+        "question_type": "Theory",
+        "exam_year": "2021",
+        "question_text": "<p>Describe the functions of the following hardware components of a computer system:<br>(i) <b>Central Processing Unit (CPU)</b><br>(ii) <b>Random Access Memory (RAM)</b><br>(iii) <b>Hard Disk Drive (HDD)</b></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) <b>Central Processing Unit (CPU):</b> The CPU is the brain of the computer. It performs arithmetic and logical operations, executes instructions, and manages data processing.<br><br>(ii) <b>Random Access Memory (RAM):</b> RAM is volatile memory that temporarily stores data and instructions currently in use by the CPU. It allows for fast access and retrieval of information.<br><br>(iii) <b>Hard Disk Drive (HDD):</b> The HDD is non-volatile storage that permanently stores data, programs, and the operating system. It provides large storage capacity at a relatively low cost.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "57003": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Number System Conversion",
+        "question_type": "Theory",
+        "exam_year": "2021",
+        "question_text": "<p>Convert the binary number <b>$110101_2$</b> to its decimal equivalent.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>To convert $110101_2$ to decimal:<br><br>$1 \times 2^5 + 1 \times 2^4 + 0 \times 2^3 + 1 \times 2^2 + 0 \times 2^1 + 1 \times 2^0$<br><br>$= 1 \times 32 + 1 \times 16 + 0 \times 8 + 1 \times 4 + 0 \times 2 + 1 \times 1$<br><br>$= 32 + 16 + 0 + 4 + 0 + 1$<br><br>$= 53_{10}$</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "57004": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Cybersecurity Threats",
+        "question_type": "Objective",
+        "exam_year": "2021",
+        "question_text": "<p>Which of the following is <b>NOT</b> a common cybersecurity threat?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Phishing, malware, and ransomware</b> are all common cybersecurity threats. <b>Firewall</b> is a security measure used to protect against such threats, not a threat itself.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "26909",
+                "tag": "a",
+                "text": "Phishing",
+                "is_correct": false
+            },
+            {
+                "option_id": "78319",
+                "tag": "b",
+                "text": "Malware",
+                "is_correct": false
+            },
+            {
+                "option_id": "32502",
+                "tag": "c",
+                "text": "Firewall",
+                "is_correct": true
+            },
+            {
+                "option_id": "19944",
+                "tag": "d",
+                "text": "Ransomware",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "57005": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Operating Systems",
+        "question_type": "Theory",
+        "exam_year": "2021",
+        "question_text": "<p>State <u>three</u> functions of an operating system and give an example of a popular operating system.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Functions of an operating system:</b><br>1. <b>Process Management:</b> Manages the execution of programs and allocates system resources.<br>2. <b>Memory Management:</b> Controls and coordinates the use of RAM and virtual memory.<br>3. <b>File Management:</b> Organizes and manages files and directories on storage devices.<br>4. <b>Device Management:</b> Controls hardware devices through drivers.<br><br><b>Example of a popular operating system:</b> Microsoft Windows, macOS, or Linux.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "57006": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Network Devices",
+        "question_type": "Objective",
+        "exam_year": "2021",
+        "question_text": "<p>Which network device is used to connect multiple networks and route data packets between them?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>router</b> is a network device that connects multiple networks and routes data packets between them based on their IP addresses.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "26909",
+                "tag": "a",
+                "text": "Hub",
+                "is_correct": false
+            },
+            {
+                "option_id": "78319",
+                "tag": "b",
+                "text": "Switch",
+                "is_correct": false
+            },
+            {
+                "option_id": "32502",
+                "tag": "c",
+                "text": "Router",
+                "is_correct": true
+            },
+            {
+                "option_id": "19944",
+                "tag": "d",
+                "text": "Modem",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "57007": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Spreadsheet Tools",
+        "question_type": "Theory",
+        "exam_year": "2021",
+        "question_text": "<p>In a spreadsheet application, explain the use of the following functions:<br>(i) <b>SUM</b><br>(ii) <b>AVERAGE</b><br>(iii) <b>IF</b></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) <b>SUM:</b> The SUM function adds up a range of numbers. For example, <code>=SUM(A1:A10)</code> adds the values in cells A1 to A10.<br><br>(ii) <b>AVERAGE:</b> The AVERAGE function calculates the mean of a range of numbers. For example, <code>=AVERAGE(B1:B10)</code> computes the average of values in cells B1 to B10.<br><br>(iii) <b>IF:</b> The IF function performs a logical test and returns one value if the test is true and another if false. For example, <code>=IF(C1>50, \"Pass\", \"Fail\")</code> returns \"Pass\" if C1 is greater than 50, otherwise \"Fail\".</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "57008": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Logic Gates",
+        "question_type": "Theory",
+        "exam_year": "2021",
+        "question_text": "<p>Draw the truth table for a <b>NAND gate</b> and state its logical expression.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Truth Table for NAND Gate:</b><br><table border='1'><tr><th>A</th><th>B</th><th>A NAND B</th></tr><tr><td>0</td><td>0</td><td>1</td></tr><tr><td>0</td><td>1</td><td>1</td></tr><tr><td>1</td><td>0</td><td>1</td></tr><tr><td>1</td><td>1</td><td>0</td></tr></table><br><b>Logical Expression:</b> $A \text{ NAND } B = \\overline{A \bullet B}$</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "57009": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Computer Ethics",
+        "question_type": "Theory",
+        "exam_year": "2021",
+        "question_text": "<p>Discuss <u>three</u> ethical issues related to the use of ICT and suggest ways to address them.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Ethical Issues in ICT:</b><br>1. <b>Privacy:</b> Unauthorized access to personal data. <i>Solution:</i> Implement strong data protection laws and use encryption.<br>2. <b>Copyright Infringement:</b> Illegal copying or distribution of digital content. <i>Solution:</i> Enforce copyright laws and promote awareness.<br>3. <b>Cyberbullying:</b> Harassment or bullying using digital platforms. <i>Solution:</i> Educate users on responsible online behavior and enforce platform policies.<br>4. <b>Digital Divide:</b> Inequality in access to ICT. <i>Solution:</i> Provide affordable internet access and digital literacy programs.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

@@ -1288,5 +1288,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "55144": {
+        "order_id": 31,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "ICT Basics",
+        "question_type": "Objective",
+        "exam_year": "2019",
+        "question_text": "<p>Which of the following is <b>NOT</b> a characteristic of Information and Communication Technology (ICT)?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>ICT is defined by its ability to process, store, retrieve, and transmit information efficiently. However, <b>manual data processing</b> is not a characteristic of ICT, as ICT relies on automated and digital methods.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "61948",
+                "tag": "a",
+                "text": "Digital data processing",
+                "is_correct": false
+            },
+            {
+                "option_id": "90027",
+                "tag": "b",
+                "text": "Manual data processing",
+                "is_correct": true
+            },
+            {
+                "option_id": "29766",
+                "tag": "c",
+                "text": "Information storage and retrieval",
+                "is_correct": false
+            },
+            {
+                "option_id": "14930",
+                "tag": "d",
+                "text": "Electronic communication",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "55145": {
+        "order_id": 32,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Computer Types",
+        "question_type": "Objective",
+        "exam_year": "2019",
+        "question_text": "<p>A computer that is designed to perform complex scientific calculations is classified as a:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Supercomputer</b> is the correct answer because it is specifically designed for high-performance tasks such as scientific simulations, weather forecasting, and complex calculations.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "61949",
+                "tag": "a",
+                "text": "Microcomputer",
+                "is_correct": false
+            },
+            {
+                "option_id": "90028",
+                "tag": "b",
+                "text": "Minicomputer",
+                "is_correct": false
+            },
+            {
+                "option_id": "29767",
+                "tag": "c",
+                "text": "Supercomputer",
+                "is_correct": true
+            },
+            {
+                "option_id": "14931",
+                "tag": "d",
+                "text": "Mainframe computer",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "55146": {
+        "order_id": 33,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Hardware Components",
+        "question_type": "Objective",
+        "exam_year": "2019",
+        "question_text": "<p>Which hardware component is responsible for temporarily storing data and instructions that the CPU needs to access quickly?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>RAM (Random Access Memory)</b> is a volatile memory that temporarily stores data and instructions for quick access by the CPU during processing.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "61950",
+                "tag": "a",
+                "text": "Hard Disk Drive (HDD)",
+                "is_correct": false
+            },
+            {
+                "option_id": "90029",
+                "tag": "b",
+                "text": "Read-Only Memory (ROM)",
+                "is_correct": false
+            },
+            {
+                "option_id": "29768",
+                "tag": "c",
+                "text": "Random Access Memory (RAM)",
+                "is_correct": true
+            },
+            {
+                "option_id": "14932",
+                "tag": "d",
+                "text": "Central Processing Unit (CPU)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "55147": {
+        "order_id": 34,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Software Types",
+        "question_type": "Objective",
+        "exam_year": "2019",
+        "question_text": "<p>Which of the following is an example of <i>application software</i>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Microsoft Word</b> is an example of application software because it is designed to perform specific tasks for the user, such as word processing.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "61951",
+                "tag": "a",
+                "text": "Windows 10",
+                "is_correct": false
+            },
+            {
+                "option_id": "90030",
+                "tag": "b",
+                "text": "Linux Kernel",
+                "is_correct": false
+            },
+            {
+                "option_id": "29769",
+                "tag": "c",
+                "text": "Microsoft Word",
+                "is_correct": true
+            },
+            {
+                "option_id": "14933",
+                "tag": "d",
+                "text": "Device Drivers",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "55148": {
+        "order_id": 35,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Number System Conversion",
+        "question_type": "Objective",
+        "exam_year": "2019",
+        "question_text": "<p>Convert the binary number $1011_2$ to its decimal equivalent.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The binary number $1011_2$ is converted to decimal as follows:<br>$1 \\times 2^3 + 0 \\times 2^2 + 1 \\times 2^1 + 1 \\times 2^0 = 8 + 0 + 2 + 1 = 11_{10}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "61952",
+                "tag": "a",
+                "text": "$9_{10}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "90031",
+                "tag": "b",
+                "text": "$10_{10}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "29770",
+                "tag": "c",
+                "text": "$11_{10}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "14934",
+                "tag": "d",
+                "text": "$12_{10}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "55149": {
+        "order_id": 36,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Network Types",
+        "question_type": "Objective",
+        "exam_year": "2019",
+        "question_text": "<p>A network that covers a small geographical area, such as a single building, is called a:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>Local Area Network (LAN)</b> is a network that connects devices within a limited area, such as a home, school, or office building.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "61953",
+                "tag": "a",
+                "text": "Wide Area Network (WAN)",
+                "is_correct": false
+            },
+            {
+                "option_id": "90032",
+                "tag": "b",
+                "text": "Metropolitan Area Network (MAN)",
+                "is_correct": false
+            },
+            {
+                "option_id": "29771",
+                "tag": "c",
+                "text": "Local Area Network (LAN)",
+                "is_correct": true
+            },
+            {
+                "option_id": "14935",
+                "tag": "d",
+                "text": "Personal Area Network (PAN)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "55150": {
+        "order_id": 37,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Cybersecurity Threats",
+        "question_type": "Objective",
+        "exam_year": "2019",
+        "question_text": "<p>Which of the following is a type of cybersecurity threat that disguises itself as legitimate software to gain unauthorized access to a system?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>Trojan Horse</b> is a type of malware that appears to be legitimate software but performs malicious activities once installed on a system.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "61954",
+                "tag": "a",
+                "text": "Virus",
+                "is_correct": false
+            },
+            {
+                "option_id": "90033",
+                "tag": "b",
+                "text": "Worm",
+                "is_correct": false
+            },
+            {
+                "option_id": "29772",
+                "tag": "c",
+                "text": "Trojan Horse",
+                "is_correct": true
+            },
+            {
+                "option_id": "14936",
+                "tag": "d",
+                "text": "Spyware",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "55151": {
+        "order_id": 38,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Logic Gates",
+        "question_type": "Objective",
+        "exam_year": "2019",
+        "question_text": "<p>Which logic gate produces an output of <b>1</b> only when all its inputs are <b>0</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>NOR gate</b> is a combination of an OR gate followed by a NOT gate. It produces an output of <b>1</b> only when all its inputs are <b>0</b>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "61955",
+                "tag": "a",
+                "text": "AND gate",
+                "is_correct": false
+            },
+            {
+                "option_id": "90034",
+                "tag": "b",
+                "text": "OR gate",
+                "is_correct": false
+            },
+            {
+                "option_id": "29773",
+                "tag": "c",
+                "text": "NOR gate",
+                "is_correct": true
+            },
+            {
+                "option_id": "14937",
+                "tag": "d",
+                "text": "NAND gate",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "55152": {
+        "order_id": 39,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Spreadsheet Tools",
+        "question_type": "Objective",
+        "exam_year": "2019",
+        "question_text": "<p>In a spreadsheet, which function is used to find the <u>average</u> of a range of cells?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>AVERAGE</b> function in a spreadsheet calculates the arithmetic mean of the values in a specified range of cells.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "61956",
+                "tag": "a",
+                "text": "SUM",
+                "is_correct": false
+            },
+            {
+                "option_id": "90035",
+                "tag": "b",
+                "text": "COUNT",
+                "is_correct": false
+            },
+            {
+                "option_id": "29774",
+                "tag": "c",
+                "text": "AVERAGE",
+                "is_correct": true
+            },
+            {
+                "option_id": "14938",
+                "tag": "d",
+                "text": "MAX",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "55153": {
+        "order_id": 40,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Internet vs Intranet",
+        "question_type": "Objective",
+        "exam_year": "2019",
+        "question_text": "<p>Which of the following statements correctly differentiates the <b>Internet</b> from an <b>Intranet</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>Internet</b> is a global network accessible to the public, while an <b>Intranet</b> is a private network restricted to an organization's members.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "61957",
+                "tag": "a",
+                "text": "The Internet is private, while an Intranet is public.",
+                "is_correct": false
+            },
+            {
+                "option_id": "90036",
+                "tag": "b",
+                "text": "The Internet is restricted to an organization, while an Intranet is global.",
+                "is_correct": false
+            },
+            {
+                "option_id": "29775",
+                "tag": "c",
+                "text": "The Internet is a global network, while an Intranet is a private network.",
+                "is_correct": true
+            },
+            {
+                "option_id": "14939",
+                "tag": "d",
+                "text": "The Internet and Intranet are the same.",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

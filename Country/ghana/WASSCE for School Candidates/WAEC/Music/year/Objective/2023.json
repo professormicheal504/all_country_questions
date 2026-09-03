@@ -858,5 +858,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "63594": {
+        "order_id": 21,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Music Elements",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>Which of the following is <b>NOT</b> a fundamental element of music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The fundamental elements of music include <i>pitch, rhythm, dynamics, timbre, texture, and form</i>. <b>Harmony</b> is a derived element, not a fundamental one, as it results from the combination of pitches.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "28425",
+                "tag": "a",
+                "text": "Pitch",
+                "is_correct": false
+            },
+            {
+                "option_id": "75952",
+                "tag": "b",
+                "text": "Harmony",
+                "is_correct": true
+            },
+            {
+                "option_id": "21972",
+                "tag": "c",
+                "text": "Rhythm",
+                "is_correct": false
+            },
+            {
+                "option_id": "24541",
+                "tag": "d",
+                "text": "Timbre",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "63595": {
+        "order_id": 22,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Music Notation Basics",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>What does a <b>dot</b> placed after a note in music notation indicate?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A dot after a note increases its duration by <i>half</i> of its original value. For example, a dotted quarter note ($1/4$) becomes $1/4 + 1/8 = 3/8$ beats.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "28426",
+                "tag": "a",
+                "text": "It shortens the note by half its value.",
+                "is_correct": false
+            },
+            {
+                "option_id": "75953",
+                "tag": "b",
+                "text": "It increases the note's duration by half its original value.",
+                "is_correct": true
+            },
+            {
+                "option_id": "21973",
+                "tag": "c",
+                "text": "It indicates a rest of equal length.",
+                "is_correct": false
+            },
+            {
+                "option_id": "24542",
+                "tag": "d",
+                "text": "It signifies a repeat of the note.",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "63596": {
+        "order_id": 23,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Types of Scales",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>Which scale consists of <i>five</i> notes per octave and is commonly used in traditional Ghanaian music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>pentatonic scale</b> consists of five notes per octave and is widely used in traditional Ghanaian music, such as in <i>Highlife</i> and <i>Adowa</i> genres.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "28427",
+                "tag": "a",
+                "text": "Chromatic scale",
+                "is_correct": false
+            },
+            {
+                "option_id": "75954",
+                "tag": "b",
+                "text": "Pentatonic scale",
+                "is_correct": true
+            },
+            {
+                "option_id": "21974",
+                "tag": "c",
+                "text": "Whole-tone scale",
+                "is_correct": false
+            },
+            {
+                "option_id": "24543",
+                "tag": "d",
+                "text": "Octatonic scale",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "63597": {
+        "order_id": 24,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Intervals and Inversions",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>What is the inversion of a <b>perfect fifth</b> ($P5$)?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The inversion of a perfect fifth ($P5$) is a <b>perfect fourth</b> ($P4$). Intervals invert by subtracting their number from 9 (e.g., $5 + 4 = 9$).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "28428",
+                "tag": "a",
+                "text": "Major third ($M3$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "75955",
+                "tag": "b",
+                "text": "Perfect fourth ($P4$)",
+                "is_correct": true
+            },
+            {
+                "option_id": "21975",
+                "tag": "c",
+                "text": "Minor sixth ($m6$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "24544",
+                "tag": "d",
+                "text": "Major sixth ($M6$)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "63598": {
+        "order_id": 25,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Chords and Inversions",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>In a <b>triad</b>, what is the name given to the chord when the <i>third</i> is the lowest note?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>When the <i>third</i> of a triad is the lowest note, the chord is in <b>first inversion</b>, also known as a <i>6/3 chord</i>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "28429",
+                "tag": "a",
+                "text": "Root position",
+                "is_correct": false
+            },
+            {
+                "option_id": "75956",
+                "tag": "b",
+                "text": "First inversion",
+                "is_correct": true
+            },
+            {
+                "option_id": "21976",
+                "tag": "c",
+                "text": "Second inversion",
+                "is_correct": false
+            },
+            {
+                "option_id": "24545",
+                "tag": "d",
+                "text": "Third inversion",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "63599": {
+        "order_id": 26,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Cadence Types",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>Which cadence creates a sense of <i>temporary</i> resolution and is often described as a <b>half cadence</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>half cadence</b> (e.g., ending on the dominant chord, $V$) creates a sense of temporary resolution, leaving the music feeling <i>unfinished</i>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "28430",
+                "tag": "a",
+                "text": "Perfect cadence ($V-I$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "75957",
+                "tag": "b",
+                "text": "Plagal cadence ($IV-I$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "21977",
+                "tag": "c",
+                "text": "Half cadence ($I-V$ or $IV-V$)",
+                "is_correct": true
+            },
+            {
+                "option_id": "24546",
+                "tag": "d",
+                "text": "Deceptive cadence ($V-vi$)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "63600": {
+        "order_id": 27,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "African Music Traits",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>Which of the following is a <b>key characteristic</b> of traditional African music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Traditional African music is characterized by <b>call-and-response</b> patterns, where a leader sings or plays a phrase, and a group responds. This trait is prevalent in genres like <i>Dagomba</i> drumming and <i>Agbadza</i>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "28431",
+                "tag": "a",
+                "text": "Strict adherence to written notation",
+                "is_correct": false
+            },
+            {
+                "option_id": "75958",
+                "tag": "b",
+                "text": "Call-and-response patterns",
+                "is_correct": true
+            },
+            {
+                "option_id": "21978",
+                "tag": "c",
+                "text": "Use of equal temperament tuning",
+                "is_correct": false
+            },
+            {
+                "option_id": "24547",
+                "tag": "d",
+                "text": "Predominance of solo performances",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "63601": {
+        "order_id": 28,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Western Art Music Periods",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>Which period of Western art music is associated with the works of <b>Johann Sebastian Bach</b> and <b>George Frideric Handel</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>Baroque period</b> (c. 1600\u20131750) is associated with composers like Bach and Handel, known for their use of <i>counterpoint, ornamentation, and basso continuo</i>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "28432",
+                "tag": "a",
+                "text": "Renaissance",
+                "is_correct": false
+            },
+            {
+                "option_id": "75959",
+                "tag": "b",
+                "text": "Baroque",
+                "is_correct": true
+            },
+            {
+                "option_id": "21979",
+                "tag": "c",
+                "text": "Classical",
+                "is_correct": false
+            },
+            {
+                "option_id": "24548",
+                "tag": "d",
+                "text": "Romantic",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "63602": {
+        "order_id": 29,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Rhythm and Meter",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>In <b>compound meter</b>, how many beats are typically grouped in each measure?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In <b>compound meter</b> (e.g., $6/8$, $9/8$), beats are grouped in <i>three</i>, with each beat subdivided into three equal parts (e.g., a dotted quarter note in $6/8$).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "28433",
+                "tag": "a",
+                "text": "Two",
+                "is_correct": false
+            },
+            {
+                "option_id": "75960",
+                "tag": "b",
+                "text": "Three",
+                "is_correct": true
+            },
+            {
+                "option_id": "21980",
+                "tag": "c",
+                "text": "Four",
+                "is_correct": false
+            },
+            {
+                "option_id": "24549",
+                "tag": "d",
+                "text": "Five",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "63603": {
+        "order_id": 30,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Ghanaian Traditional Music",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>Which Ghanaian traditional music genre is associated with the <b>Ewe</b> people and features a <i>call-and-response</i> structure with drumming?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Agbadza</b> is a traditional music genre of the Ewe people, characterized by its <i>call-and-response</i> structure, drumming, and dance. It is often performed at funerals and festivals.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "28434",
+                "tag": "a",
+                "text": "Kpanlogo",
+                "is_correct": false
+            },
+            {
+                "option_id": "75961",
+                "tag": "b",
+                "text": "Agbadza",
+                "is_correct": true
+            },
+            {
+                "option_id": "21981",
+                "tag": "c",
+                "text": "Adowa",
+                "is_correct": false
+            },
+            {
+                "option_id": "24550",
+                "tag": "d",
+                "text": "Bawa",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

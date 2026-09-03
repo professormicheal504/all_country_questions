@@ -428,5 +428,865 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "34561": {
+        "order_id": 11,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Set Operations",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>If $A = \\{1, 2, 3, 4\\}$ and $B = \\{3, 4, 5, 6\\}$, find $A \\cap B$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The intersection of sets $A$ and $B$, denoted $A \\cap B$, consists of elements common to both sets. Here, the common elements are $3$ and $4$. Thus, $A \\cap B = \\{3, 4\\}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "63729",
+                "tag": "a",
+                "text": "$\\{1, 2, 3, 4, 5, 6\\}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "11753",
+                "tag": "b",
+                "text": "$\\{3, 4\\}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "14333",
+                "tag": "c",
+                "text": "$\\{1, 2, 5, 6\\}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "77002",
+                "tag": "d",
+                "text": "$\\{1, 2, 3, 4\\}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "34562": {
+        "order_id": 12,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Indices and Logarithms",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Simplify $2^{3} \\times 2^{4}$ and express your answer as a power of 2.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Using the law of indices, $a^{m} \\times a^{n} = a^{m+n}$. Thus, $2^{3} \\times 2^{4} = 2^{3+4} = 2^{7}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "63730",
+                "tag": "a",
+                "text": "$2^{1}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "11754",
+                "tag": "b",
+                "text": "$2^{7}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "14334",
+                "tag": "c",
+                "text": "$2^{12}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "77003",
+                "tag": "d",
+                "text": "$2^{5}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "34563": {
+        "order_id": 13,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Surds Basics",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Rationalize the denominator of $\\frac{5}{\\sqrt{3}}$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>To rationalize the denominator, multiply the numerator and denominator by $\\sqrt{3}$: $\\frac{5}{\\sqrt{3}} \\times \\frac{\\sqrt{3}}{\\sqrt{3}} = \\frac{5\\sqrt{3}}{3}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "63731",
+                "tag": "a",
+                "text": "$\\frac{5\\sqrt{3}}{9}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "11755",
+                "tag": "b",
+                "text": "$\\frac{5\\sqrt{3}}{3}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "14335",
+                "tag": "c",
+                "text": "$5\\sqrt{3}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "77004",
+                "tag": "d",
+                "text": "$\\frac{\\sqrt{3}}{5}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "34564": {
+        "order_id": 14,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Modular Arithmetic",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Find the remainder when $17$ is divided by $5$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In modular arithmetic, $17 \\mod 5$ is the remainder when $17$ is divided by $5$. Since $5 \\times 3 = 15$ and $17 - 15 = 2$, the remainder is $2$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "63732",
+                "tag": "a",
+                "text": "$1$",
+                "is_correct": false
+            },
+            {
+                "option_id": "11756",
+                "tag": "b",
+                "text": "$2$",
+                "is_correct": true
+            },
+            {
+                "option_id": "14336",
+                "tag": "c",
+                "text": "$3$",
+                "is_correct": false
+            },
+            {
+                "option_id": "77005",
+                "tag": "d",
+                "text": "$4$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "34565": {
+        "order_id": 15,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Quadratic Equations",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Solve the quadratic equation $x^{2} - 5x + 6 = 0$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Factorize the quadratic equation: $(x - 2)(x - 3) = 0$. Thus, the solutions are $x = 2$ and $x = 3$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "63733",
+                "tag": "a",
+                "text": "$x = 1$ and $x = 6$",
+                "is_correct": false
+            },
+            {
+                "option_id": "11757",
+                "tag": "b",
+                "text": "$x = 2$ and $x = 3$",
+                "is_correct": true
+            },
+            {
+                "option_id": "14337",
+                "tag": "c",
+                "text": "$x = -2$ and $x = -3$",
+                "is_correct": false
+            },
+            {
+                "option_id": "77006",
+                "tag": "d",
+                "text": "$x = 1$ and $x = 5$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "34566": {
+        "order_id": 16,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Variation Types",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>If $y$ varies directly as $x$ and $y = 10$ when $x = 2$, find $y$ when $x = 5$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Since $y$ varies directly as $x$, $y = kx$. Given $y = 10$ when $x = 2$, $k = \\frac{10}{2} = 5$. Thus, when $x = 5$, $y = 5 \\times 5 = 25$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "63734",
+                "tag": "a",
+                "text": "$15$",
+                "is_correct": false
+            },
+            {
+                "option_id": "11758",
+                "tag": "b",
+                "text": "$25$",
+                "is_correct": true
+            },
+            {
+                "option_id": "14338",
+                "tag": "c",
+                "text": "$30$",
+                "is_correct": false
+            },
+            {
+                "option_id": "77007",
+                "tag": "d",
+                "text": "$50$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "34567": {
+        "order_id": 17,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Coordinate Geometry",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Find the distance between the points $(1, 2)$ and $(4, 6)$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The distance $d$ between two points $(x_1, y_1)$ and $(x_2, y_2)$ is given by $d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$. Thus, $d = \\sqrt{(4 - 1)^2 + (6 - 2)^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "63735",
+                "tag": "a",
+                "text": "$3$",
+                "is_correct": false
+            },
+            {
+                "option_id": "11759",
+                "tag": "b",
+                "text": "$5$",
+                "is_correct": true
+            },
+            {
+                "option_id": "14339",
+                "tag": "c",
+                "text": "$\\sqrt{13}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "77008",
+                "tag": "d",
+                "text": "$7$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "34568": {
+        "order_id": 18,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Trigonometry Rules",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>If $\\sin \\theta = \\frac{3}{5}$, find $\\cos \\theta$ given that $\\theta$ is acute.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Using the Pythagorean identity, $\\sin^2 \\theta + \\cos^2 \\theta = 1$. Thus, $\\cos^2 \\theta = 1 - \\sin^2 \\theta = 1 - \\left(\\frac{3}{5}\\right)^2 = 1 - \\frac{9}{25} = \\frac{16}{25}$. Therefore, $\\cos \\theta = \\frac{4}{5}$ (since $\\theta$ is acute).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "63736",
+                "tag": "a",
+                "text": "$\\frac{1}{5}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "11760",
+                "tag": "b",
+                "text": "$\\frac{4}{5}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "14340",
+                "tag": "c",
+                "text": "$\\frac{5}{3}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "77009",
+                "tag": "d",
+                "text": "$\\frac{3}{4}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "34569": {
+        "order_id": 19,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Mensuration Formulas",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Find the volume of a cylinder with radius $3$ cm and height $5$ cm. (Take $\\pi = \\frac{22}{7}$).</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The volume $V$ of a cylinder is given by $V = \\pi r^2 h$. Substituting the values, $V = \\frac{22}{7} \\times 3^2 \\times 5 = \\frac{22}{7} \\times 9 \\times 5 = \\frac{990}{7} = 141.43$ cm\u00b3 (approx).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "63737",
+                "tag": "a",
+                "text": "$132$ cm\u00b3",
+                "is_correct": false
+            },
+            {
+                "option_id": "11761",
+                "tag": "b",
+                "text": "$141.43$ cm\u00b3",
+                "is_correct": true
+            },
+            {
+                "option_id": "14341",
+                "tag": "c",
+                "text": "$150$ cm\u00b3",
+                "is_correct": false
+            },
+            {
+                "option_id": "77010",
+                "tag": "d",
+                "text": "$165$ cm\u00b3",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "34570": {
+        "order_id": 20,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Probability Rules",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>A bag contains $4$ red balls and $6$ blue balls. What is the probability of drawing a red ball?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The probability $P$ of drawing a red ball is the number of red balls divided by the total number of balls. Thus, $P = \\frac{4}{4+6} = \\frac{4}{10} = \\frac{2}{5}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "63738",
+                "tag": "a",
+                "text": "$\\frac{1}{5}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "11762",
+                "tag": "b",
+                "text": "$\\frac{2}{5}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "14342",
+                "tag": "c",
+                "text": "$\\frac{3}{5}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "77011",
+                "tag": "d",
+                "text": "$\\frac{4}{5}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
+    },
+    "89746": {
+        "order_id": 21,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Set Operations",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>If $A = \\{1, 2, 3, 4\\}$ and $B = \\{3, 4, 5, 6\\}$, find $A \\cap B$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The intersection of sets $A$ and $B$, denoted $A \\cap B$, consists of elements common to both sets. Here, the common elements are $3$ and $4$. Thus, $A \\cap B = \\{3, 4\\}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "79539",
+                "tag": "a",
+                "text": "$\\{1, 2, 3, 4, 5, 6\\}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "61328",
+                "tag": "b",
+                "text": "$\\{3, 4\\}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "70221",
+                "tag": "c",
+                "text": "$\\{1, 2, 5, 6\\}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "54307",
+                "tag": "d",
+                "text": "$\\{1, 2, 3, 4, 5, 6\\}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "89747": {
+        "order_id": 22,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Real Number Properties",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Which of the following is an irrational number?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>An irrational number cannot be expressed as a simple fraction and has non-repeating, non-terminating decimal expansions. Among the options, $\\sqrt{2}$ is a well-known irrational number.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "79540",
+                "tag": "a",
+                "text": "$0.333...$",
+                "is_correct": false
+            },
+            {
+                "option_id": "61329",
+                "tag": "b",
+                "text": "$\\sqrt{2}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "70222",
+                "tag": "c",
+                "text": "$\\frac{4}{5}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "54308",
+                "tag": "d",
+                "text": "$-3$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "89748": {
+        "order_id": 23,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Indices and Logarithms",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Simplify $2^3 \\times 2^4$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Using the law of indices, $a^m \\times a^n = a^{m+n}$. Thus, $2^3 \\times 2^4 = 2^{3+4} = 2^7 = 128$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "79541",
+                "tag": "a",
+                "text": "$2^7$",
+                "is_correct": false
+            },
+            {
+                "option_id": "61330",
+                "tag": "b",
+                "text": "$128$",
+                "is_correct": true
+            },
+            {
+                "option_id": "70223",
+                "tag": "c",
+                "text": "$2^{12}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "54309",
+                "tag": "d",
+                "text": "$64$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "89749": {
+        "order_id": 24,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Surds Basics",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Rationalize the denominator of $\\frac{5}{\\sqrt{3}}$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>To rationalize the denominator, multiply the numerator and denominator by $\\sqrt{3}$: $\\frac{5}{\\sqrt{3}} \\times \\frac{\\sqrt{3}}{\\sqrt{3}} = \\frac{5\\sqrt{3}}{3}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "79542",
+                "tag": "a",
+                "text": "$\\frac{5\\sqrt{3}}{3}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "61331",
+                "tag": "b",
+                "text": "$\\frac{\\sqrt{3}}{5}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "70224",
+                "tag": "c",
+                "text": "$\\frac{5}{3}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "54310",
+                "tag": "d",
+                "text": "$5\\sqrt{3}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "89750": {
+        "order_id": 25,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Modular Arithmetic",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Find the remainder when $17$ is divided by $5$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In modular arithmetic, $17 \\mod 5$ is the remainder when $17$ is divided by $5$. Since $5 \\times 3 = 15$ and $17 - 15 = 2$, the remainder is $2$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "79543",
+                "tag": "a",
+                "text": "$1$",
+                "is_correct": false
+            },
+            {
+                "option_id": "61332",
+                "tag": "b",
+                "text": "$2$",
+                "is_correct": true
+            },
+            {
+                "option_id": "70225",
+                "tag": "c",
+                "text": "$3$",
+                "is_correct": false
+            },
+            {
+                "option_id": "54311",
+                "tag": "d",
+                "text": "$4$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "89751": {
+        "order_id": 26,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Linear Equations",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Solve for $x$ in the equation $3x + 5 = 20$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Subtract $5$ from both sides: $3x = 15$. Then divide by $3$: $x = 5$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "79544",
+                "tag": "a",
+                "text": "$3$",
+                "is_correct": false
+            },
+            {
+                "option_id": "61333",
+                "tag": "b",
+                "text": "$5$",
+                "is_correct": true
+            },
+            {
+                "option_id": "70226",
+                "tag": "c",
+                "text": "$7$",
+                "is_correct": false
+            },
+            {
+                "option_id": "54312",
+                "tag": "d",
+                "text": "$10$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "89752": {
+        "order_id": 27,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Quadratic Equations",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Find the roots of the equation $x^2 - 5x + 6 = 0$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Factorize the quadratic equation: $(x - 2)(x - 3) = 0$. Thus, the roots are $x = 2$ and $x = 3$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "79545",
+                "tag": "a",
+                "text": "$x = 1$ and $x = 6$",
+                "is_correct": false
+            },
+            {
+                "option_id": "61334",
+                "tag": "b",
+                "text": "$x = 2$ and $x = 3$",
+                "is_correct": true
+            },
+            {
+                "option_id": "70227",
+                "tag": "c",
+                "text": "$x = -2$ and $x = -3$",
+                "is_correct": false
+            },
+            {
+                "option_id": "54313",
+                "tag": "d",
+                "text": "$x = 1$ and $x = 5$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "89753": {
+        "order_id": 28,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Variation Types",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>If $y$ varies directly as $x$ and $y = 10$ when $x = 2$, find $y$ when $x = 5$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Since $y$ varies directly as $x$, $y = kx$. Given $y = 10$ when $x = 2$, $k = \\frac{10}{2} = 5$. Thus, when $x = 5$, $y = 5 \\times 5 = 25$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "79546",
+                "tag": "a",
+                "text": "$15$",
+                "is_correct": false
+            },
+            {
+                "option_id": "61335",
+                "tag": "b",
+                "text": "$25$",
+                "is_correct": true
+            },
+            {
+                "option_id": "70228",
+                "tag": "c",
+                "text": "$30$",
+                "is_correct": false
+            },
+            {
+                "option_id": "54314",
+                "tag": "d",
+                "text": "$50$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "89754": {
+        "order_id": 29,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Coordinate Geometry",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Find the distance between the points $(1, 2)$ and $(4, 6)$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Use the distance formula: $d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$. Thus, $d = \\sqrt{(4 - 1)^2 + (6 - 2)^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "79547",
+                "tag": "a",
+                "text": "$3$",
+                "is_correct": false
+            },
+            {
+                "option_id": "61336",
+                "tag": "b",
+                "text": "$5$",
+                "is_correct": true
+            },
+            {
+                "option_id": "70229",
+                "tag": "c",
+                "text": "$\\sqrt{13}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "54315",
+                "tag": "d",
+                "text": "$7$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "89755": {
+        "order_id": 30,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Trigonometry Rules",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>If $\\sin \\theta = \\frac{3}{5}$, find $\\cos \\theta$ given that $\\theta$ is acute.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Using the Pythagorean identity, $\\sin^2 \\theta + \\cos^2 \\theta = 1$. Thus, $\\cos^2 \\theta = 1 - \\left(\\frac{3}{5}\\right)^2 = 1 - \\frac{9}{25} = \\frac{16}{25}$. Therefore, $\\cos \\theta = \\frac{4}{5}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "79548",
+                "tag": "a",
+                "text": "$\\frac{3}{4}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "61337",
+                "tag": "b",
+                "text": "$\\frac{4}{5}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "70230",
+                "tag": "c",
+                "text": "$\\frac{5}{4}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "54316",
+                "tag": "d",
+                "text": "$\\frac{5}{3}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

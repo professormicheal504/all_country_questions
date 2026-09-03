@@ -858,5 +858,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "99026": {
+        "order_id": 21,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Electronics Basics",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>Which of the following is the SI unit of electric current?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The SI unit of electric current is the <b>ampere (A)</b>, named after Andr\u00e9-Marie Amp\u00e8re, a French physicist. It is one of the seven base units in the International System of Units (SI).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "88651",
+                "tag": "a",
+                "text": "Volt (V)",
+                "is_correct": false
+            },
+            {
+                "option_id": "69437",
+                "tag": "b",
+                "text": "Ampere (A)",
+                "is_correct": true
+            },
+            {
+                "option_id": "81709",
+                "tag": "c",
+                "text": "Ohm (\u03a9)",
+                "is_correct": false
+            },
+            {
+                "option_id": "55567",
+                "tag": "d",
+                "text": "Watt (W)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "99027": {
+        "order_id": 22,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Atomic Structure and Energy Bands",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>In a semiconductor material, the energy gap between the valence band and the conduction band is called the:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The energy gap between the valence band (where electrons are bound) and the conduction band (where electrons are free to move) in a semiconductor is known as the <b>forbidden energy gap</b> or <b>band gap</b>. This gap determines the electrical conductivity of the material.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "88652",
+                "tag": "a",
+                "text": "Fermi level",
+                "is_correct": false
+            },
+            {
+                "option_id": "69438",
+                "tag": "b",
+                "text": "Forbidden energy gap",
+                "is_correct": true
+            },
+            {
+                "option_id": "81710",
+                "tag": "c",
+                "text": "Intrinsic level",
+                "is_correct": false
+            },
+            {
+                "option_id": "55568",
+                "tag": "d",
+                "text": "Extrinsic level",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "99028": {
+        "order_id": 23,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Semiconductor Types and Doping",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>An n-type semiconductor is formed by doping an intrinsic semiconductor with:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>An <b>n-type semiconductor</b> is created by doping an intrinsic semiconductor (e.g., silicon or germanium) with a pentavalent impurity (e.g., phosphorus, arsenic, or antimony). These impurities introduce extra electrons, increasing the number of free charge carriers.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "88653",
+                "tag": "a",
+                "text": "Trivalent impurity",
+                "is_correct": false
+            },
+            {
+                "option_id": "69439",
+                "tag": "b",
+                "text": "Pentavalent impurity",
+                "is_correct": true
+            },
+            {
+                "option_id": "81711",
+                "tag": "c",
+                "text": "Tetravalent impurity",
+                "is_correct": false
+            },
+            {
+                "option_id": "55569",
+                "tag": "d",
+                "text": "Hexavalent impurity",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "99029": {
+        "order_id": 24,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "PN Junction Diode",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>When a PN junction diode is <i>reverse-biased</i>, the depletion region:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In <b>reverse bias</b>, the positive terminal of the battery is connected to the n-side and the negative terminal to the p-side. This widens the depletion region, increasing the potential barrier and preventing current flow (except for a small reverse saturation current).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "88654",
+                "tag": "a",
+                "text": "Narrows",
+                "is_correct": false
+            },
+            {
+                "option_id": "69440",
+                "tag": "b",
+                "text": "Widens",
+                "is_correct": true
+            },
+            {
+                "option_id": "81712",
+                "tag": "c",
+                "text": "Remains unchanged",
+                "is_correct": false
+            },
+            {
+                "option_id": "55570",
+                "tag": "d",
+                "text": "Disappears",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "99030": {
+        "order_id": 25,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Diode Rectification",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>A full-wave rectifier uses how many diodes?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>full-wave rectifier</b> converts both halves of the AC input waveform into DC. It typically uses <b>four diodes</b> arranged in a bridge configuration (bridge rectifier) or two diodes with a center-tapped transformer.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "88655",
+                "tag": "a",
+                "text": "One",
+                "is_correct": false
+            },
+            {
+                "option_id": "69441",
+                "tag": "b",
+                "text": "Two",
+                "is_correct": false
+            },
+            {
+                "option_id": "81713",
+                "tag": "c",
+                "text": "Four",
+                "is_correct": true
+            },
+            {
+                "option_id": "55571",
+                "tag": "d",
+                "text": "Three",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "99031": {
+        "order_id": 26,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Zener Diodes and Regulation",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>The primary function of a Zener diode in a voltage regulator circuit is to:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>Zener diode</b> is designed to operate in reverse breakdown mode. In a voltage regulator circuit, it maintains a constant output voltage by conducting in reverse when the input voltage exceeds the Zener breakdown voltage.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "88656",
+                "tag": "a",
+                "text": "Amplify voltage",
+                "is_correct": false
+            },
+            {
+                "option_id": "69442",
+                "tag": "b",
+                "text": "Maintain a constant voltage",
+                "is_correct": true
+            },
+            {
+                "option_id": "81714",
+                "tag": "c",
+                "text": "Convert AC to DC",
+                "is_correct": false
+            },
+            {
+                "option_id": "55572",
+                "tag": "d",
+                "text": "Store electrical energy",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "99032": {
+        "order_id": 27,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "BJT Structure and Operation",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>In a Bipolar Junction Transistor (BJT), the region that controls the flow of current between the emitter and collector is the:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In a BJT, the <b>base</b> is the thin, lightly doped region that controls the flow of current between the emitter (heavily doped) and the collector (moderately doped). A small current applied to the base can control a larger current between the emitter and collector.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "88657",
+                "tag": "a",
+                "text": "Emitter",
+                "is_correct": false
+            },
+            {
+                "option_id": "69443",
+                "tag": "b",
+                "text": "Base",
+                "is_correct": true
+            },
+            {
+                "option_id": "81715",
+                "tag": "c",
+                "text": "Collector",
+                "is_correct": false
+            },
+            {
+                "option_id": "55573",
+                "tag": "d",
+                "text": "Substrate",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "99033": {
+        "order_id": 28,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Common-Emitter Amplifier",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>In a common-emitter amplifier, the input signal is applied to the <b>base</b>, and the output is taken from the:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In a <b>common-emitter amplifier</b>, the emitter is common to both the input and output circuits. The input signal is applied to the base, and the output is taken from the <b>collector</b>. This configuration provides high voltage gain and moderate input/output impedance.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "88658",
+                "tag": "a",
+                "text": "Emitter",
+                "is_correct": false
+            },
+            {
+                "option_id": "69444",
+                "tag": "b",
+                "text": "Base",
+                "is_correct": false
+            },
+            {
+                "option_id": "81716",
+                "tag": "c",
+                "text": "Collector",
+                "is_correct": true
+            },
+            {
+                "option_id": "55574",
+                "tag": "d",
+                "text": "Ground",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "99034": {
+        "order_id": 29,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Operational Amplifiers (Op-Amp) Basics",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>The ideal input impedance of an operational amplifier (Op-Amp) is:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>An <b>ideal Op-Amp</b> has <b>infinite input impedance</b>, meaning it draws no current from the input source. This ensures that the Op-Amp does not load the input circuit and maximizes signal transfer.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "88659",
+                "tag": "a",
+                "text": "Zero",
+                "is_correct": false
+            },
+            {
+                "option_id": "69445",
+                "tag": "b",
+                "text": "Finite",
+                "is_correct": false
+            },
+            {
+                "option_id": "81717",
+                "tag": "c",
+                "text": "Infinite",
+                "is_correct": true
+            },
+            {
+                "option_id": "55575",
+                "tag": "d",
+                "text": "Negative",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "99035": {
+        "order_id": 30,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Number Systems and Conversions",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>Convert the binary number $1101_2$ to its decimal equivalent.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>To convert the binary number $1101_2$ to decimal:<br>$1 \times 2^3 + 1 \times 2^2 + 0 \times 2^1 + 1 \times 2^0 = 8 + 4 + 0 + 1 = 13_{10}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "88660",
+                "tag": "a",
+                "text": "11",
+                "is_correct": false
+            },
+            {
+                "option_id": "69446",
+                "tag": "b",
+                "text": "13",
+                "is_correct": true
+            },
+            {
+                "option_id": "81718",
+                "tag": "c",
+                "text": "14",
+                "is_correct": false
+            },
+            {
+                "option_id": "55576",
+                "tag": "d",
+                "text": "15",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

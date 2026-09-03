@@ -1,0 +1,257 @@
+{
+    "71300": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "ICT Basics",
+        "question_type": "Theory",
+        "exam_year": "2004",
+        "question_text": "<p>Explain the term <b>Information and Communication Technology (ICT)</b> and list <u>three</u> key areas where ICT is applied in modern society.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Information and Communication Technology (ICT)</b> refers to the use of digital technology to process, store, and transmit information. It encompasses both hardware and software tools that facilitate communication and data management.<br><br>Key areas of application include:<br><br>1. <b>Education</b>: E-learning platforms, digital libraries, and interactive learning tools.<br>2. <b>Healthcare</b>: Electronic health records, telemedicine, and diagnostic software.<br>3. <b>Business</b>: E-commerce, digital marketing, and automated financial systems.<br><br>(Marks awarded for clarity, accuracy, and completeness of explanation.)</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "71301": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Computer Types",
+        "question_type": "Objective",
+        "exam_year": "2004",
+        "question_text": "<p>Which of the following is an example of a <b>supercomputer</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Supercomputers are high-performance computing machines designed for complex calculations and large-scale data processing. <b>CRAY-1</b> is a well-known example of a supercomputer developed in the 1970s. The other options are types of general-purpose or specialized computers but not supercomputers.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "64055",
+                "tag": "a",
+                "text": "IBM PC",
+                "is_correct": false
+            },
+            {
+                "option_id": "79617",
+                "tag": "b",
+                "text": "CRAY-1",
+                "is_correct": true
+            },
+            {
+                "option_id": "77633",
+                "tag": "c",
+                "text": "Apple Macintosh",
+                "is_correct": false
+            },
+            {
+                "option_id": "78673",
+                "tag": "d",
+                "text": "PDA",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "71302": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Hardware Components",
+        "question_type": "Theory",
+        "exam_year": "2004",
+        "question_text": "<p>Describe the functions of the following hardware components in a computer system:<br><br>1. <b>Central Processing Unit (CPU)</b><br>2. <b>Random Access Memory (RAM)</b><br>3. <b>Hard Disk Drive (HDD)</b></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>1. <b>Central Processing Unit (CPU)</b>: The CPU is the brain of the computer. It performs arithmetic and logical operations, executes instructions from programs, and manages data flow within the system.<br><br>2. <b>Random Access Memory (RAM)</b>: RAM is volatile memory that temporarily stores data and instructions that the CPU needs while executing tasks. It allows for fast read and write operations but loses its contents when the computer is powered off.<br><br>3. <b>Hard Disk Drive (HDD)</b>: The HDD is non-volatile storage that permanently stores data, programs, and the operating system. It provides large storage capacity but operates at slower speeds compared to RAM.<br><br>(Marks awarded for accuracy and clarity of explanation.)</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "71303": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Number System Conversion",
+        "question_type": "Theory",
+        "exam_year": "2004",
+        "question_text": "<p>Convert the binary number <b>$110101_2$</b> to its decimal equivalent. Show all steps clearly.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>To convert the binary number $110101_2$ to decimal:<br><br>1. Write down the binary number and assign powers of 2 to each bit, starting from the right (which is $2^0$):<br><br>$1 \times 2^5 + 1 \times 2^4 + 0 \times 2^3 + 1 \times 2^2 + 0 \times 2^1 + 1 \times 2^0$<br><br>2. Calculate each term:<br><br>$1 \times 32 + 1 \times 16 + 0 \times 8 + 1 \times 4 + 0 \times 2 + 1 \times 1$<br><br>3. Sum the values:<br><br>$32 + 16 + 0 + 4 + 0 + 1 = 53$<br><br>Thus, $110101_2 = 53_{10}$.<br><br>(Marks awarded for correct steps and final answer.)</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "71304": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Operating Systems",
+        "question_type": "Objective",
+        "exam_year": "2004",
+        "question_text": "<p>Which of the following is <b>NOT</b> a function of an operating system?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>An operating system manages hardware resources, provides a user interface, runs applications, and handles file management. <b>Compiling source code</b> is a function of a compiler, not an operating system.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "64055",
+                "tag": "a",
+                "text": "Memory management",
+                "is_correct": false
+            },
+            {
+                "option_id": "79617",
+                "tag": "b",
+                "text": "Compiling source code",
+                "is_correct": true
+            },
+            {
+                "option_id": "77633",
+                "tag": "c",
+                "text": "Process scheduling",
+                "is_correct": false
+            },
+            {
+                "option_id": "78673",
+                "tag": "d",
+                "text": "File management",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "71305": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Network Types",
+        "question_type": "Theory",
+        "exam_year": "2004",
+        "question_text": "<p>Differentiate between a <b>Local Area Network (LAN)</b> and a <b>Wide Area Network (WAN)</b>. Provide <u>two</u> examples of each.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Local Area Network (LAN)</b>: A LAN is a network that connects computers and devices within a limited geographical area, such as a school, office, or building. It typically offers high-speed data transfer and is privately owned.<br><br>Examples:<br>1. A network in a computer lab.<br>2. A home network connecting multiple devices.<br><br><b>Wide Area Network (WAN)</b>: A WAN spans a large geographical area, such as a country or continent, and connects multiple LANs. It often relies on public or leased communication lines.<br><br>Examples:<br>1. The Internet.<br>2. A corporate network connecting offices in different cities.<br><br>(Marks awarded for clarity, accuracy, and completeness of differentiation and examples.)</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "71306": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Cybersecurity Threats",
+        "question_type": "Objective",
+        "exam_year": "2004",
+        "question_text": "<p>Which of the following is a common method used by hackers to gain unauthorized access to a computer system?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Phishing</b> is a cybersecurity threat where attackers trick users into revealing sensitive information, such as passwords or credit card details, by posing as a legitimate entity. The other options are not primary methods for gaining unauthorized access.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "64055",
+                "tag": "a",
+                "text": "Defragmentation",
+                "is_correct": false
+            },
+            {
+                "option_id": "79617",
+                "tag": "b",
+                "text": "Phishing",
+                "is_correct": true
+            },
+            {
+                "option_id": "77633",
+                "tag": "c",
+                "text": "Disk formatting",
+                "is_correct": false
+            },
+            {
+                "option_id": "78673",
+                "tag": "d",
+                "text": "Data compression",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "71307": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Logic Gates",
+        "question_type": "Theory",
+        "exam_year": "2004",
+        "question_text": "<p>Draw the truth table for a <b>NAND gate</b> and explain its operation with an example.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>NAND gate</b> is a universal logic gate that outputs <b>false</b> only when all its inputs are <b>true</b>. Otherwise, it outputs <b>true</b>.<br><br><b>Truth Table for NAND Gate:</b><br><br><table border='1'><tr><th>A</th><th>B</th><th>A NAND B</th></tr><tr><td>0</td><td>0</td><td>1</td></tr><tr><td>0</td><td>1</td><td>1</td></tr><tr><td>1</td><td>0</td><td>1</td></tr><tr><td>1</td><td>1</td><td>0</td></tr></table><br><br><b>Example:</b> If inputs A and B are both 1 (true), the output of the NAND gate is 0 (false). For all other input combinations, the output is 1 (true).<br><br>(Marks awarded for correct truth table and clear explanation.)</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "71308": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Spreadsheet Tools",
+        "question_type": "Practical",
+        "exam_year": "2004",
+        "question_text": "<p>In a spreadsheet application, explain how you would use the <b>SUM</b> and <b>AVERAGE</b> functions to calculate the total and average of the values in cells <b>A1 to A10</b>.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>SUM Function:</b><br>To calculate the total of values in cells A1 to A10, use the formula:<br><br><code>=SUM(A1:A10)</code><br><br>This adds all the numeric values in the specified range.<br><br><b>AVERAGE Function:</b><br>To calculate the average of values in cells A1 to A10, use the formula:<br><br><code>=AVERAGE(A1:A10)</code><br><br>This sums the values in the range and divides by the number of non-empty cells.<br><br>(Marks awarded for correct syntax and clear explanation of both functions.)</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "71309": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "ICT in Society",
+        "question_type": "Theory",
+        "exam_year": "2004",
+        "question_text": "<p>Discuss <u>three</u> positive impacts and <u>two</u> negative impacts of ICT on society.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Positive Impacts:</b><br>1. <b>Improved Communication</b>: ICT enables instant communication through email, social media, and messaging apps, bridging geographical gaps.<br>2. <b>Access to Information</b>: The Internet provides vast amounts of information, enhancing education, research, and decision-making.<br>3. <b>Economic Growth</b>: ICT drives innovation, creates jobs, and facilitates e-commerce, boosting economic development.<br><br><b>Negative Impacts:</b><br>1. <b>Digital Divide</b>: Unequal access to ICT tools and the Internet creates disparities in opportunities and knowledge.<br>2. <b>Privacy Concerns</b>: ICT increases the risk of data breaches, identity theft, and unauthorized surveillance.<br><br>(Marks awarded for clarity, relevance, and depth of discussion.)</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

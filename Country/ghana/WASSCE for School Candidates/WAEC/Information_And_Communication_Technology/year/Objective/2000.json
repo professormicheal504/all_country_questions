@@ -858,5 +858,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "10994": {
+        "order_id": 21,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "ICT Basics",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>Which of the following is <b>NOT</b> a basic function of a computer system?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A computer system performs four basic functions: <i>input</i>, <i>processing</i>, <i>storage</i>, and <i>output</i>. <u>Communication</u> is not considered one of these core functions.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "40652",
+                "tag": "a",
+                "text": "Input",
+                "is_correct": false
+            },
+            {
+                "option_id": "82336",
+                "tag": "b",
+                "text": "Processing",
+                "is_correct": false
+            },
+            {
+                "option_id": "23359",
+                "tag": "c",
+                "text": "Communication",
+                "is_correct": true
+            },
+            {
+                "option_id": "65883",
+                "tag": "d",
+                "text": "Storage",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "10995": {
+        "order_id": 22,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Computer Types",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>Which type of computer is designed to perform complex scientific calculations and is typically used in research institutions?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Supercomputers</b> are high-performance machines designed for complex calculations, such as weather forecasting, nuclear research, and simulations. They are the most powerful type of computer.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "40653",
+                "tag": "a",
+                "text": "Microcomputer",
+                "is_correct": false
+            },
+            {
+                "option_id": "82337",
+                "tag": "b",
+                "text": "Minicomputer",
+                "is_correct": false
+            },
+            {
+                "option_id": "23360",
+                "tag": "c",
+                "text": "Supercomputer",
+                "is_correct": true
+            },
+            {
+                "option_id": "65884",
+                "tag": "d",
+                "text": "Mainframe computer",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "10996": {
+        "order_id": 23,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Hardware Components",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>Which hardware component is responsible for temporarily storing data and instructions that the CPU is currently processing?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>RAM (Random Access Memory)</b> is a volatile memory that temporarily stores data and instructions for the CPU to access quickly. It is erased when the computer is turned off.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "40654",
+                "tag": "a",
+                "text": "Hard Disk Drive",
+                "is_correct": false
+            },
+            {
+                "option_id": "82338",
+                "tag": "b",
+                "text": "RAM",
+                "is_correct": true
+            },
+            {
+                "option_id": "23361",
+                "tag": "c",
+                "text": "ROM",
+                "is_correct": false
+            },
+            {
+                "option_id": "65885",
+                "tag": "d",
+                "text": "CPU",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "10997": {
+        "order_id": 24,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Number System Conversion",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>Convert the binary number $1011_2$ to its decimal equivalent.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The binary number $1011_2$ is converted to decimal as follows:<br>$1 \\times 2^3 + 0 \\times 2^2 + 1 \\times 2^1 + 1 \\times 2^0 = 8 + 0 + 2 + 1 = 11_{10}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "40655",
+                "tag": "a",
+                "text": "$9_{10}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "82339",
+                "tag": "b",
+                "text": "$10_{10}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "23362",
+                "tag": "c",
+                "text": "$11_{10}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "65886",
+                "tag": "d",
+                "text": "$12_{10}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "10998": {
+        "order_id": 25,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Operating Systems",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>Which of the following is <b>NOT</b> a function of an operating system?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>An operating system manages hardware resources, provides a user interface, and runs applications. <u>Virus scanning</u> is typically handled by antivirus software, not the OS.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "40656",
+                "tag": "a",
+                "text": "Memory management",
+                "is_correct": false
+            },
+            {
+                "option_id": "82340",
+                "tag": "b",
+                "text": "Virus scanning",
+                "is_correct": true
+            },
+            {
+                "option_id": "23363",
+                "tag": "c",
+                "text": "Process management",
+                "is_correct": false
+            },
+            {
+                "option_id": "65887",
+                "tag": "d",
+                "text": "File management",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "10999": {
+        "order_id": 26,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Network Types",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>A network that connects computers within a limited geographical area, such as a school or office, is called a:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>Local Area Network (LAN)</b> connects computers within a small area, such as a building or campus, allowing for resource sharing and communication.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "40657",
+                "tag": "a",
+                "text": "WAN",
+                "is_correct": false
+            },
+            {
+                "option_id": "82341",
+                "tag": "b",
+                "text": "MAN",
+                "is_correct": false
+            },
+            {
+                "option_id": "23364",
+                "tag": "c",
+                "text": "LAN",
+                "is_correct": true
+            },
+            {
+                "option_id": "65888",
+                "tag": "d",
+                "text": "PAN",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "11000": {
+        "order_id": 27,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Cybersecurity Threats",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>Which of the following is a type of malware that replicates itself and spreads to other computers without user intervention?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>worm</b> is a self-replicating malware that spreads across networks without requiring user action, unlike viruses, which need a host file to propagate.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "40658",
+                "tag": "a",
+                "text": "Virus",
+                "is_correct": false
+            },
+            {
+                "option_id": "82342",
+                "tag": "b",
+                "text": "Worm",
+                "is_correct": true
+            },
+            {
+                "option_id": "23365",
+                "tag": "c",
+                "text": "Trojan",
+                "is_correct": false
+            },
+            {
+                "option_id": "65889",
+                "tag": "d",
+                "text": "Spyware",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "11001": {
+        "order_id": 28,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Data Representation",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>How many bits are there in a byte?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>byte</b> consists of 8 bits. It is the basic unit of data storage in computing.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "40659",
+                "tag": "a",
+                "text": "4",
+                "is_correct": false
+            },
+            {
+                "option_id": "82343",
+                "tag": "b",
+                "text": "8",
+                "is_correct": true
+            },
+            {
+                "option_id": "23366",
+                "tag": "c",
+                "text": "16",
+                "is_correct": false
+            },
+            {
+                "option_id": "65890",
+                "tag": "d",
+                "text": "32",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "11002": {
+        "order_id": 29,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Logic Gates",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>Which logic gate outputs <i>true</i> only when both inputs are <i>true</i>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>AND gate</b> outputs <i>true</i> (or 1) only if all its inputs are <i>true</i>. Otherwise, it outputs <i>false</i> (or 0).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "40660",
+                "tag": "a",
+                "text": "OR gate",
+                "is_correct": false
+            },
+            {
+                "option_id": "82344",
+                "tag": "b",
+                "text": "AND gate",
+                "is_correct": true
+            },
+            {
+                "option_id": "23367",
+                "tag": "c",
+                "text": "NOT gate",
+                "is_correct": false
+            },
+            {
+                "option_id": "65891",
+                "tag": "d",
+                "text": "XOR gate",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "11003": {
+        "order_id": 30,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Computer Ethics",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>Which of the following is an example of <u>unethical</u> behavior in computing?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Software piracy</b> involves illegally copying or distributing software, which is unethical and violates copyright laws.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "40661",
+                "tag": "a",
+                "text": "Using licensed software",
+                "is_correct": false
+            },
+            {
+                "option_id": "82345",
+                "tag": "b",
+                "text": "Backing up data",
+                "is_correct": false
+            },
+            {
+                "option_id": "23368",
+                "tag": "c",
+                "text": "Software piracy",
+                "is_correct": true
+            },
+            {
+                "option_id": "65892",
+                "tag": "d",
+                "text": "Protecting passwords",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

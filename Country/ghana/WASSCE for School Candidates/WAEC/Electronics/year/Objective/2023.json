@@ -428,5 +428,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "24539": {
+        "order_id": 11,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Electronics Basics",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>Which of the following is the <b>primary</b> function of an electronic device?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The primary function of an electronic device is to <b>control the flow of electrons</b> to perform specific tasks such as amplification, switching, or signal processing. Other options like generating heat or mechanical motion are secondary or incidental effects.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "39884",
+                "tag": "a",
+                "text": "To generate heat",
+                "is_correct": false
+            },
+            {
+                "option_id": "14649",
+                "tag": "b",
+                "text": "To control the flow of electrons",
+                "is_correct": true
+            },
+            {
+                "option_id": "46233",
+                "tag": "c",
+                "text": "To produce mechanical motion",
+                "is_correct": false
+            },
+            {
+                "option_id": "19106",
+                "tag": "d",
+                "text": "To store chemical energy",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "24540": {
+        "order_id": 12,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Atomic Structure and Energy Bands",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>In a semiconductor material, the energy gap between the valence band and the conduction band is known as the:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>forbidden energy gap</b> (or bandgap) is the energy difference between the valence band (where electrons are bound) and the conduction band (where electrons are free to move). This gap determines whether a material is a conductor, semiconductor, or insulator.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "39885",
+                "tag": "a",
+                "text": "Fermi level",
+                "is_correct": false
+            },
+            {
+                "option_id": "14650",
+                "tag": "b",
+                "text": "Forbidden energy gap",
+                "is_correct": true
+            },
+            {
+                "option_id": "46234",
+                "tag": "c",
+                "text": "Conduction band",
+                "is_correct": false
+            },
+            {
+                "option_id": "19107",
+                "tag": "d",
+                "text": "Valence band",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "24541": {
+        "order_id": 13,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Semiconductor Types and Doping",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>An <i>n-type</i> semiconductor is formed by doping intrinsic silicon with which of the following elements?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>An <i>n-type</i> semiconductor is created by doping intrinsic silicon with a <b>pentavalent</b> element (e.g., phosphorus, arsenic, or antimony), which introduces extra electrons (majority carriers) into the conduction band.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "39886",
+                "tag": "a",
+                "text": "Boron",
+                "is_correct": false
+            },
+            {
+                "option_id": "14651",
+                "tag": "b",
+                "text": "Phosphorus",
+                "is_correct": true
+            },
+            {
+                "option_id": "46235",
+                "tag": "c",
+                "text": "Aluminum",
+                "is_correct": false
+            },
+            {
+                "option_id": "19108",
+                "tag": "d",
+                "text": "Gallium",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "24542": {
+        "order_id": 14,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "PN Junction Diode",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>When a PN junction diode is <u>reverse-biased</u>, the depletion region:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In reverse bias, the external voltage widens the depletion region by pulling majority carriers away from the junction, increasing the potential barrier and reducing current flow (except for a small reverse saturation current).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "39887",
+                "tag": "a",
+                "text": "Narrows",
+                "is_correct": false
+            },
+            {
+                "option_id": "14652",
+                "tag": "b",
+                "text": "Widens",
+                "is_correct": true
+            },
+            {
+                "option_id": "46236",
+                "tag": "c",
+                "text": "Remains unchanged",
+                "is_correct": false
+            },
+            {
+                "option_id": "19109",
+                "tag": "d",
+                "text": "Disappears",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "24543": {
+        "order_id": 15,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Diode Rectification",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>A <b>full-wave rectifier</b> uses how many diodes to convert AC to DC?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A full-wave rectifier requires <b>four diodes</b> arranged in a bridge configuration to rectify both halves of the AC input cycle, producing a smoother DC output compared to a half-wave rectifier.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "39888",
+                "tag": "a",
+                "text": "One",
+                "is_correct": false
+            },
+            {
+                "option_id": "14653",
+                "tag": "b",
+                "text": "Two",
+                "is_correct": false
+            },
+            {
+                "option_id": "46237",
+                "tag": "c",
+                "text": "Four",
+                "is_correct": true
+            },
+            {
+                "option_id": "19110",
+                "tag": "d",
+                "text": "Three",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "24544": {
+        "order_id": 16,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "BJT Structure and Operation",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>In a <i>common-emitter</i> BJT amplifier, the input signal is applied to the:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In a common-emitter configuration, the <b>base</b> is the input terminal, the collector is the output terminal, and the emitter is common to both input and output circuits. This setup provides high voltage and current gain.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "39889",
+                "tag": "a",
+                "text": "Collector",
+                "is_correct": false
+            },
+            {
+                "option_id": "14654",
+                "tag": "b",
+                "text": "Base",
+                "is_correct": true
+            },
+            {
+                "option_id": "46238",
+                "tag": "c",
+                "text": "Emitter",
+                "is_correct": false
+            },
+            {
+                "option_id": "19111",
+                "tag": "d",
+                "text": "Collector and emitter",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "24545": {
+        "order_id": 17,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Operational Amplifiers (Op-Amp)",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>The <b>ideal</b> voltage gain of an inverting Op-Amp configuration is given by the ratio of:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The voltage gain ($A_v$) of an inverting Op-Amp is determined by the feedback resistor ($R_f$) and the input resistor ($R_{in}$), given by the formula: $A_v = -\frac{R_f}{R_{in}}$. The negative sign indicates a 180\u00b0 phase shift.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "39890",
+                "tag": "a",
+                "text": "$R_{in} / R_f$",
+                "is_correct": false
+            },
+            {
+                "option_id": "14655",
+                "tag": "b",
+                "text": "$-R_f / R_{in}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "46239",
+                "tag": "c",
+                "text": "$R_f + R_{in}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "19112",
+                "tag": "d",
+                "text": "$R_f \times R_{in}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "24546": {
+        "order_id": 18,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Number Systems and Conversions",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>Convert the binary number $1101_2$ to its decimal equivalent.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>To convert $1101_2$ to decimal:<br>$1 \times 2^3 + 1 \times 2^2 + 0 \times 2^1 + 1 \times 2^0 = 8 + 4 + 0 + 1 = 13_{10}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "39891",
+                "tag": "a",
+                "text": "11",
+                "is_correct": false
+            },
+            {
+                "option_id": "14656",
+                "tag": "b",
+                "text": "13",
+                "is_correct": true
+            },
+            {
+                "option_id": "46240",
+                "tag": "c",
+                "text": "15",
+                "is_correct": false
+            },
+            {
+                "option_id": "19113",
+                "tag": "d",
+                "text": "10",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "24547": {
+        "order_id": 19,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Logic Gates and Boolean Algebra",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>Which logic gate implements the Boolean expression $Y = \bar{A} \bullet \bar{B}$?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The expression $Y = \bar{A} \bullet \bar{B}$ represents the <b>NOR</b> operation, which is equivalent to an OR gate followed by a NOT gate. The truth table for NOR outputs <i>1</i> only when both inputs are <i>0</i>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "39892",
+                "tag": "a",
+                "text": "AND gate",
+                "is_correct": false
+            },
+            {
+                "option_id": "14657",
+                "tag": "b",
+                "text": "NAND gate",
+                "is_correct": false
+            },
+            {
+                "option_id": "46241",
+                "tag": "c",
+                "text": "NOR gate",
+                "is_correct": true
+            },
+            {
+                "option_id": "19114",
+                "tag": "d",
+                "text": "XOR gate",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "24548": {
+        "order_id": 20,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Power Supply Circuits and Thyristors",
+        "question_type": "Objective",
+        "exam_year": "2023",
+        "question_text": "<p>A thyristor is commonly used in power electronics for:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A thyristor (e.g., SCR) is a <b>controlled rectifier</b> used to convert AC to DC while allowing control over the output voltage/current by adjusting the firing angle. It is widely used in motor speed control, lighting dimmers, and power regulation.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "39893",
+                "tag": "a",
+                "text": "Amplifying weak signals",
+                "is_correct": false
+            },
+            {
+                "option_id": "14658",
+                "tag": "b",
+                "text": "Controlled rectification",
+                "is_correct": true
+            },
+            {
+                "option_id": "46242",
+                "tag": "c",
+                "text": "Frequency modulation",
+                "is_correct": false
+            },
+            {
+                "option_id": "19115",
+                "tag": "d",
+                "text": "Digital logic operations",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

@@ -858,5 +858,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "42702": {
+        "order_id": 21,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Drawing tools overview",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>Which of the following drawing tools is used to draw circles and arcs of varying radii?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>compass</b> is the primary tool used in technical drawing to construct circles and arcs of different sizes. It consists of two legs: one with a pointed end for anchoring and the other with a pencil or pen for drawing.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "67788",
+                "tag": "a",
+                "text": "T-square",
+                "is_correct": false
+            },
+            {
+                "option_id": "64887",
+                "tag": "b",
+                "text": "Compass",
+                "is_correct": true
+            },
+            {
+                "option_id": "50719",
+                "tag": "c",
+                "text": "Set square",
+                "is_correct": false
+            },
+            {
+                "option_id": "54397",
+                "tag": "d",
+                "text": "Protractor",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "42703": {
+        "order_id": 22,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Standard sheet sizes",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>What is the dimension of an A2 drawing sheet in millimetres?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The ISO standard for paper sizes defines A2 as <b>420 mm \u00d7 594 mm</b>. Each A-size is half the area of the previous size when folded along its longer side.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "67789",
+                "tag": "a",
+                "text": "210 \u00d7 297",
+                "is_correct": false
+            },
+            {
+                "option_id": "64888",
+                "tag": "b",
+                "text": "297 \u00d7 420",
+                "is_correct": false
+            },
+            {
+                "option_id": "50720",
+                "tag": "c",
+                "text": "420 \u00d7 594",
+                "is_correct": true
+            },
+            {
+                "option_id": "54398",
+                "tag": "d",
+                "text": "594 \u00d7 841",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "42704": {
+        "order_id": 23,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Line types and uses",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>Which line type is used to represent hidden details in an orthographic projection?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>dashed line</b> (short dashes of equal length) is used to indicate hidden edges or features that are not visible in the current view of an orthographic projection.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "67790",
+                "tag": "a",
+                "text": "Continuous thick line",
+                "is_correct": false
+            },
+            {
+                "option_id": "64889",
+                "tag": "b",
+                "text": "Dashed line",
+                "is_correct": true
+            },
+            {
+                "option_id": "50721",
+                "tag": "c",
+                "text": "Chain line",
+                "is_correct": false
+            },
+            {
+                "option_id": "54399",
+                "tag": "d",
+                "text": "Continuous thin line",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "42705": {
+        "order_id": 24,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Basic geometric constructions",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>To bisect a given angle using a compass and straightedge, which of the following steps is <b>not</b> required?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Bisecting an angle requires: (1) drawing an arc from the vertex to intersect both arms, (2) drawing arcs from the intersection points to find the bisector, and (3) joining the vertex to the new intersection. <b>Drawing a perpendicular line from the vertex</b> is not part of the standard procedure.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "67791",
+                "tag": "a",
+                "text": "Drawing an arc from the vertex to intersect both arms of the angle",
+                "is_correct": false
+            },
+            {
+                "option_id": "64890",
+                "tag": "b",
+                "text": "Drawing a perpendicular line from the vertex",
+                "is_correct": true
+            },
+            {
+                "option_id": "50722",
+                "tag": "c",
+                "text": "Drawing arcs from the intersection points to locate the bisector",
+                "is_correct": false
+            },
+            {
+                "option_id": "54400",
+                "tag": "d",
+                "text": "Joining the vertex to the intersection of the arcs",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "42706": {
+        "order_id": 25,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Orthographic projection methods",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>In first-angle orthographic projection, the right-side view is placed to the <b>______</b> of the front view.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In <b>first-angle projection</b>, the right-side view is positioned to the <b>left</b> of the front view. This is because the object is imagined to be placed in the first quadrant, and views are projected onto planes behind the object.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "67792",
+                "tag": "a",
+                "text": "Right",
+                "is_correct": false
+            },
+            {
+                "option_id": "64891",
+                "tag": "b",
+                "text": "Left",
+                "is_correct": true
+            },
+            {
+                "option_id": "50723",
+                "tag": "c",
+                "text": "Top",
+                "is_correct": false
+            },
+            {
+                "option_id": "54401",
+                "tag": "d",
+                "text": "Bottom",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "42707": {
+        "order_id": 26,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Sectional view types",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>A sectional view that cuts through the entire object along a single plane is called a <b>______</b> section.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>full section</b> is a sectional view where the cutting plane passes entirely through the object, revealing its internal details in a single view.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "67793",
+                "tag": "a",
+                "text": "Half",
+                "is_correct": false
+            },
+            {
+                "option_id": "64892",
+                "tag": "b",
+                "text": "Full",
+                "is_correct": true
+            },
+            {
+                "option_id": "50724",
+                "tag": "c",
+                "text": "Revolved",
+                "is_correct": false
+            },
+            {
+                "option_id": "54402",
+                "tag": "d",
+                "text": "Removed",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "42708": {
+        "order_id": 27,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Isometric drawing basics",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>In an isometric drawing, the three principal axes are inclined at <b>______</b> degrees to each other.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In isometric projection, the three principal axes (length, width, and height) are equally spaced at <b>120\u00b0</b> to each other, creating a uniform 3D representation.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "67794",
+                "tag": "a",
+                "text": "90",
+                "is_correct": false
+            },
+            {
+                "option_id": "64893",
+                "tag": "b",
+                "text": "120",
+                "is_correct": true
+            },
+            {
+                "option_id": "50725",
+                "tag": "c",
+                "text": "60",
+                "is_correct": false
+            },
+            {
+                "option_id": "54403",
+                "tag": "d",
+                "text": "45",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "42709": {
+        "order_id": 28,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Surface development",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>The development of a right circular cone results in a <b>______</b> shape.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The surface development of a right circular cone unfolds into a <b>sector of a circle</b>, where the radius equals the slant height of the cone and the arc length matches the circumference of the cone's base.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "67795",
+                "tag": "a",
+                "text": "Rectangle",
+                "is_correct": false
+            },
+            {
+                "option_id": "64894",
+                "tag": "b",
+                "text": "Sector of a circle",
+                "is_correct": true
+            },
+            {
+                "option_id": "50726",
+                "tag": "c",
+                "text": "Triangle",
+                "is_correct": false
+            },
+            {
+                "option_id": "54404",
+                "tag": "d",
+                "text": "Trapezium",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "42710": {
+        "order_id": 29,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Dimensioning principles",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>Which of the following is <b>not</b> a standard rule for dimensioning in technical drawings?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Standard dimensioning rules include: (1) avoiding duplicate dimensions, (2) placing dimensions outside the view, and (3) aligning dimensions for clarity. <b>Dimensioning hidden lines</b> is discouraged because hidden features should be shown in sectional views.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "67796",
+                "tag": "a",
+                "text": "Avoid duplicating dimensions",
+                "is_correct": false
+            },
+            {
+                "option_id": "64895",
+                "tag": "b",
+                "text": "Place dimensions outside the view",
+                "is_correct": false
+            },
+            {
+                "option_id": "50727",
+                "tag": "c",
+                "text": "Dimension hidden lines",
+                "is_correct": true
+            },
+            {
+                "option_id": "54405",
+                "tag": "d",
+                "text": "Align dimensions for clarity",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "42711": {
+        "order_id": 30,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "CAD 2D drafting",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>In CAD software, the command used to create a circular array of objects is called <b>______</b>.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>ARRAYPOLAR</b> command in CAD software is used to create a circular (polar) array of objects around a specified center point. This is distinct from the <b>ARRAYRECT</b> command, which creates rectangular arrays.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "67797",
+                "tag": "a",
+                "text": "ARRAYRECT",
+                "is_correct": false
+            },
+            {
+                "option_id": "64896",
+                "tag": "b",
+                "text": "ARRAYPOLAR",
+                "is_correct": true
+            },
+            {
+                "option_id": "50728",
+                "tag": "c",
+                "text": "MIRROR",
+                "is_correct": false
+            },
+            {
+                "option_id": "54406",
+                "tag": "d",
+                "text": "OFFSET",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

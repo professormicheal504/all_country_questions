@@ -1,0 +1,332 @@
+{
+    "41678": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Music Notation Basics",
+        "question_type": "Objective",
+        "exam_year": "2024",
+        "question_text": "<p>Which of the following symbols represents a <b>quarter note</b> in standard music notation?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A quarter note is represented by a filled-in note head with a stem. It receives one beat in 4/4 time. The correct symbol is shown in option (b).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "61295",
+                "tag": "a",
+                "text": "<img src='half_note.png' alt='Half note symbol'>",
+                "is_correct": false
+            },
+            {
+                "option_id": "80640",
+                "tag": "b",
+                "text": "<img src='quarter_note.png' alt='Quarter note symbol'>",
+                "is_correct": true
+            },
+            {
+                "option_id": "84200",
+                "tag": "c",
+                "text": "<img src='eighth_note.png' alt='Eighth note symbol'>",
+                "is_correct": false
+            },
+            {
+                "option_id": "50330",
+                "tag": "d",
+                "text": "<img src='whole_note.png' alt='Whole note symbol'>",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "41679": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Types of Scales",
+        "question_type": "Objective",
+        "exam_year": "2024",
+        "question_text": "<p>Identify the scale that consists of the following sequence of intervals: <i>Whole, Whole, Half, Whole, Whole, Whole, Half</i>.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The described interval pattern corresponds to the <b>major scale</b>. The sequence of whole and half steps defines its unique sound. Option (c) is correct.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "61296",
+                "tag": "a",
+                "text": "Natural minor scale",
+                "is_correct": false
+            },
+            {
+                "option_id": "80641",
+                "tag": "b",
+                "text": "Harmonic minor scale",
+                "is_correct": false
+            },
+            {
+                "option_id": "84201",
+                "tag": "c",
+                "text": "Major scale",
+                "is_correct": true
+            },
+            {
+                "option_id": "50331",
+                "tag": "d",
+                "text": "Chromatic scale",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "41680": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Intervals and Inversions",
+        "question_type": "Objective",
+        "exam_year": "2024",
+        "question_text": "<p>What is the inversion of a <b>perfect fifth</b> ($5$) interval?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The inversion of a perfect fifth ($5$) is a perfect fourth ($4$). Inversion is calculated by subtracting the interval from $9$ (e.g., $9 - 5 = 4$). Option (a) is correct.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "61297",
+                "tag": "a",
+                "text": "Perfect fourth ($4$)",
+                "is_correct": true
+            },
+            {
+                "option_id": "80642",
+                "tag": "b",
+                "text": "Major third ($3$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "84202",
+                "tag": "c",
+                "text": "Minor sixth ($6$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "50332",
+                "tag": "d",
+                "text": "Perfect octave ($8$)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "41681": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Chords and Inversions",
+        "question_type": "Practical",
+        "exam_year": "2024",
+        "question_text": "<p>Write out the <b>first inversion</b> of a C major triad ($I$) in the treble clef. Label the notes correctly.</p>",
+        "question_image": null,
+        "answer_image": "c_major_first_inversion.png",
+        "explanation": "<p>The first inversion of a C major triad ($I$) consists of the notes <b>E</b>, <b>G</b>, and <b>C</b>, with <b>E</b> as the lowest note. The correct notation places <b>E</b> on the first space of the treble clef, <b>G</b> on the second line, and <b>C</b> in the third space.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "41682": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Cadence Types",
+        "question_type": "Objective",
+        "exam_year": "2024",
+        "question_text": "<p>Which cadence is formed by the chord progression <b>$V - I$</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The chord progression <b>$V - I$</b> forms a <b>perfect cadence</b>, which is a conclusive resolution in Western harmony. Option (d) is correct.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "61298",
+                "tag": "a",
+                "text": "Plagal cadence",
+                "is_correct": false
+            },
+            {
+                "option_id": "80643",
+                "tag": "b",
+                "text": "Deceptive cadence",
+                "is_correct": false
+            },
+            {
+                "option_id": "84203",
+                "tag": "c",
+                "text": "Half cadence",
+                "is_correct": false
+            },
+            {
+                "option_id": "50333",
+                "tag": "d",
+                "text": "Perfect cadence",
+                "is_correct": true
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "41683": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "African Music Traits",
+        "question_type": "Objective",
+        "exam_year": "2024",
+        "question_text": "<p>Which of the following is a <u>key characteristic</u> of traditional African music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Traditional African music is heavily based on <b>call-and-response</b> patterns, where a leader sings or plays a phrase, and a group responds. This is a defining trait. Option (b) is correct.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "61299",
+                "tag": "a",
+                "text": "Use of equal temperament tuning",
+                "is_correct": false
+            },
+            {
+                "option_id": "80644",
+                "tag": "b",
+                "text": "Call-and-response patterns",
+                "is_correct": true
+            },
+            {
+                "option_id": "84204",
+                "tag": "c",
+                "text": "Strict adherence to written notation",
+                "is_correct": false
+            },
+            {
+                "option_id": "50334",
+                "tag": "d",
+                "text": "Predominance of solo performances",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "41684": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Ghanaian Traditional Music",
+        "question_type": "Practical",
+        "exam_year": "2024",
+        "question_text": "<p>Identify and describe <b>two</b> traditional Ghanaian musical instruments, including their classification and cultural significance.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Acceptable answers include:<br><b>1. Fontomfrom (Drum):</b> A set of large drums used in Akan ceremonies, classified as membranophones. They communicate messages and signify authority.<br><b>2. Atenteben (Flute):</b> A bamboo flute used in Ewe music, classified as an aerophone. It is often played in ensembles and rituals.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "41685": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Melody Writing Techniques",
+        "question_type": "Practical",
+        "exam_year": "2024",
+        "question_text": "<p>Compose an 8-bar melody in <b>C major</b> for the soprano voice, using appropriate rhythmic variety and melodic contour. Notate it in the treble clef.</p>",
+        "question_image": null,
+        "answer_image": "melody_composition_example.png",
+        "explanation": "<p>The melody should:<br>- Start and end on the tonic (<b>C</b>).<br>- Use stepwise motion and occasional leaps (no larger than a fifth).<br>- Include rhythmic variety (e.g., quarter notes, eighth notes, half notes).<br>- Demonstrate a clear climax and resolution.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "41686": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Aural Skills Training",
+        "question_type": "Practical",
+        "exam_year": "2024",
+        "question_text": "<p>Listen to the provided audio excerpt and:<br><b>1.</b> Identify the <u>time signature</u>.<br><b>2.</b> Notate the first four bars of the melody in the treble clef.</p>",
+        "question_image": null,
+        "answer_image": "aural_excerpt_notation.png",
+        "explanation": "<p>The audio excerpt is in <b>3/4 time</b>. The first four bars should be notated accurately, reflecting the rhythm and pitch of the melody. Marks are awarded for correct pitch, rhythm, and notation clarity.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "41687": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Western Art Music Periods",
+        "question_type": "Objective",
+        "exam_year": "2024",
+        "question_text": "<p>Which of the following composers is associated with the <b>Classical period</b> of Western art music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>Classical period</b> (1750\u20131820) includes composers like <b>Wolfgang Amadeus Mozart</b>. Option (c) is correct.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "61300",
+                "tag": "a",
+                "text": "Johann Sebastian Bach",
+                "is_correct": false
+            },
+            {
+                "option_id": "80645",
+                "tag": "b",
+                "text": "Richard Wagner",
+                "is_correct": false
+            },
+            {
+                "option_id": "84205",
+                "tag": "c",
+                "text": "Wolfgang Amadeus Mozart",
+                "is_correct": true
+            },
+            {
+                "option_id": "50335",
+                "tag": "d",
+                "text": "Claude Debussy",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

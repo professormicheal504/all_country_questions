@@ -1288,5 +1288,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "80426": {
+        "order_id": 31,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "ICT Basics",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>Which of the following is <b>NOT</b> a characteristic of Information and Communication Technology (ICT)?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>ICT is defined by its ability to process, store, and transmit information efficiently. However, <b>manual processing</b> is not a characteristic of ICT, as ICT relies on automated and digital systems.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "70104",
+                "tag": "a",
+                "text": "Digital processing of data",
+                "is_correct": false
+            },
+            {
+                "option_id": "64212",
+                "tag": "b",
+                "text": "Manual processing of data",
+                "is_correct": true
+            },
+            {
+                "option_id": "53231",
+                "tag": "c",
+                "text": "Electronic storage of information",
+                "is_correct": false
+            },
+            {
+                "option_id": "26246",
+                "tag": "d",
+                "text": "Rapid transmission of data",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "80427": {
+        "order_id": 32,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Computer Types",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>Which type of computer is designed to perform complex scientific calculations and is typically used in research institutions?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Supercomputers</b> are high-performance machines designed for complex calculations, such as weather forecasting, nuclear research, and simulations. They are not used for general-purpose tasks.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "70105",
+                "tag": "a",
+                "text": "Microcomputer",
+                "is_correct": false
+            },
+            {
+                "option_id": "64213",
+                "tag": "b",
+                "text": "Minicomputer",
+                "is_correct": false
+            },
+            {
+                "option_id": "53232",
+                "tag": "c",
+                "text": "Supercomputer",
+                "is_correct": true
+            },
+            {
+                "option_id": "26247",
+                "tag": "d",
+                "text": "Mainframe computer",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "80428": {
+        "order_id": 33,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Hardware Components",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>Which of the following hardware components is responsible for temporarily storing data and instructions that the CPU needs to process?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>RAM (Random Access Memory)</b> is a volatile memory that temporarily stores data and instructions for the CPU to access quickly. It is not permanent storage like a hard drive.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "70106",
+                "tag": "a",
+                "text": "Hard Disk Drive (HDD)",
+                "is_correct": false
+            },
+            {
+                "option_id": "64214",
+                "tag": "b",
+                "text": "Read-Only Memory (ROM)",
+                "is_correct": false
+            },
+            {
+                "option_id": "53233",
+                "tag": "c",
+                "text": "Random Access Memory (RAM)",
+                "is_correct": true
+            },
+            {
+                "option_id": "26248",
+                "tag": "d",
+                "text": "Central Processing Unit (CPU)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "80429": {
+        "order_id": 34,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Software Types",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>Which type of software is designed to manage computer hardware and provide a platform for running application software?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>System software</b> (e.g., operating systems like Windows or Linux) manages hardware resources and provides a platform for application software to run. Application software performs specific user tasks.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "70107",
+                "tag": "a",
+                "text": "Application software",
+                "is_correct": false
+            },
+            {
+                "option_id": "64215",
+                "tag": "b",
+                "text": "System software",
+                "is_correct": true
+            },
+            {
+                "option_id": "53234",
+                "tag": "c",
+                "text": "Utility software",
+                "is_correct": false
+            },
+            {
+                "option_id": "26249",
+                "tag": "d",
+                "text": "Firmware",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "80430": {
+        "order_id": 35,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Number System Conversion",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>Convert the binary number $1011_2$ to its decimal equivalent.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The binary number $1011_2$ is converted to decimal as follows:<br>$1 \\times 2^3 + 0 \\times 2^2 + 1 \\times 2^1 + 1 \\times 2^0 = 8 + 0 + 2 + 1 = 11_{10}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "70108",
+                "tag": "a",
+                "text": "$9_{10}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "64216",
+                "tag": "b",
+                "text": "$10_{10}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "53235",
+                "tag": "c",
+                "text": "$11_{10}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "26250",
+                "tag": "d",
+                "text": "$12_{10}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "80431": {
+        "order_id": 36,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Network Types",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>A network that covers a small geographical area, such as a single building or campus, is called a:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>Local Area Network (LAN)</b> is designed to connect devices within a small area, such as an office or school. It is not used for wide-area connectivity.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "70109",
+                "tag": "a",
+                "text": "Wide Area Network (WAN)",
+                "is_correct": false
+            },
+            {
+                "option_id": "64217",
+                "tag": "b",
+                "text": "Metropolitan Area Network (MAN)",
+                "is_correct": false
+            },
+            {
+                "option_id": "53236",
+                "tag": "c",
+                "text": "Local Area Network (LAN)",
+                "is_correct": true
+            },
+            {
+                "option_id": "26251",
+                "tag": "d",
+                "text": "Personal Area Network (PAN)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "80432": {
+        "order_id": 37,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Cybersecurity Threats",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>Which of the following is a type of malware that replicates itself and spreads to other computers without user intervention?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>worm</b> is a self-replicating malware that spreads across networks without requiring user action. Unlike viruses, worms do not need to attach to a host program.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "70110",
+                "tag": "a",
+                "text": "Virus",
+                "is_correct": false
+            },
+            {
+                "option_id": "64218",
+                "tag": "b",
+                "text": "Trojan horse",
+                "is_correct": false
+            },
+            {
+                "option_id": "53237",
+                "tag": "c",
+                "text": "Worm",
+                "is_correct": true
+            },
+            {
+                "option_id": "26252",
+                "tag": "d",
+                "text": "Spyware",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "80433": {
+        "order_id": 38,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Data Representation",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>How many bits are required to represent $256$ unique characters in a computer system?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>To represent $256$ unique characters, you need $2^n = 256$ bits. Solving for $n$: $n = \\log_2{256} = 8$ bits.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "70111",
+                "tag": "a",
+                "text": "4 bits",
+                "is_correct": false
+            },
+            {
+                "option_id": "64219",
+                "tag": "b",
+                "text": "8 bits",
+                "is_correct": true
+            },
+            {
+                "option_id": "53238",
+                "tag": "c",
+                "text": "16 bits",
+                "is_correct": false
+            },
+            {
+                "option_id": "26253",
+                "tag": "d",
+                "text": "32 bits",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "80434": {
+        "order_id": 39,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Word Processing",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>In Microsoft Word, which feature is used to automatically correct common spelling and typing errors?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>AutoCorrect</b> feature in Microsoft Word automatically corrects common spelling and typing errors as you type. It is not the same as Spell Check, which only highlights errors.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "70112",
+                "tag": "a",
+                "text": "Spell Check",
+                "is_correct": false
+            },
+            {
+                "option_id": "64220",
+                "tag": "b",
+                "text": "AutoCorrect",
+                "is_correct": true
+            },
+            {
+                "option_id": "53239",
+                "tag": "c",
+                "text": "Grammar Check",
+                "is_correct": false
+            },
+            {
+                "option_id": "26254",
+                "tag": "d",
+                "text": "Thesaurus",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "80435": {
+        "order_id": 40,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Computer Ethics",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>Which of the following is an example of <b>unethical</b> behavior in the use of ICT?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Plagiarism</b> is the act of using someone else's work or ideas without proper attribution, which is unethical. The other options are ethical practices.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "70113",
+                "tag": "a",
+                "text": "Citing sources when using external information",
+                "is_correct": false
+            },
+            {
+                "option_id": "64221",
+                "tag": "b",
+                "text": "Respecting copyright laws",
+                "is_correct": false
+            },
+            {
+                "option_id": "53240",
+                "tag": "c",
+                "text": "Plagiarizing content from the internet",
+                "is_correct": true
+            },
+            {
+                "option_id": "26255",
+                "tag": "d",
+                "text": "Using licensed software",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

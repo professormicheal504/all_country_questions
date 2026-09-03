@@ -858,5 +858,478 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "37366": {
+        "order_id": 21,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Drawing tools overview",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>Which of the following drawing tools is used to draw horizontal lines?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>T-square</b> is a drawing tool specifically designed to draw horizontal lines. It is aligned with the edge of the drawing board to ensure accuracy.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "70427",
+                "tag": "a",
+                "text": "Set square",
+                "is_correct": false
+            },
+            {
+                "option_id": "22540",
+                "tag": "b",
+                "text": "T-square",
+                "is_correct": true
+            },
+            {
+                "option_id": "83824",
+                "tag": "c",
+                "text": "Protractor",
+                "is_correct": false
+            },
+            {
+                "option_id": "31803",
+                "tag": "d",
+                "text": "French curve",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "37367": {
+        "order_id": 22,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Standard sheet sizes",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>What is the size of an A2 drawing sheet in millimeters?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The standard size of an A2 drawing sheet is <b>420 mm \u00d7 594 mm</b>, following the ISO 216 standard for paper sizes.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "70428",
+                "tag": "a",
+                "text": "210 \u00d7 297",
+                "is_correct": false
+            },
+            {
+                "option_id": "22541",
+                "tag": "b",
+                "text": "297 \u00d7 420",
+                "is_correct": false
+            },
+            {
+                "option_id": "83825",
+                "tag": "c",
+                "text": "420 \u00d7 594",
+                "is_correct": true
+            },
+            {
+                "option_id": "31804",
+                "tag": "d",
+                "text": "594 \u00d7 841",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "37368": {
+        "order_id": 23,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Title block layout",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>Which of the following is <u>not</u> typically included in a title block of a technical drawing?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A title block usually contains the drawing title, scale, date, and drafter's name. <b>Material cost</b> is not typically included in a title block.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "70429",
+                "tag": "a",
+                "text": "Drawing title",
+                "is_correct": false
+            },
+            {
+                "option_id": "22542",
+                "tag": "b",
+                "text": "Scale used",
+                "is_correct": false
+            },
+            {
+                "option_id": "83826",
+                "tag": "c",
+                "text": "Material cost",
+                "is_correct": true
+            },
+            {
+                "option_id": "31805",
+                "tag": "d",
+                "text": "Drafter's name",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "37369": {
+        "order_id": 24,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Line types and uses",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>Which line type is used to represent hidden details in an orthographic projection?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>dashed line</b> (or hidden line) is used to represent edges or details that are not visible in the current view of an orthographic projection.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "70430",
+                "tag": "a",
+                "text": "Continuous thick line",
+                "is_correct": false
+            },
+            {
+                "option_id": "22543",
+                "tag": "b",
+                "text": "Dashed line",
+                "is_correct": true
+            },
+            {
+                "option_id": "83827",
+                "tag": "c",
+                "text": "Chain line",
+                "is_correct": false
+            },
+            {
+                "option_id": "31806",
+                "tag": "d",
+                "text": "Continuous thin line",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "37370": {
+        "order_id": 25,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Lettering techniques",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>What is the recommended height for capital letters in technical drawings, according to WAEC standards?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>According to WAEC standards, the recommended height for capital letters in technical drawings is <b>3.5 mm</b> for clarity and consistency.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "70431",
+                "tag": "a",
+                "text": "2.5 mm",
+                "is_correct": false
+            },
+            {
+                "option_id": "22544",
+                "tag": "b",
+                "text": "3.5 mm",
+                "is_correct": true
+            },
+            {
+                "option_id": "83828",
+                "tag": "c",
+                "text": "5.0 mm",
+                "is_correct": false
+            },
+            {
+                "option_id": "31807",
+                "tag": "d",
+                "text": "7.0 mm",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "37371": {
+        "order_id": 26,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Basic geometric constructions",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>Which of the following constructions is used to bisect a given angle?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The construction used to bisect a given angle involves drawing arcs from the angle's vertex and intersecting points to create a line that divides the angle into two equal parts.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "70432",
+                "tag": "a",
+                "text": "Perpendicular bisector",
+                "is_correct": false
+            },
+            {
+                "option_id": "22545",
+                "tag": "b",
+                "text": "Angle bisector",
+                "is_correct": true
+            },
+            {
+                "option_id": "83829",
+                "tag": "c",
+                "text": "Parallel line construction",
+                "is_correct": false
+            },
+            {
+                "option_id": "31808",
+                "tag": "d",
+                "text": "Tangent construction",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "37372": {
+        "order_id": 27,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Orthographic projection methods",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>In first-angle orthographic projection, where is the front view located relative to the plan?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In <b>first-angle orthographic projection</b>, the front view is located <b>above</b> the plan view, following the standard arrangement for this projection method.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "70433",
+                "tag": "a",
+                "text": "Below",
+                "is_correct": false
+            },
+            {
+                "option_id": "22546",
+                "tag": "b",
+                "text": "Above",
+                "is_correct": true
+            },
+            {
+                "option_id": "83830",
+                "tag": "c",
+                "text": "To the right",
+                "is_correct": false
+            },
+            {
+                "option_id": "31809",
+                "tag": "d",
+                "text": "To the left",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "37373": {
+        "order_id": 28,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Sectional view types",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>Which type of sectional view is used to show the interior details of a symmetrical object by cutting through half of it?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>half section</b> is used to show the interior details of a symmetrical object by cutting through half of it, revealing both the exterior and interior in a single view.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "70434",
+                "tag": "a",
+                "text": "Full section",
+                "is_correct": false
+            },
+            {
+                "option_id": "22547",
+                "tag": "b",
+                "text": "Half section",
+                "is_correct": true
+            },
+            {
+                "option_id": "83831",
+                "tag": "c",
+                "text": "Revolved section",
+                "is_correct": false
+            },
+            {
+                "option_id": "31810",
+                "tag": "d",
+                "text": "Removed section",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "37374": {
+        "order_id": 29,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Isometric drawing basics",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>What is the angle between the isometric axes in an isometric drawing?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In an isometric drawing, the angle between the isometric axes is <b>120\u00b0</b>, creating a three-dimensional representation of an object.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "70435",
+                "tag": "a",
+                "text": "90\u00b0",
+                "is_correct": false
+            },
+            {
+                "option_id": "22548",
+                "tag": "b",
+                "text": "120\u00b0",
+                "is_correct": true
+            },
+            {
+                "option_id": "83832",
+                "tag": "c",
+                "text": "60\u00b0",
+                "is_correct": false
+            },
+            {
+                "option_id": "31811",
+                "tag": "d",
+                "text": "45\u00b0",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "37375": {
+        "order_id": 30,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Dimensioning principles",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>Which of the following is a correct principle of dimensioning in technical drawings?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>One of the correct principles of dimensioning is to <b>avoid dimensioning to hidden lines</b>, as this can lead to confusion and inaccuracies in the drawing.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "70436",
+                "tag": "a",
+                "text": "Dimension to hidden lines",
+                "is_correct": false
+            },
+            {
+                "option_id": "22549",
+                "tag": "b",
+                "text": "Avoid dimensioning to hidden lines",
+                "is_correct": true
+            },
+            {
+                "option_id": "83833",
+                "tag": "c",
+                "text": "Place dimensions inside the object",
+                "is_correct": false
+            },
+            {
+                "option_id": "31812",
+                "tag": "d",
+                "text": "Use only one arrowhead per dimension line",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
+    },
+    "37376": {
+        "order_id": 31,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Working drawings basics",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>Which of the following is <u>not</u> a type of working drawing?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Working drawings include <b>assembly drawings</b>, <b>detail drawings</b>, and <b>installation drawings</b>. A <b>perspective drawing</b> is not classified as a working drawing.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "70437",
+                "tag": "a",
+                "text": "Assembly drawing",
+                "is_correct": false
+            },
+            {
+                "option_id": "22550",
+                "tag": "b",
+                "text": "Detail drawing",
+                "is_correct": false
+            },
+            {
+                "option_id": "83834",
+                "tag": "c",
+                "text": "Perspective drawing",
+                "is_correct": true
+            },
+            {
+                "option_id": "31813",
+                "tag": "d",
+                "text": "Installation drawing",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 11
     }
 }

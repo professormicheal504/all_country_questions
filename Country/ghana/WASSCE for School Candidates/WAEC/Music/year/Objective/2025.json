@@ -429,5 +429,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "17034": {
+        "order_id": 11,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Music Elements",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>Which of the following is <b>NOT</b> a fundamental element of music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The fundamental elements of music include <i>pitch, rhythm, dynamics, timbre, texture, and form</i>. <b>Harmony</b> is a derived element, not a fundamental one, as it results from the combination of pitches.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "65309",
+                "tag": "a",
+                "text": "Pitch",
+                "is_correct": false
+            },
+            {
+                "option_id": "56184",
+                "tag": "b",
+                "text": "Harmony",
+                "is_correct": true
+            },
+            {
+                "option_id": "57422",
+                "tag": "c",
+                "text": "Rhythm",
+                "is_correct": false
+            },
+            {
+                "option_id": "21252",
+                "tag": "d",
+                "text": "Timbre",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "17035": {
+        "order_id": 12,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Music Notation Basics",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>What does a <b>dot</b> placed after a note in music notation indicate?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A dot after a note increases its duration by <i>half</i> of its original value. For example, a dotted quarter note ($\\frac{1}{4}$) becomes $\\frac{3}{8}$ of a beat.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "65310",
+                "tag": "a",
+                "text": "It shortens the note by half.",
+                "is_correct": false
+            },
+            {
+                "option_id": "56185",
+                "tag": "b",
+                "text": "It increases the note's duration by half.",
+                "is_correct": true
+            },
+            {
+                "option_id": "57423",
+                "tag": "c",
+                "text": "It indicates a rest of equal value.",
+                "is_correct": false
+            },
+            {
+                "option_id": "21253",
+                "tag": "d",
+                "text": "It raises the pitch by a semitone.",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "17036": {
+        "order_id": 13,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Types of Scales",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>Which scale consists of <i>five</i> notes per octave and is commonly used in traditional Ghanaian music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>pentatonic scale</b> has five notes per octave and is widely used in African music, including Ghanaian traditional music. Examples include the <i>major pentatonic</i> and <i>minor pentatonic</i> scales.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "65311",
+                "tag": "a",
+                "text": "Chromatic scale",
+                "is_correct": false
+            },
+            {
+                "option_id": "56186",
+                "tag": "b",
+                "text": "Pentatonic scale",
+                "is_correct": true
+            },
+            {
+                "option_id": "57424",
+                "tag": "c",
+                "text": "Whole-tone scale",
+                "is_correct": false
+            },
+            {
+                "option_id": "21254",
+                "tag": "d",
+                "text": "Octatonic scale",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "17037": {
+        "order_id": 14,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Intervals and Inversions",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>What is the inversion of a <b>perfect fifth</b> ($P5$)?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The inversion of an interval is calculated by subtracting it from <i>9</i>. A perfect fifth ($5$) inverts to a perfect fourth ($9 - 5 = 4$).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "65312",
+                "tag": "a",
+                "text": "Major third ($M3$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "56187",
+                "tag": "b",
+                "text": "Perfect fourth ($P4$)",
+                "is_correct": true
+            },
+            {
+                "option_id": "57425",
+                "tag": "c",
+                "text": "Minor sixth ($m6$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "21255",
+                "tag": "d",
+                "text": "Major sixth ($M6$)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "17038": {
+        "order_id": 15,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Chords and Inversions",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>In a <b>first inversion triad</b>, which note is the <u>lowest</u>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A first inversion triad has the <i>third</i> of the chord as its lowest note. For example, in a C major triad ($C-E-G$), the first inversion is $E-G-C$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "65313",
+                "tag": "a",
+                "text": "Root",
+                "is_correct": false
+            },
+            {
+                "option_id": "56188",
+                "tag": "b",
+                "text": "Third",
+                "is_correct": true
+            },
+            {
+                "option_id": "57426",
+                "tag": "c",
+                "text": "Fifth",
+                "is_correct": false
+            },
+            {
+                "option_id": "21256",
+                "tag": "d",
+                "text": "Seventh",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "17039": {
+        "order_id": 16,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Cadence Types",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>Which cadence is described as a <i>\"question\"</i> that requires resolution?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>half cadence</b> (e.g., $V$ chord) creates tension and feels incomplete, often requiring resolution to the tonic ($I$). It is commonly referred to as a <i>\"question\"</i> cadence.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "65314",
+                "tag": "a",
+                "text": "Perfect cadence ($V-I$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "56189",
+                "tag": "b",
+                "text": "Half cadence ($I-V$ or $IV-V$)",
+                "is_correct": true
+            },
+            {
+                "option_id": "57427",
+                "tag": "c",
+                "text": "Plagal cadence ($IV-I$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "21257",
+                "tag": "d",
+                "text": "Deceptive cadence ($V-vi$)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "17040": {
+        "order_id": 17,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "African Music Traits",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>Which of the following is a <b>key characteristic</b> of African traditional music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>African traditional music is known for its <i>call-and-response</i> structure, where a leader sings or plays a phrase, and a group responds. This trait is central to many African musical traditions, including Ghanaian music.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "65315",
+                "tag": "a",
+                "text": "Strict adherence to written notation",
+                "is_correct": false
+            },
+            {
+                "option_id": "56190",
+                "tag": "b",
+                "text": "Call-and-response structure",
+                "is_correct": true
+            },
+            {
+                "option_id": "57428",
+                "tag": "c",
+                "text": "Use of only Western instruments",
+                "is_correct": false
+            },
+            {
+                "option_id": "21258",
+                "tag": "d",
+                "text": "Absence of rhythm",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "17041": {
+        "order_id": 18,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Western Art Music Periods",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>Which period of Western art music is associated with <b>Bach, Vivaldi, and Handel</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>Baroque period</b> (c. 1600\u20131750) is characterized by composers like Johann Sebastian Bach, Antonio Vivaldi, and George Frideric Handel. This era emphasized ornamentation, contrast, and the development of tonality.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "65316",
+                "tag": "a",
+                "text": "Renaissance",
+                "is_correct": false
+            },
+            {
+                "option_id": "56191",
+                "tag": "b",
+                "text": "Baroque",
+                "is_correct": true
+            },
+            {
+                "option_id": "57429",
+                "tag": "c",
+                "text": "Classical",
+                "is_correct": false
+            },
+            {
+                "option_id": "21259",
+                "tag": "d",
+                "text": "Romantic",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "17042": {
+        "order_id": 19,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Music Technology Tools",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>Which software is primarily used for <b>digital audio workstation (DAW)</b> tasks such as recording, editing, and mixing music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Pro Tools</b> is a professional-grade DAW widely used in the music industry for recording, editing, and mixing audio. Other examples include Logic Pro and Ableton Live.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "65317",
+                "tag": "a",
+                "text": "Microsoft Word",
+                "is_correct": false
+            },
+            {
+                "option_id": "56192",
+                "tag": "b",
+                "text": "Pro Tools",
+                "is_correct": true
+            },
+            {
+                "option_id": "57430",
+                "tag": "c",
+                "text": "Adobe Photoshop",
+                "is_correct": false
+            },
+            {
+                "option_id": "21260",
+                "tag": "d",
+                "text": "AutoCAD",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "17043": {
+        "order_id": 20,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Aural Skills Training",
+        "question_type": "Objective",
+        "exam_year": "2025",
+        "question_text": "<p>What is the primary purpose of <b>aural skills training</b> in music education?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Aural skills training develops a musician's ability to <i>recognize, understand, and reproduce</i> musical elements by ear, such as intervals, chords, rhythms, and melodies. This is essential for performance, composition, and analysis.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "65318",
+                "tag": "a",
+                "text": "To improve handwriting speed",
+                "is_correct": false
+            },
+            {
+                "option_id": "56193",
+                "tag": "b",
+                "text": "To develop the ability to recognize musical elements by ear",
+                "is_correct": true
+            },
+            {
+                "option_id": "57431",
+                "tag": "c",
+                "text": "To memorize music theory textbooks",
+                "is_correct": false
+            },
+            {
+                "option_id": "21261",
+                "tag": "d",
+                "text": "To learn computer programming",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

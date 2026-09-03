@@ -1,0 +1,282 @@
+{
+    "85690": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Electronics Basics",
+        "question_type": "Theory",
+        "exam_year": "2015",
+        "question_text": "<p>Explain the concept of <b>electron flow</b> in a conductor. In your explanation, include:<br>(i) The role of <i>free electrons</i>.<br>(ii) The effect of an applied electric field.<br>(iii) The difference between <i>conventional current</i> and <i>electron flow</i>.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) <b>Free electrons</b> are electrons in the outermost shell of an atom that are loosely bound and can move freely within the conductor. These electrons are responsible for electrical conduction.<br><br>(ii) When an <b>electric field</b> is applied across a conductor, the free electrons experience a force and drift in the direction opposite to the electric field, creating an electric current. The drift velocity of electrons is given by $v_d = \\frac{I}{nAq}$, where $I$ is the current, $n$ is the electron density, $A$ is the cross-sectional area, and $q$ is the electron charge.<br><br>(iii) <b>Conventional current</b> assumes that current flows from the positive terminal to the negative terminal of a power source, while <b>electron flow</b> is the actual movement of electrons from the negative terminal to the positive terminal. This distinction arises from historical conventions in early electrical studies.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "85691": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Atomic Structure and Energy Bands",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>In a semiconductor material, the energy gap between the <i>valence band</i> and the <i>conduction band</i> is known as the:<br>(a) Fermi level<br>(b) Forbidden energy gap<br>(c) Intrinsic energy level<br>(d) Extrinsic energy level</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The correct answer is (b) <b>Forbidden energy gap</b>. In semiconductors, the <i>forbidden energy gap</i> (or bandgap) is the energy difference between the valence band (where electrons are bound) and the conduction band (where electrons are free to move). This gap determines the electrical properties of the material. For example, silicon has a bandgap of approximately $1.1 \\text{ eV}$ at room temperature.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "79304",
+                "tag": "a",
+                "text": "Fermi level",
+                "is_correct": false
+            },
+            {
+                "option_id": "85502",
+                "tag": "b",
+                "text": "Forbidden energy gap",
+                "is_correct": true
+            },
+            {
+                "option_id": "17904",
+                "tag": "c",
+                "text": "Intrinsic energy level",
+                "is_correct": false
+            },
+            {
+                "option_id": "74829",
+                "tag": "d",
+                "text": "Extrinsic energy level",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "85692": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Semiconductor Types and Doping",
+        "question_type": "Theory",
+        "exam_year": "2015",
+        "question_text": "<p>Describe the process of <b>doping</b> in semiconductors. In your answer:<br>(i) Explain the difference between <i>n-type</i> and <i>p-type</i> semiconductors.<br>(ii) State the effect of doping on the conductivity of a semiconductor.<br>(iii) Give one example of a dopant used for each type of semiconductor.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) <b>Doping</b> is the process of intentionally adding impurities to a semiconductor to modify its electrical properties.<br>- In an <i>n-type semiconductor</i>, dopants such as phosphorus or arsenic (Group V elements) are added. These dopants have five valence electrons, four of which form covalent bonds with silicon atoms, while the fifth electron becomes a free electron, increasing the number of charge carriers.<br>- In a <i>p-type semiconductor</i>, dopants such as boron or gallium (Group III elements) are added. These dopants have three valence electrons, creating a \"hole\" (absence of an electron) in the crystal lattice, which acts as a positive charge carrier.<br><br>(ii) Doping increases the conductivity of a semiconductor by introducing additional charge carriers (electrons in n-type or holes in p-type). The conductivity $\\sigma$ of a doped semiconductor is given by $\\sigma = nq\\mu_n + pq\\mu_p$, where $n$ and $p$ are the electron and hole concentrations, $q$ is the electron charge, and $\\mu_n$ and $\\mu_p$ are the mobilities of electrons and holes, respectively.<br><br>(iii) Examples of dopants:<br>- <i>n-type</i>: Phosphorus (P)<br>- <i>p-type</i>: Boron (B)</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "85693": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "PN Junction Diode",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>The depletion region in a <i>PN junction diode</i> is formed due to:<br>(a) The recombination of electrons and holes<br>(b) The diffusion of charge carriers across the junction<br>(c) The drift of charge carriers under an electric field<br>(d) The application of an external voltage</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The correct answer is (b) <b>The diffusion of charge carriers across the junction</b>. The depletion region forms when electrons from the n-side diffuse into the p-side and recombine with holes, leaving behind immobile ions. This creates a region depleted of free charge carriers and establishes an electric field that opposes further diffusion.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "79304",
+                "tag": "a",
+                "text": "The recombination of electrons and holes",
+                "is_correct": false
+            },
+            {
+                "option_id": "85502",
+                "tag": "b",
+                "text": "The diffusion of charge carriers across the junction",
+                "is_correct": true
+            },
+            {
+                "option_id": "17904",
+                "tag": "c",
+                "text": "The drift of charge carriers under an electric field",
+                "is_correct": false
+            },
+            {
+                "option_id": "74829",
+                "tag": "d",
+                "text": "The application of an external voltage",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "85694": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Diode Rectification",
+        "question_type": "Theory",
+        "exam_year": "2015",
+        "question_text": "<p>Draw the circuit diagram of a <b>full-wave bridge rectifier</b> and explain its operation. In your explanation:<br>(i) Describe the role of each diode in the circuit.<br>(ii) Sketch the input and output voltage waveforms.<br>(iii) Calculate the <i>peak inverse voltage (PIV)</i> across each diode if the input voltage is $V_{in} = 12 \\text{ V (rms)}$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) A <b>full-wave bridge rectifier</b> uses four diodes arranged in a bridge configuration. During the positive half-cycle of the input AC voltage, diodes D1 and D2 conduct, allowing current to flow through the load. During the negative half-cycle, diodes D3 and D4 conduct, again allowing current to flow in the same direction through the load. This ensures that both halves of the AC waveform are utilized.<br><br>(ii) The input waveform is a sinusoidal AC voltage, while the output waveform is a pulsating DC voltage with twice the frequency of the input. The output voltage waveform has a peak value of $V_{peak} = \\sqrt{2} V_{rms} = \\sqrt{2} \\times 12 \\text{ V} = 16.97 \\text{ V}$.<br><br>(iii) The <i>peak inverse voltage (PIV)</i> across each diode in a bridge rectifier is equal to the peak value of the input voltage. Thus, $PIV = V_{peak} = 16.97 \\text{ V}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "85695": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Zener Diodes and Regulation",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>A Zener diode is primarily used for:<br>(a) Rectification<br>(b) Amplification<br>(c) Voltage regulation<br>(d) Oscillation</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The correct answer is (c) <b>Voltage regulation</b>. A Zener diode operates in the reverse breakdown region and maintains a constant voltage across its terminals over a range of currents, making it ideal for voltage regulation applications.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "79304",
+                "tag": "a",
+                "text": "Rectification",
+                "is_correct": false
+            },
+            {
+                "option_id": "85502",
+                "tag": "b",
+                "text": "Amplification",
+                "is_correct": false
+            },
+            {
+                "option_id": "17904",
+                "tag": "c",
+                "text": "Voltage regulation",
+                "is_correct": true
+            },
+            {
+                "option_id": "74829",
+                "tag": "d",
+                "text": "Oscillation",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "85696": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "BJT Structure and Operation",
+        "question_type": "Theory",
+        "exam_year": "2015",
+        "question_text": "<p>Explain the operation of a <b>Bipolar Junction Transistor (BJT)</b> in the <i>active region</i>. In your explanation:<br>(i) Describe the biasing conditions for the emitter-base and collector-base junctions.<br>(ii) Explain how current flows through the transistor.<br>(iii) Write the relationship between the collector current ($I_C$), base current ($I_B$), and emitter current ($I_E$).</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) In the <i>active region</i>, the emitter-base junction is forward-biased, allowing current to flow easily, while the collector-base junction is reverse-biased, which prevents current flow under normal conditions but allows the collection of charge carriers injected from the emitter.<br><br>(ii) Current flows through the BJT as follows:<br>- Electrons are injected from the emitter into the base region.<br>- Most of these electrons diffuse across the thin base region and are swept into the collector by the electric field of the reverse-biased collector-base junction.<br>- A small fraction of the electrons recombine with holes in the base, creating the base current ($I_B$).<br><br>(iii) The relationship between the currents in a BJT is given by:<br>$I_E = I_C + I_B$<br>where $I_C = \\beta I_B$ and $\\beta$ is the current gain of the transistor.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "85697": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Common-Emitter Amplifier",
+        "question_type": "Theory",
+        "exam_year": "2015",
+        "question_text": "<p>For a <b>common-emitter amplifier</b> circuit:<br>(i) Draw the circuit diagram and label all components.<br>(ii) Explain the purpose of the <i>coupling capacitor</i> and the <i>bypass capacitor</i>.<br>(iii) Derive the expression for the voltage gain ($A_v$) of the amplifier.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) The circuit diagram of a common-emitter amplifier includes:<br>- A BJT (npn or pnp) with the emitter connected to ground through a bypass capacitor.<br>- A collector resistor ($R_C$) connected to the supply voltage ($V_{CC}$).<br>- A base resistor ($R_B$) connected to the input signal.<br>- A coupling capacitor ($C_{in}$) at the input and another ($C_{out}$) at the output.<br><br>(ii) The <i>coupling capacitor</i> ($C_{in}$ and $C_{out}$) blocks DC components while allowing AC signals to pass. The <i>bypass capacitor</i> ($C_E$) connected across the emitter resistor ($R_E$) provides a low-impedance path for AC signals, increasing the voltage gain by preventing negative feedback.<br><br>(iii) The voltage gain ($A_v$) of a common-emitter amplifier is given by:<br>$A_v = -g_m R_C$<br>where $g_m$ is the transconductance of the transistor, defined as $g_m = \\frac{I_C}{V_T}$ (with $V_T$ being the thermal voltage, approximately $26 \\text{ mV}$ at room temperature). The negative sign indicates a 180\u00b0 phase shift between the input and output signals.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "85698": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Operational Amplifiers (Op-Amp)",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>The <i>virtual ground</i> concept in an Op-Amp circuit applies when the Op-Amp is configured as a:<br>(a) Voltage follower<br>(b) Inverting amplifier<br>(c) Non-inverting amplifier<br>(d) Differentiator</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The correct answer is (b) <b>Inverting amplifier</b>. In an inverting amplifier configuration, the non-inverting input is grounded, and the feedback resistor creates a virtual ground at the inverting input. This means the voltage at the inverting input is approximately zero, even though it is not physically connected to ground.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "79304",
+                "tag": "a",
+                "text": "Voltage follower",
+                "is_correct": false
+            },
+            {
+                "option_id": "85502",
+                "tag": "b",
+                "text": "Inverting amplifier",
+                "is_correct": true
+            },
+            {
+                "option_id": "17904",
+                "tag": "c",
+                "text": "Non-inverting amplifier",
+                "is_correct": false
+            },
+            {
+                "option_id": "74829",
+                "tag": "d",
+                "text": "Differentiator",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "85699": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Number Systems and Logic Gates",
+        "question_type": "Theory",
+        "exam_year": "2015",
+        "question_text": "<p>(i) Convert the binary number $110101_2$ to its decimal equivalent.<br>(ii) Draw the logic circuit for the Boolean expression $Y = (A + B) \\cdot \\overline{C}$ using basic logic gates.<br>(iii) Construct the truth table for the expression in (ii).</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>(i) To convert $110101_2$ to decimal:<br>$1 \\times 2^5 + 1 \\times 2^4 + 0 \\times 2^3 + 1 \\times 2^2 + 0 \\times 2^1 + 1 \\times 2^0 = 32 + 16 + 0 + 4 + 0 + 1 = 53_{10}$<br><br>(ii) The logic circuit for $Y = (A + B) \\cdot \\overline{C}$ consists of:<br>- An OR gate with inputs $A$ and $B$.<br>- A NOT gate with input $C$.<br>- An AND gate with inputs from the OR gate output and the NOT gate output.<br><br>(iii) Truth table for $Y = (A + B) \\cdot \\overline{C}$:<br><table border=\"1\"><tr><th>A</th><th>B</th><th>C</th><th>A + B</th><th>\\overline{C}</th><th>Y</th></tr><tr><td>0</td><td>0</td><td>0</td><td>0</td><td>1</td><td>0</td></tr><tr><td>0</td><td>0</td><td>1</td><td>0</td><td>0</td><td>0</td></tr><tr><td>0</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td></tr><tr><td>0</td><td>1</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr><td>1</td><td>0</td><td>0</td><td>1</td><td>1</td><td>1</td></tr><tr><td>1</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr><td>1</td><td>1</td><td>0</td><td>1</td><td>1</td><td>1</td></tr><tr><td>1</td><td>1</td><td>1</td><td>1</td><td>0</td><td>0</td></tr></table></p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

@@ -428,5 +428,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "97781": {
+        "order_id": 11,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Electronics Basics",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>Which of the following is the SI unit of electric current?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The SI unit of electric current is the <b>ampere</b>, named after Andr\u00e9-Marie Amp\u00e8re, a French physicist. It is one of the seven base units in the International System of Units (SI).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "91466",
+                "tag": "a",
+                "text": "Volt",
+                "is_correct": false
+            },
+            {
+                "option_id": "56393",
+                "tag": "b",
+                "text": "Ampere",
+                "is_correct": true
+            },
+            {
+                "option_id": "81924",
+                "tag": "c",
+                "text": "Ohm",
+                "is_correct": false
+            },
+            {
+                "option_id": "10268",
+                "tag": "d",
+                "text": "Watt",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "97782": {
+        "order_id": 12,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Atomic Structure",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>In an atom, the particles that carry a negative charge are called:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Electrons are the subatomic particles that carry a negative charge. They orbit the nucleus of an atom, which contains protons (positive charge) and neutrons (no charge).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "91467",
+                "tag": "a",
+                "text": "Protons",
+                "is_correct": false
+            },
+            {
+                "option_id": "56394",
+                "tag": "b",
+                "text": "Neutrons",
+                "is_correct": false
+            },
+            {
+                "option_id": "81925",
+                "tag": "c",
+                "text": "Electrons",
+                "is_correct": true
+            },
+            {
+                "option_id": "10269",
+                "tag": "d",
+                "text": "Nucleons",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "97783": {
+        "order_id": 13,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Energy Bands",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>The energy gap between the valence band and the conduction band in a semiconductor is called the:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>forbidden energy gap</b> (or bandgap) is the energy difference between the valence band and the conduction band in a semiconductor. It determines the electrical conductivity of the material.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "91468",
+                "tag": "a",
+                "text": "Fermi level",
+                "is_correct": false
+            },
+            {
+                "option_id": "56395",
+                "tag": "b",
+                "text": "Forbidden energy gap",
+                "is_correct": true
+            },
+            {
+                "option_id": "81926",
+                "tag": "c",
+                "text": "Conduction band",
+                "is_correct": false
+            },
+            {
+                "option_id": "10270",
+                "tag": "d",
+                "text": "Valence band",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "97784": {
+        "order_id": 14,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Doping: n-type, p-type",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>When a pentavalent impurity is added to a pure semiconductor, the resulting material is called a/an:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Adding a pentavalent impurity (e.g., phosphorus) to a pure semiconductor (e.g., silicon) introduces extra electrons, creating an <b>n-type semiconductor</b>. The majority carriers are electrons.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "91469",
+                "tag": "a",
+                "text": "Intrinsic semiconductor",
+                "is_correct": false
+            },
+            {
+                "option_id": "56396",
+                "tag": "b",
+                "text": "<i>n-type</i> semiconductor",
+                "is_correct": true
+            },
+            {
+                "option_id": "81927",
+                "tag": "c",
+                "text": "<i>p-type</i> semiconductor",
+                "is_correct": false
+            },
+            {
+                "option_id": "10271",
+                "tag": "d",
+                "text": "Extrinsic conductor",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "97785": {
+        "order_id": 15,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "PN Junction Diode",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>A PN junction diode is said to be <u>forward-biased</u> when:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A PN junction diode is <b>forward-biased</b> when the <i>p-side</i> is connected to the positive terminal of a battery and the <i>n-side</i> to the negative terminal. This reduces the barrier potential, allowing current to flow.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "91470",
+                "tag": "a",
+                "text": "The <i>p-side</i> is connected to the negative terminal of the battery",
+                "is_correct": false
+            },
+            {
+                "option_id": "56397",
+                "tag": "b",
+                "text": "The <i>p-side</i> is connected to the positive terminal of the battery",
+                "is_correct": true
+            },
+            {
+                "option_id": "81928",
+                "tag": "c",
+                "text": "Both sides are connected to the same potential",
+                "is_correct": false
+            },
+            {
+                "option_id": "10272",
+                "tag": "d",
+                "text": "The diode is reverse-biased",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "97786": {
+        "order_id": 16,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Diode Rectification",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>In a half-wave rectifier circuit, the output voltage is obtained across the load resistor during:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In a half-wave rectifier, the output voltage appears across the load resistor only during the <b>positive half-cycle</b> of the input AC signal. The diode conducts during this period, allowing current to flow.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "91471",
+                "tag": "a",
+                "text": "The negative half-cycle of the input signal",
+                "is_correct": false
+            },
+            {
+                "option_id": "56398",
+                "tag": "b",
+                "text": "The positive half-cycle of the input signal",
+                "is_correct": true
+            },
+            {
+                "option_id": "81929",
+                "tag": "c",
+                "text": "Both half-cycles of the input signal",
+                "is_correct": false
+            },
+            {
+                "option_id": "10273",
+                "tag": "d",
+                "text": "Neither half-cycle of the input signal",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "97787": {
+        "order_id": 17,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "BJT Biasing Methods",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>Which of the following biasing methods provides the most stable Q-point for a BJT amplifier?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>voltage divider bias</b> method provides the most stable Q-point for a BJT amplifier. It minimizes the effects of variations in transistor parameters (e.g., $\u03b2$) and temperature changes.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "91472",
+                "tag": "a",
+                "text": "Base bias",
+                "is_correct": false
+            },
+            {
+                "option_id": "56399",
+                "tag": "b",
+                "text": "Voltage divider bias",
+                "is_correct": true
+            },
+            {
+                "option_id": "81930",
+                "tag": "c",
+                "text": "Emitter bias",
+                "is_correct": false
+            },
+            {
+                "option_id": "10274",
+                "tag": "d",
+                "text": "Collector feedback bias",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "97788": {
+        "order_id": 18,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Op-Amp Basics",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>The ideal input impedance of an operational amplifier (Op-Amp) is:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>An ideal operational amplifier (Op-Amp) has <b>infinite input impedance</b>, meaning it draws no current from the input source. This ensures minimal loading effect on the preceding stage.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "91473",
+                "tag": "a",
+                "text": "Zero",
+                "is_correct": false
+            },
+            {
+                "option_id": "56400",
+                "tag": "b",
+                "text": "Finite",
+                "is_correct": false
+            },
+            {
+                "option_id": "81931",
+                "tag": "c",
+                "text": "Infinite",
+                "is_correct": true
+            },
+            {
+                "option_id": "10275",
+                "tag": "d",
+                "text": "Negative",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "97789": {
+        "order_id": 19,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Number Systems",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>Convert the binary number $1011_2$ to its decimal equivalent.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>To convert $1011_2$ to decimal:<br>$1 \\times 2^3 + 0 \\times 2^2 + 1 \\times 2^1 + 1 \\times 2^0 = 8 + 0 + 2 + 1 = 11_{10}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "91474",
+                "tag": "a",
+                "text": "9",
+                "is_correct": false
+            },
+            {
+                "option_id": "56401",
+                "tag": "b",
+                "text": "10",
+                "is_correct": false
+            },
+            {
+                "option_id": "81932",
+                "tag": "c",
+                "text": "11",
+                "is_correct": true
+            },
+            {
+                "option_id": "10276",
+                "tag": "d",
+                "text": "12",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "97790": {
+        "order_id": 20,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Logic Gates",
+        "question_type": "Objective",
+        "exam_year": "2015",
+        "question_text": "<p>Which logic gate produces a HIGH output only when all its inputs are LOW?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>NOR gate</b> produces a HIGH output only when all its inputs are LOW. It is the combination of an OR gate followed by a NOT gate.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "91475",
+                "tag": "a",
+                "text": "AND gate",
+                "is_correct": false
+            },
+            {
+                "option_id": "56402",
+                "tag": "b",
+                "text": "OR gate",
+                "is_correct": false
+            },
+            {
+                "option_id": "81933",
+                "tag": "c",
+                "text": "NAND gate",
+                "is_correct": false
+            },
+            {
+                "option_id": "10277",
+                "tag": "d",
+                "text": "NOR gate",
+                "is_correct": true
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

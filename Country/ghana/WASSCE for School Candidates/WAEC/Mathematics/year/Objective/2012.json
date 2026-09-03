@@ -1,0 +1,432 @@
+{
+    "22300": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Set Operations",
+        "question_type": "Objective",
+        "exam_year": "2012",
+        "question_text": "<p>If $A = \\{1, 2, 3, 4\\}$ and $B = \\{3, 4, 5, 6\\}$, find $A \\cap B$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The intersection of sets $A$ and $B$, denoted $A \\cap B$, consists of elements common to both sets. Here, the common elements are $3$ and $4$. Thus, $A \\cap B = \\{3, 4\\}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "71174",
+                "tag": "a",
+                "text": "$\\{1, 2, 3, 4, 5, 6\\}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "10856",
+                "tag": "b",
+                "text": "$\\{3, 4\\}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "72355",
+                "tag": "c",
+                "text": "$\\{1, 2, 5, 6\\}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "17169",
+                "tag": "d",
+                "text": "$\\{1, 2, 3, 4, 5, 6\\}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "22301": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Indices and Logarithms",
+        "question_type": "Objective",
+        "exam_year": "2012",
+        "question_text": "<p>Simplify $2^{3} \\times 2^{4}$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Using the law of indices, $a^{m} \\times a^{n} = a^{m+n}$. Thus, $2^{3} \\times 2^{4} = 2^{3+4} = 2^{7} = 128$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "71175",
+                "tag": "a",
+                "text": "$2^{7}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "10857",
+                "tag": "b",
+                "text": "$128$",
+                "is_correct": true
+            },
+            {
+                "option_id": "72356",
+                "tag": "c",
+                "text": "$2^{12}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "17170",
+                "tag": "d",
+                "text": "$64$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "22302": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Surds Basics",
+        "question_type": "Objective",
+        "exam_year": "2012",
+        "question_text": "<p>Rationalize the denominator of $\\frac{5}{\\sqrt{3}}$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>To rationalize the denominator, multiply the numerator and denominator by $\\sqrt{3}$: $\\frac{5}{\\sqrt{3}} \\times \\frac{\\sqrt{3}}{\\sqrt{3}} = \\frac{5\\sqrt{3}}{3}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "71176",
+                "tag": "a",
+                "text": "$\\frac{5\\sqrt{3}}{3}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "10858",
+                "tag": "b",
+                "text": "$\\frac{5}{3}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "72357",
+                "tag": "c",
+                "text": "$5\\sqrt{3}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "17171",
+                "tag": "d",
+                "text": "$\\frac{\\sqrt{3}}{5}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "22303": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Modular Arithmetic",
+        "question_type": "Objective",
+        "exam_year": "2012",
+        "question_text": "<p>Find the remainder when $17$ is divided by $5$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In modular arithmetic, $17 \\mod 5$ is the remainder when $17$ is divided by $5$. Since $5 \\times 3 = 15$ and $17 - 15 = 2$, the remainder is $2$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "71177",
+                "tag": "a",
+                "text": "$1$",
+                "is_correct": false
+            },
+            {
+                "option_id": "10859",
+                "tag": "b",
+                "text": "$2$",
+                "is_correct": true
+            },
+            {
+                "option_id": "72358",
+                "tag": "c",
+                "text": "$3$",
+                "is_correct": false
+            },
+            {
+                "option_id": "17172",
+                "tag": "d",
+                "text": "$4$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "22304": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Linear Equations",
+        "question_type": "Objective",
+        "exam_year": "2012",
+        "question_text": "<p>Solve for $x$ in the equation $3x + 5 = 20$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Subtract $5$ from both sides: $3x = 15$. Then divide by $3$: $x = 5$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "71178",
+                "tag": "a",
+                "text": "$3$",
+                "is_correct": false
+            },
+            {
+                "option_id": "10860",
+                "tag": "b",
+                "text": "$5$",
+                "is_correct": true
+            },
+            {
+                "option_id": "72359",
+                "tag": "c",
+                "text": "$15$",
+                "is_correct": false
+            },
+            {
+                "option_id": "17173",
+                "tag": "d",
+                "text": "$20$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "22305": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Quadratic Equations",
+        "question_type": "Objective",
+        "exam_year": "2012",
+        "question_text": "<p>Find the roots of the equation $x^{2} - 5x + 6 = 0$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Factorize the quadratic equation: $(x - 2)(x - 3) = 0$. Thus, the roots are $x = 2$ and $x = 3$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "71179",
+                "tag": "a",
+                "text": "$x = 1$ and $x = 6$",
+                "is_correct": false
+            },
+            {
+                "option_id": "10861",
+                "tag": "b",
+                "text": "$x = 2$ and $x = 3$",
+                "is_correct": true
+            },
+            {
+                "option_id": "72360",
+                "tag": "c",
+                "text": "$x = -2$ and $x = -3$",
+                "is_correct": false
+            },
+            {
+                "option_id": "17174",
+                "tag": "d",
+                "text": "$x = 5$ and $x = 6$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "22306": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Variation Types",
+        "question_type": "Objective",
+        "exam_year": "2012",
+        "question_text": "<p>If $y$ varies directly as $x$ and $y = 10$ when $x = 2$, find $y$ when $x = 5$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Since $y \\propto x$, $y = kx$. Given $y = 10$ when $x = 2$, $k = 5$. Thus, when $x = 5$, $y = 5 \\times 5 = 25$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "71180",
+                "tag": "a",
+                "text": "$15$",
+                "is_correct": false
+            },
+            {
+                "option_id": "10862",
+                "tag": "b",
+                "text": "$20$",
+                "is_correct": false
+            },
+            {
+                "option_id": "72361",
+                "tag": "c",
+                "text": "$25$",
+                "is_correct": true
+            },
+            {
+                "option_id": "17175",
+                "tag": "d",
+                "text": "$30$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "22307": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Coordinate Geometry",
+        "question_type": "Objective",
+        "exam_year": "2012",
+        "question_text": "<p>Find the distance between the points $(1, 2)$ and $(4, 6)$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Use the distance formula: $d = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$. Thus, $d = \\sqrt{(4 - 1)^2 + (6 - 2)^2} = \\sqrt{9 + 16} = \\sqrt{25} = 5$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "71181",
+                "tag": "a",
+                "text": "$3$",
+                "is_correct": false
+            },
+            {
+                "option_id": "10863",
+                "tag": "b",
+                "text": "$4$",
+                "is_correct": false
+            },
+            {
+                "option_id": "72362",
+                "tag": "c",
+                "text": "$5$",
+                "is_correct": true
+            },
+            {
+                "option_id": "17176",
+                "tag": "d",
+                "text": "$6$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "22308": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Trigonometry Rules",
+        "question_type": "Objective",
+        "exam_year": "2012",
+        "question_text": "<p>If $\\sin \\theta = \\frac{3}{5}$, find $\\cos \\theta$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Using the Pythagorean identity, $\\sin^2 \\theta + \\cos^2 \\theta = 1$. Thus, $\\cos^2 \\theta = 1 - \\left(\\frac{3}{5}\\right)^2 = 1 - \\frac{9}{25} = \\frac{16}{25}$. Therefore, $\\cos \\theta = \\frac{4}{5}$ (assuming $\\theta$ is in the first quadrant).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "71182",
+                "tag": "a",
+                "text": "$\\frac{3}{4}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "10864",
+                "tag": "b",
+                "text": "$\\frac{4}{5}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "72363",
+                "tag": "c",
+                "text": "$\\frac{5}{4}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "17177",
+                "tag": "d",
+                "text": "$\\frac{5}{3}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "22309": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Probability Rules",
+        "question_type": "Objective",
+        "exam_year": "2012",
+        "question_text": "<p>A bag contains $3$ red balls and $2$ blue balls. What is the probability of drawing a red ball?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The probability of drawing a red ball is the number of red balls divided by the total number of balls: $\\frac{3}{3+2} = \\frac{3}{5}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "71183",
+                "tag": "a",
+                "text": "$\\frac{1}{2}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "10865",
+                "tag": "b",
+                "text": "$\\frac{2}{5}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "72364",
+                "tag": "c",
+                "text": "$\\frac{3}{5}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "17178",
+                "tag": "d",
+                "text": "$\\frac{1}{3}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

@@ -428,5 +428,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "76890": {
+        "order_id": 11,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Music Elements",
+        "question_type": "Objective",
+        "exam_year": "2021",
+        "question_text": "<p>Which of the following is <b>NOT</b> a fundamental element of music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The fundamental elements of music include pitch, rhythm, dynamics, timbre, texture, and form. <i>Harmony</i> is a combination of notes played simultaneously but is not considered a fundamental element on its own.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "13648",
+                "tag": "a",
+                "text": "Pitch",
+                "is_correct": false
+            },
+            {
+                "option_id": "32448",
+                "tag": "b",
+                "text": "Harmony",
+                "is_correct": true
+            },
+            {
+                "option_id": "26184",
+                "tag": "c",
+                "text": "Rhythm",
+                "is_correct": false
+            },
+            {
+                "option_id": "32211",
+                "tag": "d",
+                "text": "Timbre",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "76891": {
+        "order_id": 12,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Music Notation Basics",
+        "question_type": "Objective",
+        "exam_year": "2021",
+        "question_text": "<p>What does a <b>sharp (#)</b> sign indicate in music notation?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>sharp (#)</b> sign raises the pitch of a note by one semitone. For example, $C\raisebox{0.5pt}{\text{\textsharp}}$ is one semitone higher than $C$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "13649",
+                "tag": "a",
+                "text": "Lowers the note by a semitone",
+                "is_correct": false
+            },
+            {
+                "option_id": "32449",
+                "tag": "b",
+                "text": "Raises the note by a semitone",
+                "is_correct": true
+            },
+            {
+                "option_id": "26185",
+                "tag": "c",
+                "text": "Extends the note's duration",
+                "is_correct": false
+            },
+            {
+                "option_id": "32212",
+                "tag": "d",
+                "text": "Indicates a rest",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "76892": {
+        "order_id": 13,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Types of Scales",
+        "question_type": "Objective",
+        "exam_year": "2021",
+        "question_text": "<p>Which scale consists of <b>five</b> notes per octave and is commonly used in African traditional music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <i>pentatonic scale</i> consists of five notes per octave and is widely used in African traditional music, as well as in many other musical traditions worldwide.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "13650",
+                "tag": "a",
+                "text": "Chromatic scale",
+                "is_correct": false
+            },
+            {
+                "option_id": "32450",
+                "tag": "b",
+                "text": "Pentatonic scale",
+                "is_correct": true
+            },
+            {
+                "option_id": "26186",
+                "tag": "c",
+                "text": "Whole-tone scale",
+                "is_correct": false
+            },
+            {
+                "option_id": "32213",
+                "tag": "d",
+                "text": "Major scale",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "76893": {
+        "order_id": 14,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Intervals and Inversions",
+        "question_type": "Objective",
+        "exam_year": "2021",
+        "question_text": "<p>What is the inversion of a <b>perfect fifth</b> ($5^{th}$) interval?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The inversion of a <b>perfect fifth</b> ($5^{th}$) is a <b>perfect fourth</b> ($4^{th}$). Inversion is calculated by subtracting the interval from 9 (e.g., $9 - 5 = 4$).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "13651",
+                "tag": "a",
+                "text": "Major third ($3^{rd}$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "32451",
+                "tag": "b",
+                "text": "Perfect fourth ($4^{th}$)",
+                "is_correct": true
+            },
+            {
+                "option_id": "26187",
+                "tag": "c",
+                "text": "Minor sixth ($6^{th}$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "32214",
+                "tag": "d",
+                "text": "Major sixth ($6^{th}$)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "76894": {
+        "order_id": 15,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Chords and Inversions",
+        "question_type": "Objective",
+        "exam_year": "2021",
+        "question_text": "<p>In a <b>triad</b>, what is the name of the chord when the <b>third</b> is the lowest note?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>When the <b>third</b> of a triad is the lowest note, the chord is in its <i>first inversion</i>, also known as a <b>6/3 chord</b>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "13652",
+                "tag": "a",
+                "text": "Root position",
+                "is_correct": false
+            },
+            {
+                "option_id": "32452",
+                "tag": "b",
+                "text": "First inversion",
+                "is_correct": true
+            },
+            {
+                "option_id": "26188",
+                "tag": "c",
+                "text": "Second inversion",
+                "is_correct": false
+            },
+            {
+                "option_id": "32215",
+                "tag": "d",
+                "text": "Third inversion",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "76895": {
+        "order_id": 16,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Cadence Types",
+        "question_type": "Objective",
+        "exam_year": "2021",
+        "question_text": "<p>Which cadence creates a sense of <b>temporary resolution</b> and is often described as a <i>half cadence</i>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>plagal cadence</b> (IV-I) creates a sense of finality, while a <b>perfect cadence</b> (V-I) is conclusive. An <b>imperfect cadence</b> (I-V, ii-V, or IV-V) creates a sense of temporary resolution and is often called a <i>half cadence</i>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "13653",
+                "tag": "a",
+                "text": "Plagal cadence",
+                "is_correct": false
+            },
+            {
+                "option_id": "32453",
+                "tag": "b",
+                "text": "Imperfect cadence",
+                "is_correct": true
+            },
+            {
+                "option_id": "26189",
+                "tag": "c",
+                "text": "Perfect cadence",
+                "is_correct": false
+            },
+            {
+                "option_id": "32216",
+                "tag": "d",
+                "text": "Deceptive cadence",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "76896": {
+        "order_id": 17,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "African Music Traits",
+        "question_type": "Objective",
+        "exam_year": "2021",
+        "question_text": "<p>Which of the following is a <b>key characteristic</b> of African traditional music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>African traditional music is known for its <i>call-and-response</i> patterns, where a leader sings or plays a phrase, and a group responds. This is a defining trait of many African musical traditions.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "13654",
+                "tag": "a",
+                "text": "Use of strict Western harmony",
+                "is_correct": false
+            },
+            {
+                "option_id": "32454",
+                "tag": "b",
+                "text": "Call-and-response patterns",
+                "is_correct": true
+            },
+            {
+                "option_id": "26190",
+                "tag": "c",
+                "text": "Notated sheet music",
+                "is_correct": false
+            },
+            {
+                "option_id": "32217",
+                "tag": "d",
+                "text": "Solo instrumental performances",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "76897": {
+        "order_id": 18,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Western Art Music Periods",
+        "question_type": "Objective",
+        "exam_year": "2021",
+        "question_text": "<p>Which period of Western art music is characterized by <b>ornamentation, contrast, and emotional expression</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <i>Baroque period</i> (c. 1600\u20131750) is known for its elaborate ornamentation, dramatic contrasts, and emotional expressiveness, exemplified by composers like Johann Sebastian Bach and Antonio Vivaldi.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "13655",
+                "tag": "a",
+                "text": "Renaissance",
+                "is_correct": false
+            },
+            {
+                "option_id": "32455",
+                "tag": "b",
+                "text": "Baroque",
+                "is_correct": true
+            },
+            {
+                "option_id": "26191",
+                "tag": "c",
+                "text": "Classical",
+                "is_correct": false
+            },
+            {
+                "option_id": "32218",
+                "tag": "d",
+                "text": "Romantic",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "76898": {
+        "order_id": 19,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Rhythm and Meter",
+        "question_type": "Objective",
+        "exam_year": "2021",
+        "question_text": "<p>What is the <b>time signature</b> of a piece with <i>three beats per measure</i> and a <i>quarter note</i> receiving one beat?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A time signature of <b>3/4</b> indicates three beats per measure, with a quarter note ($\u2669$) receiving one beat. This is a common time signature for waltzes and many traditional dances.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "13656",
+                "tag": "a",
+                "text": "2/4",
+                "is_correct": false
+            },
+            {
+                "option_id": "32456",
+                "tag": "b",
+                "text": "3/4",
+                "is_correct": true
+            },
+            {
+                "option_id": "26192",
+                "tag": "c",
+                "text": "4/4",
+                "is_correct": false
+            },
+            {
+                "option_id": "32219",
+                "tag": "d",
+                "text": "6/8",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "76899": {
+        "order_id": 20,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Ghanaian Traditional Music",
+        "question_type": "Objective",
+        "exam_year": "2021",
+        "question_text": "<p>Which of the following instruments is <b>traditionally</b> associated with <i>Ghanaian funeral dirges</i>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <i>atenteben</i> (bamboo flute) is a traditional Ghanaian instrument often used in funeral dirges, particularly among the Akan people. It produces a mournful, expressive sound suitable for lamentations.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "13657",
+                "tag": "a",
+                "text": "Kora",
+                "is_correct": false
+            },
+            {
+                "option_id": "32457",
+                "tag": "b",
+                "text": "Atenteben",
+                "is_correct": true
+            },
+            {
+                "option_id": "26193",
+                "tag": "c",
+                "text": "Balafon",
+                "is_correct": false
+            },
+            {
+                "option_id": "32220",
+                "tag": "d",
+                "text": "Talking drum",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

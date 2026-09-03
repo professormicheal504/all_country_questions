@@ -1,0 +1,257 @@
+{
+    "79674": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Electronics Basics",
+        "question_type": "Theory",
+        "exam_year": "2016",
+        "question_text": "<p>Explain the concept of <b>electron flow</b> in a conductor. Differentiate between conventional current and electron flow, and state which one is used in electronic circuit analysis.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Electron flow</b> refers to the movement of free electrons from the negative terminal to the positive terminal of a voltage source in a conductor. In contrast, <b>conventional current</b> assumes that current flows from the positive terminal to the negative terminal, which is a historical convention.<br><br>In electronic circuit analysis, <b>conventional current</b> is predominantly used, even though electron flow is the actual physical phenomenon. This convention simplifies circuit analysis and is universally accepted in electronics and electrical engineering.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "79675": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Atomic Structure and Energy Bands",
+        "question_type": "Theory",
+        "exam_year": "2016",
+        "question_text": "<p>Describe the <b>energy band structure</b> of a semiconductor. Explain the roles of the <i>valence band</i>, <i>conduction band</i>, and <i>forbidden gap</i> in determining the electrical properties of semiconductors.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>energy band structure</b> of a semiconductor consists of three key regions:<br><br><b>1. Valence Band:</b> This is the energy band where electrons are normally present at absolute zero temperature. Electrons in this band are bound to their atoms and do not contribute to electrical conduction.<br><br><b>2. Conduction Band:</b> This is the energy band where electrons can move freely and contribute to electrical conduction. At absolute zero, this band is empty in semiconductors.<br><br><b>3. Forbidden Gap (Band Gap):</b> This is the energy difference between the valence band and the conduction band. In semiconductors, the forbidden gap is small (e.g., $1.1 \text{ eV}$ for silicon), allowing electrons to be excited from the valence band to the conduction band with thermal energy or external excitation.<br><br>The size of the forbidden gap determines whether a material is a conductor, semiconductor, or insulator. Semiconductors have a moderate forbidden gap, enabling controlled conduction under specific conditions.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "79676": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Semiconductor Types and Doping",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>Which of the following elements is commonly used as a <b>donor impurity</b> in the doping of silicon to produce an <i>n-type</i> semiconductor?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>donor impurity</b> is an element that has five valence electrons, such as phosphorus, arsenic, or antimony. When added to silicon (which has four valence electrons), the fifth electron becomes a free electron, increasing the number of charge carriers and creating an <i>n-type</i> semiconductor.<br><br>Phosphorus is the most commonly used donor impurity in silicon doping.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "90835",
+                "tag": "a",
+                "text": "Aluminum",
+                "is_correct": false
+            },
+            {
+                "option_id": "64261",
+                "tag": "b",
+                "text": "Phosphorus",
+                "is_correct": true
+            },
+            {
+                "option_id": "36098",
+                "tag": "c",
+                "text": "Boron",
+                "is_correct": false
+            },
+            {
+                "option_id": "95225",
+                "tag": "d",
+                "text": "Gallium",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "79677": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "PN Junction Diode",
+        "question_type": "Theory",
+        "exam_year": "2016",
+        "question_text": "<p>With the aid of a diagram, explain the <b>depletion region</b> in a <i>PN junction diode</i>. Describe how it forms and its effect on the diode's behavior under <i>forward bias</i> and <i>reverse bias</i> conditions.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>depletion region</b> in a PN junction diode is the region around the junction where mobile charge carriers (electrons and holes) are depleted. It forms due to the diffusion of electrons from the <i>n-type</i> side to the <i>p-type</i> side and holes from the <i>p-type</i> side to the <i>n-type</i> side. This diffusion creates an electric field across the junction, which opposes further diffusion.<br><br><b>Under Forward Bias:</b><br>The external voltage reduces the potential barrier, narrowing the depletion region. This allows current to flow easily as majority carriers overcome the reduced barrier.<br><br><b>Under Reverse Bias:</b><br>The external voltage increases the potential barrier, widening the depletion region. This prevents current flow, except for a small reverse saturation current due to minority carriers.<br><br>The depletion region acts as an insulator in reverse bias and a conductor in forward bias, determining the diode's unidirectional current flow property.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "79678": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Diode Rectification",
+        "question_type": "Theory",
+        "exam_year": "2016",
+        "question_text": "<p>Draw the circuit diagram of a <b>full-wave bridge rectifier</b> and explain its operation. Calculate the <i>peak inverse voltage (PIV)</i> across each diode in the circuit if the input AC voltage is $V_{rms} = 12 \text{ V}$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>full-wave bridge rectifier</b> uses four diodes arranged in a bridge configuration to convert AC to DC. During the positive half-cycle of the input AC, diodes D1 and D2 conduct, while during the negative half-cycle, diodes D3 and D4 conduct. This ensures that current flows through the load in the same direction for both half-cycles.<br><br><b>Calculation of PIV:</b><br>The peak voltage of the input AC is given by:<br>$V_{peak} = V_{rms} \times \\sqrt{2} = 12 \times 1.414 = 16.97 \text{ V}$<br><br>The PIV across each diode in a bridge rectifier is equal to the peak voltage of the input AC, as the diodes must withstand the maximum reverse voltage when they are not conducting.<br><br>Thus, $PIV = 16.97 \text{ V}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "79679": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Zener Diodes and Regulation",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>The primary function of a <b>Zener diode</b> in a voltage regulator circuit is to:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>Zener diode</b> is designed to operate in the reverse breakdown region, where it maintains a nearly constant voltage across its terminals despite variations in current. This property makes it ideal for voltage regulation in circuits.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "90836",
+                "tag": "a",
+                "text": "Amplify signals",
+                "is_correct": false
+            },
+            {
+                "option_id": "64262",
+                "tag": "b",
+                "text": "Maintain a constant output voltage",
+                "is_correct": true
+            },
+            {
+                "option_id": "36099",
+                "tag": "c",
+                "text": "Convert AC to DC",
+                "is_correct": false
+            },
+            {
+                "option_id": "95226",
+                "tag": "d",
+                "text": "Store electrical energy",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "79680": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "BJT Structure and Operation",
+        "question_type": "Theory",
+        "exam_year": "2016",
+        "question_text": "<p>Describe the <b>structure</b> of a <i>Bipolar Junction Transistor (BJT)</i> and explain how it operates in the <i>active region</i>. Include the roles of the emitter, base, and collector in your explanation.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>Bipolar Junction Transistor (BJT)</b> consists of three doped semiconductor regions: the <i>emitter</i>, <i>base</i>, and <i>collector</i>. It has two PN junctions: the <i>emitter-base junction</i> and the <i>collector-base junction</i>.<br><br><b>Emitter:</b> Heavily doped to inject a large number of charge carriers (electrons in an NPN transistor) into the base.<br><br><b>Base:</b> Thin and lightly doped to allow most of the charge carriers from the emitter to diffuse into the collector.<br><br><b>Collector:</b> Moderately doped and larger in size to collect the charge carriers from the base.<br><br>In the <i>active region</i>, the emitter-base junction is forward-biased, and the collector-base junction is reverse-biased. This allows a small base current to control a larger collector current, enabling amplification.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "79681": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Common-Emitter Amplifier",
+        "question_type": "Theory",
+        "exam_year": "2016",
+        "question_text": "<p>For a <b>common-emitter amplifier</b>, derive the expression for the <i>voltage gain</i> ($A_v$) in terms of the transistor parameters and the load resistance. Assume the transistor is operating in the active region.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>voltage gain</b> ($A_v$) of a common-emitter amplifier can be derived as follows:<br><br>1. The input voltage ($V_{in}$) is applied to the base-emitter junction, and the output voltage ($V_{out}$) is taken across the collector resistor ($R_C$).<br><br>2. The small-signal voltage gain is given by:<br>$A_v = \frac{V_{out}}{V_{in}} = \frac{-g_m R_C}{1 + g_m R_E}$<br>where $g_m$ is the transconductance of the transistor, $R_C$ is the collector resistance, and $R_E$ is the emitter resistance (if unbypassed).<br><br>3. For a simplified case where $R_E$ is bypassed (i.e., $R_E = 0$), the voltage gain reduces to:<br>$A_v = -g_m R_C$<br><br>4. The transconductance $g_m$ is given by:<br>$g_m = \frac{I_C}{V_T}$<br>where $I_C$ is the collector current and $V_T$ is the thermal voltage ($V_T \thickapprox 26 \text{ mV}$ at room temperature).<br><br>Thus, the voltage gain is:<br>$A_v = -\frac{I_C R_C}{V_T}$<br>The negative sign indicates a 180\u00b0 phase shift between input and output.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "79682": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Operational Amplifiers (Op-Amp)",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>In an <b>inverting amplifier</b> configuration using an Op-Amp, the voltage gain is given by:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In an <b>inverting amplifier</b>, the input signal is applied to the inverting terminal of the Op-Amp through a resistor ($R_1$), and a feedback resistor ($R_f$) is connected from the output to the inverting terminal. The voltage gain is determined by the ratio of $R_f$ to $R_1$ and is given by:<br>$A_v = -\frac{R_f}{R_1}$<br>The negative sign indicates a 180\u00b0 phase shift between input and output.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "90837",
+                "tag": "a",
+                "text": "$A_v = \frac{R_f}{R_1}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "64263",
+                "tag": "b",
+                "text": "$A_v = -\frac{R_f}{R_1}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "36100",
+                "tag": "c",
+                "text": "$A_v = 1 + \frac{R_f}{R_1}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "95227",
+                "tag": "d",
+                "text": "$A_v = \frac{R_1}{R_f}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "79683": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Number Systems and Logic Gates",
+        "question_type": "Theory",
+        "exam_year": "2016",
+        "question_text": "<p>Convert the decimal number <b>45</b> to its binary equivalent. Using the binary result, construct the truth table for a <i>3-input AND gate</i> and determine the output for the input combination corresponding to the binary equivalent of 45.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Step 1: Convert Decimal to Binary</b><br>The decimal number 45 is converted to binary as follows:<br>$45_{10} = 101101_2$<br><br><b>Step 2: Construct Truth Table for 3-Input AND Gate</b><br>A 3-input AND gate outputs <i>1</i> only when all inputs are <i>1</i>. The truth table is:<br><br><table border='1'><tr><th>A</th><th>B</th><th>C</th><th>Output (A AND B AND C)</th></tr><tr><td>0</td><td>0</td><td>0</td><td>0</td></tr><tr><td>0</td><td>0</td><td>1</td><td>0</td></tr><tr><td>0</td><td>1</td><td>0</td><td>0</td></tr><tr><td>0</td><td>1</td><td>1</td><td>0</td></tr><tr><td>1</td><td>0</td><td>0</td><td>0</td></tr><tr><td>1</td><td>0</td><td>1</td><td>0</td></tr><tr><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr><td>1</td><td>1</td><td>1</td><td>1</td></tr></table><br><b>Step 3: Determine Output for Binary Equivalent of 45</b><br>The binary equivalent of 45 is $101101_2$. For a 3-input AND gate, we consider the three least significant bits (LSBs): $101_2$.<br>The inputs are A=1, B=0, C=1. From the truth table, the output is <i>0</i>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

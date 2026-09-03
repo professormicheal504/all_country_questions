@@ -1,0 +1,282 @@
+{
+    "68917": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "ICT Basics",
+        "question_type": "Theory",
+        "exam_year": "2000",
+        "question_text": "<p>Explain the term <b>Information and Communication Technology (ICT)</b> and describe <u>three</u> key areas where ICT is applied in modern society.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Information and Communication Technology (ICT)</b> refers to the use of digital technology to store, retrieve, transmit, and manipulate data or information. It encompasses both hardware and software tools that facilitate communication and information processing.<br><br>Key areas of ICT application include:<br><br><b>1. Education:</b> ICT is used in e-learning platforms, digital classrooms, and online research to enhance teaching and learning.<br><b>2. Healthcare:</b> ICT supports electronic health records, telemedicine, and medical imaging for improved patient care.<br><b>3. Business and Commerce:</b> ICT enables e-commerce, digital marketing, and automated business processes for efficiency and global reach.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "68918": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Computer Types",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>Which of the following is an example of a <b>supercomputer</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>supercomputer</b> is a high-performance computing machine designed for complex calculations and large-scale data processing. <i>CRAY-1</i> is a well-known example of a supercomputer developed in the 1970s.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "29955",
+                "tag": "a",
+                "text": "IBM PC",
+                "is_correct": false
+            },
+            {
+                "option_id": "96790",
+                "tag": "b",
+                "text": "CRAY-1",
+                "is_correct": true
+            },
+            {
+                "option_id": "95101",
+                "tag": "c",
+                "text": "Apple Macintosh",
+                "is_correct": false
+            },
+            {
+                "option_id": "86343",
+                "tag": "d",
+                "text": "HP Laptop",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "68919": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Hardware Components",
+        "question_type": "Theory",
+        "exam_year": "2000",
+        "question_text": "<p>Describe the functions of the following hardware components in a computer system:<br><br>(i) <b>Central Processing Unit (CPU)</b><br>(ii) <b>Random Access Memory (RAM)</b><br>(iii) <b>Hard Disk Drive (HDD)</b></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>(i) Central Processing Unit (CPU):</b> The CPU is the brain of the computer, responsible for executing instructions and performing calculations. It processes data and controls the operation of other hardware components.<br><br><b>(ii) Random Access Memory (RAM):</b> RAM is volatile memory that temporarily stores data and instructions currently in use by the CPU. It allows for fast access and retrieval of information but loses its contents when the computer is powered off.<br><br><b>(iii) Hard Disk Drive (HDD):</b> The HDD is non-volatile storage that permanently stores data, programs, and the operating system. It retains data even when the computer is turned off and provides large storage capacity.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "68920": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Number System Conversion",
+        "question_type": "Theory",
+        "exam_year": "2000",
+        "question_text": "<p>Convert the binary number <b>$110101_2$</b> to its decimal equivalent. Show all steps clearly.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>To convert the binary number $110101_2$ to decimal:<br><br><b>Step 1:</b> Write down the binary number and assign powers of 2 to each bit, starting from the right (which is $2^0$).<br><br>$1 \times 2^5 + 1 \times 2^4 + 0 \times 2^3 + 1 \times 2^2 + 0 \times 2^1 + 1 \times 2^0$<br><br><b>Step 2:</b> Calculate each term:<br>$1 \times 32 + 1 \times 16 + 0 \times 8 + 1 \times 4 + 0 \times 2 + 1 \times 1$<br>$= 32 + 16 + 0 + 4 + 0 + 1$<br><br><b>Step 3:</b> Sum the values:<br>$32 + 16 + 4 + 1 = 53$<br><br>The decimal equivalent of $110101_2$ is <b>$53_{10}$</b>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "68921": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Operating Systems",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>Which of the following is <b>NOT</b> a function of an operating system?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>An operating system manages hardware resources, provides a user interface, runs applications, and controls peripheral devices. <i>Compiling source code</i> is a function of a compiler, not an operating system.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "29955",
+                "tag": "a",
+                "text": "Memory management",
+                "is_correct": false
+            },
+            {
+                "option_id": "96790",
+                "tag": "b",
+                "text": "Compiling source code",
+                "is_correct": true
+            },
+            {
+                "option_id": "95101",
+                "tag": "c",
+                "text": "File management",
+                "is_correct": false
+            },
+            {
+                "option_id": "86343",
+                "tag": "d",
+                "text": "Process scheduling",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "68922": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Network Types",
+        "question_type": "Theory",
+        "exam_year": "2000",
+        "question_text": "<p>Differentiate between a <b>Local Area Network (LAN)</b> and a <b>Wide Area Network (WAN)</b>. Provide <u>two</u> examples of each.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Local Area Network (LAN):</b> A LAN is a network that connects computers and devices within a limited geographical area, such as a school, office, or building. It typically offers high-speed data transfer and is privately owned.<br><br><b>Examples of LAN:</b><br>1. A computer lab in a school.<br>2. An office network connecting workstations.<br><br><b>Wide Area Network (WAN):</b> A WAN spans a large geographical area, such as a country or continent, and connects multiple LANs. It often relies on public or leased communication lines and is slower than a LAN.<br><br><b>Examples of WAN:</b><br>1. The Internet.<br>2. A corporate network connecting branch offices across different cities.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "68923": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Cybersecurity Threats",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>What type of cybersecurity threat involves tricking users into revealing sensitive information?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Phishing</b> is a cybersecurity threat where attackers impersonate legitimate entities to deceive users into providing sensitive information such as passwords, credit card numbers, or personal details.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "29955",
+                "tag": "a",
+                "text": "Virus",
+                "is_correct": false
+            },
+            {
+                "option_id": "96790",
+                "tag": "b",
+                "text": "Phishing",
+                "is_correct": true
+            },
+            {
+                "option_id": "95101",
+                "tag": "c",
+                "text": "Malware",
+                "is_correct": false
+            },
+            {
+                "option_id": "86343",
+                "tag": "d",
+                "text": "Spyware",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "68924": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Logic Gates",
+        "question_type": "Theory",
+        "exam_year": "2000",
+        "question_text": "<p>Draw the truth table for a <b>NAND gate</b> and explain its operation. Use <i>1</i> for <b>HIGH</b> and <i>0</i> for <b>LOW</b>.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>NAND gate</b> is a universal logic gate that produces an output of <i>0</i> only when all its inputs are <i>1</i>. Otherwise, the output is <i>1</i>.<br><br><b>Truth Table for NAND Gate:</b><br><br><table border='1'><tr><th>A</th><th>B</th><th>A NAND B</th></tr><tr><td>0</td><td>0</td><td>1</td></tr><tr><td>0</td><td>1</td><td>1</td></tr><tr><td>1</td><td>0</td><td>1</td></tr><tr><td>1</td><td>1</td><td>0</td></tr></table><br>The NAND gate is equivalent to an AND gate followed by a NOT gate. It outputs <i>0</i> only if both inputs are <i>1</i>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "68925": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Word Processing",
+        "question_type": "Theory",
+        "exam_year": "2000",
+        "question_text": "<p>Describe <u>three</u> features of a word processing software that enhance document formatting and productivity.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>1. Styles and Formatting:</b> Word processors allow users to apply predefined styles (e.g., headings, paragraphs) for consistent formatting. This feature saves time and ensures uniformity in documents.<br><br><b>2. Spell Check and Grammar Tools:</b> These tools automatically detect and correct spelling and grammatical errors, improving the accuracy and professionalism of documents.<br><br><b>3. Mail Merge:</b> Mail merge enables users to create personalized letters, envelopes, or labels by combining a template with a data source (e.g., a list of names and addresses). This feature is useful for bulk communication.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "68926": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Internet vs Intranet",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>Which of the following best describes an <b>intranet</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>An <b>intranet</b> is a private network accessible only to an organization's staff. It is used to share company information, resources, and collaboration tools securely within the organization.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "29955",
+                "tag": "a",
+                "text": "A global network connecting millions of computers",
+                "is_correct": false
+            },
+            {
+                "option_id": "96790",
+                "tag": "b",
+                "text": "A private network for an organization's internal use",
+                "is_correct": true
+            },
+            {
+                "option_id": "95101",
+                "tag": "c",
+                "text": "A network used exclusively for online gaming",
+                "is_correct": false
+            },
+            {
+                "option_id": "86343",
+                "tag": "d",
+                "text": "A public network for government agencies only",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

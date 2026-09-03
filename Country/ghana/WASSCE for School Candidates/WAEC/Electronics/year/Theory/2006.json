@@ -1,0 +1,257 @@
+{
+    "21871": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Electronics Basics",
+        "question_type": "Theory",
+        "exam_year": "2006",
+        "question_text": "<p>Explain the difference between <i>conductors</i>, <i>semiconductors</i>, and <i>insulators</i> in terms of their energy bands. Include a sketch of their energy band diagrams in your explanation.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Conductors:</b> Have overlapping valence and conduction bands, allowing free electron flow.<br><b>Semiconductors:</b> Have a small energy gap ($E_g$) between valence and conduction bands. At room temperature, some electrons gain enough energy to jump the gap.<br><b>Insulators:</b> Have a large energy gap ($E_g$), preventing electron flow under normal conditions.<br><br>Energy band diagrams:<br>- <b>Conductor:</b> No gap between valence and conduction bands.<br>- <b>Semiconductor:</b> Small gap ($E_g \thickapprox 1 \text{ eV}$).<br>- <b>Insulator:</b> Large gap ($E_g > 3 \text{ eV}$).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "21872": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "PN Junction Diode",
+        "question_type": "Theory",
+        "exam_year": "2006",
+        "question_text": "<p>Describe the formation of a <i>depletion region</i> in a PN junction diode. How does this region affect the diode's behavior under <i>forward bias</i> and <i>reverse bias</i>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The depletion region forms when holes from the <i>p-type</i> and electrons from the <i>n-type</i> recombine at the junction, creating a region devoid of free charge carriers. This region acts as a barrier to current flow.<br><br><b>Forward Bias:</b> Reduces the depletion region width, allowing current to flow.<br><b>Reverse Bias:</b> Increases the depletion region width, blocking current flow (except for a small leakage current).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "21873": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Diode Rectification",
+        "question_type": "Theory",
+        "exam_year": "2006",
+        "question_text": "<p>Draw the circuit diagram of a <i>full-wave bridge rectifier</i> and explain its operation. Calculate the <i>peak inverse voltage (PIV)</i> across each diode if the input AC voltage is $V_{rms} = 12 \text{ V}$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A full-wave bridge rectifier uses four diodes arranged in a bridge configuration to convert AC to DC. During each half-cycle, two diodes conduct, allowing current to flow through the load.<br><br><b>PIV Calculation:</b><br>$V_{peak} = V_{rms} \times \\sqrt{2} = 12 \times 1.414 = 16.97 \text{ V}$<br>The PIV across each diode is equal to $V_{peak}$, so $PIV = 16.97 \text{ V}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "21874": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "BJT Biasing Methods",
+        "question_type": "Objective",
+        "exam_year": "2006",
+        "question_text": "<p>Which of the following biasing methods provides the <i>most stable</i> Q-point for a BJT amplifier?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>voltage divider bias</b> method provides the most stable Q-point because it minimizes the effect of $\beta$ variations on the collector current ($I_C$).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "41906",
+                "tag": "a",
+                "text": "<p>Fixed bias</p>",
+                "is_correct": false
+            },
+            {
+                "option_id": "75841",
+                "tag": "b",
+                "text": "<p>Voltage divider bias</p>",
+                "is_correct": true
+            },
+            {
+                "option_id": "64079",
+                "tag": "c",
+                "text": "<p>Emitter bias</p>",
+                "is_correct": false
+            },
+            {
+                "option_id": "35594",
+                "tag": "d",
+                "text": "<p>Collector feedback bias</p>",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "21875": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Common-Emitter Amplifier",
+        "question_type": "Theory",
+        "exam_year": "2006",
+        "question_text": "<p>Derive the expression for the <i>voltage gain</i> ($A_v$) of a common-emitter amplifier. Assume the amplifier uses a BJT with $\beta = 100$, $R_C = 4.7 \text{ k}\\Omega$, and $R_E = 1 \text{ k}\\Omega$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The voltage gain of a common-emitter amplifier is given by:<br>$A_v = \frac{-g_m R_C}{1 + g_m R_E}$<br>where $g_m = \frac{I_C}{V_T}$ and $V_T \thickapprox 26 \text{ mV}$ at room temperature.<br><br>For $\beta = 100$, $I_C \thickapprox \frac{V_{CC}}{R_C + R_E}$ (assuming $V_{CC} = 10 \text{ V}$):<br>$I_C \thickapprox \frac{10}{4.7 + 1} = 1.75 \text{ mA}$<br>$g_m = \frac{1.75 \times 10^{-3}}{26 \times 10^{-3}} = 0.0673 \text{ S}$<br>$A_v = \frac{-0.0673 \times 4700}{1 + 0.0673 \times 1000} = \frac{-316.31}{68.3} \thickapprox -4.63$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "21876": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Op-Amp Applications",
+        "question_type": "Objective",
+        "exam_year": "2006",
+        "question_text": "<p>Which of the following Op-Amp configurations is used as a <i>voltage follower</i>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>non-inverting amplifier</b> with 100% feedback (i.e., $R_f = 0$ and $R_1 = \text{open}$) acts as a voltage follower, providing unity gain ($A_v = 1$).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "41906",
+                "tag": "a",
+                "text": "<p>Inverting amplifier</p>",
+                "is_correct": false
+            },
+            {
+                "option_id": "75841",
+                "tag": "b",
+                "text": "<p>Non-inverting amplifier</p>",
+                "is_correct": true
+            },
+            {
+                "option_id": "64079",
+                "tag": "c",
+                "text": "<p>Differential amplifier</p>",
+                "is_correct": false
+            },
+            {
+                "option_id": "35594",
+                "tag": "d",
+                "text": "<p>Summing amplifier</p>",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "21877": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Oscillator Principles",
+        "question_type": "Theory",
+        "exam_year": "2006",
+        "question_text": "<p>Explain the <i>Barkhausen criterion</i> for oscillation. Apply this criterion to a <i>Wien bridge oscillator</i> and derive the condition for sustained oscillations.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The Barkhausen criterion states that for sustained oscillations:<br>1. The loop gain must be unity ($|A \beta| = 1$).<br>2. The phase shift around the loop must be $0^\text{o}$ or $360^\text{o}$.<br><br>For a Wien bridge oscillator:<br>The feedback network provides a phase shift of $0^\text{o}$ at the resonant frequency $f_0 = \frac{1}{2 \\pi RC}$. The gain of the amplifier must be $A = 3$ to satisfy $|A \beta| = 1$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "21878": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Number Systems and Conversions",
+        "question_type": "Objective",
+        "exam_year": "2006",
+        "question_text": "<p>Convert the binary number $110101_2$ to its decimal equivalent.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The binary number $110101_2$ is converted to decimal as follows:<br>$1 \times 2^5 + 1 \times 2^4 + 0 \times 2^3 + 1 \times 2^2 + 0 \times 2^1 + 1 \times 2^0 = 32 + 16 + 0 + 4 + 0 + 1 = 53_{10}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "41906",
+                "tag": "a",
+                "text": "<p>45</p>",
+                "is_correct": false
+            },
+            {
+                "option_id": "75841",
+                "tag": "b",
+                "text": "<p>53</p>",
+                "is_correct": true
+            },
+            {
+                "option_id": "64079",
+                "tag": "c",
+                "text": "<p>61</p>",
+                "is_correct": false
+            },
+            {
+                "option_id": "35594",
+                "tag": "d",
+                "text": "<p>27</p>",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "21879": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Combinational Logic Circuits",
+        "question_type": "Theory",
+        "exam_year": "2006",
+        "question_text": "<p>Design a logic circuit using <i>NAND gates only</i> to implement the Boolean function $F = A \bar{B} + \bar{A} B$. Draw the circuit diagram and verify its truth table.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The Boolean function $F = A \bar{B} + \bar{A} B$ is the XOR function. To implement it using NAND gates:<br>1. Use NAND gates to create $\bar{A}$ and $\bar{B}$.<br>2. Use NAND gates to create $A \bar{B}$ and $\bar{A} B$.<br>3. Combine the outputs using a NAND gate as an OR gate.<br><br>The truth table for $F$ is:<br><table><tr><th>A</th><th>B</th><th>F</th></tr><tr><td>0</td><td>0</td><td>0</td></tr><tr><td>0</td><td>1</td><td>1</td></tr><tr><td>1</td><td>0</td><td>1</td></tr><tr><td>1</td><td>1</td><td>0</td></tr></table></p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "21880": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Power Supply Circuits",
+        "question_type": "Theory",
+        "exam_year": "2006",
+        "question_text": "<p>Explain the operation of a <i>regulated power supply</i> using a Zener diode. Calculate the value of the series resistor ($R_S$) required to maintain a Zener diode current of $10 \text{ mA}$ if the input voltage is $15 \text{ V}$ and the Zener voltage is $5.1 \text{ V}$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A regulated power supply using a Zener diode maintains a constant output voltage by operating the Zener diode in its breakdown region. The series resistor ($R_S$) limits the current through the Zener diode.<br><br><b>Calculation of $R_S$:</b><br>$R_S = \frac{V_{in} - V_Z}{I_Z + I_L}$<br>Assuming $I_L \thickapprox 0$ (no load),<br>$R_S = \frac{15 - 5.1}{10 \times 10^{-3}} = \frac{9.9}{0.01} = 990 \text{ }\\Omega$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

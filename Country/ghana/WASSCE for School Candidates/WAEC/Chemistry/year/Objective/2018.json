@@ -1287,5 +1287,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "35750": {
+        "order_id": 31,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Atomic Structure",
+        "question_type": "Objective",
+        "exam_year": "2018",
+        "question_text": "<p>Which of the following particles determines the chemical properties of an element?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The chemical properties of an element are determined by the number and arrangement of electrons in its outermost shell (valence electrons). This is because electrons participate in chemical bonding and reactions.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "86328",
+                "tag": "a",
+                "text": "Protons",
+                "is_correct": false
+            },
+            {
+                "option_id": "76695",
+                "tag": "b",
+                "text": "Electrons",
+                "is_correct": true
+            },
+            {
+                "option_id": "41515",
+                "tag": "c",
+                "text": "Neutrons",
+                "is_correct": false
+            },
+            {
+                "option_id": "32964",
+                "tag": "d",
+                "text": "Nucleons",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "35751": {
+        "order_id": 32,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Periodic Trends",
+        "question_type": "Objective",
+        "exam_year": "2018",
+        "question_text": "<p>Which of the following elements has the highest first ionization energy?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>First ionization energy generally increases across a period from left to right in the periodic table. Fluorine (F) is the most electronegative element and has the highest first ionization energy among the given options.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "86329",
+                "tag": "a",
+                "text": "Sodium ($Na$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "76696",
+                "tag": "b",
+                "text": "Magnesium ($Mg$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "41516",
+                "tag": "c",
+                "text": "Fluorine ($F$)",
+                "is_correct": true
+            },
+            {
+                "option_id": "32965",
+                "tag": "d",
+                "text": "Chlorine ($Cl$)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "35752": {
+        "order_id": 33,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Chemical Bonding Types",
+        "question_type": "Objective",
+        "exam_year": "2018",
+        "question_text": "<p>What type of bond is formed between a metal and a non-metal?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>When a metal reacts with a non-metal, electrons are transferred from the metal to the non-metal, resulting in the formation of an ionic bond due to the electrostatic attraction between oppositely charged ions.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "86330",
+                "tag": "a",
+                "text": "Covalent bond",
+                "is_correct": false
+            },
+            {
+                "option_id": "76697",
+                "tag": "b",
+                "text": "Ionic bond",
+                "is_correct": true
+            },
+            {
+                "option_id": "41517",
+                "tag": "c",
+                "text": "Metallic bond",
+                "is_correct": false
+            },
+            {
+                "option_id": "32966",
+                "tag": "d",
+                "text": "Hydrogen bond",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "35753": {
+        "order_id": 34,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Gas Laws",
+        "question_type": "Objective",
+        "exam_year": "2018",
+        "question_text": "<p>The volume of a fixed mass of gas is 200 cm<sup>3</sup> at 27\u00b0C. What will be its volume at 127\u00b0C if the pressure remains constant?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Using Charles's Law: $V_1/T_1 = V_2/T_2$. Convert temperatures to Kelvin: $T_1 = 27 + 273 = 300 K$, $T_2 = 127 + 273 = 400 K$. Solving for $V_2$: $V_2 = (V_1 \times T_2) / T_1 = (200 \times 400) / 300 = 266.67 cm<sup>3</sup>$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "86331",
+                "tag": "a",
+                "text": "150 cm<sup>3</sup>",
+                "is_correct": false
+            },
+            {
+                "option_id": "76698",
+                "tag": "b",
+                "text": "267 cm<sup>3</sup>",
+                "is_correct": true
+            },
+            {
+                "option_id": "41518",
+                "tag": "c",
+                "text": "300 cm<sup>3</sup>",
+                "is_correct": false
+            },
+            {
+                "option_id": "32967",
+                "tag": "d",
+                "text": "400 cm<sup>3</sup>",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "35754": {
+        "order_id": 35,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Solutions and Solubility Factors",
+        "question_type": "Objective",
+        "exam_year": "2018",
+        "question_text": "<p>Which of the following factors does <b>not</b> affect the solubility of a solid in a liquid?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The solubility of a solid in a liquid is affected by temperature, pressure (for gases), and the nature of the solute and solvent. However, the <b>surface area</b> of the solute does not affect solubility, though it may affect the rate of dissolution.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "86332",
+                "tag": "a",
+                "text": "Temperature",
+                "is_correct": false
+            },
+            {
+                "option_id": "76699",
+                "tag": "b",
+                "text": "Pressure",
+                "is_correct": false
+            },
+            {
+                "option_id": "41519",
+                "tag": "c",
+                "text": "Surface area of the solute",
+                "is_correct": true
+            },
+            {
+                "option_id": "32968",
+                "tag": "d",
+                "text": "Nature of the solvent",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "35755": {
+        "order_id": 36,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Thermochemistry",
+        "question_type": "Objective",
+        "exam_year": "2018",
+        "question_text": "<p>The enthalpy change for a reaction is $+50 kJ/mol$. What does this indicate about the reaction?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A positive enthalpy change ($+\u0394H$) indicates that the reaction is <b>endothermic</b>, meaning it absorbs heat from the surroundings.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "86333",
+                "tag": "a",
+                "text": "The reaction is exothermic.",
+                "is_correct": false
+            },
+            {
+                "option_id": "76700",
+                "tag": "b",
+                "text": "The reaction is endothermic.",
+                "is_correct": true
+            },
+            {
+                "option_id": "41520",
+                "tag": "c",
+                "text": "The reaction is at equilibrium.",
+                "is_correct": false
+            },
+            {
+                "option_id": "32969",
+                "tag": "d",
+                "text": "The reaction is spontaneous.",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "35756": {
+        "order_id": 37,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Chemical Equilibrium",
+        "question_type": "Objective",
+        "exam_year": "2018",
+        "question_text": "<p>For the reaction: $N_2(g) + 3H_2(g) \rightleftharpoons 2NH_3(g)$, what is the effect of increasing the pressure on the equilibrium position?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>According to Le Chatelier's Principle, increasing the pressure shifts the equilibrium to the side with fewer moles of gas to reduce the pressure. Here, the left side has 4 moles ($1 N_2 + 3 H_2$), and the right side has 2 moles ($2 NH_3$). Thus, the equilibrium shifts to the right, favoring the formation of $NH_3$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "86334",
+                "tag": "a",
+                "text": "Shifts to the left",
+                "is_correct": false
+            },
+            {
+                "option_id": "76701",
+                "tag": "b",
+                "text": "Shifts to the right",
+                "is_correct": true
+            },
+            {
+                "option_id": "41521",
+                "tag": "c",
+                "text": "No effect",
+                "is_correct": false
+            },
+            {
+                "option_id": "32970",
+                "tag": "d",
+                "text": "Increases the rate of the reverse reaction",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "35757": {
+        "order_id": 38,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Acid-Base Theories",
+        "question_type": "Objective",
+        "exam_year": "2018",
+        "question_text": "<p>Which of the following is a <b>Bronsted-Lowry base</b> but not an Arrhenius base?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A Bronsted-Lowry base is a proton ($H^+$) acceptor, while an Arrhenius base is a substance that dissociates in water to produce $OH^-$ ions. $NH_3$ (ammonia) is a Bronsted-Lowry base because it accepts protons but does not produce $OH^-$ directly, so it is not an Arrhenius base.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "86335",
+                "tag": "a",
+                "text": "$NaOH$",
+                "is_correct": false
+            },
+            {
+                "option_id": "76702",
+                "tag": "b",
+                "text": "$NH_3$",
+                "is_correct": true
+            },
+            {
+                "option_id": "41522",
+                "tag": "c",
+                "text": "$HCl$",
+                "is_correct": false
+            },
+            {
+                "option_id": "32971",
+                "tag": "d",
+                "text": "$H_2SO_4$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "35758": {
+        "order_id": 39,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Redox Reactions",
+        "question_type": "Objective",
+        "exam_year": "2018",
+        "question_text": "<p>In the reaction: $Zn + Cu^{2+} \rightarrow Zn^{2+} + Cu$, which species is oxidized?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Oxidation involves the loss of electrons. In this reaction, $Zn$ loses electrons to form $Zn^{2+}$, so $Zn$ is oxidized. $Cu^{2+}$ gains electrons and is reduced to $Cu$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "86336",
+                "tag": "a",
+                "text": "$Zn$",
+                "is_correct": true
+            },
+            {
+                "option_id": "76703",
+                "tag": "b",
+                "text": "$Cu^{2+}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "41523",
+                "tag": "c",
+                "text": "$Zn^{2+}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "32972",
+                "tag": "d",
+                "text": "$Cu$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "35759": {
+        "order_id": 40,
+        "exam_type": "WAEC",
+        "subject": "Chemistry",
+        "topic": "Organic Nomenclature",
+        "question_type": "Objective",
+        "exam_year": "2018",
+        "question_text": "<p>What is the IUPAC name of the compound with the structure $CH_3-CH_2-CH(CH_3)-CH_3$?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The structure $CH_3-CH_2-CH(CH_3)-CH_3$ has 5 carbon atoms in the longest chain with a methyl group attached to the third carbon. The IUPAC name is <b>2-methylbutane</b>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "86337",
+                "tag": "a",
+                "text": "Pentane",
+                "is_correct": false
+            },
+            {
+                "option_id": "76704",
+                "tag": "b",
+                "text": "2-methylbutane",
+                "is_correct": true
+            },
+            {
+                "option_id": "41524",
+                "tag": "c",
+                "text": "3-methylbutane",
+                "is_correct": false
+            },
+            {
+                "option_id": "32973",
+                "tag": "d",
+                "text": "2,2-dimethylpropane",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

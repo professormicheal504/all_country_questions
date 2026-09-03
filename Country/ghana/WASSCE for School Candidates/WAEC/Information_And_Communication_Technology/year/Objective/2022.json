@@ -858,5 +858,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "15907": {
+        "order_id": 21,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "ICT Basics",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>Which of the following is <b>NOT</b> a characteristic of Information and Communication Technology (ICT)?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>ICT is defined by its ability to process, store, and transmit information efficiently. <i>Manual calculation without digital tools</i> is not a characteristic of ICT, as ICT relies on digital and electronic systems.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "56362",
+                "tag": "a",
+                "text": "Processing of information",
+                "is_correct": false
+            },
+            {
+                "option_id": "80615",
+                "tag": "b",
+                "text": "Storage of data",
+                "is_correct": false
+            },
+            {
+                "option_id": "99973",
+                "tag": "c",
+                "text": "Manual calculation without digital tools",
+                "is_correct": true
+            },
+            {
+                "option_id": "52563",
+                "tag": "d",
+                "text": "Transmission of information",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "15908": {
+        "order_id": 22,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Computer Types",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>Which type of computer is designed to perform complex scientific calculations and is typically used in research institutions?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><i>Supercomputers</i> are high-performance machines designed for complex calculations, such as weather forecasting, nuclear research, and simulations. They are not used for general-purpose tasks.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "56363",
+                "tag": "a",
+                "text": "Microcomputer",
+                "is_correct": false
+            },
+            {
+                "option_id": "80616",
+                "tag": "b",
+                "text": "Minicomputer",
+                "is_correct": false
+            },
+            {
+                "option_id": "99974",
+                "tag": "c",
+                "text": "Supercomputer",
+                "is_correct": true
+            },
+            {
+                "option_id": "52564",
+                "tag": "d",
+                "text": "Mainframe computer",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "15909": {
+        "order_id": 23,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Hardware Components",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>Which hardware component is responsible for temporarily storing data and instructions that the CPU needs to access quickly?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <i>RAM (Random Access Memory)</i> is a volatile memory component that temporarily stores data and instructions for quick access by the CPU. It is not permanent storage like a hard drive.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "56364",
+                "tag": "a",
+                "text": "Hard Disk Drive (HDD)",
+                "is_correct": false
+            },
+            {
+                "option_id": "80617",
+                "tag": "b",
+                "text": "Read-Only Memory (ROM)",
+                "is_correct": false
+            },
+            {
+                "option_id": "99975",
+                "tag": "c",
+                "text": "Random Access Memory (RAM)",
+                "is_correct": true
+            },
+            {
+                "option_id": "52565",
+                "tag": "d",
+                "text": "Central Processing Unit (CPU)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "15910": {
+        "order_id": 24,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Number System Conversion",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>Convert the binary number $1011_2$ to its decimal equivalent.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The binary number $1011_2$ is converted to decimal as follows:<br>$1 \\times 2^3 + 0 \\times 2^2 + 1 \\times 2^1 + 1 \\times 2^0 = 8 + 0 + 2 + 1 = 11_{10}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "56365",
+                "tag": "a",
+                "text": "$9_{10}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "80618",
+                "tag": "b",
+                "text": "$10_{10}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "99976",
+                "tag": "c",
+                "text": "$11_{10}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "52566",
+                "tag": "d",
+                "text": "$12_{10}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "15911": {
+        "order_id": 25,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Network Devices",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>Which network device is used to connect multiple devices in a local area network (LAN) and operates at the Data Link Layer of the OSI model?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <i>switch</i> is a network device that connects multiple devices in a LAN and operates at the Data Link Layer (Layer 2) of the OSI model. It forwards data based on MAC addresses.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "56366",
+                "tag": "a",
+                "text": "Router",
+                "is_correct": false
+            },
+            {
+                "option_id": "80619",
+                "tag": "b",
+                "text": "Hub",
+                "is_correct": false
+            },
+            {
+                "option_id": "99977",
+                "tag": "c",
+                "text": "Switch",
+                "is_correct": true
+            },
+            {
+                "option_id": "52567",
+                "tag": "d",
+                "text": "Modem",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "15912": {
+        "order_id": 26,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Cybersecurity Threats",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>Which of the following is an example of a <b>social engineering</b> attack?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><i>Phishing</i> is a social engineering attack where attackers trick users into revealing sensitive information, such as passwords or credit card details, by pretending to be a legitimate entity.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "56367",
+                "tag": "a",
+                "text": "Malware infection",
+                "is_correct": false
+            },
+            {
+                "option_id": "80620",
+                "tag": "b",
+                "text": "Phishing",
+                "is_correct": true
+            },
+            {
+                "option_id": "99978",
+                "tag": "c",
+                "text": "Denial-of-Service (DoS) attack",
+                "is_correct": false
+            },
+            {
+                "option_id": "52568",
+                "tag": "d",
+                "text": "Brute force attack",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "15913": {
+        "order_id": 27,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Operating Systems",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>Which of the following is a <b>single-user, multi-tasking</b> operating system?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><i>Windows 10</i> is a single-user, multi-tasking operating system, meaning it allows one user to run multiple applications simultaneously.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "56368",
+                "tag": "a",
+                "text": "MS-DOS",
+                "is_correct": false
+            },
+            {
+                "option_id": "80621",
+                "tag": "b",
+                "text": "UNIX",
+                "is_correct": false
+            },
+            {
+                "option_id": "99979",
+                "tag": "c",
+                "text": "Windows 10",
+                "is_correct": true
+            },
+            {
+                "option_id": "52569",
+                "tag": "d",
+                "text": "Linux (Server Edition)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "15914": {
+        "order_id": 28,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Spreadsheet Tools",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>In a spreadsheet, which function is used to find the <b>average</b> of a range of cells?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <i>AVERAGE</i> function in spreadsheet software (e.g., Microsoft Excel) calculates the arithmetic mean of a range of cells. For example, <code>=AVERAGE(A1:A10)</code> computes the average of values in cells A1 to A10.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "56369",
+                "tag": "a",
+                "text": "<code>SUM()</code>",
+                "is_correct": false
+            },
+            {
+                "option_id": "80622",
+                "tag": "b",
+                "text": "<code>AVERAGE()</code>",
+                "is_correct": true
+            },
+            {
+                "option_id": "99980",
+                "tag": "c",
+                "text": "<code>COUNT()</code>",
+                "is_correct": false
+            },
+            {
+                "option_id": "52570",
+                "tag": "d",
+                "text": "<code>MAX()</code>",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "15915": {
+        "order_id": 29,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Logic Gates",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>Which logic gate produces an output of <b>1</b> only when <u>all</u> its inputs are <b>1</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <i>AND gate</i> is a logic gate that outputs <b>1</b> only when all its inputs are <b>1</b>. If any input is <b>0</b>, the output is <b>0</b>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "56370",
+                "tag": "a",
+                "text": "OR gate",
+                "is_correct": false
+            },
+            {
+                "option_id": "80623",
+                "tag": "b",
+                "text": "NOT gate",
+                "is_correct": false
+            },
+            {
+                "option_id": "99981",
+                "tag": "c",
+                "text": "AND gate",
+                "is_correct": true
+            },
+            {
+                "option_id": "52571",
+                "tag": "d",
+                "text": "XOR gate",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "15916": {
+        "order_id": 30,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "ICT in Society",
+        "question_type": "Objective",
+        "exam_year": "2022",
+        "question_text": "<p>Which of the following is a <b>negative</b> impact of ICT on society?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><i>Job displacement due to automation</i> is a negative impact of ICT, as machines and software replace human labor in certain industries, leading to unemployment in some sectors.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "56371",
+                "tag": "a",
+                "text": "Improved communication",
+                "is_correct": false
+            },
+            {
+                "option_id": "80624",
+                "tag": "b",
+                "text": "Enhanced access to information",
+                "is_correct": false
+            },
+            {
+                "option_id": "99982",
+                "tag": "c",
+                "text": "Job displacement due to automation",
+                "is_correct": true
+            },
+            {
+                "option_id": "52572",
+                "tag": "d",
+                "text": "Increased efficiency in business",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

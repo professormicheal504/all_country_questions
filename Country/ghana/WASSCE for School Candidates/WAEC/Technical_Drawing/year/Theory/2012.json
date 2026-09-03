@@ -1,0 +1,282 @@
+{
+    "65390": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Drawing tools overview",
+        "question_type": "Objective",
+        "exam_year": "2012",
+        "question_text": "<p>Which of the following drawing tools is used to draw circles and arcs of varying radii?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>compass</b> is the primary tool used in technical drawing to construct circles and arcs of different sizes. It consists of two legs: one with a pointed end for anchoring and the other with a pencil or pen for drawing.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "75470",
+                "tag": "a",
+                "text": "T-square",
+                "is_correct": false
+            },
+            {
+                "option_id": "56736",
+                "tag": "b",
+                "text": "Compass",
+                "is_correct": true
+            },
+            {
+                "option_id": "66777",
+                "tag": "c",
+                "text": "Protractor",
+                "is_correct": false
+            },
+            {
+                "option_id": "65899",
+                "tag": "d",
+                "text": "Set square",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "65391": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Standard sheet sizes",
+        "question_type": "Theory",
+        "exam_year": "2012",
+        "question_text": "<p>List the <b>ISO A-series</b> standard sheet sizes from A0 to A5, stating their dimensions in millimeters.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The ISO A-series standard sheet sizes are based on a consistent aspect ratio of $1:\\sqrt{2}$. The dimensions (in millimeters) are as follows:<br><br><b>A0:</b> 841 \u00d7 1189<br><b>A1:</b> 594 \u00d7 841<br><b>A2:</b> 420 \u00d7 594<br><b>A3:</b> 297 \u00d7 420<br><b>A4:</b> 210 \u00d7 297<br><b>A5:</b> 148 \u00d7 210</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "65392": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Line types and uses",
+        "question_type": "Objective",
+        "exam_year": "2012",
+        "question_text": "<p>Which line type is used to represent <b>hidden edges</b> in an orthographic projection?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Dashed lines (medium-weight)</b> are used to represent hidden edges or features that are not visible in the current view of an orthographic projection. These lines help clarify the internal or obscured details of an object.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "75471",
+                "tag": "a",
+                "text": "Continuous thick line",
+                "is_correct": false
+            },
+            {
+                "option_id": "56737",
+                "tag": "b",
+                "text": "Dashed line (medium-weight)",
+                "is_correct": true
+            },
+            {
+                "option_id": "66778",
+                "tag": "c",
+                "text": "Chain line",
+                "is_correct": false
+            },
+            {
+                "option_id": "65900",
+                "tag": "d",
+                "text": "Continuous thin line",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "65393": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Basic geometric constructions",
+        "question_type": "Practical",
+        "exam_year": "2012",
+        "question_text": "<p>Construct a <b>perpendicular bisector</b> of a line segment AB of length 80 mm using only a compass and a straightedge. Show all construction lines clearly.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Steps to construct a perpendicular bisector:<br><br>1. Draw line segment AB = 80 mm.<br>2. With A as the center, draw an arc with a radius greater than half of AB (e.g., 50 mm).<br>3. With B as the center, draw another arc of the same radius to intersect the first arc at points C and D.<br>4. Draw a straight line through points C and D. This line is the perpendicular bisector of AB.<br><br>The perpendicular bisector divides AB into two equal parts of 40 mm each and intersects it at 90\u00b0.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "65394": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Regular polygon construction",
+        "question_type": "Theory",
+        "exam_year": "2012",
+        "question_text": "<p>Describe the step-by-step procedure for constructing a <b>regular hexagon</b> inscribed in a circle of diameter 60 mm.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Steps to construct a regular hexagon inscribed in a circle:<br><br>1. Draw a circle with a diameter of 60 mm (radius = 30 mm).<br>2. Mark the center of the circle as point O.<br>3. Draw a horizontal diameter AB.<br>4. Using a compass, set the radius to 30 mm and place the compass at point A. Draw an arc intersecting the circle at point C.<br>5. Move the compass to point C and draw another arc intersecting the circle at point D.<br>6. Repeat this process to locate points E, F, and G.<br>7. Connect points A, C, D, E, F, and G with straight lines to form the regular hexagon.<br><br>Each side of the hexagon will be equal to the radius of the circle (30 mm).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "65395": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Orthographic projection methods",
+        "question_type": "Objective",
+        "exam_year": "2012",
+        "question_text": "<p>In first-angle orthographic projection, the <b>right-side view</b> is placed to the:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>In <b>first-angle orthographic projection</b>, the right-side view is placed to the <b>left</b> of the front view. This is because the object is imagined to be placed in the first quadrant, and the views are projected onto the planes behind the object.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "75472",
+                "tag": "a",
+                "text": "Right of the front view",
+                "is_correct": false
+            },
+            {
+                "option_id": "56738",
+                "tag": "b",
+                "text": "Left of the front view",
+                "is_correct": true
+            },
+            {
+                "option_id": "66779",
+                "tag": "c",
+                "text": "Above the front view",
+                "is_correct": false
+            },
+            {
+                "option_id": "65901",
+                "tag": "d",
+                "text": "Below the front view",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "65396": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Sectional view types",
+        "question_type": "Theory",
+        "exam_year": "2012",
+        "question_text": "<p>Explain the difference between a <b>full section</b> and a <b>half section</b> in technical drawing, including when each is used.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Full Section:</b><br>A full section is obtained by passing a cutting plane entirely through the object, removing half of it to reveal internal details. It is used when the internal features of an object are complex and need to be fully exposed.<br><br><b>Half Section:</b><br>A half section is obtained by passing a cutting plane halfway through the object, removing a quarter of it. This type of section is used for symmetrical objects where both internal and external features need to be shown in a single view. The unsectioned half retains the external details, while the sectioned half reveals the internal features.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "65397": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Isometric drawing basics",
+        "question_type": "Practical",
+        "exam_year": "2012",
+        "question_text": "<p>Draw an <b>isometric view</b> of a cube with each edge measuring 50 mm. Show all construction lines and label the isometric axes.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Steps to draw an isometric view of a cube:<br><br>1. Draw the isometric axes: one vertical axis and two axes at 30\u00b0 to the horizontal.<br>2. Mark a point O as the origin.<br>3. From O, measure 50 mm along each of the three axes to locate points A, B, and C.<br>4. From point A, draw a line parallel to the axis through B and measure 50 mm to locate point D.<br>5. Repeat this process to complete the top face (A, B, D, and another point E).<br>6. From each corner of the top face, draw vertical lines downward (parallel to the vertical axis) and measure 50 mm to locate the bottom face.<br>7. Connect the corresponding points to complete the cube.<br><br>The isometric view will show three faces of the cube, each at 120\u00b0 to one another.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "65398": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Surface development",
+        "question_type": "Theory",
+        "exam_year": "2012",
+        "question_text": "<p>Describe the procedure for developing the lateral surface of a <b>right circular cylinder</b> of diameter 40 mm and height 60 mm.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Steps to develop the lateral surface of a right circular cylinder:<br><br>1. Calculate the circumference of the base of the cylinder using the formula $C = \\pi d$, where $d = 40$ mm. Thus, $C = \\pi \\times 40 = 125.66$ mm.<br>2. Draw a rectangle with a height equal to the height of the cylinder (60 mm) and a length equal to the circumference of the base (125.66 mm).<br>3. Divide the length of the rectangle into equal parts (e.g., 12 parts) to represent the divisions of the circular base.<br>4. Label the divisions to correspond with points on the circular base.<br>5. The rectangle represents the unfolded lateral surface of the cylinder.<br><br>The development can be rolled into a cylinder by joining the two shorter edges of the rectangle.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "65399": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Dimensioning principles",
+        "question_type": "Objective",
+        "exam_year": "2012",
+        "question_text": "<p>Which of the following is a <b>correct</b> dimensioning practice in technical drawing?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The correct dimensioning practice is to <b>avoid dimensioning to hidden lines</b>. Dimensions should be placed on visible outlines or features to ensure clarity and avoid confusion. Hidden lines should only be used to show obscured features, not for dimensioning.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "75473",
+                "tag": "a",
+                "text": "Dimensioning to hidden lines",
+                "is_correct": false
+            },
+            {
+                "option_id": "56739",
+                "tag": "b",
+                "text": "Placing dimensions inside the object outline",
+                "is_correct": false
+            },
+            {
+                "option_id": "66780",
+                "tag": "c",
+                "text": "Avoiding dimensioning to hidden lines",
+                "is_correct": true
+            },
+            {
+                "option_id": "65902",
+                "tag": "d",
+                "text": "Using leader lines for all dimensions",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

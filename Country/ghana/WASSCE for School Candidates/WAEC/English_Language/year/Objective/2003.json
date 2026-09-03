@@ -428,5 +428,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "28550": {
+        "order_id": 11,
+        "exam_type": "WAEC",
+        "subject": "English Language",
+        "topic": "Parts of Speech",
+        "question_type": "Objective",
+        "exam_year": "2003",
+        "question_text": "<p>Identify the <b>adverb</b> in the following sentence:<br><i>The athlete ran <u>very</u> quickly to the finish line.</i></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The adverb in the sentence is <b>very</b>, as it modifies the adverb <i>quickly</i>, which in turn modifies the verb <i>ran</i>. Adverbs often describe how, when, where, or to what degree an action is performed.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "80937",
+                "tag": "a",
+                "text": "athlete",
+                "is_correct": false
+            },
+            {
+                "option_id": "36359",
+                "tag": "b",
+                "text": "very",
+                "is_correct": true
+            },
+            {
+                "option_id": "56563",
+                "tag": "c",
+                "text": "quickly",
+                "is_correct": false
+            },
+            {
+                "option_id": "90091",
+                "tag": "d",
+                "text": "finish",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "28551": {
+        "order_id": 12,
+        "exam_type": "WAEC",
+        "subject": "English Language",
+        "topic": "Verb Tenses",
+        "question_type": "Objective",
+        "exam_year": "2003",
+        "question_text": "<p>Choose the correct tense of the verb to complete the sentence:<br><i>By the time we arrived, the meeting <u>______</u>.</i></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The correct answer is <b>had ended</b> because the sentence requires the past perfect tense to indicate an action completed before another past action (arrived).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "80938",
+                "tag": "a",
+                "text": "ends",
+                "is_correct": false
+            },
+            {
+                "option_id": "36360",
+                "tag": "b",
+                "text": "has ended",
+                "is_correct": false
+            },
+            {
+                "option_id": "56564",
+                "tag": "c",
+                "text": "had ended",
+                "is_correct": true
+            },
+            {
+                "option_id": "90092",
+                "tag": "d",
+                "text": "was ending",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "28552": {
+        "order_id": 13,
+        "exam_type": "WAEC",
+        "subject": "English Language",
+        "topic": "Subject-Verb Agreement",
+        "question_type": "Objective",
+        "exam_year": "2003",
+        "question_text": "<p>Select the correct verb to agree with the subject:<br><i>Neither the teacher nor the students <u>______</u> happy with the results.</i></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The correct answer is <b>were</b> because when subjects are joined by <i>nor</i>, the verb agrees with the nearer subject (<i>students</i>, which is plural).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "80939",
+                "tag": "a",
+                "text": "is",
+                "is_correct": false
+            },
+            {
+                "option_id": "36361",
+                "tag": "b",
+                "text": "was",
+                "is_correct": false
+            },
+            {
+                "option_id": "56565",
+                "tag": "c",
+                "text": "were",
+                "is_correct": true
+            },
+            {
+                "option_id": "90093",
+                "tag": "d",
+                "text": "are",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "28553": {
+        "order_id": 14,
+        "exam_type": "WAEC",
+        "subject": "English Language",
+        "topic": "Punctuation Marks",
+        "question_type": "Objective",
+        "exam_year": "2003",
+        "question_text": "<p>Which punctuation mark is missing in the following sentence?<br><i>She said I am coming</i></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The missing punctuation is a set of <b>quotation marks</b> to indicate direct speech: <i>She said, \"I am coming.\"</i></p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "80940",
+                "tag": "a",
+                "text": "Comma",
+                "is_correct": false
+            },
+            {
+                "option_id": "36362",
+                "tag": "b",
+                "text": "Quotation marks",
+                "is_correct": true
+            },
+            {
+                "option_id": "56566",
+                "tag": "c",
+                "text": "Full stop",
+                "is_correct": false
+            },
+            {
+                "option_id": "90094",
+                "tag": "d",
+                "text": "Exclamation mark",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "28554": {
+        "order_id": 15,
+        "exam_type": "WAEC",
+        "subject": "English Language",
+        "topic": "Direct vs Indirect Speech",
+        "question_type": "Objective",
+        "exam_year": "2003",
+        "question_text": "<p>Change the following direct speech to indirect speech:<br><i>\"I will travel tomorrow,\" he said.</i></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The correct indirect speech is <b>He said that he would travel the next day.</b> The tense shifts from <i>will</i> to <i>would</i>, and <i>tomorrow</i> becomes <i>the next day</i>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "80941",
+                "tag": "a",
+                "text": "He said that he will travel tomorrow.",
+                "is_correct": false
+            },
+            {
+                "option_id": "36363",
+                "tag": "b",
+                "text": "He said that he would travel the next day.",
+                "is_correct": true
+            },
+            {
+                "option_id": "56567",
+                "tag": "c",
+                "text": "He says that he will travel tomorrow.",
+                "is_correct": false
+            },
+            {
+                "option_id": "90095",
+                "tag": "d",
+                "text": "He said that he travels tomorrow.",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "28555": {
+        "order_id": 16,
+        "exam_type": "WAEC",
+        "subject": "English Language",
+        "topic": "Active vs Passive Voice",
+        "question_type": "Objective",
+        "exam_year": "2003",
+        "question_text": "<p>Convert the following sentence from active to passive voice:<br><i>The chef prepared the meal.</i></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The correct passive voice is <b>The meal was prepared by the chef.</b> The object (<i>the meal</i>) becomes the subject, and the verb is changed to <i>was prepared</i>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "80942",
+                "tag": "a",
+                "text": "The meal prepares the chef.",
+                "is_correct": false
+            },
+            {
+                "option_id": "36364",
+                "tag": "b",
+                "text": "The meal was prepared by the chef.",
+                "is_correct": true
+            },
+            {
+                "option_id": "56568",
+                "tag": "c",
+                "text": "The chef was prepared by the meal.",
+                "is_correct": false
+            },
+            {
+                "option_id": "90096",
+                "tag": "d",
+                "text": "The meal is preparing the chef.",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "28556": {
+        "order_id": 17,
+        "exam_type": "WAEC",
+        "subject": "English Language",
+        "topic": "Synonyms and Antonyms",
+        "question_type": "Objective",
+        "exam_year": "2003",
+        "question_text": "<p>Choose the word that is <b>opposite</b> in meaning to the underlined word:<br><i>The proposal was <u>accepted</u> by the committee.</i></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The antonym of <b>accepted</b> is <b>rejected</b>, as it means to refuse or decline a proposal.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "80943",
+                "tag": "a",
+                "text": "approved",
+                "is_correct": false
+            },
+            {
+                "option_id": "36365",
+                "tag": "b",
+                "text": "rejected",
+                "is_correct": true
+            },
+            {
+                "option_id": "56569",
+                "tag": "c",
+                "text": "considered",
+                "is_correct": false
+            },
+            {
+                "option_id": "90097",
+                "tag": "d",
+                "text": "endorsed",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "28557": {
+        "order_id": 18,
+        "exam_type": "WAEC",
+        "subject": "English Language",
+        "topic": "Homophones and Homonyms",
+        "question_type": "Objective",
+        "exam_year": "2003",
+        "question_text": "<p>Choose the correct word to complete the sentence:<br><i>She <u>______</u> the letter carefully before sending it.</i></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The correct word is <b>read</b> (past tense of <i>read</i>), which is a homophone of <i>red</i> but fits the context of examining a letter.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "80944",
+                "tag": "a",
+                "text": "red",
+                "is_correct": false
+            },
+            {
+                "option_id": "36366",
+                "tag": "b",
+                "text": "read",
+                "is_correct": true
+            },
+            {
+                "option_id": "56570",
+                "tag": "c",
+                "text": "reed",
+                "is_correct": false
+            },
+            {
+                "option_id": "90098",
+                "tag": "d",
+                "text": "rid",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "28558": {
+        "order_id": 19,
+        "exam_type": "WAEC",
+        "subject": "English Language",
+        "topic": "Conditional Sentences",
+        "question_type": "Objective",
+        "exam_year": "2003",
+        "question_text": "<p>Complete the sentence with the correct conditional form:<br><i>If I <u>______</u> you, I would apologize.</i></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The correct answer is <b>were</b>, as this is the second conditional, which requires the past subjunctive form (<i>were</i>) for hypothetical situations.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "80945",
+                "tag": "a",
+                "text": "am",
+                "is_correct": false
+            },
+            {
+                "option_id": "36367",
+                "tag": "b",
+                "text": "was",
+                "is_correct": false
+            },
+            {
+                "option_id": "56571",
+                "tag": "c",
+                "text": "were",
+                "is_correct": true
+            },
+            {
+                "option_id": "90099",
+                "tag": "d",
+                "text": "be",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "28559": {
+        "order_id": 20,
+        "exam_type": "WAEC",
+        "subject": "English Language",
+        "topic": "Prepositional Phrases",
+        "question_type": "Objective",
+        "exam_year": "2003",
+        "question_text": "<p>Choose the correct preposition to complete the sentence:<br><i>She is allergic <u>______</u> peanuts.</i></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The correct preposition is <b>to</b>, as <i>allergic to</i> is the standard collocation for describing allergies.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "80946",
+                "tag": "a",
+                "text": "with",
+                "is_correct": false
+            },
+            {
+                "option_id": "36368",
+                "tag": "b",
+                "text": "to",
+                "is_correct": true
+            },
+            {
+                "option_id": "56572",
+                "tag": "c",
+                "text": "for",
+                "is_correct": false
+            },
+            {
+                "option_id": "90100",
+                "tag": "d",
+                "text": "at",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

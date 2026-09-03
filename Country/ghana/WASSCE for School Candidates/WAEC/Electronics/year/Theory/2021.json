@@ -1,0 +1,257 @@
+{
+    "62094": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Electronics Basics",
+        "question_type": "Theory",
+        "exam_year": "2021",
+        "question_text": "<p>Explain the term <b>electronics</b> and state <u>three</u> applications of electronics in modern technology.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Electronics</b> is the branch of physics and technology concerned with the design of circuits using <i>transistors</i>, <i>diodes</i>, and other semiconductor devices to control the flow of electrons for processing and transmitting information.<br><br>Applications include:<br>1. <b>Communication systems</b> (e.g., smartphones, radios).<br>2. <b>Computing devices</b> (e.g., laptops, microcontrollers).<br>3. <b>Medical equipment</b> (e.g., ECG machines, pacemakers).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "62095": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Atomic Structure and Energy Bands",
+        "question_type": "Theory",
+        "exam_year": "2021",
+        "question_text": "<p>Describe the <b>energy band structure</b> of a semiconductor. How does it differ from that of a conductor and an insulator?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A semiconductor has an energy band structure consisting of a <b>valence band</b> (filled with electrons) and a <b>conduction band</b> (empty at absolute zero), separated by a <b>forbidden energy gap</b> ($E_g$).<br><br>Differences:<br>1. <b>Conductors</b>: No forbidden gap; valence and conduction bands overlap.<br>2. <b>Insulators</b>: Large forbidden gap ($E_g > 3$ eV); electrons cannot jump to the conduction band.<br>3. <b>Semiconductors</b>: Small forbidden gap ($E_g \thickapprox 1$ eV); electrons can be excited to the conduction band with thermal energy.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "62096": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Semiconductor Doping",
+        "question_type": "Objective",
+        "exam_year": "2021",
+        "question_text": "<p>Which of the following elements is used as a <b>donor impurity</b> in <i>n-type</i> semiconductor doping?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>donor impurity</b> in <i>n-type</i> doping provides extra electrons to the semiconductor. <b>Phosphorus (P)</b> is a Group V element with 5 valence electrons, making it an ideal donor for silicon (Group IV).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "60789",
+                "tag": "a",
+                "text": "Aluminum (Al)",
+                "is_correct": false
+            },
+            {
+                "option_id": "79090",
+                "tag": "b",
+                "text": "Phosphorus (P)",
+                "is_correct": true
+            },
+            {
+                "option_id": "44692",
+                "tag": "c",
+                "text": "Boron (B)",
+                "is_correct": false
+            },
+            {
+                "option_id": "47751",
+                "tag": "d",
+                "text": "Gallium (Ga)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "62097": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "PN Junction Diode",
+        "question_type": "Theory",
+        "exam_year": "2021",
+        "question_text": "<p>Draw the <b>V-I characteristic curve</b> of a PN junction diode and explain its behavior under <i>forward bias</i> and <i>reverse bias</i> conditions.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>V-I characteristic curve</b> of a PN junction diode shows:<br><br>1. <b>Forward Bias</b>: Current increases exponentially with voltage after overcoming the <i>knee voltage</i> ($V_k \thickapprox 0.7$ V for silicon).<br>2. <b>Reverse Bias</b>: Negligible current flows until the <i>breakdown voltage</i> ($V_{BR}$) is reached, causing a sharp increase in current.<br><br>The curve illustrates the diode's <i>unilateral conduction</i> property.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "62098": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Diode Rectification",
+        "question_type": "Theory",
+        "exam_year": "2021",
+        "question_text": "<p>With the aid of a circuit diagram, explain how a <b>full-wave bridge rectifier</b> converts an AC input to a DC output. State <u>two</u> advantages over a half-wave rectifier.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>full-wave bridge rectifier</b> uses four diodes arranged in a bridge configuration to rectify both halves of the AC input cycle. During the positive half-cycle, diodes D1 and D2 conduct, while D3 and D4 conduct during the negative half-cycle, producing a unidirectional output.<br><br>Advantages:<br>1. Higher <b>efficiency</b> (utilizes both halves of the AC cycle).<br>2. Lower <b>ripple voltage</b> (easier filtering).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "62099": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Zener Diodes and Regulation",
+        "question_type": "Objective",
+        "exam_year": "2021",
+        "question_text": "<p>The primary function of a <b>Zener diode</b> in a voltage regulator circuit is to:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>Zener diode</b> operates in <i>reverse breakdown</i> to maintain a constant output voltage, acting as a <b>voltage reference</b> in regulator circuits.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "60789",
+                "tag": "a",
+                "text": "Amplify signals",
+                "is_correct": false
+            },
+            {
+                "option_id": "79090",
+                "tag": "b",
+                "text": "Maintain a constant output voltage",
+                "is_correct": true
+            },
+            {
+                "option_id": "44692",
+                "tag": "c",
+                "text": "Convert AC to DC",
+                "is_correct": false
+            },
+            {
+                "option_id": "47751",
+                "tag": "d",
+                "text": "Store electrical energy",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "62100": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "BJT Biasing Methods",
+        "question_type": "Theory",
+        "exam_year": "2021",
+        "question_text": "<p>Describe the <b>voltage-divider biasing</b> method for a BJT. Derive the expression for the <i>base voltage</i> ($V_B$) in terms of the supply voltage ($V_{CC}$) and resistor values.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Voltage-divider biasing</b> uses resistors $R_1$ and $R_2$ to set the base voltage ($V_B$) of a BJT. The base voltage is given by:<br><br>$V_B = V_{CC} \times \frac{R_2}{R_1 + R_2}$<br><br>This method provides stable biasing by reducing the effect of $\beta$ variations on the operating point.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "62101": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Operational Amplifiers (Op-Amp)",
+        "question_type": "Theory",
+        "exam_year": "2021",
+        "question_text": "<p>Explain the operation of an <b>inverting amplifier</b> using an Op-Amp. Derive the expression for its <i>voltage gain</i> ($A_v$).</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>An <b>inverting amplifier</b> uses an Op-Amp with a feedback resistor ($R_f$) and an input resistor ($R_{in}$). The output voltage ($V_{out}$) is given by:<br><br>$V_{out} = -\frac{R_f}{R_{in}} \times V_{in}$<br><br>The <i>voltage gain</i> is $A_v = -\frac{R_f}{R_{in}}$, where the negative sign indicates a 180\u00b0 phase shift.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "62102": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Oscillator Principles",
+        "question_type": "Objective",
+        "exam_year": "2021",
+        "question_text": "<p>Which of the following conditions is <u>essential</u> for sustained oscillations in a feedback oscillator?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>For sustained oscillations, the <b>Barkhausen criterion</b> must be satisfied:<br>1. The loop gain must be $\thickapprox 1$ ($|A \beta| = 1$).<br>2. The phase shift around the loop must be $360\u00b0$ (or $0\u00b0$).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "60789",
+                "tag": "a",
+                "text": "Loop gain less than 1",
+                "is_correct": false
+            },
+            {
+                "option_id": "79090",
+                "tag": "b",
+                "text": "Loop gain equal to 1 with zero phase shift",
+                "is_correct": true
+            },
+            {
+                "option_id": "44692",
+                "tag": "c",
+                "text": "Negative feedback",
+                "is_correct": false
+            },
+            {
+                "option_id": "47751",
+                "tag": "d",
+                "text": "High input impedance",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "62103": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Number Systems and Logic Gates",
+        "question_type": "Theory",
+        "exam_year": "2021",
+        "question_text": "<p>Convert the binary number <b>110101.101</b> to its decimal equivalent. Also, draw the logic circuit for a <b>3-input NAND gate</b> using only 2-input NAND gates.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Binary to Decimal Conversion</b>:<br>$110101.101_2 = 1 \times 2^5 + 1 \times 2^4 + 0 \times 2^3 + 1 \times 2^2 + 0 \times 2^1 + 1 \times 2^0 + 1 \times 2^{-1} + 0 \times 2^{-2} + 1 \times 2^{-3}$<br>$= 32 + 16 + 0 + 4 + 0 + 1 + 0.5 + 0 + 0.125 = 53.625_{10}$<br><br><b>3-input NAND Gate</b>: Constructed using two 2-input NAND gates:<br>1. First NAND gate combines inputs A and B.<br>2. Second NAND gate combines the output of the first gate with input C.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

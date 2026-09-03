@@ -858,5 +858,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "94024": {
+        "order_id": 21,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Set Operations",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>If $A = \\{1, 2, 3, 4\\}$ and $B = \\{3, 4, 5, 6\\}$, find $A \\cap B$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The intersection of sets $A$ and $B$, denoted $A \\cap B$, consists of elements common to both sets. Here, the common elements are $3$ and $4$. Thus, $A \\cap B = \\{3, 4\\}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "76485",
+                "tag": "a",
+                "text": "$\\{1, 2, 3, 4, 5, 6\\}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "18630",
+                "tag": "b",
+                "text": "$\\{3, 4\\}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "36628",
+                "tag": "c",
+                "text": "$\\{1, 2, 5, 6\\}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "15494",
+                "tag": "d",
+                "text": "$\\{1, 2, 3, 4, 5, 6\\}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "94025": {
+        "order_id": 22,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Indices and Logarithms",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>Simplify $2^{3} \\times 2^{4}$ leaving your answer in index form.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Using the law of indices, $a^{m} \\times a^{n} = a^{m+n}$. Thus, $2^{3} \\times 2^{4} = 2^{3+4} = 2^{7}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "76486",
+                "tag": "a",
+                "text": "$2^{1}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "18631",
+                "tag": "b",
+                "text": "$2^{7}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "36629",
+                "tag": "c",
+                "text": "$2^{12}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "15495",
+                "tag": "d",
+                "text": "$4^{7}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "94026": {
+        "order_id": 23,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Surds Basics",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>Rationalize the denominator of $\\frac{5}{\\sqrt{3}}$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>To rationalize the denominator, multiply the numerator and denominator by $\\sqrt{3}$: $\\frac{5}{\\sqrt{3}} \\times \\frac{\\sqrt{3}}{\\sqrt{3}} = \\frac{5\\sqrt{3}}{3}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "76487",
+                "tag": "a",
+                "text": "$\\frac{5\\sqrt{3}}{3}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "18632",
+                "tag": "b",
+                "text": "$\\frac{5}{3}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "36630",
+                "tag": "c",
+                "text": "$5\\sqrt{3}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "15496",
+                "tag": "d",
+                "text": "$\\frac{\\sqrt{3}}{5}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "94027": {
+        "order_id": 24,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Linear Equations",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>Solve the equation $3x - 7 = 2x + 5$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Subtract $2x$ from both sides: $3x - 2x - 7 = 5$ \u2192 $x - 7 = 5$. Add $7$ to both sides: $x = 12$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "76488",
+                "tag": "a",
+                "text": "$x = 2$",
+                "is_correct": false
+            },
+            {
+                "option_id": "18633",
+                "tag": "b",
+                "text": "$x = 12$",
+                "is_correct": true
+            },
+            {
+                "option_id": "36631",
+                "tag": "c",
+                "text": "$x = -12$",
+                "is_correct": false
+            },
+            {
+                "option_id": "15497",
+                "tag": "d",
+                "text": "$x = 5$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "94028": {
+        "order_id": 25,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Quadratic Equations",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>Find the roots of the equation $x^{2} - 5x + 6 = 0$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Factorize the quadratic equation: $(x - 2)(x - 3) = 0$. Thus, the roots are $x = 2$ and $x = 3$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "76489",
+                "tag": "a",
+                "text": "$x = 1$ and $x = 6$",
+                "is_correct": false
+            },
+            {
+                "option_id": "18634",
+                "tag": "b",
+                "text": "$x = 2$ and $x = 3$",
+                "is_correct": true
+            },
+            {
+                "option_id": "36632",
+                "tag": "c",
+                "text": "$x = -2$ and $x = -3$",
+                "is_correct": false
+            },
+            {
+                "option_id": "15498",
+                "tag": "d",
+                "text": "$x = 5$ and $x = 6$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "94029": {
+        "order_id": 26,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Variation Types",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>If $y$ varies directly as $x$ and $y = 10$ when $x = 2$, find $y$ when $x = 5$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Since $y \\propto x$, $y = kx$. When $y = 10$ and $x = 2$, $k = 5$. Thus, when $x = 5$, $y = 5 \\times 5 = 25$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "76490",
+                "tag": "a",
+                "text": "$10$",
+                "is_correct": false
+            },
+            {
+                "option_id": "18635",
+                "tag": "b",
+                "text": "$25$",
+                "is_correct": true
+            },
+            {
+                "option_id": "36633",
+                "tag": "c",
+                "text": "$5$",
+                "is_correct": false
+            },
+            {
+                "option_id": "15499",
+                "tag": "d",
+                "text": "$50$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "94030": {
+        "order_id": 27,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Coordinate Geometry",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>Find the gradient of the line joining the points $(1, 2)$ and $(3, 6)$.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The gradient $m$ is given by $m = \\frac{y_2 - y_1}{x_2 - x_1} = \\frac{6 - 2}{3 - 1} = \\frac{4}{2} = 2$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "76491",
+                "tag": "a",
+                "text": "$1$",
+                "is_correct": false
+            },
+            {
+                "option_id": "18636",
+                "tag": "b",
+                "text": "$2$",
+                "is_correct": true
+            },
+            {
+                "option_id": "36634",
+                "tag": "c",
+                "text": "$3$",
+                "is_correct": false
+            },
+            {
+                "option_id": "15500",
+                "tag": "d",
+                "text": "$4$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "94031": {
+        "order_id": 28,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Trigonometry Rules",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>If $\\sin \\theta = \\frac{3}{5}$, find $\\cos \\theta$ given that $\\theta$ is acute.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Using the identity $\\sin^{2} \\theta + \\cos^{2} \\theta = 1$, we have $\\cos \\theta = \\sqrt{1 - \\sin^{2} \\theta} = \\sqrt{1 - \\left(\\frac{3}{5}\\right)^{2}} = \\sqrt{\\frac{16}{25}} = \\frac{4}{5}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "76492",
+                "tag": "a",
+                "text": "$\\frac{3}{4}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "18637",
+                "tag": "b",
+                "text": "$\\frac{4}{5}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "36635",
+                "tag": "c",
+                "text": "$\\frac{5}{4}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "15501",
+                "tag": "d",
+                "text": "$\\frac{5}{3}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "94032": {
+        "order_id": 29,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Mensuration Formulas",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>Find the area of a circle with radius $7$ cm. <br>(Take $\\pi = \\frac{22}{7}$).</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The area of a circle is given by $A = \\pi r^{2}$. Substituting $r = 7$ cm, $A = \\frac{22}{7} \\times 7^{2} = \\frac{22}{7} \\times 49 = 154$ cm<sup>2</sup>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "76493",
+                "tag": "a",
+                "text": "$49$ cm<sup>2</sup>",
+                "is_correct": false
+            },
+            {
+                "option_id": "18638",
+                "tag": "b",
+                "text": "$154$ cm<sup>2</sup>",
+                "is_correct": true
+            },
+            {
+                "option_id": "36636",
+                "tag": "c",
+                "text": "$100$ cm<sup>2</sup>",
+                "is_correct": false
+            },
+            {
+                "option_id": "15502",
+                "tag": "d",
+                "text": "$22$ cm<sup>2</sup>",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "94033": {
+        "order_id": 30,
+        "exam_type": "WAEC",
+        "subject": "Mathematics",
+        "topic": "Probability Rules",
+        "question_type": "Objective",
+        "exam_year": "2020",
+        "question_text": "<p>A bag contains $3$ red balls and $5$ blue balls. What is the probability of drawing a red ball?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The probability of drawing a red ball is the number of red balls divided by the total number of balls: $P(\\text{Red}) = \\frac{3}{3+5} = \\frac{3}{8}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "76494",
+                "tag": "a",
+                "text": "$\\frac{3}{5}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "18639",
+                "tag": "b",
+                "text": "$\\frac{5}{8}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "36637",
+                "tag": "c",
+                "text": "$\\frac{3}{8}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "15503",
+                "tag": "d",
+                "text": "$\\frac{1}{2}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

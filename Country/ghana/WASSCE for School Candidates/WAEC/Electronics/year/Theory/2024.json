@@ -1,0 +1,257 @@
+{
+    "33899": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Electronics Basics",
+        "question_type": "Theory",
+        "exam_year": "2024",
+        "question_text": "<p>Explain the difference between <i>conductors</i>, <i>semiconductors</i>, and <i>insulators</i> in terms of their energy bands. Include a sketch of their energy band diagrams in your explanation.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Conductors:</b> Have overlapping valence and conduction bands, allowing free electron flow.<br><b>Semiconductors:</b> Have a small energy gap ($E_g$) between valence and conduction bands. At room temperature, some electrons gain enough energy to jump the gap.<br><b>Insulators:</b> Have a large energy gap ($E_g$), preventing electron flow under normal conditions.<br><br>Energy band diagrams:<br>- <b>Conductor:</b> No gap between bands.<br>- <b>Semiconductor:</b> Small gap ($E_g \thickapprox 1 \text{ eV}$).<br>- <b>Insulator:</b> Large gap ($E_g > 3 \text{ eV}$).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "33900": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Atomic Structure and Doping",
+        "question_type": "Theory",
+        "exam_year": "2024",
+        "question_text": "<p>Describe the process of <i>doping</i> in semiconductors. Differentiate between <i>n-type</i> and <i>p-type</i> doping, including the majority and minority carriers in each case.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Doping:</b> The intentional introduction of impurities to modify semiconductor conductivity.<br><br><b>n-type:</b> Doped with pentavalent atoms (e.g., phosphorus). Majority carriers are electrons; minority carriers are holes.<br><b>p-type:</b> Doped with trivalent atoms (e.g., boron). Majority carriers are holes; minority carriers are electrons.<br><br>Doping increases conductivity by introducing additional charge carriers.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "33901": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "PN Junction Diode",
+        "question_type": "Objective",
+        "exam_year": "2024",
+        "question_text": "<p>What is the primary function of a <i>PN junction diode</i> in a circuit?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A PN junction diode primarily allows current to flow in one direction (forward bias) while blocking it in the opposite direction (reverse bias). This property is used for rectification in power supplies.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "70692",
+                "tag": "a",
+                "text": "To amplify signals",
+                "is_correct": false
+            },
+            {
+                "option_id": "86507",
+                "tag": "b",
+                "text": "To allow current flow in one direction",
+                "is_correct": true
+            },
+            {
+                "option_id": "71244",
+                "tag": "c",
+                "text": "To store electrical energy",
+                "is_correct": false
+            },
+            {
+                "option_id": "35232",
+                "tag": "d",
+                "text": "To convert AC to mechanical energy",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "33902": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Diode Rectification",
+        "question_type": "Theory",
+        "exam_year": "2024",
+        "question_text": "<p>Draw and explain the operation of a <i>full-wave bridge rectifier</i>. Include the input and output waveforms in your answer.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A full-wave bridge rectifier uses four diodes arranged in a bridge configuration to convert AC to DC. During the positive half-cycle, two diodes conduct, and during the negative half-cycle, the other two conduct. This ensures current flows through the load in the same direction for both half-cycles.<br><br><b>Output waveform:</b> Pulsating DC with twice the frequency of the input AC.<br><b>Advantage:</b> Higher efficiency and smoother output compared to half-wave rectification.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "33903": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Zener Diodes and Regulation",
+        "question_type": "Theory",
+        "exam_year": "2024",
+        "question_text": "<p>Explain how a <i>Zener diode</i> maintains a constant output voltage in a voltage regulator circuit. Include a circuit diagram in your answer.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A Zener diode operates in reverse breakdown mode to maintain a constant voltage across its terminals. In a voltage regulator:<br><br>1. The Zener diode is connected in parallel with the load.<br>2. When the input voltage exceeds the Zener breakdown voltage ($V_Z$), the diode conducts in reverse, shunting excess current.<br>3. The series resistor limits the current to prevent damage.<br><br><b>Output voltage:</b> Remains constant at $V_Z$ despite variations in input voltage or load current.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "33904": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "BJT Structure and Operation",
+        "question_type": "Objective",
+        "exam_year": "2024",
+        "question_text": "<p>In a <i>Bipolar Junction Transistor (BJT)</i>, which region is the thinnest and most lightly doped?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>base</b> region in a BJT is the thinnest and most lightly doped. This ensures that most charge carriers from the emitter diffuse into the collector, enabling amplification.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "70692",
+                "tag": "a",
+                "text": "Emitter",
+                "is_correct": false
+            },
+            {
+                "option_id": "86507",
+                "tag": "b",
+                "text": "Base",
+                "is_correct": true
+            },
+            {
+                "option_id": "71244",
+                "tag": "c",
+                "text": "Collector",
+                "is_correct": false
+            },
+            {
+                "option_id": "35232",
+                "tag": "d",
+                "text": "Substrate",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "33905": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Common-Emitter Amplifier",
+        "question_type": "Theory",
+        "exam_year": "2024",
+        "question_text": "<p>Derive the voltage gain ($A_v$) of a <i>common-emitter amplifier</i> in terms of the transistor parameters and circuit components. Assume the amplifier is biased in the active region.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The voltage gain ($A_v$) of a common-emitter amplifier is given by:<br><br>$A_v = \frac{V_{out}}{V_{in}} = -g_m R_C \thickapprox -\frac{I_C R_C}{V_T}$<br><br>Where:<br>- $g_m$ is the transconductance ($g_m = \frac{I_C}{V_T}$).<br>- $R_C$ is the collector resistor.<br>- $I_C$ is the collector current.<br>- $V_T$ is the thermal voltage ($V_T \thickapprox 26 \text{ mV}$ at room temperature).<br><br>The negative sign indicates a 180\u00b0 phase shift between input and output.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "33906": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Operational Amplifiers (Op-Amp)",
+        "question_type": "Objective",
+        "exam_year": "2024",
+        "question_text": "<p>Which of the following is <b>NOT</b> a characteristic of an ideal <i>operational amplifier</i>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>An ideal Op-Amp has <b>infinite output impedance</b>, not zero. Other ideal characteristics include infinite input impedance, infinite gain, and zero offset voltage.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "70692",
+                "tag": "a",
+                "text": "Infinite input impedance",
+                "is_correct": false
+            },
+            {
+                "option_id": "86507",
+                "tag": "b",
+                "text": "Zero output impedance",
+                "is_correct": true
+            },
+            {
+                "option_id": "71244",
+                "tag": "c",
+                "text": "Infinite open-loop gain",
+                "is_correct": false
+            },
+            {
+                "option_id": "35232",
+                "tag": "d",
+                "text": "Zero offset voltage",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "33907": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Oscillator Principles",
+        "question_type": "Theory",
+        "exam_year": "2024",
+        "question_text": "<p>Explain the <i>Barkhausen criterion</i> for sustained oscillations in a feedback oscillator. Apply it to a <i>Colpitts oscillator</i> and derive the frequency of oscillation.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The Barkhausen criterion states that for sustained oscillations:<br>1. The loop gain must be unity: $|A \beta| = 1$.<br>2. The phase shift around the loop must be 0\u00b0 or 360\u00b0.<br><br>For a Colpitts oscillator:<br>- The frequency of oscillation is given by:<br>$f_0 = \frac{1}{2 \\pi \\sqrt{L C_{eq}}}$<br>where $C_{eq} = \frac{C_1 C_2}{C_1 + C_2}$.<br>- The feedback network consists of capacitors $C_1$ and $C_2$ and an inductor $L$.<br>- The amplifier provides the necessary gain to satisfy the Barkhausen criterion.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "33908": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Number Systems and Logic Gates",
+        "question_type": "Theory",
+        "exam_year": "2024",
+        "question_text": "<p>Convert the decimal number <b>45</b> to binary, octal, and hexadecimal. Using the binary equivalent, construct a truth table for a 2-input <i>AND gate</i> and a 2-input <i>OR gate</i>.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Conversions:</b><br>- Binary: $45_{10} = 101101_2$.<br>- Octal: $45_{10} = 55_8$.<br>- Hexadecimal: $45_{10} = 2D_{16}$.<br><br><b>Truth Tables:</b><br><br><b>AND Gate:</b><br><table border='1'><tr><th>A</th><th>B</th><th>A AND B</th></tr><tr><td>0</td><td>0</td><td>0</td></tr><tr><td>0</td><td>1</td><td>0</td></tr><tr><td>1</td><td>0</td><td>0</td></tr><tr><td>1</td><td>1</td><td>1</td></tr></table><br><b>OR Gate:</b><br><table border='1'><tr><th>A</th><th>B</th><th>A OR B</th></tr><tr><td>0</td><td>0</td><td>0</td></tr><tr><td>0</td><td>1</td><td>1</td></tr><tr><td>1</td><td>0</td><td>1</td></tr><tr><td>1</td><td>1</td><td>1</td></tr></table></p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

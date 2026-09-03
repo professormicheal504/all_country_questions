@@ -1,0 +1,282 @@
+{
+    "65784": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "ICT Basics",
+        "question_type": "Theory",
+        "exam_year": "2026",
+        "question_text": "<p>Explain the term <b>Information and Communication Technology (ICT)</b> and list <u>five</u> key areas where ICT is applied in modern society.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Information and Communication Technology (ICT)</b> refers to the use of digital technology to process, store, transmit, and retrieve information efficiently. It encompasses hardware, software, networks, and services that facilitate communication and data management.<br><br><b>Key areas of ICT application include:</b><br><ol><li><i>Education:</i> E-learning platforms, digital classrooms, and online resources.</li><li><i>Healthcare:</i> Electronic health records, telemedicine, and diagnostic tools.</li><li><i>Business:</i> E-commerce, digital marketing, and enterprise resource planning (ERP).</li><li><i>Government:</i> E-governance, digital voting systems, and public service delivery.</li><li><i>Entertainment:</i> Streaming services, gaming, and social media.</li></ol></p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "65785": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Computer Types",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Which of the following computer types is designed to handle complex scientific calculations and large-scale data processing?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The correct answer is <b>Supercomputer</b>. Supercomputers are high-performance machines optimized for handling complex calculations, simulations, and large-scale data processing tasks, such as weather forecasting and nuclear research.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "48714",
+                "tag": "a",
+                "text": "Microcomputer",
+                "is_correct": false
+            },
+            {
+                "option_id": "97601",
+                "tag": "b",
+                "text": "Supercomputer",
+                "is_correct": true
+            },
+            {
+                "option_id": "19958",
+                "tag": "c",
+                "text": "Minicomputer",
+                "is_correct": false
+            },
+            {
+                "option_id": "67856",
+                "tag": "d",
+                "text": "Personal Digital Assistant (PDA)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "65786": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Hardware Components",
+        "question_type": "Theory",
+        "exam_year": "2026",
+        "question_text": "<p>Describe the functions of the following hardware components in a computer system:<br>(i) <b>Central Processing Unit (CPU)</b><br>(ii) <b>Random Access Memory (RAM)</b><br>(iii) <b>Hard Disk Drive (HDD)</b></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>(i) Central Processing Unit (CPU):</b> The CPU is the <i>brain</i> of the computer. It performs arithmetic and logical operations, executes instructions from programs, and manages data flow between other components.<br><br><b>(ii) Random Access Memory (RAM):</b> RAM is volatile memory that temporarily stores data and instructions currently in use by the CPU. It allows for fast read/write operations, enabling multitasking and quick access to active programs.<br><br><b>(iii) Hard Disk Drive (HDD):</b> The HDD is non-volatile storage that permanently stores the operating system, software, and user data. It provides large storage capacity at a relatively low cost but has slower access speeds compared to RAM.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "65787": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Number System Conversion",
+        "question_type": "Theory",
+        "exam_year": "2026",
+        "question_text": "<p>Convert the binary number <b>$110101_2$</b> to its decimal equivalent. Show all steps clearly.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>To convert the binary number $110101_2$ to decimal:<br><br><b>Step 1:</b> Write down the binary number and assign powers of 2 to each bit, starting from the right (which is $2^0$).<br><br>$1 \times 2^5 + 1 \times 2^4 + 0 \times 2^3 + 1 \times 2^2 + 0 \times 2^1 + 1 \times 2^0$<br><br><b>Step 2:</b> Calculate each term:<br>$1 \times 32 + 1 \times 16 + 0 \times 8 + 1 \times 4 + 0 \times 2 + 1 \times 1$<br>$= 32 + 16 + 0 + 4 + 0 + 1$<br><br><b>Step 3:</b> Sum the values:<br>$32 + 16 + 4 + 1 = 53$<br><br>The decimal equivalent of $110101_2$ is <b>$53_{10}$</b>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "65788": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Cybersecurity Threats",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Which of the following is an example of a <b>social engineering</b> attack?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The correct answer is <b>Phishing</b>. Phishing is a social engineering attack where attackers impersonate legitimate entities to trick users into revealing sensitive information, such as passwords or credit card details.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "48714",
+                "tag": "a",
+                "text": "Denial of Service (DoS)",
+                "is_correct": false
+            },
+            {
+                "option_id": "97601",
+                "tag": "b",
+                "text": "Phishing",
+                "is_correct": true
+            },
+            {
+                "option_id": "19958",
+                "tag": "c",
+                "text": "Brute Force Attack",
+                "is_correct": false
+            },
+            {
+                "option_id": "67856",
+                "tag": "d",
+                "text": "SQL Injection",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "65789": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Logic Gates",
+        "question_type": "Theory",
+        "exam_year": "2026",
+        "question_text": "<p>Draw the truth table for a <b>NAND gate</b> and explain its operation with an example.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Truth Table for a NAND Gate:</b><br><table border='1'><tr><th>A</th><th>B</th><th>A NAND B</th></tr><tr><td>0</td><td>0</td><td>1</td></tr><tr><td>0</td><td>1</td><td>1</td></tr><tr><td>1</td><td>0</td><td>1</td></tr><tr><td>1</td><td>1</td><td>0</td></tr></table><br><b>Operation:</b> A NAND gate outputs <i>false</i> (0) only when all its inputs are <i>true</i> (1). Otherwise, it outputs <i>true</i> (1).<br><br><b>Example:</b> If inputs A = 1 and B = 1, the output is 0. For any other combination (e.g., A = 0, B = 1), the output is 1.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "65790": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Spreadsheet Tools",
+        "question_type": "Practical",
+        "exam_year": "2026",
+        "question_text": "<p>In a spreadsheet, the following data is entered:<br><br>Cell A1: <b>10</b><br>Cell A2: <b>20</b><br>Cell A3: <b>=A1+A2</b><br><br>What value will be displayed in cell A3? Explain how you arrived at your answer.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The value displayed in cell A3 will be <b>30</b>.<br><br><b>Explanation:</b> The formula <b>=A1+A2</b> adds the values in cells A1 and A2. Since A1 contains 10 and A2 contains 20, the sum is $10 + 20 = 30$. The result is automatically calculated and displayed in A3.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "65791": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Network Devices",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Which network device is used to connect multiple devices in a local area network (LAN) and operates at the <b>Data Link Layer</b> of the OSI model?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The correct answer is <b>Switch</b>. A switch connects multiple devices in a LAN and uses MAC addresses to forward data frames at the Data Link Layer (Layer 2) of the OSI model.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "48714",
+                "tag": "a",
+                "text": "Router",
+                "is_correct": false
+            },
+            {
+                "option_id": "97601",
+                "tag": "b",
+                "text": "Switch",
+                "is_correct": true
+            },
+            {
+                "option_id": "19958",
+                "tag": "c",
+                "text": "Hub",
+                "is_correct": false
+            },
+            {
+                "option_id": "67856",
+                "tag": "d",
+                "text": "Modem",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "65792": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Computer Ethics",
+        "question_type": "Theory",
+        "exam_year": "2026",
+        "question_text": "<p>Discuss <u>three</u> ethical issues associated with the use of ICT and suggest ways to address them.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Ethical Issues in ICT:</b><br><ol><li><i>Privacy Violations:</i> Unauthorized access to personal data can lead to identity theft or misuse. <b>Solution:</b> Implement strong data protection laws and use encryption technologies.</li><br><li><i>Cyberbullying:</i> Harassment or bullying via digital platforms can harm individuals. <b>Solution:</b> Educate users on responsible online behavior and enforce strict anti-cyberbullying policies.</li><br><li><i>Software Piracy:</i> Illegal copying or distribution of software deprives developers of revenue. <b>Solution:</b> Promote awareness of copyright laws and use open-source alternatives where possible.</li></ol></p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "65793": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Emerging Tech",
+        "question_type": "Objective",
+        "exam_year": "2026",
+        "question_text": "<p>Which of the following technologies is primarily used to enable machines to learn from data and improve over time?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The correct answer is <b>Machine Learning</b>. Machine Learning is a subset of artificial intelligence (AI) that enables systems to learn patterns from data and improve their performance without explicit programming.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "48714",
+                "tag": "a",
+                "text": "Blockchain",
+                "is_correct": false
+            },
+            {
+                "option_id": "97601",
+                "tag": "b",
+                "text": "Machine Learning",
+                "is_correct": true
+            },
+            {
+                "option_id": "19958",
+                "tag": "c",
+                "text": "Quantum Computing",
+                "is_correct": false
+            },
+            {
+                "option_id": "67856",
+                "tag": "d",
+                "text": "Augmented Reality",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

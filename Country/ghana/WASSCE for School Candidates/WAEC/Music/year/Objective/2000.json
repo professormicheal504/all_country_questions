@@ -858,5 +858,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "24243": {
+        "order_id": 21,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Music Elements",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>Which of the following is <b>NOT</b> a fundamental element of music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The fundamental elements of music include <i>pitch, rhythm, dynamics, timbre, texture, and form</i>. <b>Harmony</b> is a derived element, not a fundamental one.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "12543",
+                "tag": "a",
+                "text": "Pitch",
+                "is_correct": false
+            },
+            {
+                "option_id": "21241",
+                "tag": "b",
+                "text": "Harmony",
+                "is_correct": true
+            },
+            {
+                "option_id": "26471",
+                "tag": "c",
+                "text": "Rhythm",
+                "is_correct": false
+            },
+            {
+                "option_id": "59593",
+                "tag": "d",
+                "text": "Timbre",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "24244": {
+        "order_id": 22,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Music Notation Basics",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>What does a <b>sharp sign (#)</b> indicate in music notation?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>sharp sign (#)</b> raises the pitch of a note by a <i>semitone</i>. For example, $C\raisebox{0.5pt}{\text{\textmusicalsharp}}$ is one semitone higher than $C$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "12544",
+                "tag": "a",
+                "text": "Lowers the note by a semitone",
+                "is_correct": false
+            },
+            {
+                "option_id": "21242",
+                "tag": "b",
+                "text": "Raises the note by a semitone",
+                "is_correct": true
+            },
+            {
+                "option_id": "26472",
+                "tag": "c",
+                "text": "Cancels a previous accidental",
+                "is_correct": false
+            },
+            {
+                "option_id": "59594",
+                "tag": "d",
+                "text": "Indicates a rest",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "24245": {
+        "order_id": 23,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Types of Scales",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>Which scale consists of <i>five whole tones</i> and is commonly used in impressionist music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>whole-tone scale</b> consists of six notes, each a whole tone apart (e.g., $C-D-E-F\raisebox{0.5pt}{\text{\textmusicalsharp}}-G\raisebox{0.5pt}{\text{\textmusicalsharp}}-A\raisebox{0.5pt}{\text{\textmusicalsharp}}$). It lacks semitones, creating an ambiguous, dreamy sound.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "12545",
+                "tag": "a",
+                "text": "Pentatonic scale",
+                "is_correct": false
+            },
+            {
+                "option_id": "21243",
+                "tag": "b",
+                "text": "Whole-tone scale",
+                "is_correct": true
+            },
+            {
+                "option_id": "26473",
+                "tag": "c",
+                "text": "Chromatic scale",
+                "is_correct": false
+            },
+            {
+                "option_id": "59595",
+                "tag": "d",
+                "text": "Minor scale",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "24246": {
+        "order_id": 24,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Intervals and Inversions",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>What is the inversion of a <b>perfect fifth</b> ($C-G$)?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The inversion of a <b>perfect fifth</b> ($C-G$) is a <b>perfect fourth</b> ($G-C$). Intervals invert by subtracting from 9 (e.g., $5 + 4 = 9$).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "12546",
+                "tag": "a",
+                "text": "Major third",
+                "is_correct": false
+            },
+            {
+                "option_id": "21244",
+                "tag": "b",
+                "text": "Perfect fourth",
+                "is_correct": true
+            },
+            {
+                "option_id": "26474",
+                "tag": "c",
+                "text": "Minor sixth",
+                "is_correct": false
+            },
+            {
+                "option_id": "59596",
+                "tag": "d",
+                "text": "Major sixth",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "24247": {
+        "order_id": 25,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Chords and Inversions",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>In a <b>first inversion triad</b>, which note is the <u>bass</u>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>first inversion triad</b> has the <i>third</i> of the chord as the bass note. For example, in $C$ major ($C-E-G$), the first inversion is $E-G-C$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "12547",
+                "tag": "a",
+                "text": "Root",
+                "is_correct": false
+            },
+            {
+                "option_id": "21245",
+                "tag": "b",
+                "text": "Third",
+                "is_correct": true
+            },
+            {
+                "option_id": "26475",
+                "tag": "c",
+                "text": "Fifth",
+                "is_correct": false
+            },
+            {
+                "option_id": "59597",
+                "tag": "d",
+                "text": "Seventh",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "24248": {
+        "order_id": 26,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Cadence Types",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>Which cadence is described as a <i>\"question\"</i> that requires resolution?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>half cadence</b> (e.g., $V$ chord) creates tension and sounds incomplete, often requiring resolution to the tonic ($I$). It is commonly called a <i>\"question\"</i> cadence.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "12548",
+                "tag": "a",
+                "text": "Plagal cadence",
+                "is_correct": false
+            },
+            {
+                "option_id": "21246",
+                "tag": "b",
+                "text": "Half cadence",
+                "is_correct": true
+            },
+            {
+                "option_id": "26476",
+                "tag": "c",
+                "text": "Perfect cadence",
+                "is_correct": false
+            },
+            {
+                "option_id": "59598",
+                "tag": "d",
+                "text": "Deceptive cadence",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "24249": {
+        "order_id": 27,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "African Music Traits",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>Which of the following is a <u>key characteristic</u> of traditional African music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Traditional African music is heavily based on <b>call-and-response</b>, a form of interaction where a leader sings or plays a phrase, and a group responds. This trait is foundational in genres like <i>Ghanaian highlife</i> and <i>Dagomba drumming</i>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "12549",
+                "tag": "a",
+                "text": "Strict adherence to Western harmony",
+                "is_correct": false
+            },
+            {
+                "option_id": "21247",
+                "tag": "b",
+                "text": "Call-and-response patterns",
+                "is_correct": true
+            },
+            {
+                "option_id": "26477",
+                "tag": "c",
+                "text": "Use of 12-tone equal temperament",
+                "is_correct": false
+            },
+            {
+                "option_id": "59599",
+                "tag": "d",
+                "text": "Notation-based composition",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "24250": {
+        "order_id": 28,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Ghanaian Traditional Music",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>The <b>Atumpan</b> drums are traditionally associated with which Ghanaian ethnic group?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>Atumpan</b> drums are a pair of <i>talking drums</i> used by the <b>Akan</b> people of Ghana for communication, ceremonies, and storytelling.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "12550",
+                "tag": "a",
+                "text": "Ewe",
+                "is_correct": false
+            },
+            {
+                "option_id": "21248",
+                "tag": "b",
+                "text": "Akan",
+                "is_correct": true
+            },
+            {
+                "option_id": "26478",
+                "tag": "c",
+                "text": "Ga",
+                "is_correct": false
+            },
+            {
+                "option_id": "59600",
+                "tag": "d",
+                "text": "Dagomba",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "24251": {
+        "order_id": 29,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Western Art Music Periods",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>Which composer is <u>most closely</u> associated with the <b>Baroque period</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Johann Sebastian Bach</b> (1685\u20131750) is a central figure of the <i>Baroque period</i>, known for works like the <i>Brandenburg Concertos</i> and <i>Well-Tempered Clavier</i>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "12551",
+                "tag": "a",
+                "text": "Wolfgang Amadeus Mozart",
+                "is_correct": false
+            },
+            {
+                "option_id": "21249",
+                "tag": "b",
+                "text": "Johann Sebastian Bach",
+                "is_correct": true
+            },
+            {
+                "option_id": "26479",
+                "tag": "c",
+                "text": "Ludwig van Beethoven",
+                "is_correct": false
+            },
+            {
+                "option_id": "59601",
+                "tag": "d",
+                "text": "Franz Schubert",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "24252": {
+        "order_id": 30,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Aural Skills Training",
+        "question_type": "Objective",
+        "exam_year": "2000",
+        "question_text": "<p>What is the <b>primary purpose</b> of aural skills training in music education?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Aural skills training develops the ability to <i>recognize, transcribe, and reproduce</i> musical elements by ear, such as intervals, chords, rhythms, and melodies. This is essential for musicianship and performance.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "12552",
+                "tag": "a",
+                "text": "To memorize music theory textbooks",
+                "is_correct": false
+            },
+            {
+                "option_id": "21250",
+                "tag": "b",
+                "text": "To recognize and reproduce music by ear",
+                "is_correct": true
+            },
+            {
+                "option_id": "26480",
+                "tag": "c",
+                "text": "To compose symphonies",
+                "is_correct": false
+            },
+            {
+                "option_id": "59602",
+                "tag": "d",
+                "text": "To critique music performances",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

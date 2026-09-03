@@ -1,0 +1,257 @@
+{
+    "45203": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Electronics Basics",
+        "question_type": "Theory",
+        "exam_year": "2011",
+        "question_text": "<p>Explain the concept of <b>electron flow</b> and <b>conventional current flow</b> in a circuit. Include a diagram to illustrate the difference between the two.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Electron flow</b> refers to the movement of negatively charged electrons from the negative terminal to the positive terminal of a power source. This is the actual direction of charge movement in a conductor.<br><br><b>Conventional current flow</b>, on the other hand, assumes that current flows from the positive terminal to the negative terminal. This convention was established before the discovery of the electron and is still widely used in circuit analysis.<br><br>Diagram: A simple circuit with a battery and resistor should show:<br>- Electron flow: Arrows from the negative terminal to the positive terminal.<br>- Conventional current: Arrows from the positive terminal to the negative terminal.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "45204": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Atomic Structure and Energy Bands",
+        "question_type": "Theory",
+        "exam_year": "2011",
+        "question_text": "<p>Describe the <b>energy band structure</b> of a semiconductor. How does it differ from that of a conductor and an insulator?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A semiconductor has an energy band structure consisting of:<br><br>- <b>Valence Band</b>: The energy band where electrons are normally present at absolute zero temperature.<br>- <b>Conduction Band</b>: The energy band where electrons can move freely and conduct electricity.<br>- <b>Forbidden Gap (Band Gap)</b>: The energy difference between the valence band and the conduction band, typically around $1.1 \text{ eV}$ for silicon.<br><br>In a <b>conductor</b>, the valence band and conduction band overlap, allowing free electron movement.<br>In an <b>insulator</b>, the forbidden gap is very large ($> 5 \text{ eV}$), preventing electron movement to the conduction band.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "45205": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Semiconductor Types and Doping",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>Which of the following elements is commonly used as a <b>donor impurity</b> in <i>n-type</i> semiconductor doping?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>donor impurity</b> in <i>n-type</i> semiconductors provides extra electrons to the conduction band. Phosphorus, with 5 valence electrons, is a common donor impurity in silicon (which has 4 valence electrons).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "32796",
+                "tag": "a",
+                "text": "Aluminum",
+                "is_correct": false
+            },
+            {
+                "option_id": "91991",
+                "tag": "b",
+                "text": "Phosphorus",
+                "is_correct": true
+            },
+            {
+                "option_id": "15922",
+                "tag": "c",
+                "text": "Boron",
+                "is_correct": false
+            },
+            {
+                "option_id": "40052",
+                "tag": "d",
+                "text": "Gallium",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "45206": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "PN Junction Diode",
+        "question_type": "Theory",
+        "exam_year": "2011",
+        "question_text": "<p>Explain the formation of the <b>depletion region</b> in a PN junction diode. How does it affect the diode's behavior under forward and reverse bias?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>depletion region</b> forms at the junction of a PN diode due to the diffusion of electrons from the <i>n-type</i> side to the <i>p-type</i> side and holes in the opposite direction. This creates a region depleted of free charge carriers, leaving behind fixed ions that establish an electric field.<br><br>Under <b>forward bias</b>, the depletion region narrows, allowing current to flow.<br>Under <b>reverse bias</b>, the depletion region widens, preventing current flow (except for a small leakage current).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "45207": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Diode Rectification",
+        "question_type": "Theory",
+        "exam_year": "2011",
+        "question_text": "<p>Draw the circuit diagram of a <b>full-wave bridge rectifier</b> and explain its operation. Include the input and output waveforms.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>full-wave bridge rectifier</b> uses four diodes arranged in a bridge configuration to convert AC to DC. During the positive half-cycle of the input AC, diodes D1 and D2 conduct, while D3 and D4 conduct during the negative half-cycle. This ensures that current flows through the load in the same direction for both half-cycles, producing a pulsating DC output.<br><br>Waveforms:<br>- Input: Sinusoidal AC.<br>- Output: Pulsating DC with twice the frequency of the input.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "45208": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Zener Diodes and Regulation",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>A Zener diode is primarily used for:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A Zener diode operates in reverse breakdown mode and is used for <b>voltage regulation</b> in circuits. It maintains a constant output voltage despite variations in input voltage or load current.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "32796",
+                "tag": "a",
+                "text": "Amplification",
+                "is_correct": false
+            },
+            {
+                "option_id": "91991",
+                "tag": "b",
+                "text": "Voltage regulation",
+                "is_correct": true
+            },
+            {
+                "option_id": "15922",
+                "tag": "c",
+                "text": "Oscillation",
+                "is_correct": false
+            },
+            {
+                "option_id": "40052",
+                "tag": "d",
+                "text": "Rectification",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "45209": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "BJT Structure and Operation",
+        "question_type": "Theory",
+        "exam_year": "2011",
+        "question_text": "<p>Describe the <b>structure</b> of an NPN transistor and explain how it operates in the <i>active region</i>.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>An <b>NPN transistor</b> consists of three layers: a thin <i>p-type</i> base sandwiched between two <i>n-type</i> layers (emitter and collector).<br><br>In the <i>active region</i>, the base-emitter junction is forward-biased, allowing electrons to flow from the emitter to the base. Most of these electrons diffuse into the collector due to the reverse-biased base-collector junction, resulting in a collector current ($I_C$) that is much larger than the base current ($I_B$). The relationship is given by $I_C = \beta I_B$, where $\beta$ is the current gain.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "45210": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Common-Emitter Amplifier",
+        "question_type": "Theory",
+        "exam_year": "2011",
+        "question_text": "<p>Explain the operation of a <b>common-emitter amplifier</b>. Include a circuit diagram and derive the expression for its voltage gain.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>common-emitter amplifier</b> has the emitter as the common terminal for input and output. The input signal is applied to the base, and the output is taken from the collector.<br><br>The voltage gain ($A_v$) is given by:<br>$A_v = \frac{V_{out}}{V_{in}} = -g_m R_C$,<br>where $g_m$ is the transconductance ($g_m = \frac{I_C}{V_T}$) and $R_C$ is the collector resistance.<br><br>The negative sign indicates a 180\u00b0 phase shift between input and output.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "45211": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Operational Amplifiers (Op-Amp)",
+        "question_type": "Objective",
+        "exam_year": "2011",
+        "question_text": "<p>In an <b>inverting Op-Amp configuration</b>, the voltage gain is given by:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The voltage gain of an <b>inverting Op-Amp</b> is determined by the ratio of the feedback resistor ($R_f$) to the input resistor ($R_{in}$), with a negative sign indicating phase inversion:<br>$A_v = -\frac{R_f}{R_{in}}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "32796",
+                "tag": "a",
+                "text": "$A_v = \frac{R_f}{R_{in}}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "91991",
+                "tag": "b",
+                "text": "$A_v = -\frac{R_f}{R_{in}}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "15922",
+                "tag": "c",
+                "text": "$A_v = 1 + \frac{R_f}{R_{in}}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "40052",
+                "tag": "d",
+                "text": "$A_v = \frac{R_{in}}{R_f}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "45212": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Number Systems and Logic Gates",
+        "question_type": "Theory",
+        "exam_year": "2011",
+        "question_text": "<p>Convert the binary number <b>$110101_2$</b> to its decimal equivalent. Also, draw the logic circuit for a <b>3-input NAND gate</b> using only 2-input NAND gates.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Binary to Decimal Conversion:</b><br>$110101_2 = 1 \times 2^5 + 1 \times 2^4 + 0 \times 2^3 + 1 \times 2^2 + 0 \times 2^1 + 1 \times 2^0 = 32 + 16 + 0 + 4 + 0 + 1 = 53_{10}$.<br><br><b>3-input NAND Gate:</b><br>A 3-input NAND gate can be constructed using two 2-input NAND gates:<br>- First NAND gate: Inputs A and B.<br>- Second NAND gate: Output of the first NAND gate and input C.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

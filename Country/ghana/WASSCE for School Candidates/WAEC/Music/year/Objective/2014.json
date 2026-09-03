@@ -1288,5 +1288,435 @@
         ],
         "_page_num": 1,
         "_page_idx": 10
+    },
+    "34144": {
+        "order_id": 31,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Music Elements",
+        "question_type": "Objective",
+        "exam_year": "2014",
+        "question_text": "<p>Which of the following is <b>NOT</b> a fundamental element of music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The fundamental elements of music include <i>pitch, rhythm, dynamics, timbre, texture, and form</i>. <b>Harmony</b> is a derived element, not a fundamental one, as it results from the combination of pitches.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "35191",
+                "tag": "a",
+                "text": "Pitch",
+                "is_correct": false
+            },
+            {
+                "option_id": "46596",
+                "tag": "b",
+                "text": "Harmony",
+                "is_correct": true
+            },
+            {
+                "option_id": "13923",
+                "tag": "c",
+                "text": "Rhythm",
+                "is_correct": false
+            },
+            {
+                "option_id": "65723",
+                "tag": "d",
+                "text": "Timbre",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "34145": {
+        "order_id": 32,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Music Notation Basics",
+        "question_type": "Objective",
+        "exam_year": "2014",
+        "question_text": "<p>What does the <b>time signature</b> $4/4$ indicate in a musical score?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The time signature $4/4$ means there are <i>four beats in each measure</i>, and the <i>quarter note gets one beat</i>. It is also known as <b>common time</b>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "35192",
+                "tag": "a",
+                "text": "Three beats per measure, quarter note gets one beat",
+                "is_correct": false
+            },
+            {
+                "option_id": "46597",
+                "tag": "b",
+                "text": "Four beats per measure, half note gets one beat",
+                "is_correct": false
+            },
+            {
+                "option_id": "13924",
+                "tag": "c",
+                "text": "Four beats per measure, quarter note gets one beat",
+                "is_correct": true
+            },
+            {
+                "option_id": "65724",
+                "tag": "d",
+                "text": "Six beats per measure, eighth note gets one beat",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "34146": {
+        "order_id": 33,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Types of Scales",
+        "question_type": "Objective",
+        "exam_year": "2014",
+        "question_text": "<p>Which scale consists of <b>five whole tones</b> and is often used in impressionist music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>whole-tone scale</b> consists of six notes, each a whole tone apart, and is commonly associated with impressionist composers like <i>Debussy</i>. It lacks a leading tone, creating an ambiguous sound.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "35193",
+                "tag": "a",
+                "text": "Pentatonic scale",
+                "is_correct": false
+            },
+            {
+                "option_id": "46598",
+                "tag": "b",
+                "text": "Whole-tone scale",
+                "is_correct": true
+            },
+            {
+                "option_id": "13925",
+                "tag": "c",
+                "text": "Chromatic scale",
+                "is_correct": false
+            },
+            {
+                "option_id": "65725",
+                "tag": "d",
+                "text": "Octatonic scale",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "34147": {
+        "order_id": 34,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Intervals and Inversions",
+        "question_type": "Objective",
+        "exam_year": "2014",
+        "question_text": "<p>What is the <b>inversion</b> of a perfect fifth ($P5$)?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The inversion of an interval is calculated by subtracting it from $9$. Thus, the inversion of a perfect fifth ($5$) is $9 - 5 = 4$, which is a <b>perfect fourth ($P4$)</b>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "35194",
+                "tag": "a",
+                "text": "Major third ($M3$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "46599",
+                "tag": "b",
+                "text": "Perfect fourth ($P4$)",
+                "is_correct": true
+            },
+            {
+                "option_id": "13926",
+                "tag": "c",
+                "text": "Minor sixth ($m6$)",
+                "is_correct": false
+            },
+            {
+                "option_id": "65726",
+                "tag": "d",
+                "text": "Major sixth ($M6$)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "34148": {
+        "order_id": 35,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Chords and Inversions",
+        "question_type": "Objective",
+        "exam_year": "2014",
+        "question_text": "<p>In a <b>first inversion triad</b>, which note is the <b>bass note</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A first inversion triad is formed when the <i>third</i> of the chord is moved to the bass. For example, in a C major triad ($C-E-G$), the first inversion is $E-G-C$, making <b>$E$</b> the bass note.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "35195",
+                "tag": "a",
+                "text": "Root",
+                "is_correct": false
+            },
+            {
+                "option_id": "46600",
+                "tag": "b",
+                "text": "Third",
+                "is_correct": true
+            },
+            {
+                "option_id": "13927",
+                "tag": "c",
+                "text": "Fifth",
+                "is_correct": false
+            },
+            {
+                "option_id": "65727",
+                "tag": "d",
+                "text": "Seventh",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "34149": {
+        "order_id": 36,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Cadence Types",
+        "question_type": "Objective",
+        "exam_year": "2014",
+        "question_text": "<p>Which cadence is described as a <b>\"half cadence\"</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>half cadence</b> occurs when a phrase ends on the <i>dominant chord ($V$)</i>, creating an unresolved feeling. It is often followed by another phrase to complete the musical idea.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "35196",
+                "tag": "a",
+                "text": "$I - V$",
+                "is_correct": false
+            },
+            {
+                "option_id": "46601",
+                "tag": "b",
+                "text": "$IV - V$",
+                "is_correct": true
+            },
+            {
+                "option_id": "13928",
+                "tag": "c",
+                "text": "$V - I$",
+                "is_correct": false
+            },
+            {
+                "option_id": "65728",
+                "tag": "d",
+                "text": "$IV - I$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "34150": {
+        "order_id": 37,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "African Music Traits",
+        "question_type": "Objective",
+        "exam_year": "2014",
+        "question_text": "<p>Which of the following is a <b>key characteristic</b> of traditional African music?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Traditional African music is heavily based on <b>call-and-response</b> patterns, where a leader sings or plays a phrase, and a group responds. This is a defining feature of many African musical traditions.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "35197",
+                "tag": "a",
+                "text": "Use of polyphonic textures",
+                "is_correct": false
+            },
+            {
+                "option_id": "46602",
+                "tag": "b",
+                "text": "Call-and-response patterns",
+                "is_correct": true
+            },
+            {
+                "option_id": "13929",
+                "tag": "c",
+                "text": "Strict adherence to Western harmony",
+                "is_correct": false
+            },
+            {
+                "option_id": "65729",
+                "tag": "d",
+                "text": "Notation-based composition",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "34151": {
+        "order_id": 38,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Ghanaian Traditional Music",
+        "question_type": "Objective",
+        "exam_year": "2014",
+        "question_text": "<p>The <b>Atumpan</b> drums are traditionally associated with which Ghanaian ethnic group?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The <b>Atumpan</b> drums are a pair of <i>talking drums</i> used by the <b>Akan people</b> of Ghana. They are often used in ceremonies and for communication.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "35198",
+                "tag": "a",
+                "text": "Ewe",
+                "is_correct": false
+            },
+            {
+                "option_id": "46603",
+                "tag": "b",
+                "text": "Akan",
+                "is_correct": true
+            },
+            {
+                "option_id": "13930",
+                "tag": "c",
+                "text": "Ga",
+                "is_correct": false
+            },
+            {
+                "option_id": "65730",
+                "tag": "d",
+                "text": "Dagomba",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "34152": {
+        "order_id": 39,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Western Art Music Periods",
+        "question_type": "Objective",
+        "exam_year": "2014",
+        "question_text": "<p>Which composer is most closely associated with the <b>Baroque period</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Johann Sebastian Bach</b> is one of the most prominent composers of the <i>Baroque period</i> (1600\u20131750). His works, such as the <i>Brandenburg Concertos</i> and <i>Well-Tempered Clavier</i>, are foundational to Western art music.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "35199",
+                "tag": "a",
+                "text": "Wolfgang Amadeus Mozart",
+                "is_correct": false
+            },
+            {
+                "option_id": "46604",
+                "tag": "b",
+                "text": "Johann Sebastian Bach",
+                "is_correct": true
+            },
+            {
+                "option_id": "13931",
+                "tag": "c",
+                "text": "Ludwig van Beethoven",
+                "is_correct": false
+            },
+            {
+                "option_id": "65731",
+                "tag": "d",
+                "text": "Franz Schubert",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "34153": {
+        "order_id": 40,
+        "exam_type": "WAEC",
+        "subject": "Music",
+        "topic": "Rhythm and Meter",
+        "question_type": "Objective",
+        "exam_year": "2014",
+        "question_text": "<p>What is the <b>meter</b> of a piece with the time signature $6/8$?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The time signature $6/8$ indicates a <b>compound duple meter</b>, meaning there are <i>two beats per measure</i>, and each beat is divided into <i>three eighth notes</i>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "35200",
+                "tag": "a",
+                "text": "Simple triple",
+                "is_correct": false
+            },
+            {
+                "option_id": "46605",
+                "tag": "b",
+                "text": "Compound duple",
+                "is_correct": true
+            },
+            {
+                "option_id": "13932",
+                "tag": "c",
+                "text": "Simple quadruple",
+                "is_correct": false
+            },
+            {
+                "option_id": "65732",
+                "tag": "d",
+                "text": "Compound triple",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 10
     }
 }

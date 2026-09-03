@@ -1,0 +1,257 @@
+{
+    "41831": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Electronics Basics",
+        "question_type": "Theory",
+        "exam_year": "2009",
+        "question_text": "<p>Explain the term <b>electronics</b> and state <u>three</u> applications of electronic devices in modern technology.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Electronics</b> is the branch of physics and technology concerned with the design of circuits using transistors, diodes, and other semiconductor devices to control the flow of electrons for processing and transmitting information.<br><br><b>Applications:</b><br>1. <i>Communication systems</i> (e.g., radios, smartphones).<br>2. <i>Computers and digital systems</i> (e.g., processors, memory devices).<br>3. <i>Medical equipment</i> (e.g., ECG machines, pacemakers).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "41832": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Atomic Structure and Energy Bands",
+        "question_type": "Theory",
+        "exam_year": "2009",
+        "question_text": "<p>Describe the <b>energy band structure</b> of a semiconductor. How does it differ from that of a conductor and an insulator?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Energy Band Structure of a Semiconductor:</b><br>A semiconductor has a <i>valence band</i> (filled with electrons) and a <i>conduction band</i> (empty at absolute zero), separated by a <i>forbidden energy gap ($E_g$)</i> of about $1 \text{ eV}$ (e.g., silicon: $1.1 \text{ eV}$).<br><br><b>Differences:</b><br>1. <i>Conductor:</i> No forbidden gap; valence and conduction bands overlap.<br>2. <i>Insulator:</i> Large forbidden gap ($> 3 \text{ eV}$), preventing electron flow.<br>3. <i>Semiconductor:</i> Small forbidden gap, allowing controlled conduction via doping or thermal excitation.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "41833": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Semiconductor Types and Doping",
+        "question_type": "Objective",
+        "exam_year": "2009",
+        "question_text": "<p>Which of the following elements is commonly used as a <b>donor impurity</b> in <i>n-type</i> silicon?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>donor impurity</b> in <i>n-type</i> silicon provides extra electrons (pentavalent atoms). <b>Phosphorus (P)</b> is a group V element and is commonly used for this purpose. It introduces energy levels just below the conduction band, increasing electron concentration.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "34764",
+                "tag": "a",
+                "text": "Aluminum (Al)",
+                "is_correct": false
+            },
+            {
+                "option_id": "79044",
+                "tag": "b",
+                "text": "Phosphorus (P)",
+                "is_correct": true
+            },
+            {
+                "option_id": "35506",
+                "tag": "c",
+                "text": "Boron (B)",
+                "is_correct": false
+            },
+            {
+                "option_id": "30873",
+                "tag": "d",
+                "text": "Gallium (Ga)",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "41834": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "PN Junction Diode",
+        "question_type": "Theory",
+        "exam_year": "2009",
+        "question_text": "<p>Draw the <b>V-I characteristic curve</b> of a PN junction diode and explain its behavior under <i>forward bias</i> and <i>reverse bias</i> conditions.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>V-I Characteristic Curve:</b><br>The curve shows current ($I$) vs. voltage ($V$) for a diode.<br><br><b>Forward Bias:</b><br>When the anode is positive relative to the cathode, the diode conducts after overcoming the <i>barrier potential</i> ($0.7 \text{ V}$ for silicon, $0.3 \text{ V}$ for germanium). Current increases exponentially with voltage.<br><br><b>Reverse Bias:</b><br>When the anode is negative relative to the cathode, only a small <i>reverse saturation current</i> flows due to minority carriers. Beyond the <i>breakdown voltage</i>, the diode conducts heavily (avalanche/Zener effect).</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "41835": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Diode Rectification",
+        "question_type": "Theory",
+        "exam_year": "2009",
+        "question_text": "<p>With the aid of a circuit diagram, explain how a <b>bridge rectifier</b> converts an AC input to a DC output. State <u>two</u> advantages of a bridge rectifier over a half-wave rectifier.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Bridge Rectifier Operation:</b><br>A bridge rectifier uses four diodes arranged in a bridge configuration. During the positive half-cycle of AC, diodes $D_1$ and $D_2$ conduct, while $D_3$ and $D_4$ conduct during the negative half-cycle, producing a unidirectional (DC) output.<br><br><b>Advantages:</b><br>1. <i>Higher efficiency:</i> Utilizes both halves of the AC input.<br>2. <i>Lower ripple voltage:</i> Easier to filter due to higher average output voltage.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "41836": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Zener Diodes and Regulation",
+        "question_type": "Objective",
+        "exam_year": "2009",
+        "question_text": "<p>A Zener diode is primarily used for:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>Zener diode</b> operates in reverse bias and maintains a constant voltage (<i>Zener voltage</i>) across its terminals, making it ideal for <b>voltage regulation</b> in power supplies.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "34764",
+                "tag": "a",
+                "text": "Amplification",
+                "is_correct": false
+            },
+            {
+                "option_id": "79044",
+                "tag": "b",
+                "text": "Voltage regulation",
+                "is_correct": true
+            },
+            {
+                "option_id": "35506",
+                "tag": "c",
+                "text": "Oscillation",
+                "is_correct": false
+            },
+            {
+                "option_id": "30873",
+                "tag": "d",
+                "text": "Rectification",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "41837": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "BJT Structure and Operation",
+        "question_type": "Theory",
+        "exam_year": "2009",
+        "question_text": "<p>Describe the <b>structure</b> of an <i>NPN</i> BJT and explain how it operates in the <i>active region</i>.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Structure of an NPN BJT:</b><br>An NPN BJT consists of three doped semiconductor regions: the <i>Emitter (N-type)</i>, <i>Base (P-type, thin and lightly doped)</i>, and <i>Collector (N-type, large area)</i>.<br><br><b>Operation in Active Region:</b><br>The base-emitter junction is forward-biased, allowing electrons to diffuse from the emitter into the base. Most electrons (<95%) cross the thin base into the collector due to reverse bias at the base-collector junction, creating collector current ($I_C$). The base current ($I_B$) controls $I_C$ via the relation $I_C = \beta I_B$, where $\beta$ is the current gain.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "41838": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Common-Emitter Amplifier",
+        "question_type": "Theory",
+        "exam_year": "2009",
+        "question_text": "<p>Draw the circuit diagram of a <b>common-emitter amplifier</b> and derive the expression for its <i>voltage gain</i> ($A_v$). State <u>two</u> disadvantages of this configuration.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Circuit Diagram:</b><br>The common-emitter amplifier has the emitter as the common terminal for input and output. It includes a BJT, biasing resistors ($R_1$, $R_2$, $R_E$), a coupling capacitor ($C_1$), and a load resistor ($R_C$).<br><br><b>Voltage Gain ($A_v$):</b><br>$A_v = \frac{V_{out}}{V_{in}} = -\frac{g_m R_C}{1 + g_m R_E}$, where $g_m$ is the transconductance.<br>For $R_E = 0$, $A_v \\approx -g_m R_C = -\frac{\beta R_C}{r_{\\pi}}$, where $r_{\\pi}$ is the input resistance of the base.<br><br><b>Disadvantages:</b><br>1. <i>High output impedance:</i> Limits current drive capability.<br>2. <i>Phase inversion:</i> Output is $180^\text{o}$ out of phase with input.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "41839": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Operational Amplifiers (Op-Amp)",
+        "question_type": "Objective",
+        "exam_year": "2009",
+        "question_text": "<p>In an <b>inverting amplifier</b> using an Op-Amp, the voltage gain is given by:</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The voltage gain of an <b>inverting amplifier</b> is determined by the ratio of the feedback resistor ($R_f$) to the input resistor ($R_{in}$), with a negative sign indicating phase inversion: $A_v = -\frac{R_f}{R_{in}}$.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "34764",
+                "tag": "a",
+                "text": "$A_v = \frac{R_f}{R_{in}}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "79044",
+                "tag": "b",
+                "text": "$A_v = -\frac{R_f}{R_{in}}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "35506",
+                "tag": "c",
+                "text": "$A_v = 1 + \frac{R_f}{R_{in}}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "30873",
+                "tag": "d",
+                "text": "$A_v = \frac{R_{in}}{R_f}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "41840": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Electronics",
+        "topic": "Number Systems and Logic Gates",
+        "question_type": "Theory",
+        "exam_year": "2009",
+        "question_text": "<p>Convert the binary number <b>$110101_2$</b> to its decimal equivalent. Using a truth table, prove that the <i>NAND gate</i> is a universal gate.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Binary to Decimal Conversion:</b><br>$110101_2 = 1 \times 2^5 + 1 \times 2^4 + 0 \times 2^3 + 1 \times 2^2 + 0 \times 2^1 + 1 \times 2^0 = 32 + 16 + 0 + 4 + 0 + 1 = 53_{10}$.<br><br><b>NAND Gate as Universal:</b><br>A NAND gate can implement <i>NOT</i>, <i>AND</i>, and <i>OR</i> gates, proving its universality.<br><br><b>Truth Table Proof:</b><br><table border='1'><tr><th>A</th><th>B</th><th>NAND (A\u00b7B)'</th><th>NOT A (NAND(A,A))</th><th>AND (NAND(NAND(A,B),NAND(A,B)))</th><th>OR (NAND(NAND(A,A),NAND(B,B)))</th></tr><tr><td>0</td><td>0</td><td>1</td><td>1</td><td>0</td><td>0</td></tr><tr><td>0</td><td>1</td><td>1</td><td>1</td><td>0</td><td>1</td></tr><tr><td>1</td><td>0</td><td>1</td><td>0</td><td>0</td><td>1</td></tr><tr><td>1</td><td>1</td><td>0</td><td>0</td><td>1</td><td>1</td></tr></table></p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

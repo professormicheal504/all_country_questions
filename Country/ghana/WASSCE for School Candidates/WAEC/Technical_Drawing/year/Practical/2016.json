@@ -1,0 +1,256 @@
+{
+    "48191": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Drawing tools overview",
+        "question_type": "Practical",
+        "exam_year": "2016",
+        "question_text": "<p>Using the appropriate drawing instruments, construct a <b>perfect circle</b> of diameter $50 \\text{ mm}$ and label the following parts:<br><i>Centre, Radius, Diameter, Circumference.</i></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>1. Place the compass needle at the centre point of the circle.<br>2. Adjust the compass to a radius of $25 \\text{ mm}$ (half of $50 \\text{ mm}$).<br>3. Draw the circle by rotating the compass $360^\\circ$.<br>4. Label the centre point as <i>Centre</i>.<br>5. Draw a line from the centre to the circumference and label it <i>Radius ($25 \\text{ mm}$)</i>.<br>6. Draw a line passing through the centre and touching the circumference at both ends, label it <i>Diameter ($50 \\text{ mm}$)</i>.<br>7. Label the entire curved line as <i>Circumference</i>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "48192": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Standard sheet sizes",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>Which of the following is the <b>standard size</b> for an A3 drawing sheet in millimetres?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>The standard size for an A3 drawing sheet is $297 \\text{ mm} \\times 420 \\text{ mm}$, as defined by the ISO 216 standard.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "62256",
+                "tag": "a",
+                "text": "$210 \\text{ mm} \\times 297 \\text{ mm}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "70717",
+                "tag": "b",
+                "text": "$297 \\text{ mm} \\times 420 \\text{ mm}$",
+                "is_correct": true
+            },
+            {
+                "option_id": "70830",
+                "tag": "c",
+                "text": "$420 \\text{ mm} \\times 594 \\text{ mm}$",
+                "is_correct": false
+            },
+            {
+                "option_id": "39665",
+                "tag": "d",
+                "text": "$148 \\text{ mm} \\times 210 \\text{ mm}$",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "48193": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Title block layout",
+        "question_type": "Practical",
+        "exam_year": "2016",
+        "question_text": "<p>Draw a <b>title block</b> of dimensions $180 \\text{ mm} \\times 50 \\text{ mm}$ at the bottom right corner of an A4 sheet. Include the following details:<br><i>Name, Index Number, School, Date, Scale, and Drawing Title.</i></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>1. Draw a rectangle of $180 \\text{ mm} \\times 50 \\text{ mm}$ at the bottom right corner of the sheet.<br>2. Divide the title block into sections for:<br>&nbsp;&nbsp;- <i>Drawing Title</i> (top-left, bold)<br>&nbsp;&nbsp;- <i>Name</i> and <i>Index Number</i> (middle-left)<br>&nbsp;&nbsp;- <i>School</i> (middle-right)<br>&nbsp;&nbsp;- <i>Date</i> (bottom-left)<br>&nbsp;&nbsp;- <i>Scale</i> (bottom-right).<br>3. Ensure all text is in <b>uppercase</b> and legible, using standard lettering techniques.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "48194": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Line types and uses",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>Which line type is used to represent <b>hidden edges</b> in an orthographic projection?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>dashed line</b> (medium thickness) is used to represent hidden edges in orthographic projections, as per standard technical drawing conventions.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "62256",
+                "tag": "a",
+                "text": "Continuous thick line",
+                "is_correct": false
+            },
+            {
+                "option_id": "70717",
+                "tag": "b",
+                "text": "Dashed line",
+                "is_correct": true
+            },
+            {
+                "option_id": "70830",
+                "tag": "c",
+                "text": "Chain line",
+                "is_correct": false
+            },
+            {
+                "option_id": "39665",
+                "tag": "d",
+                "text": "Continuous thin line",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "48195": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Basic geometric constructions",
+        "question_type": "Practical",
+        "question_text": "<p>Construct a <b>perpendicular bisector</b> of a line segment $AB$ of length $60 \\text{ mm}$ using only a compass and straightedge. Label all construction lines and points.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>1. Draw line segment $AB = 60 \\text{ mm}$.<br>2. With $A$ as centre, draw an arc of radius $> 30 \\text{ mm}$ above and below $AB$.<br>3. With $B$ as centre, draw arcs of the same radius to intersect the previous arcs at points $C$ and $D$.<br>4. Draw a straight line through $C$ and $D$ to intersect $AB$ at $M$.<br>5. $CM$ is the perpendicular bisector of $AB$, and $M$ is the midpoint.<br>6. Label all points and construction lines.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "48196": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Regular polygon construction",
+        "question_type": "Practical",
+        "exam_year": "2016",
+        "question_text": "<p>Construct a <b>regular hexagon</b> with side length $30 \\text{ mm}$ using the <i>circumscribed circle method</i>. Show all construction lines and label the vertices.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>1. Draw a circle of radius $30 \\text{ mm}$ (since the side length of a regular hexagon equals its circumradius).<br>2. Mark a point $A$ on the circumference.<br>3. Using the same radius, step off points $B, C, D, E,$ and $F$ around the circumference.<br>4. Join the points $A$ to $F$ to form the hexagon.<br>5. Label all vertices and construction lines.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "48197": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Orthographic projection methods",
+        "question_type": "Practical",
+        "exam_year": "2016",
+        "question_text": "<p>Given the <b>front elevation</b> and <b>plan</b> of a block, draw the <b>end elevation</b> using first-angle orthographic projection. Include all hidden details.<br><i>(Assume dimensions are provided in a diagram.)</i></p>",
+        "question_image": "orthographic_projection_diagram.png",
+        "answer_image": null,
+        "explanation": "<p>1. Identify the front elevation and plan views.<br>2. Project lines from the front elevation and plan to determine the height and depth of the end elevation.<br>3. Use dashed lines to represent hidden edges.<br>4. Ensure all dimensions and features align correctly in the end elevation.<br>5. Label the views as <i>Front Elevation</i>, <i>Plan</i>, and <i>End Elevation</i>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "48198": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Sectional view types",
+        "question_type": "Objective",
+        "exam_year": "2016",
+        "question_text": "<p>Which type of sectional view is used to show the <b>internal features</b> of a symmetrical object by cutting through half of it?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A <b>half section</b> is used to show the internal features of a symmetrical object by cutting through half of it, allowing both internal and external details to be visible.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "62256",
+                "tag": "a",
+                "text": "Full section",
+                "is_correct": false
+            },
+            {
+                "option_id": "70717",
+                "tag": "b",
+                "text": "Half section",
+                "is_correct": true
+            },
+            {
+                "option_id": "70830",
+                "tag": "c",
+                "text": "Revolved section",
+                "is_correct": false
+            },
+            {
+                "option_id": "39665",
+                "tag": "d",
+                "text": "Removed section",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "48199": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Isometric drawing basics",
+        "question_type": "Practical",
+        "exam_year": "2016",
+        "question_text": "<p>Draw an <b>isometric view</b> of a cube with side length $40 \\text{ mm}$. Include all visible edges and label the isometric axes.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>1. Draw the isometric axes at $30^\\circ$ to the horizontal.<br>2. Mark a point $O$ as the origin.<br>3. From $O$, measure $40 \\text{ mm}$ along each axis to locate the vertices of the cube.<br>4. Complete the cube by drawing the remaining edges parallel to the axes.<br>5. Label the axes as <i>X</i>, <i>Y</i>, and <i>Z</i>.<br>6. Ensure all lines are drawn to scale and visible edges are continuous.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "48200": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Technical Drawing",
+        "topic": "Surface development",
+        "question_type": "Practical",
+        "exam_year": "2016",
+        "question_text": "<p>Develop the <b>lateral surface</b> of a <i>right circular cylinder</i> of diameter $50 \\text{ mm}$ and height $70 \\text{ mm}$. Show all construction lines and label the dimensions.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>1. Calculate the circumference of the cylinder: $C = \\pi d = \\pi \\times 50 \\text{ mm} = 157.08 \\text{ mm}$ (approx).<br>2. Draw a rectangle of height $70 \\text{ mm}$ and length $157.08 \\text{ mm}$.<br>3. Divide the rectangle into equal parts (e.g., 12) to represent the unfolded surface.<br>4. Label the height as $70 \\text{ mm}$ and the length as $157.08 \\text{ mm}$.<br>5. Show construction lines for the divisions and label the development as <i>Lateral Surface Development</i>.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}

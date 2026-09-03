@@ -1,0 +1,257 @@
+{
+    "85236": {
+        "order_id": 1,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "ICT Basics",
+        "question_type": "Theory",
+        "exam_year": "2002",
+        "question_text": "<p>Explain the term <b>Information and Communication Technology (ICT)</b> and describe <u>three</u> major areas where ICT is applied in modern society.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Information and Communication Technology (ICT)</b> refers to the integration of telecommunications, computers, software, and storage to facilitate the access, processing, management, and exchange of information.<br><br><b>Areas of application:</b><br><i>1. Education:</i> ICT is used in e-learning platforms, digital libraries, and interactive classrooms.<br><i>2. Healthcare:</i> ICT supports electronic health records, telemedicine, and medical imaging.<br><i>3. Business:</i> ICT enables e-commerce, digital marketing, and automated business processes.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 1
+    },
+    "85237": {
+        "order_id": 2,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Computer Types",
+        "question_type": "Objective",
+        "exam_year": "2002",
+        "question_text": "<p>Which of the following is an example of a <b>supercomputer</b>?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Supercomputers are high-performance computing machines designed for complex calculations and large-scale data processing. <b>CRAY-1</b> is a well-known example of a supercomputer developed in the 1970s.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "25968",
+                "tag": "a",
+                "text": "IBM PC",
+                "is_correct": false
+            },
+            {
+                "option_id": "10357",
+                "tag": "b",
+                "text": "CRAY-1",
+                "is_correct": true
+            },
+            {
+                "option_id": "53099",
+                "tag": "c",
+                "text": "Apple Macintosh",
+                "is_correct": false
+            },
+            {
+                "option_id": "21989",
+                "tag": "d",
+                "text": "Dell Inspiron",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 2
+    },
+    "85238": {
+        "order_id": 3,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Hardware Components",
+        "question_type": "Theory",
+        "exam_year": "2002",
+        "question_text": "<p>Describe the functions of the following hardware components in a computer system:<br><i>1. Central Processing Unit (CPU)</i><br><i>2. Random Access Memory (RAM)</i><br><i>3. Hard Disk Drive (HDD)</i></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><i>1. Central Processing Unit (CPU):</i> The CPU is the brain of the computer, responsible for executing instructions and performing calculations.<br><i>2. Random Access Memory (RAM):</i> RAM is volatile memory that temporarily stores data and instructions for quick access by the CPU.<br><i>3. Hard Disk Drive (HDD):</i> The HDD is non-volatile storage that permanently stores data, programs, and the operating system.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 3
+    },
+    "85239": {
+        "order_id": 4,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Number System Conversion",
+        "question_type": "Theory",
+        "exam_year": "2002",
+        "question_text": "<p>Convert the binary number <b>$110101_2$</b> to its decimal equivalent. Show all steps clearly.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>To convert $110101_2$ to decimal:<br><br>$1 \times 2^5 + 1 \times 2^4 + 0 \times 2^3 + 1 \times 2^2 + 0 \times 2^1 + 1 \times 2^0$<br><br>$= 32 + 16 + 0 + 4 + 0 + 1$<br><br>$= 53_{10}$</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 4
+    },
+    "85240": {
+        "order_id": 5,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Operating Systems",
+        "question_type": "Objective",
+        "exam_year": "2002",
+        "question_text": "<p>Which of the following is <b>NOT</b> a function of an operating system?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>An operating system manages hardware resources, provides a user interface, and runs applications. <b>Compiling programs</b> is a function of a compiler, not the operating system.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "25968",
+                "tag": "a",
+                "text": "Memory management",
+                "is_correct": false
+            },
+            {
+                "option_id": "10357",
+                "tag": "b",
+                "text": "File management",
+                "is_correct": false
+            },
+            {
+                "option_id": "53099",
+                "tag": "c",
+                "text": "Compiling programs",
+                "is_correct": true
+            },
+            {
+                "option_id": "21989",
+                "tag": "d",
+                "text": "Process management",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 5
+    },
+    "85241": {
+        "order_id": 6,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Network Types",
+        "question_type": "Theory",
+        "exam_year": "2002",
+        "question_text": "<p>Differentiate between a <b>Local Area Network (LAN)</b> and a <b>Wide Area Network (WAN)</b> with respect to:<br><i>1. Geographical coverage</i><br><i>2. Data transfer speed</i><br><i>3. Ownership</i></p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><i>1. Geographical coverage:</i> LAN covers a small area (e.g., a building), while WAN covers a large area (e.g., a country or continent).<br><i>2. Data transfer speed:</i> LANs typically have higher speeds (e.g., 100 Mbps to 1 Gbps) compared to WANs (e.g., 1 Mbps to 100 Mbps).<br><i>3. Ownership:</i> LANs are usually privately owned, while WANs may involve multiple organizations or service providers.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 6
+    },
+    "85242": {
+        "order_id": 7,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Cybersecurity Threats",
+        "question_type": "Objective",
+        "exam_year": "2002",
+        "question_text": "<p>Which of the following is an example of a <b>malware</b> attack?</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>Malware refers to malicious software designed to harm or exploit computer systems. <b>Trojan horse</b> is a type of malware that disguises itself as legitimate software.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [
+            {
+                "option_id": "25968",
+                "tag": "a",
+                "text": "Phishing",
+                "is_correct": false
+            },
+            {
+                "option_id": "10357",
+                "tag": "b",
+                "text": "Trojan horse",
+                "is_correct": true
+            },
+            {
+                "option_id": "53099",
+                "tag": "c",
+                "text": "Denial of Service (DoS)",
+                "is_correct": false
+            },
+            {
+                "option_id": "21989",
+                "tag": "d",
+                "text": "Man-in-the-middle attack",
+                "is_correct": false
+            }
+        ],
+        "_page_num": 1,
+        "_page_idx": 7
+    },
+    "85243": {
+        "order_id": 8,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Logic Gates",
+        "question_type": "Theory",
+        "exam_year": "2002",
+        "question_text": "<p>Draw the truth table for a <b>NAND gate</b> and explain its operation with an example.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p>A NAND gate is a universal logic gate that outputs <b>false</b> only when all inputs are <b>true</b>.<br><br><b>Truth Table:</b><br><table border='1'><tr><th>A</th><th>B</th><th>A NAND B</th></tr><tr><td>0</td><td>0</td><td>1</td></tr><tr><td>0</td><td>1</td><td>1</td></tr><tr><td>1</td><td>0</td><td>1</td></tr><tr><td>1</td><td>1</td><td>0</td></tr></table><br><b>Example:</b> If inputs A and B are both 1, the output is 0.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 8
+    },
+    "85244": {
+        "order_id": 9,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "Word Processing",
+        "question_type": "Theory",
+        "exam_year": "2002",
+        "question_text": "<p>Describe <u>three</u> features of a word processing software that enhance document formatting.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><i>1. Font styling:</i> Allows users to change font type, size, color, and effects (e.g., bold, italic).<br><i>2. Paragraph alignment:</i> Enables left, right, center, or justified alignment of text.<br><i>3. Page layout:</i> Supports margins, page orientation (portrait/landscape), and headers/footers.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 9
+    },
+    "85245": {
+        "order_id": 10,
+        "exam_type": "WAEC",
+        "subject": "Information And Communication Technology",
+        "topic": "ICT in Society",
+        "question_type": "Theory",
+        "exam_year": "2002",
+        "question_text": "<p>Discuss <u>two</u> positive and <u>two</u> negative impacts of ICT on society.</p>",
+        "question_image": null,
+        "answer_image": null,
+        "explanation": "<p><b>Positive impacts:</b><br><i>1. Improved communication:</i> ICT enables instant communication via email, social media, and video calls.<br><i>2. Access to information:</i> The internet provides vast resources for education, research, and news.<br><br><b>Negative impacts:</b><br><i>1. Job displacement:</i> Automation and AI may replace certain jobs, leading to unemployment.<br><i>2. Privacy concerns:</i> ICT increases risks of data breaches and unauthorized access to personal information.</p>",
+        "reference_passage": null,
+        "novel": null,
+        "comments_count": 0,
+        "options": [],
+        "_page_num": 1,
+        "_page_idx": 10
+    }
+}
